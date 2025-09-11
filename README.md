@@ -1,3 +1,4 @@
+<!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
@@ -8,9 +9,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ## Current Openings
 
-| Company | Position | Location | Type | Posted |
+| Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
-
 | **[monday.com](https://monday.com/)** | **[Frontend Developer](https://monday.com/careers/AB.C5D?_gl=1*158uvxc*_up*MQ..*_ga*MTYwMDEyMjAyMC4xNzU3NTI0MjQ5*_ga_9HZ2RE5VH7*czE3NTc1MjQyNDkkbzEkZzAkdDE3NTc1MjQyNDkkajYwJGwwJGgw*_ga_303DY21FDW*czE3NTc1MjQyNDkkbzEkZzAkdDE3NTc1MjQyNDkkajYwJGwwJGg0Nzg1MzE5ODA.&-updates)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Sep 11 |
 | **[HelloFresh](https://www.hellofresh.com/)** | **[Frontend Developer \[TAM\]](https://careers.hellofresh.com/global/en/job/7144658?gh_jid=7144658)** | Toronto, Ontario, Canada | On Site | Sep 11 |
 | **[WSD](https://wsd.com/)** | **[Frontend Developer](https://wsd.bamboohr.com/careers/194)** | Dhaka, Gulshan 1,, Bangladesh (Hybrid) | On Site | Sep 11 |
@@ -92,3 +92,4 @@ This repository is automatically maintained by [Jobr.pro](https://jobr.pro?utm_s
 ---
 
 **Made with ❤️ by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)**
+<!-- prettier-ignore-end -->
