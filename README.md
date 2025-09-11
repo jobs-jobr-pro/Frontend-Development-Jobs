@@ -10,7 +10,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Work Model | Date Posted |
 | ------- | -------- | -------- | ---------- | ----------- |
-
 | **[HelloFresh](https://www.hellofresh.com/)** | **[Frontend Developer [TAM]](https://careers.hellofresh.com/global/en/job/7144658?gh_jid=7144658)** | Toronto, Ontario, Canada | On Site | Sep 11 |
 | **[WSD](https://wsd.com/)** | **[Frontend Developer](https://wsd.bamboohr.com/careers/194)** | Dhaka, Gulshan 1,, Bangladesh (Hybrid) | On Site | Sep 11 |
 | **[Lightspeed Commerce](https://www.lightspeedhq.com/)** | **[Senior Frontend Developer - react.js (all genders)](https://job-boards.greenhouse.io/lightspeedhq/jobs/6826537)** | Berlin, Berlin, Germany | On Site | Sep 10 |
