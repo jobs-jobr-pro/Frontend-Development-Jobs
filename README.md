@@ -1,8 +1,7 @@
 # Frontend developer Jobs 2025
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
-Updated daily by [Jobr.pro](https://jobr.pro).  
-
+Updated daily by [Jobr.pro](https://jobr.pro).
 
 Visit [Jobr.pro](https://jobr.pro) — **you choose the job, we handle the paperwork**.  
 Your Human + AI job search platform that helps you find, auto-apply, and track applications effortlessly.
@@ -11,6 +10,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Work Model | Date Posted |
 | ------- | -------- | -------- | ---------- | ----------- |
+
 | **[HelloFresh](https://www.hellofresh.com/)** | **[Frontend Developer [TAM]](https://careers.hellofresh.com/global/en/job/7144658?gh_jid=7144658)** | Toronto, Ontario, Canada | On Site | Sep 11 |
 | **[WSD](https://wsd.com/)** | **[Frontend Developer](https://wsd.bamboohr.com/careers/194)** | Dhaka, Gulshan 1,, Bangladesh (Hybrid) | On Site | Sep 11 |
 | **[Lightspeed Commerce](https://www.lightspeedhq.com/)** | **[Senior Frontend Developer - react.js (all genders)](https://job-boards.greenhouse.io/lightspeedhq/jobs/6826537)** | Berlin, Berlin, Germany | On Site | Sep 10 |
@@ -53,15 +53,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Flyer One Ventures](https://www.flyerone.vc/)** | **[Frontend Developer - React (Field Materials)](https://flyer-one-ventures.talentlyft.com/o/cd8oagN)** | Bucuresti, Romania (Remote) | Remote | Sep 04 |
 | **[SES](https://www.ses.com/)** | **[(Senior) Frontend Developer](https://careers.ses.com/job/Chennai-%28Senior%29-Frontend-Developer/1237178801/)** | Chennai, IN | On Site | Sep 04 |
 
-*Updated daily with fresh opportunities*
-
----
-
 ## About This Repository
 
-This repository tracks current Frontend developer positions from companies across different industries. Each listing is verified and updated automatically every 24 hours.
+This repository tracks current Frontend developer positions from companies across different industries, updated daily.
 
 **What makes this useful:**
+
 - Fresh Frontend developer positions aggregated from multiple job boards
 - Daily updates mean you see opportunities as soon as they're posted
 - Mix of remote, hybrid, and on-site positions from various company sizes
@@ -72,6 +69,7 @@ This repository tracks current Frontend developer positions from companies acros
 **Maximize your applications:** Instead of manually applying to each job, consider using [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs) to automate your applications with personalized cover letters and tracking.
 
 **Stay updated:**
+
 - Star this repository to get updates in your GitHub feed
 - Check back daily for new positions
 - Set up GitHub notifications for this repo
@@ -80,8 +78,8 @@ This repository tracks current Frontend developer positions from companies acros
 
 This repository gets consistent traffic from Frontend developer professionals actively job searching. The audience is pre-qualified and specifically interested in Frontend developer opportunities.
 
----
-
 This repository is automatically maintained by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs). If you find any issues or have suggestions, please contact us at hello@jobr.pro.
+
+---
 
 **Made with ❤️ by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)**
