@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Sep 16, 2025 at 13:49 UTC</small></sub>
+<sub><small>Last updated: Sep 16, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Team8](https://team8.vc/)** | **[Team8- Stealth Cybersecurity Startup – Senior Frontend Developer](https://team8.vc/careers/team8-stealth-cybersecurity-startup-senior-frontend-developer)** | Tel Aviv/New York, Israel, IL | On Site | Sep 16 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer II - Frontend Developer - React , CSS & HTML](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/210666490)** | Bengaluru, Karnataka, India | On Site | Sep 15 |
 | **[Valtech](https://www.valtech.com/)** | **[Frontend Developer Stockholm, Valtech](https://job-boards.eu.greenhouse.io/valtech/jobs/4666969101)** | Stockholm | On Site | Sep 15 |
 | **[Tomra](https://www.tomra.com/)** | **[Frontend Developer for Embedded](https://jobs.smartrecruiters.com/Tomra/744000081940905-frontend-developer-for-embedded)** | Asker, Akershus, Norway | On Site | Sep 15 |
@@ -43,9 +44,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Capgemini Deutschland](https://www.capgemini.com/)** | **[Senior Frontend Developer Customer Experience (w/m/d)](https://emp.jobylon.com/jobs/310891-capgemini-deutschland-senior-frontend-developer-customer-experience-wmd/)** | Berlin; Düsseldorf; Erfurt; Frankfurt am Main; Hamburg; Hannover; Köln; München; Nürnberg; Stuttgart | On Site | Sep 11 |
 | **[Çiçeksepeti](https://www.ciceksepeti.com/)** | **[Sr. Frontend Developer](https://jobs.lever.co/ciceksepeti/0124ec3c-3a55-4d4c-9842-a19924da48ee)** | Zincirlikuyu, Istanbul | On Site | Sep 11 |
 | **[HelloFresh](https://www.hellofresh.com/)** | **[Frontend Developer \[TAM\]](https://careers.hellofresh.com/global/en/job/7144658?gh_jid=7144658)** | Toronto, Ontario, Canada | On Site | Sep 11 |
-| **[Julius Baer](https://www.juliusbaer.com/)** | **[12 months Contract - Frontend Developer (Through an External Agency Payroll Provider)](https://juliusbaer.wd3.myworkdayjobs.com/en-US/Technology/job/Singapore/XMLNAME-12-months-Contract---Frontend-Developer_r-16506)** | Singapore | On Site | Sep 11 |
 | **[WSD](https://wsd.com/)** | **[Frontend Developer](https://wsd.bamboohr.com/careers/194)** | Dhaka, Gulshan 1,, Bangladesh (Hybrid) | On Site | Sep 11 |
 | **[Tietoevry](https://www.tietoevry.com/)** | **[Frontend developer (React)](https://tieto.wd3.myworkdayjobs.com/en-US/Tieto_Careers_External_Site/job/Lithuania-Vilnius/Frontend-developer--React-_R124001-1)** | Vilnius - Lvivo 105A, Lithuania | On Site | Sep 11 |
+| **[Julius Baer](https://www.juliusbaer.com/)** | **[12 months Contract - Frontend Developer (Through an External Agency Payroll Provider)](https://juliusbaer.wd3.myworkdayjobs.com/en-US/External/job/Singapore/XMLNAME-12-months-Contract---Frontend-Developer_r-16506-1)** | Singapore | On Site | Sep 11 |
 | **[Lightspeed Commerce](https://www.lightspeedhq.com/)** | **[Senior Frontend Developer - react.js (all genders)](https://job-boards.greenhouse.io/lightspeedhq/jobs/6826537)** | Berlin, Berlin, Germany | On Site | Sep 10 |
 | **[Fortil](https://www.fortil.group)** | **[Frontend Developer](https://jobs.fortil.group/jobs/6435460-frontend-developer)** | Metropolitan City of Turin, Italy | On Site | Sep 10 |
 | **[Global66](https://global66.com/)** | **[Frontend Developer Flutter](https://global66.teamtailor.com/jobs/6434618-frontend-developer-flutter)** | Bogotá, Colombia | On Site | Sep 10 |
@@ -63,7 +64,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 47 jobs | 17% remote | 43 companies | Avg salary: 131k  
+**Current Stats:** 48 jobs | 17% remote | 44 companies | Avg salary: 131k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
