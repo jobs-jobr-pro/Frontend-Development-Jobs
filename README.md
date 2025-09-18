@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Sep 18, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Sep 18, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Zensar](https://www.zensar.com/)** | **[SENIOR FRONTEND DEVELOPER](https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/135359)** | India | On Site | Sep 18 |
+| **[Weekday](https://www.weekday.works)** | **[Senior Frontend Developer](https://apply.workable.com/j/E8AEF163F9/apply)** | India - Remote | Remote | Sep 18 |
 | **[Infakt Sp. z o.o.](https://www.infakt.pl)** | **[Frontend Developer](https://jobs.smartrecruiters.com/InfaktSpZOo/744000082447477-frontend-developer)** | Kraków, Województwo małopolskie, Poland | On Site | Sep 17 |
 | **[Tomra](https://www.tomra.com/)** | **[Frontend Developer for Embedded](https://jobs.smartrecruiters.com/Tomra/744000082386218-frontend-developer-for-embedded)** | Asker, Akershus, Norway | On Site | Sep 17 |
 | **[Binance](https://www.binance.com/)** | **[Binance Accelerator Program - Frontend Developer](https://jobs.lever.co/binance/efeb548d-b3fd-44b0-b802-d4c983dbc244)** | Hong Kong | On Site | Sep 17 |
@@ -28,7 +30,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Valtech](https://www.valtech.com/)** | **[Frontend Developer Stockholm, Valtech](https://job-boards.eu.greenhouse.io/valtech/jobs/4666969101)** | Stockholm | On Site | Sep 15 |
 | **[inriver](https://www.inriver.com/)** | **[Sr. Frontend Developer](https://career.inriver.com/jobs/6449664-sr-frontend-developer)** | Davao City, Philippines | On Site | Sep 15 |
 | **[Saga](https://www.saga.xyz)** | **[Senior Frontend Developer - Remote](https://jobs.lever.co/saga-xyz/9938765f-5dae-4561-a135-2177f4bf9901)** | Los Altos | Remote | Sep 15 |
-| **[Weekday](https://www.weekday.works)** | **[Senior Frontend Developer](https://apply.workable.com/j/CBB6F7660C/apply)** | Bengaluru, Karnataka, India | On Site | Sep 15 |
 | **[BearingPoint](https://www.bearingpoint.com/)** | **[Paid Internship - Backend/Frontend developer for BearingPoint Products](https://bearingpointromania.teamtailor.com/jobs/5680846-paid-internship-backend-frontend-developer-for-bearingpoint-products)** | Bucharest, Romania | On Site | Sep 14 |
 | **[ConnectOS](https://connectos.co/)** | **[Frontend Developer (AU Retail, Hybrid)](https://apply.workable.com/j/0E53AE9D91/apply)** | Mandaluyong City, Metro Manila, Philippines | On Site | Sep 14 |
 | **[Nimber](https://www.nimber.pt/)** | **[Senior Frontend Developer](https://www.careers-page.com/nimber/job/QXX39X7Y)** | Lisbon, Portugal | On Site | Sep 14 |
@@ -59,7 +60,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 43 jobs | 21% remote | 40 companies | Avg salary: 48k  
+**Current Stats:** 44 jobs | 23% remote | 40 companies | Avg salary: 48k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
