@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Sep 19, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Sep 19, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Tangentia Inc](https://www.tangentia.com/)** | **[Frontend Developer (Angular)](https://tangentia.catsone.com/careers/9463-General/jobs/16728740-Frontend-Developer-Angular)** | Toronto, Canada | On Site | Sep 19 |
+| **[BookBeat](https://www.bookbeat.com/)** | **[Frontend Developer - Books](https://jobs.bookbeat.com/jobs/6476883-frontend-developer-books)** | Stockholm, Sweden | On Site | Sep 19 |
+| **[Weekday](https://www.weekday.works)** | **[Senior Frontend Developer](https://apply.workable.com/j/7B51D5F3AC/apply)** | Hyderabad, Telangana, India | On Site | Sep 19 |
 | **[S&P Global](https://www.spglobal.com/)** | **[Lead Frontend Developer- React](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Internal/job/Hyderabad-Telangana/Lead-Frontend-Developer--React_320727)** | IN - HYDERABAD SKYVIEW, India | On Site | Sep 19 |
 | **[all eyes on screens](https://www.alleyesonscreens.com)** | **[Senior Frontend Developer](https://alleyesonscreens.talentlyft.com/o/ceyDagN)** | Zagreb, Croatia | On Site | Sep 18 |
 | **[Infakt Sp. z o.o.](https://www.infakt.pl)** | **[Frontend Developer](https://jobs.smartrecruiters.com/InfaktSpZOo/744000082658623-frontend-developer)** | Kraków, Województwo małopolskie, Poland | On Site | Sep 18 |
@@ -22,7 +25,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Lightspeed Commerce](https://www.lightspeedhq.com/)** | **[Frontend Developer - react.js (all genders)](https://job-boards.greenhouse.io/lightspeedhq/jobs/6810629)** | Berlin, Berlin, Germany | On Site | Sep 18 |
 | **[Lightspeed Commerce](https://www.lightspeedhq.com/)** | **[Senior Frontend Developer - react.js (all genders)](https://job-boards.greenhouse.io/lightspeedhq/jobs/6826537)** | Berlin, Berlin, Germany | On Site | Sep 18 |
 | **[Zensar](https://www.zensar.com/)** | **[SENIOR FRONTEND DEVELOPER](https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/135359)** | India | On Site | Sep 18 |
-| **[Weekday](https://www.weekday.works)** | **[Senior Frontend Developer](https://apply.workable.com/j/E8AEF163F9/apply)** | India - Remote | Remote | Sep 18 |
 | **[Tomra](https://www.tomra.com/)** | **[Frontend Developer for Embedded](https://jobs.smartrecruiters.com/Tomra/744000082386218-frontend-developer-for-embedded)** | Asker, Akershus, Norway | On Site | Sep 17 |
 | **[Binance](https://www.binance.com/)** | **[Binance Accelerator Program - Frontend Developer](https://jobs.lever.co/binance/efeb548d-b3fd-44b0-b802-d4c983dbc244)** | Hong Kong | On Site | Sep 17 |
 | **[Petlab Co.](https://thepetlabco.com/)** | **[Mid- Senior Frontend Developer](https://apply.workable.com/j/D871E6B63E/apply)** | London, England, United Kingdom - Remote | Remote | Sep 17 |
@@ -54,7 +56,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 38 jobs | 21% remote | 36 companies | Avg salary: Not specified  
+**Current Stats:** 40 jobs | 18% remote | 38 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
