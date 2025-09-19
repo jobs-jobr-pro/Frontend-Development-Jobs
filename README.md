@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Sep 19, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Sep 19, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[S&P Global](https://www.spglobal.com/)** | **[Lead Frontend Developer- React](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Internal/job/Hyderabad-Telangana/Lead-Frontend-Developer--React_320727)** | IN - HYDERABAD SKYVIEW, India | On Site | Sep 19 |
 | **[all eyes on screens](https://www.alleyesonscreens.com)** | **[Senior Frontend Developer](https://alleyesonscreens.talentlyft.com/o/ceyDagN)** | Zagreb, Croatia | On Site | Sep 18 |
 | **[Infakt Sp. z o.o.](https://www.infakt.pl)** | **[Frontend Developer](https://jobs.smartrecruiters.com/InfaktSpZOo/744000082658623-frontend-developer)** | Kraków, Województwo małopolskie, Poland | On Site | Sep 18 |
 | **[Sopra Steria](https://www.soprasteria.com)** | **[Junior Frontend Developer Zahlungsverkehr (m/w/d)](https://jobs.smartrecruiters.com/SopraSteria1/744000082640809-junior-frontend-developer-zahlungsverkehr-m-w-d-)** | bundesweit, Germany | Remote | Sep 18 |
@@ -53,7 +54,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 37 jobs | 22% remote | 35 companies | Avg salary: Not specified  
+**Current Stats:** 38 jobs | 21% remote | 36 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
