@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Sep 19, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Sep 20, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -17,8 +17,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Axians](https://www.axians.com/)** | **[SAP FrontEnd Developer](https://axiansdc.catsone.com/careers/92753-General/jobs/16728732-SAP-FrontEnd-Developer)** | Portugal, Portugal | On Site | Sep 19 |
 | **[BookBeat](https://www.bookbeat.com/)** | **[Frontend Developer - Books](https://jobs.bookbeat.com/jobs/6476883-frontend-developer-books)** | Stockholm, Sweden | On Site | Sep 19 |
 | **[Weekday](https://www.weekday.works)** | **[Senior Frontend Developer](https://apply.workable.com/j/7B51D5F3AC/apply)** | Hyderabad, Telangana, India | On Site | Sep 19 |
-| **[S&P Global](https://www.spglobal.com/)** | **[Lead Frontend Developer- React](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Internal/job/Hyderabad-Telangana/Lead-Frontend-Developer--React_320727)** | IN - HYDERABAD SKYVIEW, India | On Site | Sep 19 |
 | **[Deloitte](https://www2.deloitte.com/)** | **[Senior Frontend Developer (Angular)](https://deloitteie.wd3.myworkdayjobs.com/en-US/experienced_professionals/job/Dublin/Senior-Frontend-Developer--Angular-_115826)** | Dublin, Ireland | On Site | Sep 19 |
+| **[S&P Global](https://www.spglobal.com/)** | **[Lead Frontend Developer- React](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Internal/job/Hyderabad-Telangana/Lead-Frontend-Developer--React_320727)** | IN - HYDERABAD SKYVIEW, India | On Site | Sep 19 |
 | **[all eyes on screens](https://www.alleyesonscreens.com)** | **[Senior Frontend Developer](https://alleyesonscreens.talentlyft.com/o/ceyDagN)** | Zagreb, Croatia | On Site | Sep 18 |
 | **[Infakt Sp. z o.o.](https://www.infakt.pl)** | **[Frontend Developer](https://jobs.smartrecruiters.com/InfaktSpZOo/744000082658623-frontend-developer)** | Kraków, Województwo małopolskie, Poland | On Site | Sep 18 |
 | **[Sopra Steria](https://www.soprasteria.com)** | **[Junior Frontend Developer Zahlungsverkehr (m/w/d)](https://jobs.smartrecruiters.com/SopraSteria1/744000082640809-junior-frontend-developer-zahlungsverkehr-m-w-d-)** | bundesweit, Germany | Remote | Sep 18 |
@@ -45,20 +45,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[ConnectOS](https://connectos.co/)** | **[Frontend Developer (AU Retail, Hybrid)](https://apply.workable.com/j/0E53AE9D91/apply)** | Mandaluyong City, Metro Manila, Philippines | On Site | Sep 14 |
 | **[Nimber](https://www.nimber.pt/)** | **[Senior Frontend Developer](https://www.careers-page.com/nimber/job/QXX39X7Y)** | Lisbon, Portugal | On Site | Sep 14 |
 | **[Mindpeak](https://www.mindpeak.ai)** | **[Frontend Developer JavaScript/TypeScript, React (m/f/d), AI-Based Cancer Diagnostics](https://mindpeak.jobs.personio.com/job/2334509)** | Hamburg | On Site | Sep 13 |
-| **[WillowTree](https://www.willowtreeapps.com/)** | **[Senior Frontend Developer (React)](https://job-boards.greenhouse.io/willowtree/jobs/8168200002)** | Boston, Massachusetts, United States; Charlottesville, Virginia, United States; Columbus, Ohio, United States; Durham, North Carolina, United States | On Site | Sep 12 |
-| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer III - React Frontend Developer](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/210663386)** | Plano, TX, United States | On Site | Sep 12 |
-| **[Enpal B.V.](https://www.enpal.de)** | **[(Junior) Frontend Developer – CRM (f/m/d)](https://jobs.smartrecruiters.com/EnpalBV/744000081623102--junior-frontend-developer-crm-f-m-d-)** | Berlin, BE, Germany | On Site | Sep 12 |
-| **[Ecolibrium](https://www.ecolibrium.io)** | **[Senior Frontend Developer](https://employmenthero.com/jobs/jobs/ecolibrium-senior-frontend-developer-el7dm/)** | Bangalore, India | On Site | Sep 12 |
-| **[pasiona](https://pasiona.com/)** | **[eCommerce Frontend Developer](https://pasiona.jobs.personio.de/job/2333901)** | Remoto | Remote | Sep 12 |
-| **[Whirr Crew](https://www.whirrcrew.com/)** | **[Frontend Developer, EU based (Remote)](https://whirrcrew.freshteam.com/jobs/0YfmxEPcMhBw/frontend-developer-eu-based-remote)** | Prague, Prague, Czechia | Remote | Sep 12 |
-| **[beyonnex](https://beyonnex.io/)** | **[(Senior) Frontend Developer (m/f/d)](https://beyonnex.jobs.personio.de/job/1953332)** | Remote | Remote | Sep 12 |
-| **[Capgemini](https://www.capgemini.com)** | **[Junior SAP Frontend Developer](https://careers.capgemini.com/job/Diegem-Junior-SAP-Frontend-Developer/1215502001/)** | Diegem, BE | On Site | Sep 12 |
-| **[FNZ Group](https://fnz.com/)** | **[Senior Frontend Developer](https://fnz.wd3.myworkdayjobs.com/en-US/fnz_careers/job/Brno---Czech-Republic/Senior-Frontend-Developer_REQ-15306-1)** | CZ Brno, Czechia | On Site | Sep 12 |
-| **[Deutsche Börse](https://deutsche-boerse.com)** | **[Senior Frontend Developer (f/m/d)](https://career.deutsche-boerse.com/job/Luxembourg-Senior-Frontend-Developer-%28fmd%29/1246838701/)** | Luxembourg, LU | On Site | Sep 12 |
 
 ---
 
-**Current Stats:** 42 jobs | 17% remote | 40 companies | Avg salary: Not specified  
+**Current Stats:** 32 jobs | 13% remote | 31 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
