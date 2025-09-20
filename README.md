@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Sep 20, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Sep 20, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -15,6 +15,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | ------- | -------- | -------- | ---- | ------ |
 | **[DEPT®](https://www.deptagency.com/)** | **[Frontend Developer](https://job-boards.greenhouse.io/dept/jobs/7263011)** | Skopje, Zagreb, Split | On Site | Sep 19 |
 | **[Encora](https://www.encora.com/)** | **[Javascript Frontend Developer PL](https://careers.encora.com/application?4911926007&gh_jid=4911926007)** | Brazil | On Site | Sep 19 |
+| **[CrewBloom](https://crewbloom.com/)** | **[Senior Frontend Developer (Client)](https://apply.workable.com/j/F47CA5C0AC/apply)** | Philippines - Remote | Remote | Sep 19 |
 | **[Project A](https://www.project-a.com/)** | **[Frontend Developer (m/f/d)](https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8172927002)** | Stuttgart | On Site | Sep 19 |
 | **[Tangentia Inc](https://www.tangentia.com/)** | **[Frontend Developer (Angular)](https://tangentia.catsone.com/careers/9463-General/jobs/16728740-Frontend-Developer-Angular)** | Toronto, Canada | On Site | Sep 19 |
 | **[Project A](https://www.project-a.com/)** | **[Senior Frontend Developer (m/f/d)](https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8176886002)** | Stuttgart | On Site | Sep 19 |
@@ -54,7 +55,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 38 jobs | 13% remote | 36 companies | Avg salary: Not specified  
+**Current Stats:** 39 jobs | 15% remote | 37 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
