@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Sep 22, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Sep 22, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[RemoteStar](https://www.remotestar.io/)** | **[Frontend Developer - Angular](https://remotestar-team.freshteam.com/jobs/eerM5i6KapsI/frontend-developer-angular)** | Karnataka, Bengaluru, India | On Site | Sep 22 |
+| **[Advansys ESC](https://www.advansys-esc.com/)** | **[Senior Frontend Developer-Angular](https://apply.workable.com/j/CF67F032ED/apply)** | 6th of October City, Giza Governorate, Egypt | On Site | Sep 22 |
 | **[DEPT®](https://www.deptagency.com/)** | **[Frontend Developer](https://job-boards.greenhouse.io/dept/jobs/7263011)** | Skopje, Zagreb, Split | On Site | Sep 19 |
 | **[Encora](https://www.encora.com/)** | **[Javascript Frontend Developer PL](https://careers.encora.com/application?4911926007&gh_jid=4911926007)** | Brazil | On Site | Sep 19 |
 | **[CrewBloom](https://crewbloom.com/)** | **[Senior Frontend Developer (Client)](https://apply.workable.com/j/F47CA5C0AC/apply)** | Philippines - Remote | Remote | Sep 19 |
@@ -51,7 +53,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 35 jobs | 17% remote | 33 companies | Avg salary: Not specified  
+**Current Stats:** 37 jobs | 16% remote | 35 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
