@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Sep 22, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Sep 22, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -26,8 +26,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Oxylabs](https://oxylabs.io/)** | **[Frontend Developer](https://jobs.lever.co/oxylabs/550e4732-9b5f-4242-924c-a4b8a06a5f3c)** | Vilnius | On Site | Sep 19 |
 | **[Social Discovery Group](https://socialdiscoverygroup.com/)** | **[Senior Frontend Developer (CP)](https://social-discovery-ventures.breezy.hr/p/a0c348caf0b301-senior-frontend-developer-cp)** | Poland, worldwide | Remote | Sep 19 |
 | **[Weekday](https://www.weekday.works)** | **[Senior Frontend Developer](https://apply.workable.com/j/7B51D5F3AC/apply)** | Hyderabad, Telangana, India | On Site | Sep 19 |
-| **[Deloitte](https://www2.deloitte.com/)** | **[Senior Frontend Developer (Angular)](https://deloitteie.wd3.myworkdayjobs.com/en-US/experienced_professionals/job/Dublin/Senior-Frontend-Developer--Angular-_115826)** | Dublin, Ireland | On Site | Sep 19 |
 | **[S&P Global](https://www.spglobal.com/)** | **[Lead Frontend Developer- React](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Internal/job/Hyderabad-Telangana/Lead-Frontend-Developer--React_320727)** | IN - HYDERABAD SKYVIEW, India | On Site | Sep 19 |
+| **[Deloitte](https://www2.deloitte.com/)** | **[Senior Frontend Developer (Angular)](https://deloitteie.wd3.myworkdayjobs.com/en-US/experienced_professionals/job/Dublin/Senior-Frontend-Developer--Angular-_115826)** | Dublin, Ireland | On Site | Sep 19 |
 | **[all eyes on screens](https://www.alleyesonscreens.com)** | **[Senior Frontend Developer](https://alleyesonscreens.talentlyft.com/o/ceyDagN)** | Zagreb, Croatia | On Site | Sep 18 |
 | **[Infakt Sp. z o.o.](https://www.infakt.pl)** | **[Frontend Developer](https://jobs.smartrecruiters.com/InfaktSpZOo/744000082658623-frontend-developer)** | Kraków, Województwo małopolskie, Poland | On Site | Sep 18 |
 | **[Sopra Steria](https://www.soprasteria.com)** | **[Junior Frontend Developer Zahlungsverkehr (m/w/d)](https://jobs.smartrecruiters.com/SopraSteria1/744000082640809-junior-frontend-developer-zahlungsverkehr-m-w-d-)** | bundesweit, Germany | Remote | Sep 18 |
