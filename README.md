@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Sep 23, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Sep 23, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Optio Incentives](https://www.optioincentives.com/)** | **[Frontend Developer](https://careers.optioincentives.no/jobs/6487130-frontend-developer)** | Kraków, Poland | On Site | Sep 22 |
 | **[Capco](https://www.capco.com/)** | **[Frontend Developer- React.js](https://job-boards.greenhouse.io/capco/jobs/7248010)** | India - Bengaluru | On Site | Sep 22 |
 | **[RemoteStar](https://www.remotestar.io/)** | **[Frontend Developer - Angular](https://remotestar-team.freshteam.com/jobs/eerM5i6KapsI/frontend-developer-angular)** | Karnataka, Bengaluru, India | On Site | Sep 22 |
 | **[Naptha AI](https://naptha.ai/)** | **[Founding AI Frontend Developer](https://jobs.ashbyhq.com/naptha/6d56395f-ae96-4182-ac3d-392f724f9a0f)** | Remote | Remote | Sep 22 |
@@ -51,7 +52,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 35 jobs | 17% remote | 33 companies | Avg salary: Not specified  
+**Current Stats:** 36 jobs | 17% remote | 34 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
