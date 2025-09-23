@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Sep 22, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Sep 23, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -46,14 +46,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[United Tech](https://unitedtech.ai/)** | **[Senior Frontend Developer](https://jobs.lever.co/vacancies/29ecf797-c006-4531-8ba3-604bc3127a9b)** | Kyiv | On Site | Sep 16 |
 | **[IG Group](https://www.iggroup.com/)** | **[Frontend Developer](https://ig.wd103.myworkdayjobs.com/en-US/EXT_IG/job/Krakw---Poland/Frontend-Developer_R_15350-1)** | Kraków - Poland | On Site | Sep 16 |
 | **[Deutsche Bank](https://www.db.com/)** | **[Angular/React Frontend Developer - AS](https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Pune---Margarpatta/Java-Developer_R0374504)** | Pune - Margarpatta, India | On Site | Sep 16 |
-| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer II - Frontend Developer - React , CSS & HTML](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/210666490)** | Bengaluru, Karnataka, India | On Site | Sep 15 |
-| **[Valtech](https://www.valtech.com/)** | **[Frontend Developer Stockholm, Valtech](https://job-boards.eu.greenhouse.io/valtech/jobs/4666969101)** | Stockholm | On Site | Sep 15 |
-| **[inriver](https://www.inriver.com/)** | **[Sr. Frontend Developer](https://career.inriver.com/jobs/6449664-sr-frontend-developer)** | Davao City, Philippines | On Site | Sep 15 |
-| **[Saga](https://www.saga.xyz)** | **[Senior Frontend Developer - Remote](https://jobs.lever.co/saga-xyz/9938765f-5dae-4561-a135-2177f4bf9901)** | Los Altos | Remote | Sep 15 |
 
 ---
 
-**Current Stats:** 37 jobs | 16% remote | 35 companies | Avg salary: Not specified  
+**Current Stats:** 33 jobs | 15% remote | 31 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
