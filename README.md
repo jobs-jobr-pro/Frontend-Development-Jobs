@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Sep 24, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Sep 24, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,7 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[EFY Finance](https://www.efyfinance.com/)** | **[Senior Frontend Developer (React, Redux, TypeScript)](https://jobs.lever.co/efinti/8290aa58-a291-4884-a8ff-4e901e390b58)** | Mexico | On Site | Sep 24 |
+| **[Sopra Steria](https://www.soprasteria.com)** | **[Senior Frontend Developer Zahlungsverkehr (m/w/d)](https://jobs.smartrecruiters.com/SopraSteria1/744000083478756-senior-frontend-developer-zahlungsverkehr-m-w-d-)** | bundesweit, Germany | Remote | Sep 23 |
+| **[Sopra Steria](https://www.soprasteria.com)** | **[Junior Frontend Developer Zahlungsverkehr (m/w/d)](https://jobs.smartrecruiters.com/SopraSteria1/744000083476062-junior-frontend-developer-zahlungsverkehr-m-w-d-)** | bundesweit, Germany | Remote | Sep 23 |
 | **[Softgic](https://softgic.co/)** | **[Frontend Developer](https://softwareestrategico.zohorecruit.com/jobs/Careers/684512000011817094)** | Medellin, Colombia | On Site | Sep 23 |
+| **[EcoVadis](https://ecovadis.com)** | **[Senior Frontend Developer (React & Redux)](https://jobs.smartrecruiters.com/ecovadis/744000083462786-senior-frontend-developer-react-redux-)** | Warsaw, Masovian Voivodeship, Poland | On Site | Sep 23 |
 | **[Optio Incentives](https://www.optioincentives.com/)** | **[Frontend Developer](https://careers.optioincentives.no/jobs/6487130-frontend-developer)** | Kraków, Poland | On Site | Sep 22 |
 | **[Capco](https://www.capco.com/)** | **[Frontend Developer- React.js](https://job-boards.greenhouse.io/capco/jobs/7248010)** | India - Bengaluru | On Site | Sep 22 |
 | **[RemoteStar](https://www.remotestar.io/)** | **[Frontend Developer - Angular](https://remotestar-team.freshteam.com/jobs/eerM5i6KapsI/frontend-developer-angular)** | Karnataka, Bengaluru, India | On Site | Sep 22 |
@@ -34,7 +38,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Deloitte](https://www2.deloitte.com/)** | **[Senior Frontend Developer (Angular)](https://deloitteie.wd3.myworkdayjobs.com/en-US/experienced_professionals/job/Dublin/Senior-Frontend-Developer--Angular-_115826)** | Dublin, Ireland | On Site | Sep 19 |
 | **[all eyes on screens](https://www.alleyesonscreens.com)** | **[Senior Frontend Developer](https://alleyesonscreens.talentlyft.com/o/ceyDagN)** | Zagreb, Croatia | On Site | Sep 18 |
 | **[Infakt Sp. z o.o.](https://www.infakt.pl)** | **[Frontend Developer](https://jobs.smartrecruiters.com/InfaktSpZOo/744000082658623-frontend-developer)** | Kraków, Województwo małopolskie, Poland | On Site | Sep 18 |
-| **[Sopra Steria](https://www.soprasteria.com)** | **[Junior Frontend Developer Zahlungsverkehr (m/w/d)](https://jobs.smartrecruiters.com/SopraSteria1/744000082640809-junior-frontend-developer-zahlungsverkehr-m-w-d-)** | bundesweit, Germany | Remote | Sep 18 |
 | **[Qualysoft](https://qualysoft.com)** | **[Frontend Developer (Angular, UI/UX Designer & Developer)](https://jobs.lever.co/qualysoft/71047c9f-5621-4f9c-9f67-f1ae1ecd63cb)** | Wien | On Site | Sep 18 |
 | **[ShyftLabs](https://shyftlabs.io)** | **[Frontend Developer](https://jobs.lever.co/shyftlabs/cc23d04a-e574-40db-91c7-ecab731e1eca)** | Hyderabad, Telangana | On Site | Sep 18 |
 | **[Lightspeed Commerce](https://www.lightspeedhq.com/)** | **[Frontend Developer - react.js (all genders)](https://job-boards.greenhouse.io/lightspeedhq/jobs/6810629)** | Berlin, Berlin, Germany | On Site | Sep 18 |
@@ -47,7 +50,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 31 jobs | 16% remote | 29 companies | Avg salary: Not specified  
+**Current Stats:** 34 jobs | 18% remote | 31 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
