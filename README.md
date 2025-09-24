@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Sep 24, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Sep 24, 2025 at 16:31 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,10 +13,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Interfell](https://www.interfell.com)** | **[SSR FRONTEND DEVELOPER](https://interfell.zohorecruit.com/jobs/Careers/754486000009294038)** | Remote | Remote | Sep 24 |
+| **[AppMySite](https://www.appmysite.com/)** | **[Frontend Developer - HTML](https://wishacloud.zohorecruit.com/jobs/Careers/543736000005148001)** | Remote | Remote | Sep 24 |
+| **[Zensar](https://www.zensar.com/)** | **[Frontend Developer](https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/135649)** | South Africa | On Site | Sep 24 |
 | **[Tomra](https://www.tomra.com/)** | **[Frontend Developer for Embedded](https://jobs.smartrecruiters.com/Tomra/744000083616156-frontend-developer-for-embedded)** | Asker, Akershus, Norway | On Site | Sep 24 |
 | **[Vitrue Health](https://www.vitruehealth.com/)** | **[Frontend Developer](https://vitruehealth.teamtailor.com/jobs/6499850-frontend-developer)** | London, United Kingdom | On Site | Sep 24 |
 | **[EFY Finance](https://www.efyfinance.com/)** | **[Senior Frontend Developer (React, Redux, TypeScript)](https://jobs.lever.co/efinti/8290aa58-a291-4884-a8ff-4e901e390b58)** | Mexico | On Site | Sep 24 |
 | **[Immigrant Invest](https://immigrantinvest.com/)** | **[Frontend Developer](https://apply.workable.com/j/284D2553BB/apply)** | Georgia - Remote | Remote | Sep 24 |
+| **[Weekday](https://www.weekday.works)** | **[Frontend Developer](https://apply.workable.com/j/7B95E0CA48/apply)** | Hyderabad, Telangana, India | On Site | Sep 24 |
 | **[Sopra Steria](https://www.soprasteria.com)** | **[Senior Frontend Developer Zahlungsverkehr (m/w/d)](https://jobs.smartrecruiters.com/SopraSteria1/744000083478756-senior-frontend-developer-zahlungsverkehr-m-w-d-)** | bundesweit, Germany | Remote | Sep 23 |
 | **[Sopra Steria](https://www.soprasteria.com)** | **[Junior Frontend Developer Zahlungsverkehr (m/w/d)](https://jobs.smartrecruiters.com/SopraSteria1/744000083476062-junior-frontend-developer-zahlungsverkehr-m-w-d-)** | bundesweit, Germany | Remote | Sep 23 |
 | **[Softgic](https://softgic.co/)** | **[Frontend Developer](https://softwareestrategico.zohorecruit.com/jobs/Careers/684512000011817094)** | Medellin, Colombia | On Site | Sep 23 |
@@ -52,7 +56,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 36 jobs | 19% remote | 33 companies | Avg salary: Not specified  
+**Current Stats:** 40 jobs | 23% remote | 35 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
