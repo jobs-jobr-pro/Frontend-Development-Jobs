@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Sep 23, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Sep 24, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -44,16 +44,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Binance](https://www.binance.com/)** | **[Binance Accelerator Program - Frontend Developer](https://jobs.lever.co/binance/efeb548d-b3fd-44b0-b802-d4c983dbc244)** | Hong Kong | On Site | Sep 17 |
 | **[Petlab Co.](https://thepetlabco.com/)** | **[Mid- Senior Frontend Developer](https://apply.workable.com/j/D871E6B63E/apply)** | London, England, United Kingdom - Remote | Remote | Sep 17 |
 | **[Wolters Kluwer](https://www.wolterskluwer.com/)** | **[Product Software Engineer (React - Frontend Developer) Immediate Joiners only](https://wk.wd3.myworkdayjobs.com/en-US/External/job/IND---Pune-Kalyani-Nagar/React-Software-Engineer--Frontend-Developer-_R0049418)** | IND - Pune, Kalyani Nagar, India | On Site | Sep 17 |
-| **[Veeam Software](https://www.veeam.com/)** | **[Frontend Developer (JavaScript)](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4647303101)** | Remote, Poland | Remote | Sep 16 |
-| **[Team8](https://team8.vc/)** | **[Team8- Stealth Cybersecurity Startup – Senior Frontend Developer](https://team8.vc/careers/team8-stealth-cybersecurity-startup-senior-frontend-developer)** | Tel Aviv/New York, Israel, IL | On Site | Sep 16 |
-| **[Thoughtworks](https://www.thoughtworks.com/)** | **[Senior Frontend Developer](https://www.thoughtworks.com/careers/jobs/7253721?gh_jid=7253721)** | Ho Chi Minh City | On Site | Sep 16 |
-| **[United Tech](https://unitedtech.ai/)** | **[Senior Frontend Developer](https://jobs.lever.co/vacancies/29ecf797-c006-4531-8ba3-604bc3127a9b)** | Kyiv | On Site | Sep 16 |
-| **[IG Group](https://www.iggroup.com/)** | **[Frontend Developer](https://ig.wd103.myworkdayjobs.com/en-US/EXT_IG/job/Krakw---Poland/Frontend-Developer_R_15350-1)** | Kraków - Poland | On Site | Sep 16 |
-| **[Deutsche Bank](https://www.db.com/)** | **[Angular/React Frontend Developer - AS](https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Pune---Margarpatta/Java-Developer_R0374504)** | Pune - Margarpatta, India | On Site | Sep 16 |
 
 ---
 
-**Current Stats:** 37 jobs | 16% remote | 35 companies | Avg salary: Not specified  
+**Current Stats:** 31 jobs | 16% remote | 29 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
