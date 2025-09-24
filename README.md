@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Sep 24, 2025 at 16:31 UTC</small></sub>
+<sub><small>Last updated: Sep 24, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -21,6 +21,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[EFY Finance](https://www.efyfinance.com/)** | **[Senior Frontend Developer (React, Redux, TypeScript)](https://jobs.lever.co/efinti/8290aa58-a291-4884-a8ff-4e901e390b58)** | Mexico | On Site | Sep 24 |
 | **[Immigrant Invest](https://immigrantinvest.com/)** | **[Frontend Developer](https://apply.workable.com/j/284D2553BB/apply)** | Georgia - Remote | Remote | Sep 24 |
 | **[Weekday](https://www.weekday.works)** | **[Frontend Developer](https://apply.workable.com/j/7B95E0CA48/apply)** | Hyderabad, Telangana, India | On Site | Sep 24 |
+| **[Fiserv](https://www.fiserv.com/)** | **[Frontend developer](https://fiserv.wd5.myworkdayjobs.com/en-US/EXT/job/Bratislava-Slovakia/Frontend-developer_R-10363473)** | Bratislava, Slovakia | On Site | Sep 24 |
 | **[Sopra Steria](https://www.soprasteria.com)** | **[Senior Frontend Developer Zahlungsverkehr (m/w/d)](https://jobs.smartrecruiters.com/SopraSteria1/744000083478756-senior-frontend-developer-zahlungsverkehr-m-w-d-)** | bundesweit, Germany | Remote | Sep 23 |
 | **[Sopra Steria](https://www.soprasteria.com)** | **[Junior Frontend Developer Zahlungsverkehr (m/w/d)](https://jobs.smartrecruiters.com/SopraSteria1/744000083476062-junior-frontend-developer-zahlungsverkehr-m-w-d-)** | bundesweit, Germany | Remote | Sep 23 |
 | **[Softgic](https://softgic.co/)** | **[Frontend Developer](https://softwareestrategico.zohorecruit.com/jobs/Careers/684512000011817094)** | Medellin, Colombia | On Site | Sep 23 |
@@ -56,7 +57,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 40 jobs | 23% remote | 35 companies | Avg salary: Not specified  
+**Current Stats:** 41 jobs | 22% remote | 36 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
