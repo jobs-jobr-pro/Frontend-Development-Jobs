@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Sep 25, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Sep 25, 2025 at 08:31 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,11 +13,17 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Poka](https://www.poka.io/)** | **[Frontend Developer](https://job-boards.greenhouse.io/poka/jobs/5654359004)** | Québec & Montréal | Remote | Sep 24 |
 | **[Interfell](https://www.interfell.com)** | **[SSR FRONTEND DEVELOPER](https://interfell.zohorecruit.com/jobs/Careers/754486000009294038)** | Remote | Remote | Sep 24 |
+| **[CarOnSale](https://www.caronsale.com/)** | **[Mid Level Frontend Developer - Logistics Team](https://job-boards.eu.greenhouse.io/caronsale/jobs/4680325101)** | Berlin | On Site | Sep 24 |
 | **[AppMySite](https://www.appmysite.com/)** | **[Frontend Developer - HTML](https://wishacloud.zohorecruit.com/jobs/Careers/543736000005148001)** | Remote | Remote | Sep 24 |
 | **[Zensar](https://www.zensar.com/)** | **[Frontend Developer](https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/135649)** | South Africa | On Site | Sep 24 |
+| **[ShyftLabs](https://shyftlabs.io)** | **[Senior Engineer (Frontend Developer)](https://jobs.lever.co/shyftlabs/4f5cbce3-044e-4fe9-852e-00b69145d668)** | Noida, Uttar Pradesh | On Site | Sep 24 |
+| **[OKX](https://www.okx.com/)** | **[Senior/Staff Engineer - Frontend Developer](https://job-boards.greenhouse.io/okx/jobs/5228184003)** | Singapore, Singapore | On Site | Sep 24 |
+| **[Strix](https://strix.net/)** | **[Senior Frontend Developer](https://career.strix.net/o/senior-frontend-developer)** | Utrecht, Utrecht, Holandia | On Site | Sep 24 |
 | **[Tomra](https://www.tomra.com/)** | **[Frontend Developer for Embedded](https://jobs.smartrecruiters.com/Tomra/744000083616156-frontend-developer-for-embedded)** | Asker, Akershus, Norway | On Site | Sep 24 |
 | **[Vitrue Health](https://www.vitruehealth.com/)** | **[Frontend Developer](https://vitruehealth.teamtailor.com/jobs/6499850-frontend-developer)** | London, United Kingdom | On Site | Sep 24 |
+| **[Binance](https://www.binance.com/)** | **[Frontend Developer - Stablecoin](https://jobs.lever.co/binance/cc55db68-14ea-4c9e-a03e-37886e770f2f)** | Asia | Remote | Sep 24 |
 | **[EFY Finance](https://www.efyfinance.com/)** | **[Senior Frontend Developer (React, Redux, TypeScript)](https://jobs.lever.co/efinti/8290aa58-a291-4884-a8ff-4e901e390b58)** | Mexico | On Site | Sep 24 |
 | **[Weekday](https://www.weekday.works)** | **[Frontend Developer](https://apply.workable.com/j/7B95E0CA48/apply)** | Hyderabad, Telangana, India | On Site | Sep 24 |
 | **[Immigrant Invest](https://immigrantinvest.com/)** | **[Frontend Developer](https://apply.workable.com/j/284D2553BB/apply)** | Georgia - Remote | Remote | Sep 24 |
@@ -54,7 +60,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 38 jobs | 21% remote | 33 companies | Avg salary: Not specified  
+**Current Stats:** 44 jobs | 23% remote | 38 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
