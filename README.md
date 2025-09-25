@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Sep 24, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Sep 25, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -19,8 +19,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Tomra](https://www.tomra.com/)** | **[Frontend Developer for Embedded](https://jobs.smartrecruiters.com/Tomra/744000083616156-frontend-developer-for-embedded)** | Asker, Akershus, Norway | On Site | Sep 24 |
 | **[Vitrue Health](https://www.vitruehealth.com/)** | **[Frontend Developer](https://vitruehealth.teamtailor.com/jobs/6499850-frontend-developer)** | London, United Kingdom | On Site | Sep 24 |
 | **[EFY Finance](https://www.efyfinance.com/)** | **[Senior Frontend Developer (React, Redux, TypeScript)](https://jobs.lever.co/efinti/8290aa58-a291-4884-a8ff-4e901e390b58)** | Mexico | On Site | Sep 24 |
-| **[Immigrant Invest](https://immigrantinvest.com/)** | **[Frontend Developer](https://apply.workable.com/j/284D2553BB/apply)** | Georgia - Remote | Remote | Sep 24 |
 | **[Weekday](https://www.weekday.works)** | **[Frontend Developer](https://apply.workable.com/j/7B95E0CA48/apply)** | Hyderabad, Telangana, India | On Site | Sep 24 |
+| **[Immigrant Invest](https://immigrantinvest.com/)** | **[Frontend Developer](https://apply.workable.com/j/284D2553BB/apply)** | Georgia - Remote | Remote | Sep 24 |
 | **[Fiserv](https://www.fiserv.com/)** | **[Frontend developer](https://fiserv.wd5.myworkdayjobs.com/en-US/EXT/job/Bratislava-Slovakia/Frontend-developer_R-10363473)** | Bratislava, Slovakia | On Site | Sep 24 |
 | **[Sopra Steria](https://www.soprasteria.com)** | **[Senior Frontend Developer Zahlungsverkehr (m/w/d)](https://jobs.smartrecruiters.com/SopraSteria1/744000083478756-senior-frontend-developer-zahlungsverkehr-m-w-d-)** | bundesweit, Germany | Remote | Sep 23 |
 | **[Sopra Steria](https://www.soprasteria.com)** | **[Junior Frontend Developer Zahlungsverkehr (m/w/d)](https://jobs.smartrecruiters.com/SopraSteria1/744000083476062-junior-frontend-developer-zahlungsverkehr-m-w-d-)** | bundesweit, Germany | Remote | Sep 23 |
@@ -51,13 +51,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Lightspeed Commerce](https://www.lightspeedhq.com/)** | **[Frontend Developer - react.js (all genders)](https://job-boards.greenhouse.io/lightspeedhq/jobs/6810629)** | Berlin, Berlin, Germany | On Site | Sep 18 |
 | **[Lightspeed Commerce](https://www.lightspeedhq.com/)** | **[Senior Frontend Developer - react.js (all genders)](https://job-boards.greenhouse.io/lightspeedhq/jobs/6826537)** | Berlin, Berlin, Germany | On Site | Sep 18 |
 | **[Zensar](https://www.zensar.com/)** | **[SENIOR FRONTEND DEVELOPER](https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/135359)** | India | On Site | Sep 18 |
-| **[Binance](https://www.binance.com/)** | **[Binance Accelerator Program - Frontend Developer](https://jobs.lever.co/binance/efeb548d-b3fd-44b0-b802-d4c983dbc244)** | Hong Kong | On Site | Sep 17 |
-| **[Petlab Co.](https://thepetlabco.com/)** | **[Mid- Senior Frontend Developer](https://apply.workable.com/j/D871E6B63E/apply)** | London, England, United Kingdom - Remote | Remote | Sep 17 |
-| **[Wolters Kluwer](https://www.wolterskluwer.com/)** | **[Product Software Engineer (React - Frontend Developer) Immediate Joiners only](https://wk.wd3.myworkdayjobs.com/en-US/External/job/IND---Pune-Kalyani-Nagar/React-Software-Engineer--Frontend-Developer-_R0049418)** | IND - Pune, Kalyani Nagar, India | On Site | Sep 17 |
 
 ---
 
-**Current Stats:** 41 jobs | 22% remote | 36 companies | Avg salary: Not specified  
+**Current Stats:** 38 jobs | 21% remote | 33 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
