@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Sep 26, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Sep 26, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[PAR Technology](https://partech.com/)** | **[Senior Frontend Developer](https://jobs.ashbyhq.com/par%20technology/2ffe18a6-0254-4faf-a310-30171bfa3b77)** | Serbia | Remote | Sep 25 |
+| **[TransPerfect](https://www.transperfect.com/)** | **[Frontend Developer \| Kragujevac](https://transperfect.recruitee.com/o/frontend-developer-kragujevac)** | Kragujevac, Šumadijski okrug, Serbia | On Site | Sep 25 |
+| **[Devoteam](https://www.devoteam.com/)** | **[Retail & E-Commerce \|Sénior Frontend Developer](https://jobs.smartrecruiters.com/Devoteam/744000083838895-retail-e-commerce-senior-frontend-developer)** | Porto, Porto, Portugal | On Site | Sep 25 |
 | **[Acronis](https://www.acronis.com/)** | **[Senior Frontend Developer](https://acronis.wd3.myworkdayjobs.com/en-US/acronis_careers/job/Bulgaria/Senior-Frontend-Developer_R-100494)** | Bulgaria | On Site | Sep 25 |
 | **[Driven Properties](https://www.drivenproperties.com/)** | **[Senior Frontend Developer (ERP)](https://apply.workable.com/j/8F46D4EB1E/apply)** | Dubai, Dubai, United Arab Emirates | On Site | Sep 25 |
 | **[robusta](https://robustastudio.com/)** | **[Frontend Developer - Mid level (4-5 years ) - 3 months - Immediate - Octopus](https://apply.workable.com/j/94675E7122/apply)** | Cairo, Cairo Governorate, Egypt - Remote | Remote | Sep 25 |
@@ -56,7 +59,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 40 jobs | 28% remote | 37 companies | Avg salary: Not specified  
+**Current Stats:** 43 jobs | 28% remote | 40 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
