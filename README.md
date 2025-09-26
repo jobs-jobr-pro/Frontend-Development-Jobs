@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Sep 26, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Sep 26, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -14,6 +14,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Circunomics GmbH](https://www.circunomics.com/)** | **[Frontend Developer / Remote within Germany (All genders)](https://circunomics.jobs.personio.de/job/2066772)** | Mainz, Frankfurt am Main, Remote | Remote | Sep 26 |
+| **[Netguru](https://www.netguru.com/)** | **[Senior Frontend Developer with Vue.js - Freelance](https://apply.workable.com/j/3B69A0CE50/apply)** | Poland - Remote | Remote | Sep 26 |
 | **[PAR Technology](https://partech.com/)** | **[Senior Frontend Developer](https://jobs.ashbyhq.com/par%20technology/2ffe18a6-0254-4faf-a310-30171bfa3b77)** | Serbia | Remote | Sep 25 |
 | **[Open Cosmos](https://www.open-cosmos.com/)** | **[Senior React Frontend Developer (Ground Segment)](https://careers.open-cosmos.com/jobs/6514932-senior-react-frontend-developer-ground-segment)** | Porto, Portugal | On Site | Sep 25 |
 | **[TransPerfect](https://www.transperfect.com/)** | **[Frontend Developer \| Kragujevac](https://transperfect.recruitee.com/o/frontend-developer-kragujevac)** | Kragujevac, Šumadijski okrug, Serbia | On Site | Sep 25 |
@@ -61,7 +62,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 45 jobs | 29% remote | 42 companies | Avg salary: Not specified  
+**Current Stats:** 46 jobs | 30% remote | 43 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
