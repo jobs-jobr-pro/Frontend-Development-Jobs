@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Sep 27, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Sep 27, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[HarfangLab](https://harfanglab.io/)** | **[Frontend Developer - Internship](https://harfanglab-1666711819.teamtailor.com/jobs/6522085-frontend-developer-internship)** | Paris, France | On Site | Sep 26 |
+| **[Mintos](https://www.mintos.com/)** | **[Frontend Developer - Back-office Systems](https://mintos.teamtailor.com/jobs/6520058-frontend-developer-back-office-systems)** | Rīga, Latvia | On Site | Sep 26 |
 | **[Circunomics GmbH](https://www.circunomics.com/)** | **[Frontend Developer / Remote within Germany (All genders)](https://circunomics.jobs.personio.de/job/2066772)** | Mainz, Frankfurt am Main, Remote | Remote | Sep 26 |
 | **[Netguru](https://www.netguru.com/)** | **[Senior Frontend Developer with Vue.js - Freelance](https://apply.workable.com/j/3B69A0CE50/apply)** | Poland - Remote | Remote | Sep 26 |
 | **[PAR Technology](https://partech.com/)** | **[Senior Frontend Developer](https://jobs.ashbyhq.com/par%20technology/2ffe18a6-0254-4faf-a310-30171bfa3b77)** | Serbia | Remote | Sep 25 |
@@ -49,7 +51,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 33 jobs | 36% remote | 32 companies | Avg salary: Not specified  
+**Current Stats:** 35 jobs | 34% remote | 34 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
