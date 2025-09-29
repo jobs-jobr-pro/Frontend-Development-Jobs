@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Sep 29, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Sep 29, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -14,6 +14,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Hopae](https://www.hopae.com/)** | **[Frontend Developer - Product & UX](https://jobr.pro/job/28902270/frontend-developer-product-ux?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Seoul | On Site | Sep 29 |
+| **[UBS](https://www.ubs.com/)** | **[Frontend Developer - Obtain Pension Solutions](https://jobr.pro/job/28952822/frontend-developer-obtain-pension-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Pune, India | On Site | Sep 29 |
+| **[RIB Software](https://www.rib-software.com/)** | **[Senior Angular Frontend Developer (m/w) – Experte für moderne UI-Frameworks](https://jobr.pro/job/28971223/senior-angular-frontend-developer-mw-experte-fur-moderne-ui-frameworks?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | RIB Germany, Stuttgart | On Site | Sep 29 |
 | **[Candidates-Hub](https://www.candidates-hub.com)** | **[Senior Frontend developer (Angular, HTML, CSS, JS)](https://jobr.pro/job/28938613/senior-frontend-developer-angular-html-css-js?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Nasr City, Cairo Governorate, Egypt | On Site | Sep 28 |
 | **[Orchata](https://www.orchata.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/28927412/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Monterrey, N.L., Mexico | On Site | Sep 28 |
 | **[RMA Group Company Limited](https://rmagroup.com/)** | **[Frontend Developer](https://jobr.pro/job/28925053/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Phnom Penh, Cambodia | On Site | Sep 28 |
@@ -61,7 +63,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 45 jobs | 29% remote | 43 companies | Avg salary: 70k  
+**Current Stats:** 47 jobs | 28% remote | 45 companies | Avg salary: 70k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
