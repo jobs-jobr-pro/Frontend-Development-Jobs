@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Sep 29, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Sep 29, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Hopae](https://www.hopae.com/)** | **[Frontend Developer - Product & UX](https://jobr.pro/job/28902270/frontend-developer-product-ux?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Seoul | On Site | Sep 29 |
+| **[Gudat Solutions GmbH](https://www.digitalesautohaus.de/)** | **[Senior Frontend - Developer (m/w/d)](https://jobr.pro/job/28908029/senior-frontend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bochum, Germany | On Site | Sep 28 |
+| **[Jumia](https://www.jumia.com/)** | **[Senior Frontend Developer (Angular) - Jumia (Full Time)](https://jobr.pro/job/28898174/senior-frontend-developer-angular-jumia-full-time?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Portugal | On Site | Sep 28 |
+| **[Jumia](https://www.jumia.com/)** | **[Senior Frontend Developer (Angular/React) - Jumia (Full Time)](https://jobr.pro/job/28898175/senior-frontend-developer-angularreact-jumia-full-time?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Kenya | On Site | Sep 28 |
 | **[HarfangLab](https://harfanglab.io/)** | **[Frontend Developer - Internship](https://jobr.pro/job/28870377/frontend-developer-internship?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Paris, France | On Site | Sep 26 |
 | **[Mintos](https://www.mintos.com/)** | **[Frontend Developer - Back-office Systems](https://jobr.pro/job/28870154/frontend-developer-back-office-systems?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Rīga, Latvia | On Site | Sep 26 |
 | **[Circunomics GmbH](https://www.circunomics.com/)** | **[Frontend Developer / Remote within Germany (All genders)](https://jobr.pro/job/28782505/frontend-developer-remote-within-germany-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Mainz, Frankfurt am Main, Remote | Remote | Sep 26 |
@@ -51,7 +55,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 35 jobs | 34% remote | 34 companies | Avg salary: Not specified  
+**Current Stats:** 39 jobs | 31% remote | 37 companies | Avg salary: 70k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
