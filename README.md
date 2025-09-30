@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Sep 30, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Sep 30, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Chargeflow](https://www.chargeflow.io)** | **[Webflow Specialist (Frontend Developer)](https://jobr.pro/job/29057967/webflow-specialist-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Modiin-Maccabim-Reut, Center District, IL | On Site | Sep 30 |
+| **[Shiji Group](https://www.shijigroup.com/)** | **[Frontend Developer I Stellaris Digital](https://jobr.pro/job/29042955/frontend-developer-i-stellaris-digital?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Katowice, Silesian Voivodeship, Poland | Remote | Sep 30 |
 | **[GFT Technologies](https://www.gft.com)** | **[Sr Frontend Developer (React)](https://jobr.pro/job/29000550/sr-frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Alcobendas, M, ES, 28108 | On Site | Sep 30 |
 | **[Supaapps](https://supaapps.com)** | **[Senior React Native Cross platform frontend developer \[Fulltime Remote\] (SF6-25)](https://jobr.pro/job/29029901/senior-react-native-cross-platform-frontend-developer-fulltime-remote-sf6-25?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Egypt - Remote | Remote | Sep 29 |
 | **[XCI](https://www.xci.dk/)** | **[Experienced Frontend Developer](https://jobr.pro/job/29033430/experienced-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Aalborg, Denmark | On Site | Sep 29 |
@@ -64,7 +66,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 48 jobs | 29% remote | 46 companies | Avg salary: 45k  
+**Current Stats:** 50 jobs | 30% remote | 48 companies | Avg salary: 45k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
