@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Sep 30, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Sep 30, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -14,6 +14,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[GFT Technologies](https://www.gft.com)** | **[Sr Frontend Developer (React)](https://jobr.pro/job/29000550/sr-frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Alcobendas, M, ES, 28108 | On Site | Sep 30 |
+| **[Supaapps](https://supaapps.com)** | **[Senior React Native Cross platform frontend developer \[Fulltime Remote\] (SF6-25)](https://jobr.pro/job/29029901/senior-react-native-cross-platform-frontend-developer-fulltime-remote-sf6-25?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Egypt - Remote | Remote | Sep 29 |
+| **[XCI](https://www.xci.dk/)** | **[Experienced Frontend Developer](https://jobr.pro/job/29033430/experienced-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Aalborg, Denmark | On Site | Sep 29 |
 | **[Crypto.com](https://crypto.com/)** | **[Senior Frontend Developer (Exchange/Trading Platform)](https://jobr.pro/job/29000199/senior-frontend-developer-exchangetrading-platform?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Taipei, Taiwan | On Site | Sep 29 |
 | **[Knowde](https://www.knowde.com/)** | **[Senior Frontend Developer - React](https://jobr.pro/job/28996128/senior-frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Poland | On Site | Sep 29 |
 | **[Hopae](https://www.hopae.com/)** | **[Frontend Developer - Product & UX](https://jobr.pro/job/28902270/frontend-developer-product-ux?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Seoul | On Site | Sep 29 |
@@ -62,7 +64,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 46 jobs | 28% remote | 44 companies | Avg salary: 70k  
+**Current Stats:** 48 jobs | 29% remote | 46 companies | Avg salary: 45k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
