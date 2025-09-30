@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Sep 29, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Sep 30, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -56,15 +56,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Sopra Steria](https://www.soprasteria.com)** | **[Junior Frontend Developer Zahlungsverkehr (m/w/d)](https://jobr.pro/job/28595483/junior-frontend-developer-zahlungsverkehr-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | bundesweit, Germany | Remote | Sep 23 |
 | **[Softgic](https://softgic.co/)** | **[Frontend Developer](https://jobr.pro/job/28528104/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Medellin, Colombia | On Site | Sep 23 |
 | **[EcoVadis](https://ecovadis.com)** | **[Senior Frontend Developer (React & Redux)](https://jobr.pro/job/28596355/senior-frontend-developer-react-redux?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Warsaw, Masovian Voivodeship, Poland | On Site | Sep 23 |
-| **[Optio Incentives](https://www.optioincentives.com/)** | **[Frontend Developer](https://jobr.pro/job/28514770/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Kraków, Poland | On Site | Sep 22 |
-| **[Capco](https://www.capco.com/)** | **[Frontend Developer- React.js](https://jobr.pro/job/28472169/frontend-developer-reactjs?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India - Bengaluru | On Site | Sep 22 |
-| **[RemoteStar](https://www.remotestar.io/)** | **[Frontend Developer - Angular](https://jobr.pro/job/28450454/frontend-developer-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Karnataka, Bengaluru, India | On Site | Sep 22 |
-| **[Naptha AI](https://naptha.ai/)** | **[Founding AI Frontend Developer](https://jobr.pro/job/28479991/founding-ai-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote | Remote | Sep 22 |
-| **[Advansys ESC](https://www.advansys-esc.com/)** | **[Senior Frontend Developer-Angular](https://jobr.pro/job/28453854/senior-frontend-developer-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | 6th of October City, Giza Governorate, Egypt | On Site | Sep 22 |
 
 ---
 
-**Current Stats:** 48 jobs | 29% remote | 46 companies | Avg salary: 70k  
+**Current Stats:** 43 jobs | 30% remote | 41 companies | Avg salary: 70k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
