@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Sep 30, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 01, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -59,14 +59,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Weekday](https://www.weekday.works)** | **[Frontend Developer](https://jobr.pro/job/28625888/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Hyderabad, Telangana, India | On Site | Sep 24 |
 | **[Immigrant Invest](https://immigrantinvest.com/)** | **[Frontend Developer](https://jobr.pro/job/28616733/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Georgia - Remote | Remote | Sep 24 |
 | **[Fiserv](https://www.fiserv.com/)** | **[Frontend developer](https://jobr.pro/job/28650925/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bratislava, Slovakia | On Site | Sep 24 |
-| **[Sopra Steria](https://www.soprasteria.com)** | **[Senior Frontend Developer Zahlungsverkehr (m/w/d)](https://jobr.pro/job/28595480/senior-frontend-developer-zahlungsverkehr-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | bundesweit, Germany | Remote | Sep 23 |
-| **[Sopra Steria](https://www.soprasteria.com)** | **[Junior Frontend Developer Zahlungsverkehr (m/w/d)](https://jobr.pro/job/28595483/junior-frontend-developer-zahlungsverkehr-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | bundesweit, Germany | Remote | Sep 23 |
-| **[Softgic](https://softgic.co/)** | **[Frontend Developer](https://jobr.pro/job/28528104/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Medellin, Colombia | On Site | Sep 23 |
-| **[EcoVadis](https://ecovadis.com)** | **[Senior Frontend Developer (React & Redux)](https://jobr.pro/job/28596355/senior-frontend-developer-react-redux?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Warsaw, Masovian Voivodeship, Poland | On Site | Sep 23 |
 
 ---
 
-**Current Stats:** 50 jobs | 30% remote | 48 companies | Avg salary: 45k  
+**Current Stats:** 46 jobs | 28% remote | 45 companies | Avg salary: 45k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
