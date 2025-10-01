@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Oct 01, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Oct 01, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Personetics](https://www.personetics.com)** | **[Frontend Developer](https://jobr.pro/job/29151569/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Giv'atayim, Tel Aviv District, IL | On Site | Oct 01 |
+| **[PartSpace](https://partspace.io)** | **[Frontend Developer ( m/w/d)](https://jobr.pro/job/29134511/frontend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Deggendorf, Germany | On Site | Oct 01 |
 | **[Thoughtworks](https://www.thoughtworks.com/)** | **[Senior Consultant: Frontend Developer](https://jobr.pro/job/29090473/senior-consultant-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Quito | Remote | Sep 30 |
 | **[TechBiz Global](https://techbiz.global/)** | **[Lead Frontend Developer](https://jobr.pro/job/29089284/lead-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Ljubljana, Ljubljana, Slovenia | On Site | Sep 30 |
 | **[Chargeflow](https://www.chargeflow.io)** | **[Webflow Specialist (Frontend Developer)](https://jobr.pro/job/29057967/webflow-specialist-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Modiin-Maccabim-Reut, Center District, IL | On Site | Sep 30 |
@@ -61,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[EFY Finance](https://www.efyfinance.com/)** | **[Senior Frontend Developer (React, Redux, TypeScript)](https://jobr.pro/job/28575718/senior-frontend-developer-react-redux-typescript?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Mexico | On Site | Sep 24 |
 | **[Weekday](https://www.weekday.works)** | **[Frontend Developer](https://jobr.pro/job/28625888/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Hyderabad, Telangana, India | On Site | Sep 24 |
 | **[Immigrant Invest](https://immigrantinvest.com/)** | **[Frontend Developer](https://jobr.pro/job/28616733/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Georgia - Remote | Remote | Sep 24 |
-| **[Fiserv](https://www.fiserv.com/)** | **[Frontend developer](https://jobr.pro/job/28650925/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bratislava, Slovakia | On Site | Sep 24 |
 
 ---
 
-**Current Stats:** 49 jobs | 29% remote | 48 companies | Avg salary: 45k  
+**Current Stats:** 50 jobs | 28% remote | 49 companies | Avg salary: 45k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
