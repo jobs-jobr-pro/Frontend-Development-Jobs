@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Oct 02, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Oct 02, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Atribs Metscon Group](https://atribsmetscon.com/)** | **[React Native - Frontend Developer](https://jobr.pro/job/29231261/react-native-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Abu Dhabi, United Arab Emirates | On Site | Oct 02 |
 | **[Coinbase](https://www.coinbase.com/)** | **[Software Engineer, Frontend - Developer Experience](https://jobr.pro/job/29187654/software-engineer-frontend-developer-experience?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote - USA | Remote | Oct 01 |
 | **[Personetics](https://www.personetics.com)** | **[Frontend Developer](https://jobr.pro/job/29151569/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Giv'atayim, Tel Aviv District, IL | On Site | Oct 01 |
 | **[PartSpace](https://partspace.io)** | **[Frontend Developer ( m/w/d)](https://jobr.pro/job/29134511/frontend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Deggendorf, Germany | On Site | Oct 01 |
@@ -55,7 +56,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 39 jobs | 26% remote | 38 companies | Avg salary: 90k  
+**Current Stats:** 40 jobs | 25% remote | 39 companies | Avg salary: 90k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
