@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Oct 02, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 03, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -46,17 +46,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Mintos](https://www.mintos.com/)** | **[Frontend Developer - Back-office Systems](https://jobr.pro/job/28870154/frontend-developer-back-office-systems?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Rīga, Latvia | On Site | Sep 26 |
 | **[Circunomics GmbH](https://www.circunomics.com/)** | **[Frontend Developer / Remote within Germany (All genders)](https://jobr.pro/job/28782505/frontend-developer-remote-within-germany-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Mainz, Frankfurt am Main, Remote | Remote | Sep 26 |
 | **[Netguru](https://www.netguru.com/)** | **[Senior Frontend Developer with Vue.js - Freelance](https://jobr.pro/job/28810051/senior-frontend-developer-with-vuejs-freelance?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Poland - Remote | Remote | Sep 26 |
-| **[PAR Technology](https://partech.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/28763013/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Serbia | Remote | Sep 25 |
-| **[Open Cosmos](https://www.open-cosmos.com/)** | **[Senior React Frontend Developer (Ground Segment)](https://jobr.pro/job/28791367/senior-react-frontend-developer-ground-segment?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Porto, Portugal | On Site | Sep 25 |
-| **[TransPerfect](https://www.transperfect.com/)** | **[Frontend Developer \| Kragujevac](https://jobr.pro/job/28755346/frontend-developer-kragujevac?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Kragujevac, Šumadijski okrug, Serbia | On Site | Sep 25 |
-| **[Devoteam](https://www.devoteam.com/)** | **[Retail & E-Commerce \|Sénior Frontend Developer](https://jobr.pro/job/28768555/retail-e-commerce-senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Porto, Porto, Portugal | On Site | Sep 25 |
-| **[robusta](https://robustastudio.com/)** | **[Frontend Developer - Mid level (4-5 years ) - 3 months - Immediate - Octopus](https://jobr.pro/job/28698346/frontend-developer-mid-level-4-5-years-3-months-immediate-octopus?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Cairo, Cairo Governorate, Egypt - Remote | Remote | Sep 25 |
-| **[Driven Properties](https://www.drivenproperties.com/)** | **[Senior Frontend Developer (ERP)](https://jobr.pro/job/28689296/senior-frontend-developer-erp?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Dubai, Dubai, United Arab Emirates | On Site | Sep 25 |
-| **[Acronis](https://www.acronis.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/28703801/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bulgaria | On Site | Sep 25 |
 
 ---
 
-**Current Stats:** 40 jobs | 25% remote | 39 companies | Avg salary: 90k  
+**Current Stats:** 33 jobs | 24% remote | 32 companies | Avg salary: 90k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
