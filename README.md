@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Oct 03, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 04, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -47,14 +47,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Gudat Solutions GmbH](https://www.digitalesautohaus.de/)** | **[Senior Frontend - Developer (m/w/d)](https://jobr.pro/job/28908029/senior-frontend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bochum, Germany | On Site | Sep 28 |
 | **[Jumia](https://www.jumia.com/)** | **[Senior Frontend Developer (Angular/React) - Jumia (Full Time)](https://jobr.pro/job/28898175/senior-frontend-developer-angularreact-jumia-full-time?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Kenya | On Site | Sep 28 |
 | **[Jumia](https://www.jumia.com/)** | **[Senior Frontend Developer (Angular) - Jumia (Full Time)](https://jobr.pro/job/28898174/senior-frontend-developer-angular-jumia-full-time?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Portugal | On Site | Sep 28 |
-| **[HarfangLab](https://harfanglab.io/)** | **[Frontend Developer - Internship](https://jobr.pro/job/28870377/frontend-developer-internship?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Paris, France | On Site | Sep 26 |
-| **[Mintos](https://www.mintos.com/)** | **[Frontend Developer - Back-office Systems](https://jobr.pro/job/28870154/frontend-developer-back-office-systems?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Rīga, Latvia | On Site | Sep 26 |
-| **[Circunomics GmbH](https://www.circunomics.com/)** | **[Frontend Developer / Remote within Germany (All genders)](https://jobr.pro/job/28782505/frontend-developer-remote-within-germany-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Mainz, Frankfurt am Main, Remote | Remote | Sep 26 |
-| **[Netguru](https://www.netguru.com/)** | **[Senior Frontend Developer with Vue.js - Freelance](https://jobr.pro/job/28810051/senior-frontend-developer-with-vuejs-freelance?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Poland - Remote | Remote | Sep 26 |
 
 ---
 
-**Current Stats:** 38 jobs | 21% remote | 37 companies | Avg salary: 90k  
+**Current Stats:** 34 jobs | 18% remote | 33 companies | Avg salary: 90k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
