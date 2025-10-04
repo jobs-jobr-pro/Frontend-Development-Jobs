@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Oct 04, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Oct 04, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,7 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[OMNI.PRO](https://omni.pro/)** | **[Frontend Developer-Adobe Commerce](https://jobr.pro/job/29403865/frontend-developer-adobe-commerce?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Teletrabajo | On Site | Oct 04 |
 | **[QuinStreet](https://www.quinstreet.com/)** | **[Frontend Developer](https://jobr.pro/job/29353883/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Monterrey, Mexico | Remote | Oct 04 |
+| **[Shalion](https://www.shalion.com/)** | **[Mid Frontend Developer](https://jobr.pro/job/29390955/mid-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Barcelona, Spain | On Site | Oct 03 |
 | **[Lightspeed Commerce](https://www.lightspeedhq.com/)** | **[Senior Frontend Developer - react.js (all genders)](https://jobr.pro/job/29367469/senior-frontend-developer-reactjs-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Berlin, Berlin, Germany | On Site | Oct 03 |
 | **[Lightspeed Commerce](https://www.lightspeedhq.com/)** | **[Frontend Developer - react.js (all genders)](https://jobr.pro/job/29367465/frontend-developer-reactjs-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Berlin, Berlin, Germany | On Site | Oct 03 |
 | **[Delasport](https://www.delasport.com/)** | **[Senior Frontend Developer (React)](https://jobr.pro/job/29357907/senior-frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Kyiv, Kyiv, Ukraine | On Site | Oct 03 |
@@ -59,7 +61,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 43 jobs | 19% remote | 40 companies | Avg salary: 90k  
+**Current Stats:** 45 jobs | 18% remote | 42 companies | Avg salary: 78k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
