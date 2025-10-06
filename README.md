@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Oct 05, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 06, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -49,19 +49,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[UBS](https://www.ubs.com/)** | **[Frontend Developer - Obtain Pension Solutions](https://jobr.pro/job/28952822/frontend-developer-obtain-pension-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Pune, India | On Site | Sep 29 |
 | **[RIB Software](https://www.rib-software.com/)** | **[Senior Angular Frontend Developer (m/w) – Experte für moderne UI-Frameworks](https://jobr.pro/job/28971223/senior-angular-frontend-developer-mw-experte-fur-moderne-ui-frameworks?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | RIB Germany, Stuttgart | On Site | Sep 29 |
 | **[Ameresco](https://www.ameresco.com/)** | **[Frontend Developer](https://jobr.pro/job/28975925/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | United Kingdom - Remote | Remote | Sep 29 |
-| **[Candidates-Hub](https://www.candidates-hub.com)** | **[Senior Frontend developer (Angular, HTML, CSS, JS)](https://jobr.pro/job/28938613/senior-frontend-developer-angular-html-css-js?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Nasr City, Cairo Governorate, Egypt | On Site | Sep 28 |
-| **[Orchata](https://www.orchata.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/28927412/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Monterrey, N.L., Mexico | On Site | Sep 28 |
-| **[RMA Group Company Limited](https://rmagroup.com/)** | **[Frontend Developer](https://jobr.pro/job/28925053/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Phnom Penh, Cambodia | On Site | Sep 28 |
-| **[Recommend](https://www.recommend.co/)** | **[React Frontend Developer](https://jobr.pro/job/28921625/react-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Zagreb, Croatia | On Site | Sep 28 |
-| **[ACCUMED](https://accumed.ae/)** | **[Frontend Developer](https://jobr.pro/job/28913894/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Cairo, Cairo Governorate, Egypt | On Site | Sep 28 |
-| **[Cronos Labs](https://cronos.org/)** | **[Senior Frontend Developer](https://jobr.pro/job/28911030/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote - Shenzhen, China | Remote | Sep 28 |
-| **[Gudat Solutions GmbH](https://www.digitalesautohaus.de/)** | **[Senior Frontend - Developer (m/w/d)](https://jobr.pro/job/28908029/senior-frontend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bochum, Germany | On Site | Sep 28 |
-| **[Jumia](https://www.jumia.com/)** | **[Senior Frontend Developer (Angular/React) - Jumia (Full Time)](https://jobr.pro/job/28898175/senior-frontend-developer-angularreact-jumia-full-time?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Kenya | On Site | Sep 28 |
-| **[Jumia](https://www.jumia.com/)** | **[Senior Frontend Developer (Angular) - Jumia (Full Time)](https://jobr.pro/job/28898174/senior-frontend-developer-angular-jumia-full-time?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Portugal | On Site | Sep 28 |
 
 ---
 
-**Current Stats:** 45 jobs | 18% remote | 42 companies | Avg salary: 78k  
+**Current Stats:** 36 jobs | 19% remote | 34 companies | Avg salary: 81k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
