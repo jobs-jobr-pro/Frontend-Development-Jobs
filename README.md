@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Oct 06, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Oct 06, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -48,11 +48,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[GFT Technologies](https://www.gft.com)** | **[Sr Frontend Developer (React)](https://jobr.pro/job/29000550/sr-frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Alcobendas, M, ES, 28108 | On Site | Sep 30 |
 | **[Supaapps](https://supaapps.com)** | **[Senior React Native Cross platform frontend developer \[Fulltime Remote\] (SF6-25)](https://jobr.pro/job/29029901/senior-react-native-cross-platform-frontend-developer-fulltime-remote-sf6-25?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Egypt - Remote | Remote | Sep 29 |
 | **[XCI](https://www.xci.dk/)** | **[Experienced Frontend Developer](https://jobr.pro/job/29033430/experienced-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Aalborg, Denmark | On Site | Sep 29 |
-| **[Crypto.com](https://crypto.com/)** | **[Senior Frontend Developer (Exchange/Trading Platform)](https://jobr.pro/job/29000199/senior-frontend-developer-exchangetrading-platform?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Taipei, Taiwan | On Site | Sep 29 |
+| **[Crypto.com](https://crypto.com/)** | **[Senior Frontend Developer (Exchange/Trading Platform)](https://jobr.pro/job/29000197/senior-frontend-developer-exchangetrading-platform?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Hong Kong, Hong Kong SAR | On Site | Sep 29 |
 | **[Knowde](https://www.knowde.com/)** | **[Senior Frontend Developer - React](https://jobr.pro/job/28996128/senior-frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Poland | On Site | Sep 29 |
 | **[Hopae](https://www.hopae.com/)** | **[Frontend Developer - Product & UX](https://jobr.pro/job/28902270/frontend-developer-product-ux?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Seoul | On Site | Sep 29 |
-| **[UBS](https://www.ubs.com/)** | **[Frontend Developer - Obtain Pension Solutions](https://jobr.pro/job/28952822/frontend-developer-obtain-pension-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Pune, India | On Site | Sep 29 |
 | **[RIB Software](https://www.rib-software.com/)** | **[Senior Angular Frontend Developer (m/w) – Experte für moderne UI-Frameworks](https://jobr.pro/job/28971223/senior-angular-frontend-developer-mw-experte-fur-moderne-ui-frameworks?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | RIB Germany, Stuttgart | On Site | Sep 29 |
+| **[UBS](https://www.ubs.com/)** | **[Frontend Developer - Obtain Pension Solutions](https://jobr.pro/job/28952822/frontend-developer-obtain-pension-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Pune, India | On Site | Sep 29 |
 | **[Ameresco](https://www.ameresco.com/)** | **[Frontend Developer](https://jobr.pro/job/28975925/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | United Kingdom - Remote | Remote | Sep 29 |
 
 ---
