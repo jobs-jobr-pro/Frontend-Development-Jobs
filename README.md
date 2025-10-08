@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Oct 08, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Oct 08, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Oivan](https://oivan.com/)** | **[Frontend Developer (Angular)](https://jobr.pro/job/29651965/frontend-developer-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | HCMC, Da Nang | On Site | Oct 08 |
 | **[Veeam Software](https://www.veeam.com/)** | **[Frontend Developer](https://jobr.pro/job/29588984/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote, United States | Remote | Oct 07 |
 | **[Veeam Software](https://www.veeam.com/)** | **[Frontend Developer, Data Intelligence](https://jobr.pro/job/29588985/frontend-developer-data-intelligence?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote, United States | Remote | Oct 07 |
 | **[Behavox](https://www.behavox.com/)** | **[Frontend Developer 3 - Angular](https://jobr.pro/job/29478439/frontend-developer-3-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Canada | On Site | Oct 06 |
@@ -50,7 +51,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 34 jobs | 18% remote | 30 companies | Avg salary: 165k  
+**Current Stats:** 35 jobs | 17% remote | 31 companies | Avg salary: 165k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
