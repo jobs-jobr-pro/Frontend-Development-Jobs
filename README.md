@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Oct 07, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 08, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -45,16 +45,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[PartSpace](https://partspace.io)** | **[Frontend Developer ( m/w/d)](https://jobr.pro/job/29134511/frontend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Deggendorf, Germany | On Site | Oct 01 |
 | **[Kyndryl](https://www.kyndryl.com/)** | **[Frontend Developer – Junior (Kyndryl Graduate Program)](https://jobr.pro/job/29171779/frontend-developer-junior-kyndryl-graduate-program?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | ARMTZ Buenos Aires (ARMTZ) - Martinez, Argentina | On Site | Oct 01 |
 | **[CompuGroup Medical](https://www.cgm.com/)** | **[Frontend Developer Angular (m/f/d)](https://jobr.pro/job/29171599/frontend-developer-angular-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Koblenz \| Maria Trost 21, Tyskland | On Site | Oct 01 |
-| **[Thoughtworks](https://www.thoughtworks.com/)** | **[Senior Consultant: Frontend Developer](https://jobr.pro/job/29090473/senior-consultant-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Quito | Remote | Sep 30 |
-| **[TechBiz Global](https://techbiz.global/)** | **[Lead Frontend Developer](https://jobr.pro/job/29089284/lead-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Ljubljana, Ljubljana, Slovenia | On Site | Sep 30 |
-| **[Chargeflow](https://www.chargeflow.io)** | **[Webflow Specialist (Frontend Developer)](https://jobr.pro/job/29057967/webflow-specialist-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Modiin-Maccabim-Reut, Center District, IL | On Site | Sep 30 |
-| **[Shiji Group](https://www.shijigroup.com/)** | **[Frontend Developer I Stellaris Digital](https://jobr.pro/job/29042955/frontend-developer-i-stellaris-digital?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Katowice, Silesian Voivodeship, Poland | Remote | Sep 30 |
-| **[United Tech](https://unitedtech.ai/)** | **[Senior Frontend Developer (Vue.js)](https://jobr.pro/job/29088174/senior-frontend-developer-vuejs?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Kyiv | On Site | Sep 30 |
-| **[GFT Technologies](https://www.gft.com)** | **[Sr Frontend Developer (React)](https://jobr.pro/job/29000550/sr-frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Alcobendas, M, ES, 28108 | On Site | Sep 30 |
 
 ---
 
-**Current Stats:** 38 jobs | 16% remote | 36 companies | Avg salary: 112k  
+**Current Stats:** 32 jobs | 13% remote | 30 companies | Avg salary: 112k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
