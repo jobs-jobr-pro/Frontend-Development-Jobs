@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Oct 09, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Oct 09, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Cofinpro AG](https://cofinpro.de/)** | **[Frontend Developer Angular / React / Vue.js (w/m/d)](https://jobr.pro/job/29841553/frontend-developer-angular-react-vuejs-wmd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Frankfurt am Main, München, Berlin, Karlsruhe, Hannover, Köln, Stuttgart | On Site | Oct 09 |
+| **[Morgan Stanley](https://www.morganstanley.com/)** | **[Frontend Developer (Angular) - Director - Software Engineering](https://jobr.pro/job/29856655/frontend-developer-angular-director-software-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | RMZ Ecoworld Business Park, India | On Site | Oct 09 |
 | **[ADP](https://www.adp.com/)** | **[Frontend Developer Intern](https://jobr.pro/job/29772292/frontend-developer-intern?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bucharest, rom-ro, Romania | On Site | Oct 08 |
 | **[BrainRocket](https://www.brainrocket.com/)** | **[Senior Frontend Developer (React) - Portugal](https://jobr.pro/job/29818836/senior-frontend-developer-react-portugal?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lisbon, Portugal | On Site | Oct 08 |
 | **[Wix](https://www.wix.com/)** | **[Frontend Developer - Components](https://jobr.pro/job/29743622/frontend-developer-components?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Oct 08 |
@@ -53,7 +55,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 37 jobs | 16% remote | 33 companies | Avg salary: 160k  
+**Current Stats:** 39 jobs | 15% remote | 35 companies | Avg salary: 160k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
