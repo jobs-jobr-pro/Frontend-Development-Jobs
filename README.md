@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Oct 09, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 10, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -19,6 +19,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Netguru](https://www.netguru.com/)** | **[Senior Frontend Developer with Vue.js - Freelance](https://jobr.pro/job/29865309/senior-frontend-developer-with-vuejs-freelance?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Poland - Remote | Remote | Oct 09 |
 | **[Wolters Kluwer](https://www.wolterskluwer.com/)** | **[Product Software Engineer (React - Frontend Developer) Immediate Joiners only](https://jobr.pro/job/29876392/product-software-engineer-react-frontend-developer-immediate-joiners-only?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | IND - Pune, Kalyani Nagar, India | On Site | Oct 09 |
 | **[Anexia](https://www.anexia-it.com/)** | **[SENIOR FRONTEND DEVELOPER (M/W/D)](https://jobr.pro/job/29869489/senior-frontend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Vienna, Austria | On Site | Oct 09 |
+| **[CompuGroup Medical](https://www.cgm.com/)** | **[Frontend Developer Angular (m/f/d)](https://jobr.pro/job/29897118/frontend-developer-angular-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Koblenz \| Maria Trost 21, Tyskland | On Site | Oct 09 |
 | **[ADP](https://www.adp.com/)** | **[Frontend Developer Intern](https://jobr.pro/job/29772292/frontend-developer-intern?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bucharest, rom-ro, Romania | On Site | Oct 08 |
 | **[BrainRocket](https://www.brainrocket.com/)** | **[Senior Frontend Developer (React) - Portugal](https://jobr.pro/job/29818836/senior-frontend-developer-react-portugal?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lisbon, Portugal | On Site | Oct 08 |
 | **[Wix](https://www.wix.com/)** | **[Frontend Developer - Components](https://jobr.pro/job/29743622/frontend-developer-components?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Oct 08 |
@@ -52,14 +53,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Sequoia Connect](https://www.sequoia-connect.com)** | **[Frontend Developer](https://jobr.pro/job/29327619/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Ciudad de México, CDMX, MX | On Site | Oct 03 |
 | **[Veeam Software](https://www.veeam.com/)** | **[Frontend Developer (TypeScript)](https://jobr.pro/job/29353517/frontend-developer-typescript?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Warsaw, Poland | On Site | Oct 03 |
 | **[Deutsche Telekom IT Solutions](https://www.deutschetelekomitsolutions.hu)** | **[Frontend Developer (REF4732Y)](https://jobr.pro/job/29371456/frontend-developer-ref4732y?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Budapest,Debrecen,Pécs,Szeged, Hungary | On Site | Oct 03 |
-| **[CI&T](https://ciandt.com/)** | **[\[Job - 24955\] Mid-level Frontend Developer, Brazil](https://jobr.pro/job/29274936/job-24955-mid-level-frontend-developer-brazil?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Brazil | On Site | Oct 02 |
-| **[Atribs Metscon Group](https://atribsmetscon.com/)** | **[React Native - Frontend Developer](https://jobr.pro/job/29231261/react-native-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Abu Dhabi, United Arab Emirates | On Site | Oct 02 |
-| **[Manychat](https://manychat.com/)** | **[Frontend Developer (Marketing Org)](https://jobr.pro/job/29281218/frontend-developer-marketing-org?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Barcelona, Spain | On Site | Oct 02 |
-| **[Autodesk](https://www.autodesk.com/)** | **[Frontend Developer — Manufacturing Sustainability Insights](https://jobr.pro/job/29269530/frontend-developer-manufacturing-sustainability-insights?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | EMEA - Germany - Parsberg | On Site | Oct 02 |
 
 ---
 
-**Current Stats:** 43 jobs | 16% remote | 39 companies | Avg salary: 195k  
+**Current Stats:** 40 jobs | 18% remote | 36 companies | Avg salary: 195k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
