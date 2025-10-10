@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Oct 10, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Oct 10, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -14,6 +14,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Agora](https://www.agorareal.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/29876584/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Oct 09 |
+| **[Devoteam](https://www.devoteam.com/)** | **[Banking Sector \| Senior Frontend Developer (Vuejs - French)](https://jobr.pro/job/29918813/banking-sector-senior-frontend-developer-vuejs-french?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lisboa, Lisboa, Portugal | On Site | Oct 09 |
 | **[Cofinpro AG](https://cofinpro.de/)** | **[Frontend Developer Angular / React / Vue.js (w/m/d)](https://jobr.pro/job/29841553/frontend-developer-angular-react-vuejs-wmd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Frankfurt am Main, München, Berlin, Karlsruhe, Hannover, Köln, Stuttgart | On Site | Oct 09 |
 | **[Anexia](https://www.anexia-it.com/)** | **[SENIOR FRONTEND DEVELOPER (M/W/D)](https://jobr.pro/job/29869489/senior-frontend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Vienna, Austria | On Site | Oct 09 |
 | **[CompuGroup Medical](https://www.cgm.com/)** | **[Frontend Developer Angular (m/f/d)](https://jobr.pro/job/29897118/frontend-developer-angular-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Koblenz \| Maria Trost 21, Tyskland | On Site | Oct 09 |
@@ -56,7 +57,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 40 jobs | 18% remote | 36 companies | Avg salary: 195k  
+**Current Stats:** 41 jobs | 17% remote | 37 companies | Avg salary: 195k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
