@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Oct 10, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 11, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -19,6 +19,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Eliq](https://eliq.com/)** | **[Senior Frontend Developer (Angular) - Lithuania](https://jobr.pro/job/29959685/senior-frontend-developer-angular-lithuania?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Vilnius County, Vilnius, Lithuania | On Site | Oct 10 |
 | **[Eliq](https://eliq.com/)** | **[Senior Frontend Developer (Angular) - Sweden](https://jobr.pro/job/29959687/senior-frontend-developer-angular-sweden?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Västra Götaland County, Gothenburg, Sweden | On Site | Oct 10 |
 | **[ITB GmbH](https://www.itb-pim.de/home)** | **[Frontend Developer - Vue.Js (m/w/d)](https://jobr.pro/job/29953128/frontend-developer-vuejs-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Kamp-Lintfort, Germany | On Site | Oct 10 |
+| **[Deutsche Bank](https://www.db.com/)** | **[Frontend Developer, AS](https://jobr.pro/job/29989547/frontend-developer-as?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Pune - Margarpatta, India | On Site | Oct 10 |
+| **[RBC](https://www.rbc.com/)** | **[Frontend Developer](https://jobr.pro/job/29986234/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | PERSIARAN IRC 2, IOI RESORT CITY IOI CITY TOWER ONE:PUTRAJAYA, Malaysia | On Site | Oct 10 |
 | **[Rebike Mobility GmbH](https://rebike.com/)** | **[Frontend Developer React (m/w/d)](https://jobr.pro/job/29932467/frontend-developer-react-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | München, Kempten | On Site | Oct 09 |
 | **[Agora](https://www.agorareal.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/29876584/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Oct 09 |
 | **[Celfocus](https://www.celfocus.com)** | **[Frontend Developer](https://jobr.pro/job/29945140/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Cairo, Egypt | On Site | Oct 09 |
@@ -51,21 +53,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[DEUNA](https://www.deuna.com)** | **[Senior Frontend Developer](https://jobr.pro/job/29417518/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bogotá | On Site | Oct 05 |
 | **[OMNI.PRO](https://omni.pro/)** | **[Frontend Developer-Adobe Commerce](https://jobr.pro/job/29403865/frontend-developer-adobe-commerce?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Teletrabajo | On Site | Oct 04 |
 | **[QuinStreet](https://www.quinstreet.com/)** | **[Frontend Developer](https://jobr.pro/job/29353883/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Monterrey, Mexico | Remote | Oct 04 |
-| **[Shalion](https://www.shalion.com/)** | **[Mid Frontend Developer](https://jobr.pro/job/29390955/mid-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Barcelona, Spain | On Site | Oct 03 |
-| **[Lightspeed Commerce](https://www.lightspeedhq.com/)** | **[Senior Frontend Developer - react.js (all genders)](https://jobr.pro/job/29367469/senior-frontend-developer-reactjs-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Berlin, Berlin, Germany | On Site | Oct 03 |
-| **[Lightspeed Commerce](https://www.lightspeedhq.com/)** | **[Frontend Developer - react.js (all genders)](https://jobr.pro/job/29367465/frontend-developer-reactjs-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Berlin, Berlin, Germany | On Site | Oct 03 |
-| **[Delasport](https://www.delasport.com/)** | **[Senior Frontend Developer (React)](https://jobr.pro/job/29357907/senior-frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Kyiv, Kyiv, Ukraine | On Site | Oct 03 |
-| **[Delasport](https://www.delasport.com/)** | **[Junior Frontend Developer (React, Kyiv office)](https://jobr.pro/job/29357905/junior-frontend-developer-react-kyiv-office?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Kyiv, Kyiv, Ukraine | On Site | Oct 03 |
-| **[EXANTE](https://exante.eu/)** | **[FrontEnd Developer](https://jobr.pro/job/29390664/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tbilisi, Georgia | On Site | Oct 03 |
-| **[EXL](https://www.exlservice.com/)** | **[Senior Frontend Developer-Application Development-Backend Development](https://jobr.pro/job/29311380/senior-frontend-developer-application-development-backend-development?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India | On Site | Oct 03 |
-| **[MasterBorn](https://masterborn.com/)** | **[Junior Frontend Developer (React.js)](https://jobr.pro/job/29358350/junior-frontend-developer-reactjs?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Wrocław | Remote | Oct 03 |
-| **[Sequoia Connect](https://www.sequoia-connect.com)** | **[Frontend Developer](https://jobr.pro/job/29327619/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Ciudad de México, CDMX, MX | On Site | Oct 03 |
-| **[Veeam Software](https://www.veeam.com/)** | **[Frontend Developer (TypeScript)](https://jobr.pro/job/29353517/frontend-developer-typescript?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Warsaw, Poland | On Site | Oct 03 |
-| **[Deutsche Telekom IT Solutions](https://www.deutschetelekomitsolutions.hu)** | **[Frontend Developer (REF4732Y)](https://jobr.pro/job/29371456/frontend-developer-ref4732y?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Budapest,Debrecen,Pécs,Szeged, Hungary | On Site | Oct 03 |
 
 ---
 
-**Current Stats:** 49 jobs | 16% remote | 44 companies | Avg salary: 195k  
+**Current Stats:** 40 jobs | 18% remote | 38 companies | Avg salary: 245k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
