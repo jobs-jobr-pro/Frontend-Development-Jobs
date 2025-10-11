@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Oct 11, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Oct 11, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,14 +13,18 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Monster Energy](https://www.monsterenergy.com)** | **[Frontend Developer II](https://jobr.pro/job/30016959/frontend-developer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Corona, California, United States | On Site | Oct 10 |
+| **[CowManager](https://www.cowmanager.nl/)** | **[Medior Frontend Developer](https://jobr.pro/job/30002651/medior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Harmelen, Utrecht, Nederland | On Site | Oct 10 |
 | **[Interfell](https://www.interfell.com)** | **[FRONTEND DEVELOPER](https://jobr.pro/job/29955396/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote | Remote | Oct 10 |
 | **[Ditto Insurance](https://joinditto.in/)** | **[Frontend Developer](https://jobr.pro/job/29958545/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Karnataka, Bengaluru, India | On Site | Oct 10 |
+| **[RELEX Solutions](https://www.relexsolutions.com/careers/)** | **[Senior Frontend Developer - CPG & Manufacturing Engineering](https://jobr.pro/job/30004446/senior-frontend-developer-cpg-manufacturing-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Helsinki, Finland; Stockholm, Sweden | On Site | Oct 10 |
 | **[Viaplay Group](https://www.viaplaygroup.com/)** | **[Frontend Developer](https://jobr.pro/job/29951407/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Stockholm, Sweden | On Site | Oct 10 |
 | **[Eliq](https://eliq.com/)** | **[Senior Frontend Developer (Angular) - Lithuania](https://jobr.pro/job/29959685/senior-frontend-developer-angular-lithuania?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Vilnius County, Vilnius, Lithuania | On Site | Oct 10 |
 | **[Eliq](https://eliq.com/)** | **[Senior Frontend Developer (Angular) - Sweden](https://jobr.pro/job/29959687/senior-frontend-developer-angular-sweden?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Västra Götaland County, Gothenburg, Sweden | On Site | Oct 10 |
 | **[ITB GmbH](https://www.itb-pim.de/home)** | **[Frontend Developer - Vue.Js (m/w/d)](https://jobr.pro/job/29953128/frontend-developer-vuejs-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Kamp-Lintfort, Germany | On Site | Oct 10 |
-| **[Deutsche Bank](https://www.db.com/)** | **[Frontend Developer, AS](https://jobr.pro/job/29989547/frontend-developer-as?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Pune - Margarpatta, India | On Site | Oct 10 |
+| **[GovCIO](https://govcio.com/)** | **[Appian Frontend Developer (Remote)](https://jobr.pro/job/30020629/appian-frontend-developer-remote?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote, United States | On Site | Oct 10 |
 | **[RBC](https://www.rbc.com/)** | **[Frontend Developer](https://jobr.pro/job/29986234/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | PERSIARAN IRC 2, IOI RESORT CITY IOI CITY TOWER ONE:PUTRAJAYA, Malaysia | On Site | Oct 10 |
+| **[Deutsche Bank](https://www.db.com/)** | **[Frontend Developer, AS](https://jobr.pro/job/29989547/frontend-developer-as?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Pune - Margarpatta, India | On Site | Oct 10 |
 | **[Rebike Mobility GmbH](https://rebike.com/)** | **[Frontend Developer React (m/w/d)](https://jobr.pro/job/29932467/frontend-developer-react-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | München, Kempten | On Site | Oct 09 |
 | **[Agora](https://www.agorareal.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/29876584/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Oct 09 |
 | **[Celfocus](https://www.celfocus.com)** | **[Frontend Developer](https://jobr.pro/job/29945140/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Cairo, Egypt | On Site | Oct 09 |
@@ -56,7 +60,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 40 jobs | 18% remote | 38 companies | Avg salary: 245k  
+**Current Stats:** 44 jobs | 16% remote | 42 companies | Avg salary: 187k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
