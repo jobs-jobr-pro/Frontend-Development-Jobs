@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Oct 11, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Oct 11, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -14,6 +14,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Monster Energy](https://www.monsterenergy.com)** | **[Frontend Developer II](https://jobr.pro/job/30016959/frontend-developer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Corona, California, United States | On Site | Oct 10 |
+| **[Haypp Group](https://hayppgroup.com/)** | **[Senior Frontend developer](https://jobr.pro/job/30038000/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Stockholm, Sweden | On Site | Oct 10 |
 | **[CowManager](https://www.cowmanager.nl/)** | **[Medior Frontend Developer](https://jobr.pro/job/30002651/medior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Harmelen, Utrecht, Nederland | On Site | Oct 10 |
 | **[Interfell](https://www.interfell.com)** | **[FRONTEND DEVELOPER](https://jobr.pro/job/29955396/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote | Remote | Oct 10 |
 | **[Ditto Insurance](https://joinditto.in/)** | **[Frontend Developer](https://jobr.pro/job/29958545/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Karnataka, Bengaluru, India | On Site | Oct 10 |
@@ -60,7 +61,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 44 jobs | 16% remote | 42 companies | Avg salary: 187k  
+**Current Stats:** 45 jobs | 16% remote | 43 companies | Avg salary: 187k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
