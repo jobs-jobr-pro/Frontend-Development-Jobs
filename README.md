@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Oct 11, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 12, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -56,12 +56,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[SAP](https://www.sap.com/)** | **[Senior Frontend Developer (React/Vue) - UX Foundation](https://jobr.pro/job/29419756/senior-frontend-developer-reactvue-ux-foundation?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Ho Chi Minh, VN, 700000 | On Site | Oct 06 |
 | **[BlackStone eIT](https://www.blackstoneeit.com/)** | **[Mid Frontend Developer](https://jobr.pro/job/29430215/mid-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Cairo, Cairo Governorate, Egypt | On Site | Oct 05 |
 | **[DEUNA](https://www.deuna.com)** | **[Senior Frontend Developer](https://jobr.pro/job/29417518/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bogotá | On Site | Oct 05 |
-| **[OMNI.PRO](https://omni.pro/)** | **[Frontend Developer-Adobe Commerce](https://jobr.pro/job/29403865/frontend-developer-adobe-commerce?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Teletrabajo | On Site | Oct 04 |
-| **[QuinStreet](https://www.quinstreet.com/)** | **[Frontend Developer](https://jobr.pro/job/29353883/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Monterrey, Mexico | Remote | Oct 04 |
 
 ---
 
-**Current Stats:** 45 jobs | 16% remote | 43 companies | Avg salary: 187k  
+**Current Stats:** 43 jobs | 14% remote | 41 companies | Avg salary: 187k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
