@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Oct 13, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Oct 13, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -31,11 +31,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Celfocus](https://www.celfocus.com)** | **[Frontend Developer](https://jobr.pro/job/29945140/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Cairo, Egypt | On Site | Oct 09 |
 | **[Devoteam](https://www.devoteam.com/)** | **[Banking Sector \| Senior Frontend Developer (Vuejs - French)](https://jobr.pro/job/29918813/banking-sector-senior-frontend-developer-vuejs-french?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lisboa, Lisboa, Portugal | On Site | Oct 09 |
 | **[Cofinpro AG](https://cofinpro.de/)** | **[Frontend Developer Angular / React / Vue.js (w/m/d)](https://jobr.pro/job/29841553/frontend-developer-angular-react-vuejs-wmd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Frankfurt am Main, München, Berlin, Karlsruhe, Hannover, Köln, Stuttgart | On Site | Oct 09 |
+| **[Netguru](https://www.netguru.com/)** | **[Senior Frontend Developer with Vue.js - Freelance](https://jobr.pro/job/29865309/senior-frontend-developer-with-vuejs-freelance?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Poland - Remote | Remote | Oct 09 |
+| **[Wolters Kluwer](https://www.wolterskluwer.com/)** | **[Product Software Engineer (React - Frontend Developer) Immediate Joiners only](https://jobr.pro/job/29876392/product-software-engineer-react-frontend-developer-immediate-joiners-only?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | IND - Pune, Kalyani Nagar, India | On Site | Oct 09 |
 | **[Anexia](https://www.anexia-it.com/)** | **[SENIOR FRONTEND DEVELOPER (M/W/D)](https://jobr.pro/job/29869489/senior-frontend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Vienna, Austria | On Site | Oct 09 |
 | **[CompuGroup Medical](https://www.cgm.com/)** | **[Frontend Developer Angular (m/f/d)](https://jobr.pro/job/29897118/frontend-developer-angular-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Koblenz \| Maria Trost 21, Tyskland | On Site | Oct 09 |
 | **[Morgan Stanley](https://www.morganstanley.com/)** | **[Frontend Developer (Angular) - Director - Software Engineering](https://jobr.pro/job/29856655/frontend-developer-angular-director-software-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | RMZ Ecoworld Business Park, India | On Site | Oct 09 |
-| **[Netguru](https://www.netguru.com/)** | **[Senior Frontend Developer with Vue.js - Freelance](https://jobr.pro/job/29865309/senior-frontend-developer-with-vuejs-freelance?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Poland - Remote | Remote | Oct 09 |
-| **[Wolters Kluwer](https://www.wolterskluwer.com/)** | **[Product Software Engineer (React - Frontend Developer) Immediate Joiners only](https://jobr.pro/job/29876392/product-software-engineer-react-frontend-developer-immediate-joiners-only?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | IND - Pune, Kalyani Nagar, India | On Site | Oct 09 |
 | **[ADP](https://www.adp.com/)** | **[Frontend Developer Intern](https://jobr.pro/job/29772292/frontend-developer-intern?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bucharest, rom-ro, Romania | On Site | Oct 08 |
 | **[BrainRocket](https://www.brainrocket.com/)** | **[Senior Frontend Developer (React) - Portugal](https://jobr.pro/job/29818836/senior-frontend-developer-react-portugal?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lisbon, Portugal | On Site | Oct 08 |
 | **[Wix](https://www.wix.com/)** | **[Frontend Developer - Components](https://jobr.pro/job/29743622/frontend-developer-components?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Oct 08 |
