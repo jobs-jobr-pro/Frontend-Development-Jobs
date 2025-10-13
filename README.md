@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Oct 13, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Oct 13, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[team.blue](https://team.blue/)** | **[Frontend Developer - Payment Solutions](https://jobr.pro/job/30094268/frontend-developer-payment-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Skanderborg, Denmark | Remote | Oct 13 |
+| **[cinify](https://cinify.io/)** | **[Frontend Developer (m/w/d) - in SaaS Startup (Remote / Hybrid)](https://jobr.pro/job/30089837/frontend-developer-mwd-in-saas-startup-remote-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Deutschland - Remote | On Site | Oct 12 |
 | **[Monster Energy](https://www.monsterenergy.com)** | **[Frontend Developer II](https://jobr.pro/job/30016959/frontend-developer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Corona, California, United States | On Site | Oct 10 |
 | **[Haypp Group](https://hayppgroup.com/)** | **[Senior Frontend developer](https://jobr.pro/job/30038000/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Stockholm, Sweden | On Site | Oct 10 |
 | **[CowManager](https://www.cowmanager.nl/)** | **[Medior Frontend Developer](https://jobr.pro/job/30002651/medior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Harmelen, Utrecht, Nederland | On Site | Oct 10 |
@@ -57,7 +59,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 41 jobs | 15% remote | 39 companies | Avg salary: 187k  
+**Current Stats:** 43 jobs | 16% remote | 41 companies | Avg salary: 187k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
