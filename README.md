@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Oct 13, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 14, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -48,18 +48,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Deloitte](https://www2.deloitte.com/)** | **[Senior Frontend Developer (Angular)](https://jobr.pro/job/29790943/senior-frontend-developer-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Dublin, Ireland | On Site | Oct 08 |
 | **[Veeam Software](https://www.veeam.com/)** | **[Frontend Developer](https://jobr.pro/job/29588984/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote, United States | Remote | Oct 07 |
 | **[Veeam Software](https://www.veeam.com/)** | **[Frontend Developer, Data Intelligence](https://jobr.pro/job/29588985/frontend-developer-data-intelligence?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote, United States | Remote | Oct 07 |
-| **[Behavox](https://www.behavox.com/)** | **[Frontend Developer 3 - Angular](https://jobr.pro/job/29478439/frontend-developer-3-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Canada | On Site | Oct 06 |
-| **[Project A](https://www.project-a.com/)** | **[Frontend Developer - Vue.js, Typescript (m/f/d)](https://jobr.pro/job/29475520/frontend-developer-vuejs-typescript-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Stuttgart | On Site | Oct 06 |
-| **[osapiens](https://osapiens.com/)** | **[Senior Frontend Developer - React (m/f/x)](https://jobr.pro/job/29497412/senior-frontend-developer-react-mfx?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Mannheim | On Site | Oct 06 |
-| **[CloudPSO](https://cloudpso.com/)** | **[Senior ReactJS Frontend Developer (Remote)](https://jobr.pro/job/29439639/senior-reactjs-frontend-developer-remote?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote | Remote | Oct 06 |
-| **[Solvios Technology](https://solvios.technology)** | **[Frontend Developer – UI/UX](https://jobr.pro/job/29466583/frontend-developer-uiux?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Ahmedabad, GUJARAT, India | On Site | Oct 06 |
-| **[VML](https://www.vml.com/)** | **[Senior Frontend Developer - Luxembourg](https://jobr.pro/job/29488513/senior-frontend-developer-luxembourg?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Luxembourg, Luxembourg District, Luxembourg | On Site | Oct 06 |
-| **[Lacias](https://www.lacias.com/)** | **[Frontend Developer (Angular 10+)](https://jobr.pro/job/29417923/frontend-developer-angular-10?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Panamá, Panama | On Site | Oct 06 |
-| **[SAP](https://www.sap.com/)** | **[Senior Frontend Developer (React/Vue) - UX Foundation](https://jobr.pro/job/29419756/senior-frontend-developer-reactvue-ux-foundation?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Ho Chi Minh, VN, 700000 | On Site | Oct 06 |
 
 ---
 
-**Current Stats:** 43 jobs | 16% remote | 41 companies | Avg salary: 187k  
+**Current Stats:** 35 jobs | 17% remote | 33 companies | Avg salary: 187k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
