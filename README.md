@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Oct 14, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 15, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -54,12 +54,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Sopra Steria](https://www.soprasteria.com)** | **[Senior C# .NET Frontend Developer (m/w/d)](https://jobr.pro/job/29832311/senior-c-net-frontend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | bundesweit, Germany | Remote | Oct 08 |
 | **[diconium](https://diconium.com/)** | **[AEM + Frontend developer (all genders)](https://jobr.pro/job/29789653/aem-frontend-developer-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lisbon, Portugal | On Site | Oct 08 |
 | **[Deloitte](https://www2.deloitte.com/)** | **[Senior Frontend Developer (Angular)](https://jobr.pro/job/29790943/senior-frontend-developer-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Dublin, Ireland | On Site | Oct 08 |
-| **[Veeam Software](https://www.veeam.com/)** | **[Frontend Developer](https://jobr.pro/job/29588984/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote, United States | Remote | Oct 07 |
-| **[Veeam Software](https://www.veeam.com/)** | **[Frontend Developer, Data Intelligence](https://jobr.pro/job/29588985/frontend-developer-data-intelligence?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote, United States | Remote | Oct 07 |
 
 ---
 
-**Current Stats:** 43 jobs | 16% remote | 41 companies | Avg salary: 187k  
+**Current Stats:** 41 jobs | 12% remote | 40 companies | Avg salary: 167k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
