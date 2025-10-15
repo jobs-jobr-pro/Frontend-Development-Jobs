@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Oct 15, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Oct 15, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[EXLY](https://exlyapp.com/)** | **[SDE-I Frontend Developer](https://jobr.pro/job/30267356/sde-i-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Haryana, Gurugram, India | On Site | Oct 15 |
+| **[MigrationIT](https://www.migrationit.com/)** | **[Frontend Developer](https://jobr.pro/job/30265089/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | New Cairo, Egypt | On Site | Oct 15 |
 | **[Technoly](https://technoly.com/)** | **[Frontend Developer Angular (m/w/d)](https://jobr.pro/job/30243818/frontend-developer-angular-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Berlin Boppstr. | On Site | Oct 15 |
 | **[CLS Health](https://cls.health/)** | **[Frontend Developer](https://jobr.pro/job/30250800/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Webster, TX, US | On Site | Oct 15 |
 | **[Unison Consulting Pte Ltd](https://www.unisonconsulting.com.sg)** | **[Dot Net Frontend Developer](https://jobr.pro/job/30242118/dot-net-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Singapore, Singapore, Singapore | On Site | Oct 15 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[ADP](https://www.adp.com/)** | **[Frontend Developer Intern](https://jobr.pro/job/29772292/frontend-developer-intern?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bucharest, rom-ro, Romania | On Site | Oct 08 |
 | **[BrainRocket](https://www.brainrocket.com/)** | **[Senior Frontend Developer (React) - Portugal](https://jobr.pro/job/29818836/senior-frontend-developer-react-portugal?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lisbon, Portugal | On Site | Oct 08 |
 | **[Wix](https://www.wix.com/)** | **[Frontend Developer - Components](https://jobr.pro/job/29743622/frontend-developer-components?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Oct 08 |
-| **[Oivan](https://oivan.com/)** | **[Frontend Developer (Angular)](https://jobr.pro/job/29651965/frontend-developer-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | HCMC, Da Nang | On Site | Oct 08 |
-| **[TransPerfect](https://www.transperfect.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/29815453/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Hanoi, Hà Nội, Vietnam | On Site | Oct 08 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 48 companies | Avg salary: 167k  
+**Current Stats:** 50 jobs | 12% remote | 47 companies | Avg salary: 167k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
