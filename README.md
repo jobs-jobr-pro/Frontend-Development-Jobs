@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Oct 16, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Oct 16, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -14,8 +14,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Copado](https://www.copado.com/)** | **[Frontend Developer](https://jobr.pro/job/30390917/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | 70130, New Orleans , LA, United States | On Site | Oct 16 |
+| **[Tezza Business Solutions](https://tezzasolutions.com/)** | **[Frontend Developer (AngularJS)](https://jobr.pro/job/30393527/frontend-developer-angularjs?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lagos, Lagos | On Site | Oct 16 |
 | **[Vista Group](https://vistagroup.co.nz/)** | **[Frontend Developer](https://jobr.pro/job/30371984/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Cape Town, Western Cape, South Africa | On Site | Oct 16 |
 | **[Governikus](https://www.governikus.de/)** | **[Frontend Developer (m/w/d)](https://jobr.pro/job/30380811/frontend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bremen, Germany | On Site | Oct 16 |
+| **[Aristocrat](https://www.aristocrat.com/)** | **[Sr Engineer II - Frontend Developer (Typescript, Javascript)](https://jobr.pro/job/30396266/sr-engineer-ii-frontend-developer-typescript-javascript?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Noida Office, India | On Site | Oct 16 |
 | **[EXLY](https://exlyapp.com/)** | **[SDE-I Frontend Developer](https://jobr.pro/job/30267356/sde-i-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Haryana, Gurugram, India | On Site | Oct 15 |
 | **[MigrationIT](https://www.migrationit.com/)** | **[Frontend Developer](https://jobr.pro/job/30265089/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | New Cairo, Egypt | On Site | Oct 15 |
 | **[Technoly](https://technoly.com/)** | **[Frontend Developer Angular (m/w/d)](https://jobr.pro/job/30243818/frontend-developer-angular-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Berlin Boppstr. | On Site | Oct 15 |
@@ -61,8 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Netguru](https://www.netguru.com/)** | **[Senior Frontend Developer with Vue.js - Freelance](https://jobr.pro/job/29865309/senior-frontend-developer-with-vuejs-freelance?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Poland - Remote | Remote | Oct 09 |
 | **[Anexia](https://www.anexia-it.com/)** | **[SENIOR FRONTEND DEVELOPER (M/W/D)](https://jobr.pro/job/29869489/senior-frontend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Vienna, Austria | On Site | Oct 09 |
 | **[CompuGroup Medical](https://www.cgm.com/)** | **[Frontend Developer Angular (m/f/d)](https://jobr.pro/job/29897118/frontend-developer-angular-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Koblenz \| Maria Trost 21, Tyskland | On Site | Oct 09 |
-| **[Morgan Stanley](https://www.morganstanley.com/)** | **[Frontend Developer (Angular) - Director - Software Engineering](https://jobr.pro/job/29856655/frontend-developer-angular-director-software-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | RMZ Ecoworld Business Park, India | On Site | Oct 09 |
-| **[Wolters Kluwer](https://www.wolterskluwer.com/)** | **[Product Software Engineer (React - Frontend Developer) Immediate Joiners only](https://jobr.pro/job/29876392/product-software-engineer-react-frontend-developer-immediate-joiners-only?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | IND - Pune, Kalyani Nagar, India | On Site | Oct 09 |
 
 ---
 
