@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Oct 17, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Oct 17, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -14,6 +14,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Thoughtworks](https://www.thoughtworks.com/)** | **[Lead Frontend Developer (React)](https://jobr.pro/job/30421015/lead-frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Brasil | Remote | Oct 16 |
+| **[ParentSquare](https://www.parentsquare.com/)** | **[Frontend Developer](https://jobr.pro/job/30442546/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote (United States) | Remote | Oct 16 |
 | **[Copado](https://www.copado.com/)** | **[Frontend Developer](https://jobr.pro/job/30390917/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | 70130, New Orleans , LA, United States | On Site | Oct 16 |
 | **[Tezza Business Solutions](https://tezzasolutions.com/)** | **[Frontend Developer (AngularJS)](https://jobr.pro/job/30393527/frontend-developer-angularjs?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lagos, Lagos | On Site | Oct 16 |
 | **[Enpal B.V.](https://www.enpal.de)** | **[(Junior) Frontend Developer – CRM (f/m/d)](https://jobr.pro/job/30427387/junior-frontend-developer-crm-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Berlin, BE, Germany | On Site | Oct 16 |
@@ -62,7 +63,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 46 jobs | 17% remote | 44 companies | Avg salary: 100k  
+**Current Stats:** 47 jobs | 19% remote | 45 companies | Avg salary: 123k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
