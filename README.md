@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Oct 16, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 17, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -55,18 +55,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[GovCIO](https://govcio.com/)** | **[Appian Frontend Developer (Remote)](https://jobr.pro/job/30020629/appian-frontend-developer-remote?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote, United States | On Site | Oct 10 |
 | **[RBC](https://www.rbc.com/)** | **[Frontend Developer](https://jobr.pro/job/29986234/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | PERSIARAN IRC 2, IOI RESORT CITY IOI CITY TOWER ONE:PUTRAJAYA, Malaysia | On Site | Oct 10 |
 | **[Deutsche Bank](https://www.db.com/)** | **[Frontend Developer, AS](https://jobr.pro/job/29989547/frontend-developer-as?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Pune - Margarpatta, India | On Site | Oct 10 |
-| **[Rebike Mobility GmbH](https://rebike.com/)** | **[Frontend Developer React (m/w/d)](https://jobr.pro/job/29932467/frontend-developer-react-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | München, Kempten | On Site | Oct 09 |
-| **[Agora](https://www.agorareal.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/29876584/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Oct 09 |
-| **[Celfocus](https://www.celfocus.com)** | **[Frontend Developer](https://jobr.pro/job/29945140/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Cairo, Egypt | On Site | Oct 09 |
-| **[Devoteam](https://www.devoteam.com/)** | **[Banking Sector \| Senior Frontend Developer (Vuejs - French)](https://jobr.pro/job/29918813/banking-sector-senior-frontend-developer-vuejs-french?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lisboa, Lisboa, Portugal | On Site | Oct 09 |
-| **[Cofinpro AG](https://cofinpro.de/)** | **[Frontend Developer Angular / React / Vue.js (w/m/d)](https://jobr.pro/job/29841553/frontend-developer-angular-react-vuejs-wmd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Frankfurt am Main, München, Berlin, Karlsruhe, Hannover, Köln, Stuttgart | On Site | Oct 09 |
-| **[Netguru](https://www.netguru.com/)** | **[Senior Frontend Developer with Vue.js - Freelance](https://jobr.pro/job/29865309/senior-frontend-developer-with-vuejs-freelance?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Poland - Remote | Remote | Oct 09 |
-| **[Anexia](https://www.anexia-it.com/)** | **[SENIOR FRONTEND DEVELOPER (M/W/D)](https://jobr.pro/job/29869489/senior-frontend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Vienna, Austria | On Site | Oct 09 |
-| **[CompuGroup Medical](https://www.cgm.com/)** | **[Frontend Developer Angular (m/f/d)](https://jobr.pro/job/29897118/frontend-developer-angular-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Koblenz \| Maria Trost 21, Tyskland | On Site | Oct 09 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 47 companies | Avg salary: 167k  
+**Current Stats:** 42 jobs | 12% remote | 40 companies | Avg salary: 100k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
