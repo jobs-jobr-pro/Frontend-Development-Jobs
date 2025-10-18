@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Oct 18, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Oct 18, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[WIN Home Inspection](https://wini.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/30507146/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Greater Delhi Area | Remote | Oct 17 |
+| **[Ruby Labs](https://rubylabs.com/)** | **[Frontend Developer & Designer](https://jobr.pro/job/30505096/frontend-developer-designer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Ukraine | Remote | Oct 17 |
 | **[Archesys Inc](https://www.archesys.io)** | **[Frontend Developer - Ruby on Rails - (Remote)](https://jobr.pro/job/30459421/frontend-developer-ruby-on-rails-remote?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Baltimore, MD, US | Remote | Oct 17 |
 | **[Thoughtworks](https://www.thoughtworks.com/)** | **[Lead Frontend Developer (React)](https://jobr.pro/job/30421015/lead-frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Brasil | Remote | Oct 16 |
 | **[ParentSquare](https://www.parentsquare.com/)** | **[Frontend Developer](https://jobr.pro/job/30442546/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote (United States) | Remote | Oct 16 |
@@ -41,7 +43,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[DEPT®](https://www.deptagency.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/30225749/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Amsterdam | On Site | Oct 14 |
 | **[MealSuite](https://www.mealsuite.com/)** | **[Frontend developer](https://jobr.pro/job/30154763/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Ho Chi Minh City, Ho Chi Minh City, Vietnam | On Site | Oct 14 |
 | **[ATCOM](https://www.atcom.gr)** | **[Senior Frontend Developer (React)](https://jobr.pro/job/30173342/senior-frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Athens, Attica, Greece | On Site | Oct 14 |
-| **[WIN Home Inspection](https://wini.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/30142373/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Greater Delhi Area | Remote | Oct 13 |
 | **[Octopus Energy](https://octopus.energy/)** | **[Frontend Developer](https://jobr.pro/job/30144977/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Ascoli Piceno (IT) | On Site | Oct 13 |
 | **[Entain Baltics and Nordics](https://www.entaincareers.com/)** | **[FRONTEND DEVELOPER (React.js)](https://jobr.pro/job/30174610/frontend-developer-reactjs?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Rīga, Latvia | On Site | Oct 13 |
 | **[Future Processing](https://www.future-processing.com)** | **[Senior Frontend Developer (React.js)](https://jobr.pro/job/30142235/senior-frontend-developer-reactjs?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Gliwice | On Site | Oct 13 |
@@ -51,7 +52,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 35 jobs | 26% remote | 34 companies | Avg salary: 145k  
+**Current Stats:** 36 jobs | 28% remote | 35 companies | Avg salary: 145k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
