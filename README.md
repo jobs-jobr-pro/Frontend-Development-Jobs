@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Oct 20, 2025 at 16:31 UTC</small></sub>
+<sub><small>Last updated: Oct 20, 2025 at 20:57 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -14,6 +14,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[MigrationIT](https://www.migrationit.com/)** | **[Frontend Developer](https://jobr.pro/job/30578642/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | New Cairo, Egypt | On Site | Oct 20 |
+| **[Axians](https://www.axians.com/)** | **[Frontend Developer - Fundo Ambiental](https://jobr.pro/job/30595053/frontend-developer-fundo-ambiental?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lisbon, Lisbon | On Site | Oct 20 |
+| **[PwC Sverige](https://www.pwc.se/)** | **[Senior Frontend Developer](https://jobr.pro/job/30596854/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Stockholm | On Site | Oct 20 |
+| **[Papa Johns](https://www.papajohns.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/30596766/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | HQ Atlanta, United States | On Site | Oct 20 |
+| **[IG Group](https://www.iggroup.com/)** | **[Senior AEM Frontend Developer](https://jobr.pro/job/30603722/senior-aem-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bangalore, India | On Site | Oct 20 |
 | **[Next Mobility Labs](https://www.nextmobilitylabs.com/)** | **[Frontend Developer in Germany (All genders)](https://jobr.pro/job/30568108/frontend-developer-in-germany-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Mainz, Frankfurt am Main, Remote | Remote | Oct 19 |
 | **[Lovepop](https://www.lovepop.com/)** | **[Shopify Frontend Developer](https://jobr.pro/job/30558287/shopify-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Ho Chi Minh City, Vietnam | On Site | Oct 19 |
 | **[MigrationIT](https://www.migrationit.com/)** | **[Sr. Frontend Developer](https://jobr.pro/job/30535804/sr-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Al Riyadh, Saudi Arabia | On Site | Oct 18 |
@@ -55,7 +59,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 39 jobs | 28% remote | 38 companies | Avg salary: 145k  
+**Current Stats:** 43 jobs | 26% remote | 42 companies | Avg salary: 145k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
