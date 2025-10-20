@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Oct 19, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 20, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -50,11 +50,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Future Processing](https://www.future-processing.com)** | **[Senior Frontend Developer (React.js)](https://jobr.pro/job/30142235/senior-frontend-developer-reactjs?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Gliwice | On Site | Oct 13 |
 | **[team.blue](https://team.blue/)** | **[Frontend Developer - Payment Solutions](https://jobr.pro/job/30094268/frontend-developer-payment-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Skanderborg, Denmark | Remote | Oct 13 |
 | **[Tylko](https://tylko.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/30139342/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Warszawa, Mazowieckie, Poland | On Site | Oct 13 |
-| **[cinify](https://cinify.io/)** | **[Frontend Developer (m/w/d) - in SaaS Startup (Remote / Hybrid)](https://jobr.pro/job/30089837/frontend-developer-mwd-in-saas-startup-remote-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Deutschland - Remote | On Site | Oct 12 |
 
 ---
 
-**Current Stats:** 38 jobs | 26% remote | 37 companies | Avg salary: 145k  
+**Current Stats:** 37 jobs | 27% remote | 36 companies | Avg salary: 145k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
