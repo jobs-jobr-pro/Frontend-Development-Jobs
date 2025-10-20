@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Oct 20, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Oct 20, 2025 at 16:31 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[MigrationIT](https://www.migrationit.com/)** | **[Frontend Developer](https://jobr.pro/job/30578642/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | New Cairo, Egypt | On Site | Oct 20 |
 | **[Next Mobility Labs](https://www.nextmobilitylabs.com/)** | **[Frontend Developer in Germany (All genders)](https://jobr.pro/job/30568108/frontend-developer-in-germany-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Mainz, Frankfurt am Main, Remote | Remote | Oct 19 |
 | **[Lovepop](https://www.lovepop.com/)** | **[Shopify Frontend Developer](https://jobr.pro/job/30558287/shopify-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Ho Chi Minh City, Vietnam | On Site | Oct 19 |
 | **[MigrationIT](https://www.migrationit.com/)** | **[Sr. Frontend Developer](https://jobr.pro/job/30535804/sr-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Al Riyadh, Saudi Arabia | On Site | Oct 18 |
@@ -32,7 +33,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Vista Group](https://vistagroup.co.nz/)** | **[Frontend Developer](https://jobr.pro/job/30371984/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Cape Town, Western Cape, South Africa | On Site | Oct 16 |
 | **[Governikus](https://www.governikus.de/)** | **[Frontend Developer (m/w/d)](https://jobr.pro/job/30380811/frontend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bremen, Germany | On Site | Oct 16 |
 | **[EXLY](https://exlyapp.com/)** | **[SDE-I Frontend Developer](https://jobr.pro/job/30267356/sde-i-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Haryana, Gurugram, India | On Site | Oct 15 |
-| **[MigrationIT](https://www.migrationit.com/)** | **[Frontend Developer](https://jobr.pro/job/30265089/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | New Cairo, Egypt | On Site | Oct 15 |
 | **[Technoly](https://technoly.com/)** | **[Frontend Developer Angular (m/w/d)](https://jobr.pro/job/30243818/frontend-developer-angular-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Berlin Boppstr. | On Site | Oct 15 |
 | **[CLS Health](https://cls.health/)** | **[Frontend Developer](https://jobr.pro/job/30250800/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Webster, TX, US | On Site | Oct 15 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/)** | **[Intern - Frontend Developer/Typescript](https://jobr.pro/job/30235651/intern-frontend-developertypescript?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Czech Republic - Brno - Vlastimila Pecha 1282/12, Czechia | On Site | Oct 15 |
