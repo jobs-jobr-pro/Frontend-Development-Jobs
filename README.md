@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Oct 20, 2025 at 09:32 UTC</small></sub>
+<sub><small>Last updated: Oct 20, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Next Mobility Labs](https://www.nextmobilitylabs.com/)** | **[Frontend Developer in Germany (All genders)](https://jobr.pro/job/30568108/frontend-developer-in-germany-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Mainz, Frankfurt am Main, Remote | Remote | Oct 19 |
+| **[Lovepop](https://www.lovepop.com/)** | **[Shopify Frontend Developer](https://jobr.pro/job/30558287/shopify-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Ho Chi Minh City, Vietnam | On Site | Oct 19 |
 | **[MigrationIT](https://www.migrationit.com/)** | **[Sr. Frontend Developer](https://jobr.pro/job/30535804/sr-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Al Riyadh, Saudi Arabia | On Site | Oct 18 |
 | **[WIN Home Inspection](https://wini.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/30507146/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Greater Delhi Area | Remote | Oct 17 |
 | **[Nayax](https://www.nayax.com/)** | **[Lead Frontend Developer- Tigapo](https://jobr.pro/job/30540578/lead-frontend-developer-tigapo?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Herzliya, Israel, IL | On Site | Oct 17 |
@@ -53,7 +55,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 37 jobs | 27% remote | 36 companies | Avg salary: 145k  
+**Current Stats:** 39 jobs | 28% remote | 38 companies | Avg salary: 145k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
