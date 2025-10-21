@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Oct 21, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Oct 21, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,8 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Indium Software](https://www.indiumsoftware.com/)** | **[Backend developer/Frontend developer/Fullstack developer/Cloud & Devops Engineer](https://jobr.pro/job/30666661/backend-developerfrontend-developerfullstack-developercloud-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Chennai City Corporation, India | On Site | Oct 21 |
 | **[REMIRA GmbH](https://www.remira.com/)** | **[Senior Frontend Developer (w/m/d)](https://jobr.pro/job/30641441/senior-frontend-developer-wmd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Dortmund, Hamburg, Ludwigsburg, Bad Hersfeld oder remote | Remote | Oct 21 |
 | **[Visma](https://www.visma.fi/)** | **[Frontend Developer, Accode](https://jobr.pro/job/30655089/frontend-developer-accode?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lappeenranta, Finland | Remote | Oct 21 |
+| **[Envidan](https://www.envidan.com/)** | **[Frontend Developer – skab intuitive brugerløsninger i Flutter sammen med os](https://jobr.pro/job/30661612/frontend-developer-skab-intuitive-brugerlsninger-i-flutter-sammen-med-os?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Silkeborg, Denmark | On Site | Oct 21 |
 | **[Thoughtworks](https://www.thoughtworks.com/)** | **[Senior Consultant: Frontend Developer](https://jobr.pro/job/30630345/senior-consultant-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Gurgaon | On Site | Oct 21 |
 | **[Behavox](https://www.behavox.com/)** | **[Frontend Developer 3 - Angular](https://jobr.pro/job/30624012/frontend-developer-3-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Canada | On Site | Oct 21 |
 | **[Sopra Steria](https://www.soprasteria.com)** | **[CDI - Développeur Front end - Frontend Developer – AI Products - SBS - Paris](https://jobr.pro/job/30613279/cdi-developpeur-front-end-frontend-developer-ai-products-sbs-paris?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Courbevoie, IDF, France | On Site | Oct 20 |
@@ -58,7 +60,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 42 jobs | 29% remote | 40 companies | Avg salary: 119k  
+**Current Stats:** 44 jobs | 27% remote | 42 companies | Avg salary: 119k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
