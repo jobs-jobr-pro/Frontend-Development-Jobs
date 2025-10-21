@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Oct 20, 2025 at 20:57 UTC</small></sub>
+<sub><small>Last updated: Oct 21, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -51,15 +51,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[DEPT®](https://www.deptagency.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/30225749/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Amsterdam | On Site | Oct 14 |
 | **[ATCOM](https://www.atcom.gr)** | **[Senior Frontend Developer (React)](https://jobr.pro/job/30173342/senior-frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Athens, Attica, Greece | On Site | Oct 14 |
 | **[MealSuite](https://www.mealsuite.com/)** | **[Frontend developer](https://jobr.pro/job/30154763/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Ho Chi Minh City, Ho Chi Minh City, Vietnam | On Site | Oct 14 |
-| **[Octopus Energy](https://octopus.energy/)** | **[Frontend Developer](https://jobr.pro/job/30144977/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Ascoli Piceno (IT) | On Site | Oct 13 |
-| **[Entain Baltics and Nordics](https://www.entaincareers.com/)** | **[FRONTEND DEVELOPER (React.js)](https://jobr.pro/job/30174610/frontend-developer-reactjs?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Rīga, Latvia | On Site | Oct 13 |
-| **[Future Processing](https://www.future-processing.com)** | **[Senior Frontend Developer (React.js)](https://jobr.pro/job/30142235/senior-frontend-developer-reactjs?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Gliwice | On Site | Oct 13 |
-| **[team.blue](https://team.blue/)** | **[Frontend Developer - Payment Solutions](https://jobr.pro/job/30094268/frontend-developer-payment-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Skanderborg, Denmark | Remote | Oct 13 |
-| **[Tylko](https://tylko.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/30139342/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Warszawa, Mazowieckie, Poland | On Site | Oct 13 |
 
 ---
 
-**Current Stats:** 43 jobs | 26% remote | 42 companies | Avg salary: 145k  
+**Current Stats:** 38 jobs | 26% remote | 37 companies | Avg salary: 145k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
