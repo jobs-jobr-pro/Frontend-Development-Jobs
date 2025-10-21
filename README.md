@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Oct 21, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 21, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Sopra Steria](https://www.soprasteria.com)** | **[CDI - Développeur Front end - Frontend Developer – AI Products - SBS - Paris](https://jobr.pro/job/30613279/cdi-developpeur-front-end-frontend-developer-ai-products-sbs-paris?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Courbevoie, IDF, France | On Site | Oct 20 |
 | **[MigrationIT](https://www.migrationit.com/)** | **[Frontend Developer](https://jobr.pro/job/30578642/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | New Cairo, Egypt | On Site | Oct 20 |
 | **[Axians](https://www.axians.com/)** | **[Frontend Developer - Fundo Ambiental](https://jobr.pro/job/30595053/frontend-developer-fundo-ambiental?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lisbon, Lisbon | On Site | Oct 20 |
 | **[PwC Sverige](https://www.pwc.se/)** | **[Senior Frontend Developer](https://jobr.pro/job/30596854/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Stockholm | On Site | Oct 20 |
@@ -54,7 +55,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 38 jobs | 26% remote | 37 companies | Avg salary: 145k  
+**Current Stats:** 39 jobs | 26% remote | 38 companies | Avg salary: 145k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
