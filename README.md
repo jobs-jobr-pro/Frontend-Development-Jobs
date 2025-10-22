@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Oct 22, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Oct 22, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[apo.com Group](https://group-apo.com/)** | **[Senior Frontend Developer (m/w/d)](https://jobr.pro/job/30743088/senior-frontend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Markkleeberg, Hybrid, Remote | Remote | Oct 22 |
+| **[EXL](https://www.exlservice.com/)** | **[Frontend Developer-Product Development-Product Development](https://jobr.pro/job/30754044/frontend-developer-product-development-product-development?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India | On Site | Oct 22 |
+| **[NTT DATA](https://nttdata.com)** | **[Java and OpenSource ReactJS Frontend Developer](https://jobr.pro/job/30739459/java-and-opensource-reactjs-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bangalore, KA, IN | On Site | Oct 22 |
 | **[Indium Software](https://www.indiumsoftware.com/)** | **[Backend developer/Frontend developer/Fullstack developer/Cloud & Devops Engineer](https://jobr.pro/job/30666661/backend-developerfrontend-developerfullstack-developercloud-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Chennai City Corporation, India | On Site | Oct 21 |
 | **[osapiens](https://osapiens.com/)** | **[Senior Frontend Developer - React (m/f/x)](https://jobr.pro/job/30731762/senior-frontend-developer-react-mfx?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | München | On Site | Oct 21 |
 | **[REMIRA GmbH](https://www.remira.com/)** | **[Senior Frontend Developer (w/m/d)](https://jobr.pro/job/30641441/senior-frontend-developer-wmd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Dortmund, Hamburg, Ludwigsburg, Bad Hersfeld oder remote | Remote | Oct 21 |
@@ -54,7 +57,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 38 jobs | 32% remote | 36 companies | Avg salary: 119k  
+**Current Stats:** 41 jobs | 32% remote | 39 companies | Avg salary: 119k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
