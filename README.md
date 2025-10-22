@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Oct 22, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Oct 22, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -14,6 +14,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Indium Software](https://www.indiumsoftware.com/)** | **[Backend developer/Frontend developer/Fullstack developer/Cloud & Devops Engineer](https://jobr.pro/job/30666661/backend-developerfrontend-developerfullstack-developercloud-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Chennai City Corporation, India | On Site | Oct 21 |
+| **[osapiens](https://osapiens.com/)** | **[Senior Frontend Developer - React (m/f/x)](https://jobr.pro/job/30731762/senior-frontend-developer-react-mfx?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | München | On Site | Oct 21 |
 | **[REMIRA GmbH](https://www.remira.com/)** | **[Senior Frontend Developer (w/m/d)](https://jobr.pro/job/30641441/senior-frontend-developer-wmd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Dortmund, Hamburg, Ludwigsburg, Bad Hersfeld oder remote | Remote | Oct 21 |
 | **[Visma](https://www.visma.fi/)** | **[Frontend Developer, Accode](https://jobr.pro/job/30655089/frontend-developer-accode?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lappeenranta, Finland | Remote | Oct 21 |
 | **[Envidan](https://www.envidan.com/)** | **[Frontend Developer – skab intuitive brugerløsninger i Flutter sammen med os](https://jobr.pro/job/30661612/frontend-developer-skab-intuitive-brugerlsninger-i-flutter-sammen-med-os?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Silkeborg, Denmark | On Site | Oct 21 |
@@ -53,7 +54,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 37 jobs | 32% remote | 35 companies | Avg salary: 119k  
+**Current Stats:** 38 jobs | 32% remote | 36 companies | Avg salary: 119k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
