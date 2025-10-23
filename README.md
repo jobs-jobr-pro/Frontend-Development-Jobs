@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Oct 23, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Oct 23, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,10 +13,15 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[2Brains](https://2brains.lat/)** | **[Software Engineer - Frontend Developer](https://jobr.pro/job/30808746/software-engineer-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Latinoamérica | On Site | Oct 22 |
 | **[Njuškalo](https://www.njuskalo.hr/)** | **[Frontend Developer (Vue.js) (m/f)](https://jobr.pro/job/30785573/frontend-developer-vuejs-mf?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Zagreb, Croatia (Hybrid) | On Site | Oct 22 |
+| **[Nearsure](https://www.nearsure.com/)** | **[(UP055) Senior AEM Frontend Developer](https://jobr.pro/job/30810654/up055-senior-aem-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Latin America - Remote | Remote | Oct 22 |
 | **[MigrationIT](https://www.migrationit.com/)** | **[Sr. Frontend Developer](https://jobr.pro/job/30763143/sr-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Al Riyadh, Saudi Arabia | On Site | Oct 22 |
 | **[Indium Software](https://www.indiumsoftware.com/)** | **[Backend developer/Frontend developer/Fullstack developer/Cloud & Devops Engineer](https://jobr.pro/job/30762179/backend-developerfrontend-developerfullstack-developercloud-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote | Remote | Oct 22 |
+| **[Xebia](https://xebia.com/)** | **[Senior Frontend Developer (React)](https://jobr.pro/job/30807278/senior-frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote job | Remote | Oct 22 |
+| **[Prenomics](https://prenomics.com)** | **[Junior Frontend Developer](https://jobr.pro/job/30824348/junior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Barcelona, Spain | On Site | Oct 22 |
 | **[apo.com Group](https://group-apo.com/)** | **[Senior Frontend Developer (m/w/d)](https://jobr.pro/job/30743088/senior-frontend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Markkleeberg, Hybrid, Remote | Remote | Oct 22 |
+| **[Continental](https://www.continental.com)** | **[Frontend Developer](https://jobr.pro/job/30825010/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Shanghai, China | On Site | Oct 22 |
 | **[EXL](https://www.exlservice.com/)** | **[Frontend Developer-Product Development-Product Development](https://jobr.pro/job/30754044/frontend-developer-product-development-product-development?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India | On Site | Oct 22 |
 | **[NTT DATA](https://nttdata.com)** | **[Java and OpenSource ReactJS Frontend Developer](https://jobr.pro/job/30739459/java-and-opensource-reactjs-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bangalore, KA, IN | On Site | Oct 22 |
 | **[Oracle](https://www.oracle.com/)** | **[Remote Senior/Principal Frontend Developer \| New Gen AI Product Development Oracle Health](https://jobr.pro/job/30765902/remote-seniorprincipal-frontend-developer-new-gen-ai-product-development-oracle-health?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | United States | Remote | Oct 21 |
@@ -52,7 +57,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 36 jobs | 36% remote | 34 companies | Avg salary: 145k  
+**Current Stats:** 41 jobs | 37% remote | 38 companies | Avg salary: 145k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
