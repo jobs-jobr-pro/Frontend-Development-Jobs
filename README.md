@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Oct 22, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 23, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -49,17 +49,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Vista Group](https://vistagroup.co.nz/)** | **[Frontend Developer](https://jobr.pro/job/30371984/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Cape Town, Western Cape, South Africa | On Site | Oct 16 |
 | **[Governikus](https://www.governikus.de/)** | **[Frontend Developer (m/w/d)](https://jobr.pro/job/30380811/frontend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bremen, Germany | On Site | Oct 16 |
 | **[Aristocrat](https://www.aristocrat.com/)** | **[Sr Engineer II - Frontend Developer (Typescript, Javascript)](https://jobr.pro/job/30396266/sr-engineer-ii-frontend-developer-typescript-javascript?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Noida Office, India | On Site | Oct 16 |
-| **[EXLY](https://exlyapp.com/)** | **[SDE-I Frontend Developer](https://jobr.pro/job/30267356/sde-i-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Haryana, Gurugram, India | On Site | Oct 15 |
-| **[Technoly](https://technoly.com/)** | **[Frontend Developer Angular (m/w/d)](https://jobr.pro/job/30243818/frontend-developer-angular-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Berlin Boppstr. | On Site | Oct 15 |
-| **[CLS Health](https://cls.health/)** | **[Frontend Developer](https://jobr.pro/job/30250800/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Webster, TX, US | On Site | Oct 15 |
-| **[Unison Consulting Pte Ltd](https://www.unisonconsulting.com.sg)** | **[Dot Net Frontend Developer](https://jobr.pro/job/30242118/dot-net-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Singapore, Singapore, Singapore | On Site | Oct 15 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com/)** | **[Intern - Frontend Developer/Typescript](https://jobr.pro/job/30235651/intern-frontend-developertypescript?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Czech Republic - Brno - Vlastimila Pecha 1282/12, Czechia | On Site | Oct 15 |
-| **[Netguru](https://www.netguru.com/)** | **[(Senior) Frontend Developer - mohi.to (Polish-speaking)](https://jobr.pro/job/30244841/senior-frontend-developer-mohito-polish-speaking?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Poland - Remote | Remote | Oct 15 |
-| **[evoila GmbH](https://evoila.com/de/)** | **[Angular Senior Frontend Developer (m/w/d) - Frankfurt a.M. (Hybrid)](https://jobr.pro/job/30244680/angular-senior-frontend-developer-mwd-frankfurt-am-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Frankfurt Remote, Germany | Remote | Oct 15 |
 
 ---
 
-**Current Stats:** 43 jobs | 35% remote | 41 companies | Avg salary: 145k  
+**Current Stats:** 36 jobs | 36% remote | 34 companies | Avg salary: 145k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
