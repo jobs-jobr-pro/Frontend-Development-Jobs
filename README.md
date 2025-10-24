@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Oct 24, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Oct 24, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Robots & Pencils](https://robotsandpencils.com/)** | **[Senior Frontend Developer, L3](https://jobr.pro/job/30897276/senior-frontend-developer-l3?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Calgary, Alberta (Remote-Friendly) | Remote | Oct 23 |
+| **[Creative Force](https://www.creativeforce.io/)** | **[Frontend Developer (ReactJS & PHP)](https://jobr.pro/job/30912746/frontend-developer-reactjs-php?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Hanoi, Vietnam | On Site | Oct 23 |
 | **[Wecasa](https://www.wecasa.fr/)** | **[Frontend Developer H/F/NB - CDI](https://jobr.pro/job/30850779/frontend-developer-hfnb-cdi?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Paris, France | On Site | Oct 23 |
 | **[KNOREX](https://www.knorex.com/)** | **[Software Engineer (Frontend Developer)](https://jobr.pro/job/30853004/software-engineer-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Ho Chi Minh City, Ho Chi Minh City, Vietnam | On Site | Oct 23 |
 | **[DXC Technology](https://dxc.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/30887244/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | ILO01 - Galway, IE (ILOL1), Ireland | On Site | Oct 23 |
@@ -51,7 +53,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 35 jobs | 31% remote | 34 companies | Avg salary: 115k  
+**Current Stats:** 37 jobs | 32% remote | 36 companies | Avg salary: 115k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
