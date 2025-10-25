@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Oct 25, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Oct 25, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,8 +13,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Allata](https://www.allata.com/)** | **[FrontEnd Developer (Vue)](https://jobr.pro/job/30990974/frontend-developer-vue?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Dallas, TX | On Site | Oct 24 |
+| **[WIN Home Inspection](https://wini.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/30991224/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Greater Delhi Area | Remote | Oct 24 |
 | **[MigrationIT](https://www.migrationit.com/)** | **[Frontend Developer](https://jobr.pro/job/30945453/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | New Cairo, Egypt | On Site | Oct 24 |
+| **[ITB GmbH](https://www.itb-pim.de/home)** | **[Frontend Developer (m/w/d)](https://jobr.pro/job/31000410/frontend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Kamp-Lintfort, Germany | On Site | Oct 24 |
 | **[Pixel Plus AG](https://pixel-plus.ch)** | **[Vue.js / Tailwind UI Frontend Developer](https://jobr.pro/job/30939789/vuejs-tailwind-ui-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Pristina, Kosovo | On Site | Oct 24 |
+| **[BrainRocket](https://www.brainrocket.com/)** | **[Senior Frontend Developer (Angular) - Portugal](https://jobr.pro/job/30984523/senior-frontend-developer-angular-portugal?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lisbon, Portugal | On Site | Oct 24 |
+| **[TransPerfect](https://www.transperfect.com/)** | **[Frontend Developer (Vue.js or React or Angular.js)](https://jobr.pro/job/30985837/frontend-developer-vuejs-or-react-or-angularjs?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | London, Greater London, United Kingdom | On Site | Oct 24 |
 | **[INNOCV Solutions](https://www.innocv.com)** | **[Frontend Developer (HTML, CSS, JS) - Based in Milan](https://jobr.pro/job/30933781/frontend-developer-html-css-js-based-in-milan?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Roma, Italy | On Site | Oct 23 |
 | **[Robots & Pencils](https://robotsandpencils.com/)** | **[Senior Frontend Developer, L3](https://jobr.pro/job/30897276/senior-frontend-developer-l3?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Calgary, Alberta (Remote-Friendly) | Remote | Oct 23 |
 | **[Creative Force](https://www.creativeforce.io/)** | **[Frontend Developer (ReactJS & PHP)](https://jobr.pro/job/30912746/frontend-developer-reactjs-php?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Hanoi, Vietnam | On Site | Oct 23 |
@@ -50,7 +55,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 34 jobs | 26% remote | 33 companies | Avg salary: 113k  
+**Current Stats:** 39 jobs | 26% remote | 38 companies | Avg salary: 113k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
