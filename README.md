@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Oct 24, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 25, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -47,15 +47,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Papa Johns](https://www.papajohns.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/30596766/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | HQ Atlanta, United States | On Site | Oct 20 |
 | **[Next Mobility Labs](https://www.nextmobilitylabs.com/)** | **[Frontend Developer in Germany (All genders)](https://jobr.pro/job/30568108/frontend-developer-in-germany-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Mainz, Frankfurt am Main, Remote | Remote | Oct 19 |
 | **[Lovepop](https://www.lovepop.com/)** | **[Shopify Frontend Developer](https://jobr.pro/job/30558287/shopify-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Ho Chi Minh City, Vietnam | On Site | Oct 19 |
-| **[WIN Home Inspection](https://wini.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/30507146/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Greater Delhi Area | Remote | Oct 17 |
-| **[Nayax](https://www.nayax.com/)** | **[Lead Frontend Developer- Tigapo](https://jobr.pro/job/30540578/lead-frontend-developer-tigapo?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Herzliya, Israel, IL | On Site | Oct 17 |
-| **[BIP](https://www.bip-group.com/)** | **[Frontend Developer](https://jobr.pro/job/30531884/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Roma, Lazio, Italy | On Site | Oct 17 |
-| **[Ruby Labs](https://rubylabs.com/)** | **[Frontend Developer & Designer](https://jobr.pro/job/30505096/frontend-developer-designer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Ukraine | Remote | Oct 17 |
-| **[Archesys Inc](https://www.archesys.io)** | **[Frontend Developer - Ruby on Rails - (Remote)](https://jobr.pro/job/30459421/frontend-developer-ruby-on-rails-remote?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Baltimore, MD, US | Remote | Oct 17 |
 
 ---
 
-**Current Stats:** 39 jobs | 31% remote | 38 companies | Avg salary: 115k  
+**Current Stats:** 34 jobs | 26% remote | 33 companies | Avg salary: 113k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
