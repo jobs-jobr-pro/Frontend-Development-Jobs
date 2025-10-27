@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Oct 27, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Oct 27, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,8 +13,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[BigStep Technologies](https://bigsteptech.com/)** | **[Frontend Developer (Remote)](https://jobr.pro/job/31069295/frontend-developer-remote?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Gurgaon, India | Remote | Oct 27 |
+| **[MigrationIT](https://www.migrationit.com/)** | **[Sr. Frontend Developer](https://jobr.pro/job/31063649/sr-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Al Riyadh, Saudi Arabia | On Site | Oct 27 |
 | **[Xensam](https://www.xensam.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/31058575/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Solna, Sweden | On Site | Oct 27 |
 | **[Valtech](https://www.valtech.com/)** | **[Salesforce B2C Commerce Cloud - Frontend Developer](https://jobr.pro/job/31045890/salesforce-b2c-commerce-cloud-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bengaluru | On Site | Oct 27 |
+| **[10Pearls](https://10pearls.com/)** | **[Senior Frontend Developer (Angular + React) - 3PM to 12 AM PKT Shift](https://jobr.pro/job/31068321/senior-frontend-developer-angular-react-3pm-to-12-am-pkt-shift?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lahore, Karachi, Islamabad | On Site | Oct 27 |
+| **[IRIUM Portugal](https://www.irium.pt/)** | **[SAP FrontEnd Developer](https://jobr.pro/job/31072721/sap-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lisboa, Porto, Lisboa, Porto | On Site | Oct 27 |
+| **[Mondia Group](https://mondia.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/31064159/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Cairo, Cairo Governorate, Egypt | On Site | Oct 26 |
 | **[CLO Virtual Fashion](https://www.clovirtualfashion.com/)** | **[前端开发工程师 (Frontend Developer)](https://jobr.pro/job/31045590/-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Shanghai | On Site | Oct 26 |
 | **[Metyis](https://metyis.com/)** | **[SFCC Frontend Developer](https://jobr.pro/job/31044567/sfcc-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Porto, Porto, Portugal | On Site | Oct 26 |
 | **[Allata](https://www.allata.com/)** | **[FrontEnd Developer (Vue)](https://jobr.pro/job/30990974/frontend-developer-vue?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Dallas, TX | On Site | Oct 24 |
@@ -34,7 +39,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[2Brains](https://2brains.lat/)** | **[Software Engineer - Frontend Developer](https://jobr.pro/job/30808746/software-engineer-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Latinoamérica | On Site | Oct 22 |
 | **[Njuškalo](https://www.njuskalo.hr/)** | **[Frontend Developer (Vue.js) (m/f)](https://jobr.pro/job/30785573/frontend-developer-vuejs-mf?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Zagreb, Croatia (Hybrid) | On Site | Oct 22 |
 | **[Nearsure](https://www.nearsure.com/)** | **[(UP055) Senior AEM Frontend Developer](https://jobr.pro/job/30810654/up055-senior-aem-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Latin America - Remote | Remote | Oct 22 |
-| **[MigrationIT](https://www.migrationit.com/)** | **[Sr. Frontend Developer](https://jobr.pro/job/30763143/sr-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Al Riyadh, Saudi Arabia | On Site | Oct 22 |
 | **[Indium Software](https://www.indiumsoftware.com/)** | **[Backend developer/Frontend developer/Fullstack developer/Cloud & Devops Engineer](https://jobr.pro/job/30762179/backend-developerfrontend-developerfullstack-developercloud-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote | Remote | Oct 22 |
 | **[Xebia](https://xebia.com/)** | **[Senior Frontend Developer (React)](https://jobr.pro/job/30807278/senior-frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote job | Remote | Oct 22 |
 | **[Prenomics](https://prenomics.com)** | **[Junior Frontend Developer](https://jobr.pro/job/30824348/junior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Barcelona, Spain | On Site | Oct 22 |
@@ -57,7 +61,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 41 jobs | 22% remote | 40 companies | Avg salary: 113k  
+**Current Stats:** 45 jobs | 22% remote | 44 companies | Avg salary: 113k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
