@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Oct 27, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Oct 27, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Valtech](https://www.valtech.com/)** | **[Salesforce B2C Commerce Cloud - Frontend Developer](https://jobr.pro/job/31045890/salesforce-b2c-commerce-cloud-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bengaluru | On Site | Oct 27 |
+| **[CLO Virtual Fashion](https://www.clovirtualfashion.com/)** | **[前端开发工程师 (Frontend Developer)](https://jobr.pro/job/31045590/-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Shanghai | On Site | Oct 26 |
+| **[Metyis](https://metyis.com/)** | **[SFCC Frontend Developer](https://jobr.pro/job/31044567/sfcc-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Porto, Porto, Portugal | On Site | Oct 26 |
 | **[Allata](https://www.allata.com/)** | **[FrontEnd Developer (Vue)](https://jobr.pro/job/30990974/frontend-developer-vue?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Dallas, TX | On Site | Oct 24 |
 | **[WIN Home Inspection](https://wini.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/30991224/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Greater Delhi Area | Remote | Oct 24 |
 | **[MigrationIT](https://www.migrationit.com/)** | **[Frontend Developer](https://jobr.pro/job/30945453/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | New Cairo, Egypt | On Site | Oct 24 |
@@ -53,7 +56,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 37 jobs | 24% remote | 36 companies | Avg salary: 113k  
+**Current Stats:** 40 jobs | 23% remote | 39 companies | Avg salary: 113k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
