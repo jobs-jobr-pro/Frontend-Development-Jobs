@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Oct 27, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 28, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -53,15 +53,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Envidan](https://www.envidan.com/)** | **[Frontend Developer – skab intuitive brugerløsninger i Flutter sammen med os](https://jobr.pro/job/30661612/frontend-developer-skab-intuitive-brugerlsninger-i-flutter-sammen-med-os?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Silkeborg, Denmark | On Site | Oct 21 |
 | **[Thoughtworks](https://www.thoughtworks.com/)** | **[Senior Consultant: Frontend Developer](https://jobr.pro/job/30630345/senior-consultant-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Gurgaon | On Site | Oct 21 |
 | **[Behavox](https://www.behavox.com/)** | **[Frontend Developer 3 - Angular](https://jobr.pro/job/30624012/frontend-developer-3-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Canada | On Site | Oct 21 |
-| **[Sopra Steria](https://www.soprasteria.com)** | **[CDI - Développeur Front end - Frontend Developer – AI Products - SBS - Paris](https://jobr.pro/job/30613279/cdi-developpeur-front-end-frontend-developer-ai-products-sbs-paris?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Courbevoie, IDF, France | On Site | Oct 20 |
-| **[Axians](https://www.axians.com/)** | **[Frontend Developer - Fundo Ambiental](https://jobr.pro/job/30595053/frontend-developer-fundo-ambiental?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lisbon, Lisbon | On Site | Oct 20 |
-| **[PwC Sverige](https://www.pwc.se/)** | **[Senior Frontend Developer](https://jobr.pro/job/30596854/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Stockholm | On Site | Oct 20 |
-| **[IG Group](https://www.iggroup.com/)** | **[Senior AEM Frontend Developer](https://jobr.pro/job/30603722/senior-aem-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bangalore, India | On Site | Oct 20 |
-| **[Papa Johns](https://www.papajohns.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/30596766/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | HQ Atlanta, United States | On Site | Oct 20 |
 
 ---
 
-**Current Stats:** 45 jobs | 22% remote | 44 companies | Avg salary: 113k  
+**Current Stats:** 40 jobs | 25% remote | 39 companies | Avg salary: 113k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
