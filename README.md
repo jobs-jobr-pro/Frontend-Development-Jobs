@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Oct 28, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Oct 28, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Virtusa](https://www.virtusa.com/)** | **[Frontend Developer](https://jobr.pro/job/31152289/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | IN-TN-Chennai | On Site | Oct 28 |
+| **[MigrationIT](https://www.migrationit.com/)** | **[Frontend Developer](https://jobr.pro/job/31149474/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | New Cairo, Egypt | On Site | Oct 28 |
 | **[S&P Global](https://www.spglobal.com/)** | **[Lead Frontend Developer- React](https://jobr.pro/job/31142189/lead-frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | IN - HYDERABAD SKYVIEW, India | On Site | Oct 28 |
 | **[Zaizi](https://www.zaizi.com/)** | **[Frontend Developer (SFIA 3)](https://jobr.pro/job/31129386/frontend-developer-sfia-3?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | London, England, United Kingdom | On Site | Oct 28 |
 | **[Shiji Group](https://www.shijigroup.com/)** | **[Frontend Developer I Stellaris Digital](https://jobr.pro/job/31119073/frontend-developer-i-stellaris-digital?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Katowice, Silesian Voivodeship, Poland | Remote | Oct 27 |
@@ -29,7 +31,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Metyis](https://metyis.com/)** | **[SFCC Frontend Developer](https://jobr.pro/job/31044567/sfcc-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Porto, Porto, Portugal | On Site | Oct 26 |
 | **[Allata](https://www.allata.com/)** | **[FrontEnd Developer (Vue)](https://jobr.pro/job/30990974/frontend-developer-vue?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Dallas, TX | On Site | Oct 24 |
 | **[WIN Home Inspection](https://wini.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/30991224/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Greater Delhi Area | Remote | Oct 24 |
-| **[MigrationIT](https://www.migrationit.com/)** | **[Frontend Developer](https://jobr.pro/job/30945453/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | New Cairo, Egypt | On Site | Oct 24 |
 | **[ITB GmbH](https://www.itb-pim.de/home)** | **[Frontend Developer (m/w/d)](https://jobr.pro/job/31000410/frontend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Kamp-Lintfort, Germany | On Site | Oct 24 |
 | **[Pixel Plus AG](https://pixel-plus.ch)** | **[Vue.js / Tailwind UI Frontend Developer](https://jobr.pro/job/30939789/vuejs-tailwind-ui-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Pristina, Kosovo | On Site | Oct 24 |
 | **[BrainRocket](https://www.brainrocket.com/)** | **[Senior Frontend Developer (Angular) - Portugal](https://jobr.pro/job/30984523/senior-frontend-developer-angular-portugal?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lisbon, Portugal | On Site | Oct 24 |
@@ -61,7 +62,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 45 jobs | 24% remote | 44 companies | Avg salary: 113k  
+**Current Stats:** 46 jobs | 24% remote | 45 companies | Avg salary: 113k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
