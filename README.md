@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Oct 29, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 29, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -17,6 +17,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[MigrationIT](https://www.migrationit.com/)** | **[Frontend Developer](https://jobr.pro/job/31149474/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | New Cairo, Egypt | On Site | Oct 28 |
 | **[S&P Global](https://www.spglobal.com/)** | **[Lead Frontend Developer- React](https://jobr.pro/job/31142189/lead-frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | IN - HYDERABAD SKYVIEW, India | On Site | Oct 28 |
 | **[Zaizi](https://www.zaizi.com/)** | **[Frontend Developer (SFIA 3)](https://jobr.pro/job/31129386/frontend-developer-sfia-3?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | London, England, United Kingdom | On Site | Oct 28 |
+| **[AIA](https://www.aia.com/)** | **[Mobile App & Frontend Developer](https://jobr.pro/job/31191747/mobile-app-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | KR-AIA Tower, Korea, Republic of | On Site | Oct 28 |
 | **[Shiji Group](https://www.shijigroup.com/)** | **[Frontend Developer I Stellaris Digital](https://jobr.pro/job/31119073/frontend-developer-i-stellaris-digital?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Katowice, Silesian Voivodeship, Poland | Remote | Oct 27 |
 | **[BigStep Technologies](https://bigsteptech.com/)** | **[Frontend Developer (Remote)](https://jobr.pro/job/31069295/frontend-developer-remote?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Gurgaon, India | Remote | Oct 27 |
 | **[MigrationIT](https://www.migrationit.com/)** | **[Sr. Frontend Developer](https://jobr.pro/job/31063649/sr-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Al Riyadh, Saudi Arabia | On Site | Oct 27 |
@@ -55,7 +56,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 39 jobs | 21% remote | 38 companies | Avg salary: 51k  
+**Current Stats:** 40 jobs | 20% remote | 39 companies | Avg salary: 51k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
