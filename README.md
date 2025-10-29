@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Oct 28, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 29, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -52,17 +52,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Continental](https://www.continental.com)** | **[Frontend Developer](https://jobr.pro/job/30825010/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Shanghai, China | On Site | Oct 22 |
 | **[EXL](https://www.exlservice.com/)** | **[Frontend Developer-Product Development-Product Development](https://jobr.pro/job/30754044/frontend-developer-product-development-product-development?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India | On Site | Oct 22 |
 | **[NTT DATA](https://nttdata.com)** | **[Java and OpenSource ReactJS Frontend Developer](https://jobr.pro/job/30739459/java-and-opensource-reactjs-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bangalore, KA, IN | On Site | Oct 22 |
-| **[Oracle](https://www.oracle.com/)** | **[Remote Senior/Principal Frontend Developer \| New Gen AI Product Development Oracle Health](https://jobr.pro/job/30765902/remote-seniorprincipal-frontend-developer-new-gen-ai-product-development-oracle-health?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | United States | Remote | Oct 21 |
-| **[osapiens](https://osapiens.com/)** | **[Senior Frontend Developer - React (m/f/x)](https://jobr.pro/job/30731762/senior-frontend-developer-react-mfx?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | München | On Site | Oct 21 |
-| **[REMIRA GmbH](https://www.remira.com/)** | **[Senior Frontend Developer (w/m/d)](https://jobr.pro/job/30641441/senior-frontend-developer-wmd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Dortmund, Hamburg, Ludwigsburg, Bad Hersfeld oder remote | Remote | Oct 21 |
-| **[Visma](https://www.visma.fi/)** | **[Frontend Developer, Accode](https://jobr.pro/job/30655089/frontend-developer-accode?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lappeenranta, Finland | Remote | Oct 21 |
-| **[Envidan](https://www.envidan.com/)** | **[Frontend Developer – skab intuitive brugerløsninger i Flutter sammen med os](https://jobr.pro/job/30661612/frontend-developer-skab-intuitive-brugerlsninger-i-flutter-sammen-med-os?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Silkeborg, Denmark | On Site | Oct 21 |
-| **[Thoughtworks](https://www.thoughtworks.com/)** | **[Senior Consultant: Frontend Developer](https://jobr.pro/job/30630345/senior-consultant-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Gurgaon | On Site | Oct 21 |
-| **[Behavox](https://www.behavox.com/)** | **[Frontend Developer 3 - Angular](https://jobr.pro/job/30624012/frontend-developer-3-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Canada | On Site | Oct 21 |
 
 ---
 
-**Current Stats:** 46 jobs | 24% remote | 45 companies | Avg salary: 113k  
+**Current Stats:** 39 jobs | 21% remote | 38 companies | Avg salary: 51k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
