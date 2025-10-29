@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Oct 29, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Oct 29, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -16,9 +16,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Clicars](https://www.clicars.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/31225998/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Madrid | On Site | Oct 29 |
 | **[Fiverr](https://www.fiverr.com)** | **[Senior Frontend Developer(Platform team)](https://jobr.pro/job/31255243/senior-frontend-developerplatform-team?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Kyiv, UA | On Site | Oct 29 |
 | **[T3Cogno](https://www.t3cogno.com/)** | **[Frontend Developer (Remote)](https://jobr.pro/job/31248579/frontend-developer-remote?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bengaluru, India | Remote | Oct 29 |
+| **[DeepSource](https://www.deepsource.ai)** | **[Frontend Developer/Angular - KSA](https://jobr.pro/job/31239207/frontend-developerangular-ksa?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Riyadh, Riyadh Province, Saudi Arabia | On Site | Oct 29 |
 | **[SAP Fioneer](https://www.fioneer.com)** | **[SAP UI5 / FIORI Frontend developer](https://jobr.pro/job/31251147/sap-ui5-fiori-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bengaluru, Karnataka, India | On Site | Oct 29 |
 | **[ITRS](https://www.itrsgroup.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/31242360/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | London, England, United Kingdom | On Site | Oct 29 |
-| **[DeepSource](https://www.deepsource.ai)** | **[Frontend Developer/Angular - KSA](https://jobr.pro/job/31239207/frontend-developerangular-ksa?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Riyadh, Riyadh Province, Saudi Arabia | On Site | Oct 29 |
 | **[Virtusa](https://www.virtusa.com/)** | **[Frontend Developer](https://jobr.pro/job/31152289/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | IN-TN-Chennai | On Site | Oct 28 |
 | **[MigrationIT](https://www.migrationit.com/)** | **[Frontend Developer](https://jobr.pro/job/31149474/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | New Cairo, Egypt | On Site | Oct 28 |
 | **[Endava](https://www.endava.com)** | **[FrontEnd Developer(React and Angular)](https://jobr.pro/job/31209605/frontend-developerreact-and-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Chișinău, Chisinau, Moldova, republic of | On Site | Oct 28 |
