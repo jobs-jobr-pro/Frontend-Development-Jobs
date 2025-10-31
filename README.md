@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Oct 31, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Oct 31, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[MigrationIT](https://www.migrationit.com/)** | **[Sr. Frontend Developer](https://jobr.pro/job/31421013/sr-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Al Riyadh, Saudi Arabia | On Site | Oct 31 |
+| **[Getinz](https://www.getinz.com/)** | **[Frontend Developer - GGS](https://jobr.pro/job/31426980/frontend-developer-ggs?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Karnataka, Bengaluru, India | On Site | Oct 31 |
 | **[Certn](https://certn.co/)** | **[Senior Frontend Developer](https://jobr.pro/job/31384715/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Canada - Remote | Remote | Oct 30 |
 | **[Wrike](https://www.wrike.com/)** | **[Senior Frontend Developer (Design System)](https://jobr.pro/job/31390539/senior-frontend-developer-design-system?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bangalore | On Site | Oct 30 |
 | **[NRB Group](https://www.nrb.be/)** | **[Senior Frontend Developer - Angular (100% remote based in European Union)](https://jobr.pro/job/31376407/senior-frontend-developer-angular-100-remote-based-in-european-union?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote job | Remote | Oct 30 |
@@ -35,7 +37,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[AIA](https://www.aia.com/)** | **[Mobile App & Frontend Developer](https://jobr.pro/job/31191747/mobile-app-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | KR-AIA Tower, Korea, Republic of | On Site | Oct 28 |
 | **[Shiji Group](https://www.shijigroup.com/)** | **[Frontend Developer I Stellaris Digital](https://jobr.pro/job/31119073/frontend-developer-i-stellaris-digital?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Katowice, Silesian Voivodeship, Poland | Remote | Oct 27 |
 | **[BigStep Technologies](https://bigsteptech.com/)** | **[Frontend Developer (Remote)](https://jobr.pro/job/31069295/frontend-developer-remote?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Gurgaon, India | Remote | Oct 27 |
-| **[MigrationIT](https://www.migrationit.com/)** | **[Sr. Frontend Developer](https://jobr.pro/job/31063649/sr-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Al Riyadh, Saudi Arabia | On Site | Oct 27 |
 | **[Capco](https://www.capco.com/)** | **[Frontend Developer- React.js/ Angular](https://jobr.pro/job/31103188/frontend-developer-reactjs-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India - Bengaluru; India - Pune | On Site | Oct 27 |
 | **[Xensam](https://www.xensam.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/31058575/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Solna, Sweden | On Site | Oct 27 |
 | **[Valtech](https://www.valtech.com/)** | **[Salesforce B2C Commerce Cloud - Frontend Developer](https://jobr.pro/job/31045890/salesforce-b2c-commerce-cloud-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bengaluru | On Site | Oct 27 |
@@ -54,7 +55,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 38 jobs | 18% remote | 36 companies | Avg salary: Not specified  
+**Current Stats:** 39 jobs | 18% remote | 37 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
