@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Oct 31, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Oct 31, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Certn](https://certn.co/)** | **[Senior Frontend Developer](https://jobr.pro/job/31384715/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Canada - Remote | Remote | Oct 30 |
+| **[Wrike](https://www.wrike.com/)** | **[Senior Frontend Developer (Design System)](https://jobr.pro/job/31390539/senior-frontend-developer-design-system?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bangalore | On Site | Oct 30 |
+| **[NRB Group](https://www.nrb.be/)** | **[Senior Frontend Developer - Angular (100% remote based in European Union)](https://jobr.pro/job/31376407/senior-frontend-developer-angular-100-remote-based-in-european-union?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote job | Remote | Oct 30 |
 | **[Kyndryl](https://www.kyndryl.com/)** | **[Frontend Developer – Junior (Kyndryl Graduate Program)](https://jobr.pro/job/31367860/frontend-developer-junior-kyndryl-graduate-program?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | ARMTZ Buenos Aires (ARMTZ) - Martinez, Argentina | On Site | Oct 30 |
 | **[VML](https://www.vml.com/)** | **[Frontend Developer](https://jobr.pro/job/31297978/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Buenos Aires, Buenos Aires Province, Argentina | On Site | Oct 29 |
 | **[Pricefox](https://www.pricefox.gr/)** | **[Senior Frontend Developer](https://jobr.pro/job/31292767/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Athens, Greece | On Site | Oct 29 |
@@ -51,7 +54,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 35 jobs | 14% remote | 33 companies | Avg salary: Not specified  
+**Current Stats:** 38 jobs | 18% remote | 36 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
