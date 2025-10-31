@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Oct 30, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 31, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Kyndryl](https://www.kyndryl.com/)** | **[Frontend Developer – Junior (Kyndryl Graduate Program)](https://jobr.pro/job/31367860/frontend-developer-junior-kyndryl-graduate-program?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | ARMTZ Buenos Aires (ARMTZ) - Martinez, Argentina | On Site | Oct 30 |
 | **[VML](https://www.vml.com/)** | **[Frontend Developer](https://jobr.pro/job/31297978/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Buenos Aires, Buenos Aires Province, Argentina | On Site | Oct 29 |
 | **[Pricefox](https://www.pricefox.gr/)** | **[Senior Frontend Developer](https://jobr.pro/job/31292767/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Athens, Greece | On Site | Oct 29 |
 | **[Veepee](https://veepee.com)** | **[Frontend Developer (React) - Travel MEX](https://jobr.pro/job/31295147/frontend-developer-react-travel-mex?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Barcelona | On Site | Oct 29 |
@@ -47,17 +48,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Pixel Plus AG](https://pixel-plus.ch)** | **[Vue.js / Tailwind UI Frontend Developer](https://jobr.pro/job/30939789/vuejs-tailwind-ui-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Pristina, Kosovo | On Site | Oct 24 |
 | **[BrainRocket](https://www.brainrocket.com/)** | **[Senior Frontend Developer (Angular) - Portugal](https://jobr.pro/job/30984523/senior-frontend-developer-angular-portugal?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lisbon, Portugal | On Site | Oct 24 |
 | **[TransPerfect](https://www.transperfect.com/)** | **[Frontend Developer (Vue.js or React or Angular.js)](https://jobr.pro/job/30985837/frontend-developer-vuejs-or-react-or-angularjs?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | London, Greater London, United Kingdom | On Site | Oct 24 |
-| **[INNOCV Solutions](https://www.innocv.com)** | **[Frontend Developer (HTML, CSS, JS) - Based in Milan](https://jobr.pro/job/30933781/frontend-developer-html-css-js-based-in-milan?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Roma, Italy | On Site | Oct 23 |
-| **[Robots & Pencils](https://robotsandpencils.com/)** | **[Senior Frontend Developer, L3](https://jobr.pro/job/30897276/senior-frontend-developer-l3?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Calgary, Alberta (Remote-Friendly) | Remote | Oct 23 |
-| **[Creative Force](https://www.creativeforce.io/)** | **[Frontend Developer (ReactJS & PHP)](https://jobr.pro/job/30912746/frontend-developer-reactjs-php?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Hanoi, Vietnam | On Site | Oct 23 |
-| **[Wecasa](https://www.wecasa.fr/)** | **[Frontend Developer H/F/NB - CDI](https://jobr.pro/job/30850779/frontend-developer-hfnb-cdi?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Paris, France | On Site | Oct 23 |
-| **[DXC Technology](https://dxc.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/30887244/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | ILO01 - Galway, IE (ILOL1), Ireland | On Site | Oct 23 |
-| **[KNOREX](https://www.knorex.com/)** | **[Software Engineer (Frontend Developer)](https://jobr.pro/job/30853004/software-engineer-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Ho Chi Minh City, Ho Chi Minh City, Vietnam | On Site | Oct 23 |
-| **[CompuGroup Medical](https://www.cgm.com/)** | **[Frontend Developer - Angular (m/f/d)](https://jobr.pro/job/30888184/frontend-developer-angular-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Trieste \| Edificio R3 Padriciano 99, Italien | On Site | Oct 23 |
 
 ---
 
-**Current Stats:** 41 jobs | 15% remote | 39 companies | Avg salary: 51k  
+**Current Stats:** 35 jobs | 14% remote | 33 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
