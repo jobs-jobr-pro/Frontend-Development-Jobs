@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Nov 01, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Nov 01, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -15,6 +15,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | ------- | -------- | -------- | ---- | ------ |
 | **[MigrationIT](https://www.migrationit.com/)** | **[Sr. Frontend Developer](https://jobr.pro/job/31421013/sr-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Al Riyadh, Saudi Arabia | On Site | Oct 31 |
 | **[Getinz](https://www.getinz.com/)** | **[Frontend Developer - GGS](https://jobr.pro/job/31426980/frontend-developer-ggs?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Karnataka, Bengaluru, India | On Site | Oct 31 |
+| **[dentsu](https://www.dentsu.com/)** | **[Frontend Developer](https://jobr.pro/job/31453455/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Copenhagen V - Meldahlsgade 5, 5. sal, Denmark | On Site | Oct 31 |
 | **[Certn](https://certn.co/)** | **[Senior Frontend Developer](https://jobr.pro/job/31384715/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Canada - Remote | Remote | Oct 30 |
 | **[Wrike](https://www.wrike.com/)** | **[Senior Frontend Developer (Design System)](https://jobr.pro/job/31390539/senior-frontend-developer-design-system?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bangalore | On Site | Oct 30 |
 | **[NRB Group](https://www.nrb.be/)** | **[Senior Frontend Developer - Angular (100% remote based in European Union)](https://jobr.pro/job/31376407/senior-frontend-developer-angular-100-remote-based-in-european-union?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote job | Remote | Oct 30 |
@@ -49,7 +50,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 33 jobs | 18% remote | 31 companies | Avg salary: Not specified  
+**Current Stats:** 34 jobs | 18% remote | 31 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
