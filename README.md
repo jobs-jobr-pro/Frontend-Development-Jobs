@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Nov 01, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Nov 01, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -17,6 +17,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[MigrationIT](https://www.migrationit.com/)** | **[Sr. Frontend Developer](https://jobr.pro/job/31421013/sr-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Al Riyadh, Saudi Arabia | On Site | Oct 31 |
 | **[Getinz](https://www.getinz.com/)** | **[Frontend Developer - GGS](https://jobr.pro/job/31426980/frontend-developer-ggs?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Karnataka, Bengaluru, India | On Site | Oct 31 |
 | **[marcus evans](https://www.marcusevans.com/)** | **[Frontend Developer Intern](https://jobr.pro/job/31460153/frontend-developer-intern?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Mumbai, Mahārāshtra, India | On Site | Oct 31 |
+| **[BlackStone eIT](https://www.blackstoneeit.com/)** | **[Senior Frontend Developer ( Angular 14+ )](https://jobr.pro/job/31492395/senior-frontend-developer-angular-14-?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Dubai, Dubai, United Arab Emirates | On Site | Oct 31 |
 | **[WIN Home Inspection](https://wini.com/)** | **[Senior Frontend Developer (React.js)](https://jobr.pro/job/31466266/senior-frontend-developer-reactjs?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Greater Delhi Area | Remote | Oct 31 |
 | **[Endava](https://www.endava.com)** | **[Senior Frontend Developer (VueJS)](https://jobr.pro/job/31469346/senior-frontend-developer-vuejs?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Warsaw, Masovian Voivodeship, Poland | On Site | Oct 31 |
 | **[Netcompany](https://www.netcompany.com)** | **[Frontend Developer - freelance](https://jobr.pro/job/31469666/frontend-developer-freelance?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Sofia, Sofia City Province, Bulgaria | On Site | Oct 31 |
@@ -56,7 +57,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 40 jobs | 20% remote | 36 companies | Avg salary: 168k  
+**Current Stats:** 41 jobs | 20% remote | 37 companies | Avg salary: 168k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
