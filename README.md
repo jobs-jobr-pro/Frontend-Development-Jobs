@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Oct 31, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 01, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -46,16 +46,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Mondia Group](https://mondia.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/31064159/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Cairo, Cairo Governorate, Egypt | On Site | Oct 26 |
 | **[CLO Virtual Fashion](https://www.clovirtualfashion.com/)** | **[前端开发工程师 (Frontend Developer)](https://jobr.pro/job/31045590/-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Shanghai | On Site | Oct 26 |
 | **[Metyis](https://metyis.com/)** | **[SFCC Frontend Developer](https://jobr.pro/job/31044567/sfcc-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Porto, Porto, Portugal | On Site | Oct 26 |
-| **[Allata](https://www.allata.com/)** | **[FrontEnd Developer (Vue)](https://jobr.pro/job/30990974/frontend-developer-vue?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Dallas, TX | On Site | Oct 24 |
-| **[WIN Home Inspection](https://wini.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/30991224/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Greater Delhi Area | Remote | Oct 24 |
-| **[ITB GmbH](https://www.itb-pim.de/home)** | **[Frontend Developer (m/w/d)](https://jobr.pro/job/31000410/frontend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Kamp-Lintfort, Germany | On Site | Oct 24 |
-| **[Pixel Plus AG](https://pixel-plus.ch)** | **[Vue.js / Tailwind UI Frontend Developer](https://jobr.pro/job/30939789/vuejs-tailwind-ui-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Pristina, Kosovo | On Site | Oct 24 |
-| **[BrainRocket](https://www.brainrocket.com/)** | **[Senior Frontend Developer (Angular) - Portugal](https://jobr.pro/job/30984523/senior-frontend-developer-angular-portugal?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lisbon, Portugal | On Site | Oct 24 |
-| **[TransPerfect](https://www.transperfect.com/)** | **[Frontend Developer (Vue.js or React or Angular.js)](https://jobr.pro/job/30985837/frontend-developer-vuejs-or-react-or-angularjs?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | London, Greater London, United Kingdom | On Site | Oct 24 |
 
 ---
 
-**Current Stats:** 39 jobs | 18% remote | 37 companies | Avg salary: Not specified  
+**Current Stats:** 33 jobs | 18% remote | 31 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
