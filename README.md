@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Nov 02, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 03, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -51,13 +51,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[dentsu](https://www.dentsu.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/31097593/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Copenhagen V - Meldahlsgade 5, 5. sal, Denmark | On Site | Oct 27 |
 | **[10Pearls](https://10pearls.com/)** | **[Senior Frontend Developer (Angular + React) - 3PM to 12 AM PKT Shift](https://jobr.pro/job/31068321/senior-frontend-developer-angular-react-3pm-to-12-am-pkt-shift?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lahore, Karachi, Islamabad | On Site | Oct 27 |
 | **[IRIUM Portugal](https://www.irium.pt/)** | **[SAP FrontEnd Developer](https://jobr.pro/job/31072721/sap-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lisboa, Porto, Lisboa, Porto | On Site | Oct 27 |
-| **[Mondia Group](https://mondia.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/31064159/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Cairo, Cairo Governorate, Egypt | On Site | Oct 26 |
-| **[CLO Virtual Fashion](https://www.clovirtualfashion.com/)** | **[前端开发工程师 (Frontend Developer)](https://jobr.pro/job/31045590/-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Shanghai | On Site | Oct 26 |
-| **[Metyis](https://metyis.com/)** | **[SFCC Frontend Developer](https://jobr.pro/job/31044567/sfcc-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Porto, Porto, Portugal | On Site | Oct 26 |
 
 ---
 
-**Current Stats:** 41 jobs | 20% remote | 37 companies | Avg salary: 168k  
+**Current Stats:** 38 jobs | 21% remote | 34 companies | Avg salary: 168k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
