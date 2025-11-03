@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Nov 03, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Nov 03, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Securiti](https://securiti.ai/)** | **[Lead Frontend Developer](https://jobr.pro/job/31562582/lead-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Karachi, Pakistan, Pakistan | On Site | Nov 03 |
+| **[ECS](https://techecs.com/)** | **[React / Next.js - Digital Frontend Developer](https://jobr.pro/job/31561784/react-nextjs-digital-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Telangana, Hyderabad, India | On Site | Nov 03 |
+| **[BeInMedia](https://www.beinmedia.com/)** | **[Frontend Developer](https://jobr.pro/job/31562561/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Damascus Governorate, Damascus, Syrian Arab Republic | On Site | Nov 02 |
+| **[Mind You](https://www.mindyou.com.ph/)** | **[Frontend Developer (Remote)](https://jobr.pro/job/31561546/frontend-developer-remote?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Metro Manila, Taguig, Philippines | Remote | Nov 02 |
 | **[Grebban](https://www.grebban.com/)** | **[E-commerce Frontend Developer](https://jobr.pro/job/31548146/e-commerce-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Göteborg, Sweden | On Site | Nov 02 |
 | **[MyTime](https://www.mytime.com/)** | **[Senior Angular Frontend Developer](https://jobr.pro/job/31539982/senior-angular-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Los Angeles, CA, United States | On Site | Nov 02 |
 | **[Crypto.com](https://crypto.com/)** | **[Senior Frontend Developer - Innovation](https://jobr.pro/job/31535904/senior-frontend-developer-innovation?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Hong Kong, Hong Kong SAR | On Site | Nov 02 |
@@ -57,7 +61,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 41 jobs | 20% remote | 37 companies | Avg salary: 168k  
+**Current Stats:** 45 jobs | 20% remote | 41 companies | Avg salary: 168k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
