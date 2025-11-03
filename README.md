@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Nov 03, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Nov 03, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Grebban](https://www.grebban.com/)** | **[E-commerce Frontend Developer](https://jobr.pro/job/31548146/e-commerce-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Göteborg, Sweden | On Site | Nov 02 |
 | **[MyTime](https://www.mytime.com/)** | **[Senior Angular Frontend Developer](https://jobr.pro/job/31539982/senior-angular-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Los Angeles, CA, United States | On Site | Nov 02 |
 | **[Crypto.com](https://crypto.com/)** | **[Senior Frontend Developer - Innovation](https://jobr.pro/job/31535904/senior-frontend-developer-innovation?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Hong Kong, Hong Kong SAR | On Site | Nov 02 |
 | **[MigrationIT](https://www.migrationit.com/)** | **[Frontend Developer](https://jobr.pro/job/31500685/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | New Cairo, Egypt | On Site | Nov 01 |
@@ -56,7 +57,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 40 jobs | 20% remote | 36 companies | Avg salary: 168k  
+**Current Stats:** 41 jobs | 20% remote | 37 companies | Avg salary: 168k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
