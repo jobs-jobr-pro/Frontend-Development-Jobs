@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Nov 04, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Nov 04, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -14,6 +14,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Danfoss](https://www.danfoss.com)** | **[Senior Frontend Developer](https://jobr.pro/job/31606605/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Grodzisk Mazowiecki, PL | Remote | Nov 04 |
+| **[Sensia Global](https://www.sensiaglobal.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/31643067/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India Pune Axis Centra (Baner, Sensia) | On Site | Nov 04 |
+| **[Fincons Group](https://www.finconsgroup.com)** | **[Senior Frontend Developer – React.js](https://jobr.pro/job/31633147/senior-frontend-developer-reactjs?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lugano, Ticino | On Site | Nov 04 |
 | **[Behavox](https://www.behavox.com/)** | **[Frontend Developer 3 - Angular](https://jobr.pro/job/31604810/frontend-developer-3-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Canada | On Site | Nov 03 |
 | **[66degrees](https://66degrees.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/31617316/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bangalore | On Site | Nov 03 |
 | **[Securiti](https://securiti.ai/)** | **[Lead Frontend Developer](https://jobr.pro/job/31562582/lead-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Karachi, Pakistan, Pakistan | On Site | Nov 03 |
@@ -57,7 +59,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 41 jobs | 20% remote | 39 companies | Avg salary: 168k  
+**Current Stats:** 43 jobs | 19% remote | 41 companies | Avg salary: 168k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
