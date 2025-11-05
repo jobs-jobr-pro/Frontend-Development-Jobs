@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Nov 04, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 05, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -21,6 +21,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[MEDIAN Unternehmensgruppe](https://www.median-kliniken.de/)** | **[Frontend Developer Digital Health](https://jobr.pro/job/31655935/frontend-developer-digital-health?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Berlin, Berlin, DE | On Site | Nov 04 |
 | **[Globaldev Group](https://globaldev.tech/)** | **[Senior Frontend Developer](https://jobr.pro/job/31655613/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Yerevan, Yerevan, Armenia | On Site | Nov 04 |
 | **[Weekday](https://www.weekday.works)** | **[Frontend Developer](https://jobr.pro/job/31654055/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bengaluru, Karnataka, India | On Site | Nov 04 |
+| **[Deutsche Bank](https://www.db.com/)** | **[Frontend Developer, AVP](https://jobr.pro/job/31691707/frontend-developer-avp?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Pune - Business Bay, India | On Site | Nov 04 |
 | **[Behavox](https://www.behavox.com/)** | **[Frontend Developer 3 - Angular](https://jobr.pro/job/31604810/frontend-developer-3-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Canada | On Site | Nov 03 |
 | **[66degrees](https://66degrees.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/31617316/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bangalore | On Site | Nov 03 |
 | **[Securiti](https://securiti.ai/)** | **[Lead Frontend Developer](https://jobr.pro/job/31562582/lead-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Karachi, Pakistan, Pakistan | On Site | Nov 03 |
@@ -55,15 +56,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[SAP Fioneer](https://www.fioneer.com)** | **[SAP UI5 / FIORI Frontend developer](https://jobr.pro/job/31251147/sap-ui5-fiori-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bengaluru, Karnataka, India | On Site | Oct 29 |
 | **[DeepSource](https://www.deepsource.ai)** | **[Frontend Developer/Angular - KSA](https://jobr.pro/job/31239207/frontend-developerangular-ksa?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Riyadh, Riyadh Province, Saudi Arabia | On Site | Oct 29 |
 | **[ITRS](https://www.itrsgroup.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/31242360/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | London, England, United Kingdom | On Site | Oct 29 |
-| **[Virtusa](https://www.virtusa.com/)** | **[Frontend Developer](https://jobr.pro/job/31152289/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | IN-TN-Chennai | On Site | Oct 28 |
-| **[Endava](https://www.endava.com)** | **[FrontEnd Developer(React and Angular)](https://jobr.pro/job/31209605/frontend-developerreact-and-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Chișinău, Chisinau, Moldova, republic of | On Site | Oct 28 |
-| **[Zaizi](https://www.zaizi.com/)** | **[Frontend Developer (SFIA 3)](https://jobr.pro/job/31129386/frontend-developer-sfia-3?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | London, England, United Kingdom | On Site | Oct 28 |
-| **[S&P Global](https://www.spglobal.com/)** | **[Lead Frontend Developer- React](https://jobr.pro/job/31142189/lead-frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | IN - HYDERABAD SKYVIEW, India | On Site | Oct 28 |
-| **[AIA](https://www.aia.com/)** | **[Mobile App & Frontend Developer](https://jobr.pro/job/31191747/mobile-app-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | KR-AIA Tower, Korea, Republic of | On Site | Oct 28 |
 
 ---
 
-**Current Stats:** 47 jobs | 17% remote | 45 companies | Avg salary: 168k  
+**Current Stats:** 43 jobs | 19% remote | 42 companies | Avg salary: 168k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
