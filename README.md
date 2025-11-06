@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Nov 06, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Nov 06, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,12 +13,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Hatch IT](https://www.hatchit.io/)** | **[Frontend Developer](https://jobr.pro/job/31800100/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote | Remote | Nov 05 |
 | **[STOW Group](https://www.stow-group.com)** | **[Frontend Developer (React/Typescript)](https://jobr.pro/job/31745922/frontend-developer-reacttypescript?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lokeren, Vlaanderen, Belgium | On Site | Nov 05 |
 | **[EveryMatrix](https://everymatrix.com/)** | **[Middle frontend Developer](https://jobr.pro/job/31737150/middle-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Amphoe Mueang Chiang Mai, Thailand | On Site | Nov 05 |
 | **[Yuno](https://www.y.uno/)** | **[Frontend Developer](https://jobr.pro/job/31701780/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bogota | Remote | Nov 05 |
-| **[Ubiquiti Inc.](https://www.ui.com/)** | **[Frontend Developer](https://jobr.pro/job/31751522/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Taipei | On Site | Nov 05 |
 | **[ING](https://www.ing.com/)** | **[Principal Frontend Developer](https://jobr.pro/job/31789076/principal-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Istanbul (VADI ISTANBUL PARK), Türkiye | On Site | Nov 05 |
 | **[dentsu](https://www.dentsu.com/)** | **[Frontend Developer](https://jobr.pro/job/31790643/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bogotá - Carrera 19 C # 91 – 63 Lomne Building Chicó, Colombia | On Site | Nov 05 |
+| **[Ubiquiti Inc.](https://www.ui.com/)** | **[Frontend Developer](https://jobr.pro/job/31751522/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Taipei | On Site | Nov 05 |
 | **[Planner 5D](https://planner5d.com/)** | **[Frontend developer](https://jobr.pro/job/31705190/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Warsaw | On Site | Nov 04 |
 | **[Tietoevry](https://www.tietoevry.com/)** | **[Senior Frontend Developer (Vue) - Tietoevry Create (m/f/d)](https://jobr.pro/job/31716285/senior-frontend-developer-vue-tietoevry-create-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Kyiv, Ukraine | On Site | Nov 04 |
 | **[MigrationIT](https://www.migrationit.com/)** | **[Sr. Frontend Developer](https://jobr.pro/job/31651738/sr-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Al Riyadh, Saudi Arabia | On Site | Nov 04 |
@@ -56,7 +57,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 40 jobs | 18% remote | 39 companies | Avg salary: 168k  
+**Current Stats:** 41 jobs | 20% remote | 40 companies | Avg salary: 168k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
