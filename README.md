@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Nov 06, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Nov 06, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Accenture](https://www.accenture.com/)** | **[Frontend Developer (React)](https://jobr.pro/job/31857669/frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Warsaw, Sienna 39, Poland | On Site | Nov 06 |
 | **[Emerging Travel Group](https://www.emergingtravel.com/)** | **[Frontend Developer](https://jobr.pro/job/31821033/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Turkey - Remote | Remote | Nov 06 |
 | **[Hatch IT](https://www.hatchit.io/)** | **[Frontend Developer](https://jobr.pro/job/31800100/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote | Remote | Nov 05 |
 | **[STOW Group](https://www.stow-group.com)** | **[Frontend Developer (React/Typescript)](https://jobr.pro/job/31745922/frontend-developer-reacttypescript?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lokeren, Vlaanderen, Belgium | On Site | Nov 05 |
@@ -58,7 +59,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 42 jobs | 21% remote | 41 companies | Avg salary: 168k  
+**Current Stats:** 43 jobs | 21% remote | 42 companies | Avg salary: 168k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
