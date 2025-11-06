@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Nov 05, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 06, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -52,20 +52,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Wrike](https://www.wrike.com/)** | **[Senior Frontend Developer (Design System)](https://jobr.pro/job/31390539/senior-frontend-developer-design-system?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bangalore | On Site | Oct 30 |
 | **[NRB Group](https://www.nrb.be/)** | **[Senior Frontend Developer - Angular (100% remote based in European Union)](https://jobr.pro/job/31376407/senior-frontend-developer-angular-100-remote-based-in-european-union?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote job | Remote | Oct 30 |
 | **[Kyndryl](https://www.kyndryl.com/)** | **[Frontend Developer – Junior (Kyndryl Graduate Program)](https://jobr.pro/job/31367860/frontend-developer-junior-kyndryl-graduate-program?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | ARMTZ Buenos Aires (ARMTZ) - Martinez, Argentina | On Site | Oct 30 |
-| **[VML](https://www.vml.com/)** | **[Frontend Developer](https://jobr.pro/job/31297978/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Buenos Aires, Buenos Aires Province, Argentina | On Site | Oct 29 |
-| **[Pricefox](https://www.pricefox.gr/)** | **[Senior Frontend Developer](https://jobr.pro/job/31292767/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Athens, Greece | On Site | Oct 29 |
-| **[Veepee](https://veepee.com)** | **[Frontend Developer (React) - Travel MEX](https://jobr.pro/job/31295147/frontend-developer-react-travel-mex?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Barcelona | On Site | Oct 29 |
-| **[Clicars](https://www.clicars.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/31225998/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Madrid | On Site | Oct 29 |
-| **[Fiverr](https://www.fiverr.com)** | **[Senior Frontend Developer(Platform team)](https://jobr.pro/job/31255243/senior-frontend-developerplatform-team?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Kyiv, UA | On Site | Oct 29 |
-| **[Shiji Group](https://www.shijigroup.com/)** | **[Senior Frontend Developer I Integrations Team](https://jobr.pro/job/31295435/senior-frontend-developer-i-integrations-team?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Katowice, Silesian Voivodeship, Poland | Remote | Oct 29 |
-| **[T3Cogno](https://www.t3cogno.com/)** | **[Frontend Developer (Remote)](https://jobr.pro/job/31248579/frontend-developer-remote?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bengaluru, India | Remote | Oct 29 |
-| **[SAP Fioneer](https://www.fioneer.com)** | **[SAP UI5 / FIORI Frontend developer](https://jobr.pro/job/31251147/sap-ui5-fiori-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bengaluru, Karnataka, India | On Site | Oct 29 |
-| **[DeepSource](https://www.deepsource.ai)** | **[Frontend Developer/Angular - KSA](https://jobr.pro/job/31239207/frontend-developerangular-ksa?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Riyadh, Riyadh Province, Saudi Arabia | On Site | Oct 29 |
-| **[ITRS](https://www.itrsgroup.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/31242360/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | London, England, United Kingdom | On Site | Oct 29 |
 
 ---
 
-**Current Stats:** 49 jobs | 18% remote | 48 companies | Avg salary: 168k  
+**Current Stats:** 39 jobs | 18% remote | 38 companies | Avg salary: 168k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
