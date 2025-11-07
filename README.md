@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Nov 07, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Nov 07, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Valtech](https://www.valtech.com/)** | **[Lead Frontend Developer](https://jobr.pro/job/31886979/lead-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Copenhagen | On Site | Nov 06 |
+| **[Hostinger](https://www.hostinger.com/)** | **[Junior Frontend Developer (Horizons team)](https://jobr.pro/job/31888762/junior-frontend-developer-horizons-team?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Vilnius | On Site | Nov 06 |
+| **[Scaleway](https://www.scaleway.com/)** | **[Frontend Developer](https://jobr.pro/job/31889197/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Paris | On Site | Nov 06 |
 | **[Accenture](https://www.accenture.com/)** | **[Frontend Developer (React)](https://jobr.pro/job/31857669/frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Warsaw, Sienna 39, Poland | On Site | Nov 06 |
 | **[Emerging Travel Group](https://www.emergingtravel.com/)** | **[Frontend Developer](https://jobr.pro/job/31821033/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Turkey - Remote | Remote | Nov 06 |
 | **[Nextracker](https://www.nextracker.com/)** | **[Frontend Developer Web Apps](https://jobr.pro/job/31877491/frontend-developer-web-apps?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Sorocaba, Sao Paulo - BRA, Brazil | On Site | Nov 06 |
@@ -56,7 +59,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 40 jobs | 18% remote | 39 companies | Avg salary: 168k  
+**Current Stats:** 43 jobs | 16% remote | 42 companies | Avg salary: 108k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
