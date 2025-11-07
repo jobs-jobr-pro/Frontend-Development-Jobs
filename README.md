@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Nov 07, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Nov 07, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -14,6 +14,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Technoly](https://technoly.com/)** | **[Frontend Developer Angular (m/w/d)](https://jobr.pro/job/31905877/frontend-developer-angular-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Berlin Boppstr. | On Site | Nov 07 |
+| **[KPMG India](https://kpmg.com/)** | **[Consultant - Frontend Developer](https://jobr.pro/job/31932757/consultant-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bangalore, Karnataka, India | On Site | Nov 07 |
+| **[UBS](https://www.ubs.com/)** | **[Frontend Developer - Obtain Pension Solutions](https://jobr.pro/job/31929429/frontend-developer-obtain-pension-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Pune, India | On Site | Nov 07 |
 | **[Next 15 Group plc](https://www.next15.com/)** | **[Junior Frontend Developer](https://jobr.pro/job/31921409/junior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Leicester, United Kingdom | On Site | Nov 06 |
 | **[Valtech](https://www.valtech.com/)** | **[Lead Frontend Developer](https://jobr.pro/job/31886979/lead-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Copenhagen | On Site | Nov 06 |
 | **[Hostinger](https://www.hostinger.com/)** | **[Junior Frontend Developer (Horizons team)](https://jobr.pro/job/31888762/junior-frontend-developer-horizons-team?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Vilnius | On Site | Nov 06 |
@@ -61,7 +63,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 45 jobs | 16% remote | 44 companies | Avg salary: 108k  
+**Current Stats:** 47 jobs | 15% remote | 46 companies | Avg salary: 108k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
