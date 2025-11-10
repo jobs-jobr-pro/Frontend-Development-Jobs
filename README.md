@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Nov 10, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Nov 10, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[DrinkPrime](https://drinkprime.in/)** | **[Junior Frontend Developer - SDE I](https://jobr.pro/job/32075028/junior-frontend-developer-sde-i?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Karnataka, Bengaluru, India | On Site | Nov 10 |
+| **[Aceve](https://www.aceve.com/)** | **[Frontend Developer](https://jobr.pro/job/32070495/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lisboa, Portugal | On Site | Nov 10 |
+| **[Deploy](https://thisisdeploy.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/32081880/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Stockholm; | On Site | Nov 09 |
 | **[ITDM Group](https://www.itdmgroup.it/)** | **[Frontend Developer – Napoli -](https://jobr.pro/job/32066420/frontend-developer-napoli-?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Pozzuoli, Italy | On Site | Nov 09 |
 | **[papernest](https://www.papernest.com/)** | **[Senior Frontend Developer (React/NextJS) - CDI - Paris](https://jobr.pro/job/32065128/senior-frontend-developer-reactnextjs-cdi-paris?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Paris, France | On Site | Nov 09 |
 | **[TrackMan](https://trackman.com/)** | **[Senior Frontend Developer - Team Sports Applications](https://jobr.pro/job/32050281/senior-frontend-developer-team-sports-applications?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Hørsholm, Sjælland, Denmark | On Site | Nov 09 |
@@ -56,7 +59,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 40 jobs | 13% remote | 40 companies | Avg salary: 48k  
+**Current Stats:** 43 jobs | 12% remote | 43 companies | Avg salary: 48k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
