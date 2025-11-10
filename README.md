@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Nov 10, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Nov 10, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[TrackMan](https://trackman.com/)** | **[Senior Frontend Developer - Team Sports Applications](https://jobr.pro/job/32050281/senior-frontend-developer-team-sports-applications?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Hørsholm, Sjælland, Denmark | On Site | Nov 09 |
 | **[InnoWave](https://innowave.tech/)** | **[Senior Frontend Developer (Hybrid)](https://jobr.pro/job/32018621/senior-frontend-developer-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | London, United Kingdom of Great Britain and Northern Ireland | On Site | Nov 08 |
 | **[MindgruveMacarta](https://mindgruve.com/)** | **[Senior Frontend Developer (Contract Position)](https://jobr.pro/job/31978256/senior-frontend-developer-contract-position?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | United States - Remote | Remote | Nov 08 |
 | **[Future Processing](https://www.future-processing.com)** | **[Senior Frontend Developer - Angular, AWS](https://jobr.pro/job/31979698/senior-frontend-developer-angular-aws?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Gliwice | On Site | Nov 07 |
@@ -53,7 +54,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 37 jobs | 14% remote | 37 companies | Avg salary: 48k  
+**Current Stats:** 38 jobs | 13% remote | 38 companies | Avg salary: 48k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
