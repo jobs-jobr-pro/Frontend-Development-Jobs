@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Nov 10, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 11, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -15,6 +15,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | ------- | -------- | -------- | ---- | ------ |
 | **[DrinkPrime](https://drinkprime.in/)** | **[Junior Frontend Developer - SDE I](https://jobr.pro/job/32075028/junior-frontend-developer-sde-i?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Karnataka, Bengaluru, India | On Site | Nov 10 |
 | **[Aceve](https://www.aceve.com/)** | **[Frontend Developer](https://jobr.pro/job/32070495/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lisboa, Portugal | On Site | Nov 10 |
+| **[Deutsche Bank](https://www.db.com/)** | **[Frontend Developer, AS](https://jobr.pro/job/32112725/frontend-developer-as?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Pune - Margarpatta, India | On Site | Nov 10 |
 | **[Deploy](https://thisisdeploy.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/32081880/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Stockholm; | On Site | Nov 09 |
 | **[ITDM Group](https://www.itdmgroup.it/)** | **[Frontend Developer – Napoli -](https://jobr.pro/job/32066420/frontend-developer-napoli-?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Pozzuoli, Italy | On Site | Nov 09 |
 | **[papernest](https://www.papernest.com/)** | **[Senior Frontend Developer (React/NextJS) - CDI - Paris](https://jobr.pro/job/32065128/senior-frontend-developer-reactnextjs-cdi-paris?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Paris, France | On Site | Nov 09 |
@@ -51,15 +52,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Weekday](https://www.weekday.works)** | **[Frontend Developer](https://jobr.pro/job/31654055/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bengaluru, Karnataka, India | On Site | Nov 04 |
 | **[Sensia Global](https://www.sensiaglobal.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/31643067/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India Pune Axis Centra (Baner, Sensia) | On Site | Nov 04 |
 | **[Deutsche Bank](https://www.db.com/)** | **[Frontend Developer, AVP](https://jobr.pro/job/31691707/frontend-developer-avp?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Pune - Business Bay, India | On Site | Nov 04 |
-| **[Behavox](https://www.behavox.com/)** | **[Frontend Developer 3 - Angular](https://jobr.pro/job/31604810/frontend-developer-3-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Canada | On Site | Nov 03 |
-| **[66degrees](https://66degrees.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/31617316/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bangalore | On Site | Nov 03 |
-| **[Securiti](https://securiti.ai/)** | **[Lead Frontend Developer](https://jobr.pro/job/31562582/lead-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Karachi, Pakistan, Pakistan | On Site | Nov 03 |
-| **[ECS](https://techecs.com/)** | **[React / Next.js - Digital Frontend Developer](https://jobr.pro/job/31561784/react-nextjs-digital-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Telangana, Hyderabad, India | On Site | Nov 03 |
-| **[Rakuten Kobo Inc.](https://www.kobo.com/)** | **[Senior Frontend Developer (12 month contract)](https://jobr.pro/job/31582856/senior-frontend-developer-12-month-contract?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | ON-John Street, Canada | On Site | Nov 03 |
 
 ---
 
-**Current Stats:** 43 jobs | 12% remote | 43 companies | Avg salary: 48k  
+**Current Stats:** 39 jobs | 13% remote | 38 companies | Avg salary: 48k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
