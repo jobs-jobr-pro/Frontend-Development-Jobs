@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Nov 12, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Nov 12, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,10 +13,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Flagship Pioneering, Inc.](https://www.flagshippioneering.com)** | **[Senior Frontend Developer](https://jobr.pro/job/32241898/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Cambridge, MA USA | On Site | Nov 12 |
+| **[Wix](https://www.wix.com/)** | **[Frontend Developer - Editor Platform](https://jobr.pro/job/32250945/frontend-developer-editor-platform?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Nov 11 |
+| **[Version 1](https://www.version1.com)** | **[Angular Frontend Developer](https://jobr.pro/job/32248098/angular-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Dublin, Cork, Limerick, Galway, Shannon, Ireland | On Site | Nov 11 |
 | **[Sedin Technologies](https://sedintechnologies.com/)** | **[Frontend Developer](https://jobr.pro/job/32195841/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tamil Nadu, Chennai, India | On Site | Nov 11 |
 | **[askblue](https://askblue.com)** | **[Frontend Developer](https://jobr.pro/job/32212240/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lisboa, Lisboa | On Site | Nov 11 |
 | **[Roanuz](https://roanuz.com/)** | **[Frontend Developer](https://jobr.pro/job/32198377/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tamil Nadu, Chennai, India | On Site | Nov 11 |
-| **[Wix](https://www.wix.com/)** | **[Frontend Developer - Editor Platform](https://jobr.pro/job/32162631/frontend-developer-editor-platform?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Nov 11 |
 | **[DrinkPrime](https://drinkprime.in/)** | **[Junior Frontend Developer - SDE I](https://jobr.pro/job/32075028/junior-frontend-developer-sde-i?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Karnataka, Bengaluru, India | On Site | Nov 10 |
 | **[Aceve](https://www.aceve.com/)** | **[Frontend Developer](https://jobr.pro/job/32070495/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lisboa, Portugal | On Site | Nov 10 |
 | **[Deutsche Bank](https://www.db.com/)** | **[Frontend Developer, AS](https://jobr.pro/job/32112725/frontend-developer-as?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Pune - Margarpatta, India | On Site | Nov 10 |
@@ -48,7 +50,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 32 jobs | 13% remote | 32 companies | Avg salary: 48k  
+**Current Stats:** 34 jobs | 12% remote | 34 companies | Avg salary: 112k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
