@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Nov 12, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Nov 12, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -16,6 +16,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Noma Security](https://noma.security/)** | **[Senior Frontend Developer](https://jobr.pro/job/32294302/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Nov 12 |
 | **[Zafran](https://www.zafran.io/)** | **[Senior Frontend Developer- Analytics Team](https://jobr.pro/job/32294075/senior-frontend-developer-analytics-team?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Nov 12 |
 | **[Signaturit Group](https://www.signaturit.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/32275097/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Paterna, Spain | On Site | Nov 12 |
+| **[Tezza Business Solutions](https://tezzasolutions.com/)** | **[Frontend Developer (Angular / React)](https://jobr.pro/job/32302191/frontend-developer-angular-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lagos, Lagos | On Site | Nov 12 |
 | **[Flagship Pioneering, Inc.](https://www.flagshippioneering.com)** | **[Senior Frontend Developer](https://jobr.pro/job/32241898/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Cambridge, MA USA | On Site | Nov 12 |
 | **[Zühlke Group](https://www.zuehlke.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/32287585/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Porto, Portugal | On Site | Nov 12 |
 | **[TAWANTECH](https://www.tawantech.sa/)** | **[Frontend Developer](https://jobr.pro/job/32288139/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Riyadh, Riyadh Province, Saudi Arabia - Remote | Remote | Nov 12 |
@@ -55,7 +56,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 39 jobs | 13% remote | 39 companies | Avg salary: 112k  
+**Current Stats:** 40 jobs | 13% remote | 40 companies | Avg salary: 112k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
