@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Nov 13, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Nov 13, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Sopra Steria](https://www.soprasteria.com)** | **[CDI - Développeur Front end - Frontend Developer – AI Products - SBS - Paris](https://jobr.pro/job/32327234/cdi-developpeur-front-end-frontend-developer-ai-products-sbs-paris?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Courbevoie, IDF, France | On Site | Nov 12 |
 | **[Noma Security](https://noma.security/)** | **[Senior Frontend Developer](https://jobr.pro/job/32294302/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Nov 12 |
 | **[Zafran](https://www.zafran.io/)** | **[Senior Frontend Developer- Analytics Team](https://jobr.pro/job/32294075/senior-frontend-developer-analytics-team?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Nov 12 |
 | **[Signaturit Group](https://www.signaturit.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/32275097/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Paterna, Spain | On Site | Nov 12 |
@@ -49,7 +50,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 33 jobs | 9% remote | 33 companies | Avg salary: 112k  
+**Current Stats:** 34 jobs | 9% remote | 34 companies | Avg salary: 112k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
