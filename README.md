@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Nov 13, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Nov 13, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Whirr Crew](https://www.whirrcrew.com/)** | **[Frontend Developer (Vue.js, Nuxt.js), Czech Based](https://jobr.pro/job/32384077/frontend-developer-vuejs-nuxtjs-czech-based?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Prague, Prague, Czechia | On Site | Nov 13 |
 | **[Reply](https://www.reply.com/)** | **[Frontend Developer – React.js](https://jobr.pro/job/32332503/frontend-developer-reactjs?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Detroit Area, Michigan | On Site | Nov 12 |
 | **[Assured](https://www.assured.claims)** | **[Staff Creative Frontend Developer](https://jobr.pro/job/32338070/staff-creative-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote | Remote | Nov 12 |
 | **[NEORIS](https://www.neoris.com)** | **[Senior React Frontend Developer](https://jobr.pro/job/32338618/senior-react-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Madrid, Spain | On Site | Nov 12 |
@@ -54,7 +55,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 38 jobs | 11% remote | 38 companies | Avg salary: 141k  
+**Current Stats:** 39 jobs | 10% remote | 39 companies | Avg salary: 141k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
