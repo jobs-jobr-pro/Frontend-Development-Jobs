@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Nov 13, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Nov 13, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -14,6 +14,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Whirr Crew](https://www.whirrcrew.com/)** | **[Frontend Developer (Vue.js, Nuxt.js), Czech Based](https://jobr.pro/job/32384077/frontend-developer-vuejs-nuxtjs-czech-based?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Prague, Prague, Czechia | On Site | Nov 13 |
+| **[RGE](https://www.rgei.com/)** | **[Frontend Developer Assistant](https://jobr.pro/job/32407091/frontend-developer-assistant?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Pangkalan Kerinci, Indonesia | On Site | Nov 13 |
 | **[Reply](https://www.reply.com/)** | **[Frontend Developer – React.js](https://jobr.pro/job/32332503/frontend-developer-reactjs?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Detroit Area, Michigan | On Site | Nov 12 |
 | **[Assured](https://www.assured.claims)** | **[Staff Creative Frontend Developer](https://jobr.pro/job/32338070/staff-creative-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote | Remote | Nov 12 |
 | **[NEORIS](https://www.neoris.com)** | **[Senior React Frontend Developer](https://jobr.pro/job/32338618/senior-react-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Madrid, Spain | On Site | Nov 12 |
@@ -24,8 +25,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Signaturit Group](https://www.signaturit.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/32275097/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Paterna, Spain | On Site | Nov 12 |
 | **[Tezza Business Solutions](https://tezzasolutions.com/)** | **[Frontend Developer (Angular / React)](https://jobr.pro/job/32302191/frontend-developer-angular-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lagos, Lagos | On Site | Nov 12 |
 | **[Flagship Pioneering, Inc.](https://www.flagshippioneering.com)** | **[Senior Frontend Developer](https://jobr.pro/job/32241898/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Cambridge, MA USA | On Site | Nov 12 |
-| **[Zühlke Group](https://www.zuehlke.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/32287585/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Porto, Portugal | On Site | Nov 12 |
 | **[TAWANTECH](https://www.tawantech.sa/)** | **[Frontend Developer](https://jobr.pro/job/32288139/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Riyadh, Riyadh Province, Saudi Arabia - Remote | Remote | Nov 12 |
+| **[Zühlke Group](https://www.zuehlke.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/32287585/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Porto, Portugal | On Site | Nov 12 |
 | **[Wix](https://www.wix.com/)** | **[Frontend Developer - Editor Platform](https://jobr.pro/job/32250945/frontend-developer-editor-platform?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Nov 11 |
 | **[Version 1](https://www.version1.com)** | **[Angular Frontend Developer](https://jobr.pro/job/32248098/angular-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Dublin, Cork, Limerick, Galway, Shannon, Ireland | On Site | Nov 11 |
 | **[Sedin Technologies](https://sedintechnologies.com/)** | **[Frontend Developer](https://jobr.pro/job/32195841/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tamil Nadu, Chennai, India | On Site | Nov 11 |
@@ -43,19 +44,19 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Future Processing](https://www.future-processing.com)** | **[Senior Frontend Developer - Angular, AWS](https://jobr.pro/job/31979698/senior-frontend-developer-angular-aws?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Gliwice | On Site | Nov 07 |
 | **[Technoly](https://technoly.com/)** | **[Frontend Developer Angular (m/w/d)](https://jobr.pro/job/31905877/frontend-developer-angular-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Berlin Boppstr. | On Site | Nov 07 |
 | **[KPMG India](https://kpmg.com/)** | **[Consultant - Frontend Developer](https://jobr.pro/job/31932757/consultant-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bangalore, Karnataka, India | On Site | Nov 07 |
-| **[UBS](https://www.ubs.com/)** | **[Frontend Developer - Obtain Pension Solutions](https://jobr.pro/job/31929429/frontend-developer-obtain-pension-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Pune, India | On Site | Nov 07 |
 | **[Zelis](https://www.zelis.com/)** | **[Frontend Developer](https://jobr.pro/job/31966597/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India Hyderabad (Galaxy) | On Site | Nov 07 |
+| **[UBS](https://www.ubs.com/)** | **[Frontend Developer - Obtain Pension Solutions](https://jobr.pro/job/31929429/frontend-developer-obtain-pension-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Pune, India | On Site | Nov 07 |
 | **[Next 15 Group plc](https://www.next15.com/)** | **[Junior Frontend Developer](https://jobr.pro/job/31921409/junior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Leicester, United Kingdom | On Site | Nov 06 |
 | **[Valtech](https://www.valtech.com/)** | **[Lead Frontend Developer](https://jobr.pro/job/31886979/lead-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Copenhagen | On Site | Nov 06 |
 | **[Hostinger](https://www.hostinger.com/)** | **[Junior Frontend Developer (Horizons team)](https://jobr.pro/job/31888762/junior-frontend-developer-horizons-team?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Vilnius | On Site | Nov 06 |
 | **[Scaleway](https://www.scaleway.com/)** | **[Frontend Developer](https://jobr.pro/job/31889197/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Paris | On Site | Nov 06 |
+| **[Emerging Travel Group](https://www.emergingtravel.com/)** | **[Frontend Developer](https://jobr.pro/job/31821033/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Turkey - Remote | Remote | Nov 06 |
 | **[Nextracker](https://www.nextracker.com/)** | **[Frontend Developer Web Apps](https://jobr.pro/job/31877491/frontend-developer-web-apps?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Sorocaba, Sao Paulo - BRA, Brazil | On Site | Nov 06 |
 | **[Accenture](https://www.accenture.com/)** | **[Frontend Developer (React)](https://jobr.pro/job/31857669/frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Warsaw, Sienna 39, Poland | On Site | Nov 06 |
-| **[Emerging Travel Group](https://www.emergingtravel.com/)** | **[Frontend Developer](https://jobr.pro/job/31821033/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Turkey - Remote | Remote | Nov 06 |
 
 ---
 
-**Current Stats:** 39 jobs | 10% remote | 39 companies | Avg salary: 141k  
+**Current Stats:** 40 jobs | 10% remote | 40 companies | Avg salary: 141k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
