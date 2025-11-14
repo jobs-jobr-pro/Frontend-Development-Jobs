@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Nov 14, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Nov 14, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,7 +13,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Coursera](https://www.coursera.org/)** | **[Senior Frontend Developer](https://jobr.pro/job/32428969/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Canada | On Site | Nov 14 |
+| **[Kaseya](https://www.kaseya.com/)** | **[Frontend Developer](https://jobr.pro/job/32426269/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | CO Medellin - Rio Sur; Colombia | On Site | Nov 13 |
+| **[Delasport](https://www.delasport.com/)** | **[Senior Frontend Developer (React)](https://jobr.pro/job/32437258/senior-frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Kyiv, Kyiv, Ukraine | On Site | Nov 13 |
+| **[Cyberhaven](https://www.cyberhaven.com/)** | **[Senior Software Engineer (Frontend Developer)](https://jobr.pro/job/32429857/senior-software-engineer-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bangalore | Remote | Nov 13 |
+| **[Talan](https://talan.com)** | **[Lead Frontend Developer](https://jobr.pro/job/32437282/lead-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Geneva, GE, Switzerland | On Site | Nov 13 |
 | **[Whirr Crew](https://www.whirrcrew.com/)** | **[Frontend Developer (Vue.js, Nuxt.js), Czech Based](https://jobr.pro/job/32384077/frontend-developer-vuejs-nuxtjs-czech-based?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Prague, Prague, Czechia | On Site | Nov 13 |
+| **[Genesis](https://gen.tech)** | **[Middle+/Senior Frontend Developer (Guru Apps)](https://jobr.pro/job/32425294/middlesenior-frontend-developer-guru-apps?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Kyiv, UA | On Site | Nov 13 |
 | **[RGE](https://www.rgei.com/)** | **[Frontend Developer Assistant](https://jobr.pro/job/32407091/frontend-developer-assistant?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Pangkalan Kerinci, Indonesia | On Site | Nov 13 |
 | **[Reply](https://www.reply.com/)** | **[Frontend Developer – React.js](https://jobr.pro/job/32332503/frontend-developer-reactjs?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Detroit Area, Michigan | On Site | Nov 12 |
 | **[Assured](https://www.assured.claims)** | **[Staff Creative Frontend Developer](https://jobr.pro/job/32338070/staff-creative-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote | Remote | Nov 12 |
@@ -49,7 +55,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 33 jobs | 9% remote | 33 companies | Avg salary: 188k  
+**Current Stats:** 39 jobs | 10% remote | 39 companies | Avg salary: 181k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
