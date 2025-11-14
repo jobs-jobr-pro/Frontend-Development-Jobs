@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Nov 13, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 14, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -46,17 +46,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[KPMG India](https://kpmg.com/)** | **[Consultant - Frontend Developer](https://jobr.pro/job/31932757/consultant-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bangalore, Karnataka, India | On Site | Nov 07 |
 | **[Zelis](https://www.zelis.com/)** | **[Frontend Developer](https://jobr.pro/job/31966597/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India Hyderabad (Galaxy) | On Site | Nov 07 |
 | **[UBS](https://www.ubs.com/)** | **[Frontend Developer - Obtain Pension Solutions](https://jobr.pro/job/31929429/frontend-developer-obtain-pension-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Pune, India | On Site | Nov 07 |
-| **[Next 15 Group plc](https://www.next15.com/)** | **[Junior Frontend Developer](https://jobr.pro/job/31921409/junior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Leicester, United Kingdom | On Site | Nov 06 |
-| **[Valtech](https://www.valtech.com/)** | **[Lead Frontend Developer](https://jobr.pro/job/31886979/lead-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Copenhagen | On Site | Nov 06 |
-| **[Hostinger](https://www.hostinger.com/)** | **[Junior Frontend Developer (Horizons team)](https://jobr.pro/job/31888762/junior-frontend-developer-horizons-team?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Vilnius | On Site | Nov 06 |
-| **[Scaleway](https://www.scaleway.com/)** | **[Frontend Developer](https://jobr.pro/job/31889197/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Paris | On Site | Nov 06 |
-| **[Emerging Travel Group](https://www.emergingtravel.com/)** | **[Frontend Developer](https://jobr.pro/job/31821033/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Turkey - Remote | Remote | Nov 06 |
-| **[Nextracker](https://www.nextracker.com/)** | **[Frontend Developer Web Apps](https://jobr.pro/job/31877491/frontend-developer-web-apps?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Sorocaba, Sao Paulo - BRA, Brazil | On Site | Nov 06 |
-| **[Accenture](https://www.accenture.com/)** | **[Frontend Developer (React)](https://jobr.pro/job/31857669/frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Warsaw, Sienna 39, Poland | On Site | Nov 06 |
 
 ---
 
-**Current Stats:** 40 jobs | 10% remote | 40 companies | Avg salary: 141k  
+**Current Stats:** 33 jobs | 9% remote | 33 companies | Avg salary: 188k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
