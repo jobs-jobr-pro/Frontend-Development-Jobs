@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Nov 15, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 16, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -51,12 +51,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[ITDM Group](https://www.itdmgroup.it/)** | **[Frontend Developer – Napoli -](https://jobr.pro/job/32066420/frontend-developer-napoli-?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Pozzuoli, Italy | On Site | Nov 09 |
 | **[papernest](https://www.papernest.com/)** | **[Senior Frontend Developer (React/NextJS) - CDI - Paris](https://jobr.pro/job/32065128/senior-frontend-developer-reactnextjs-cdi-paris?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Paris, France | On Site | Nov 09 |
 | **[TrackMan](https://trackman.com/)** | **[Senior Frontend Developer - Team Sports Applications](https://jobr.pro/job/32050281/senior-frontend-developer-team-sports-applications?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Hørsholm, Sjælland, Denmark | On Site | Nov 09 |
-| **[InnoWave](https://innowave.tech/)** | **[Senior Frontend Developer (Hybrid)](https://jobr.pro/job/32018621/senior-frontend-developer-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | London, United Kingdom of Great Britain and Northern Ireland | On Site | Nov 08 |
-| **[MindgruveMacarta](https://mindgruve.com/)** | **[Senior Frontend Developer (Contract Position)](https://jobr.pro/job/31978256/senior-frontend-developer-contract-position?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | United States - Remote | Remote | Nov 08 |
 
 ---
 
-**Current Stats:** 40 jobs | 13% remote | 40 companies | Avg salary: 181k  
+**Current Stats:** 38 jobs | 11% remote | 38 companies | Avg salary: 181k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
