@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Nov 17, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Nov 17, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[ScaleOps](https://scaleops.com/)** | **[Frontend Developer](https://jobr.pro/job/32625095/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Jaffa, Tel Aviv District, IL | On Site | Nov 17 |
 | **[EveryMatrix](https://everymatrix.com/)** | **[Junior Frontend Developer](https://jobr.pro/job/32612312/junior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Amphoe Mueang Chiang Mai, Thailand | On Site | Nov 17 |
 | **[EveryMatrix](https://everymatrix.com/)** | **[Middle Frontend Developer](https://jobr.pro/job/32612314/middle-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Amphoe Mueang Chiang Mai, Thailand | On Site | Nov 17 |
 | **[adjoe](https://adjoe.io/)** | **[Senior Frontend Developer (f/m/d)](https://jobr.pro/job/32606834/senior-frontend-developer-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Hamburg, Germany | On Site | Nov 17 |
@@ -59,7 +60,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 43 jobs | 14% remote | 40 companies | Avg salary: 181k  
+**Current Stats:** 44 jobs | 14% remote | 41 companies | Avg salary: 181k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
