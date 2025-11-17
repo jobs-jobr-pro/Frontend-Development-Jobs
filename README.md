@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Nov 17, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Nov 17, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,7 +13,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[EveryMatrix](https://everymatrix.com/)** | **[Junior Frontend Developer](https://jobr.pro/job/32612312/junior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Amphoe Mueang Chiang Mai, Thailand | On Site | Nov 17 |
+| **[EveryMatrix](https://everymatrix.com/)** | **[Middle Frontend Developer](https://jobr.pro/job/32612314/middle-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Amphoe Mueang Chiang Mai, Thailand | On Site | Nov 17 |
+| **[adjoe](https://adjoe.io/)** | **[Senior Frontend Developer (f/m/d)](https://jobr.pro/job/32606834/senior-frontend-developer-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Hamburg, Germany | On Site | Nov 17 |
 | **[Galaxy](https://galaxy.com/)** | **[Vice President, Senior Frontend Developer (Remote, Mumbai)](https://jobr.pro/job/32596339/vice-president-senior-frontend-developer-remote-mumbai?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India | Remote | Nov 17 |
+| **[INHAUS](https://inhausrh.com/)** | **[Senior Frontend Developer \| Leading Company in the Tech & AI sector](https://jobr.pro/job/32611427/senior-frontend-developer-leading-company-in-the-tech-ai-sector?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Wrocław, Poland | On Site | Nov 16 |
+| **[INHAUS](https://inhausrh.com/)** | **[Senior Frontend Developer \| Branża Tech/AI](https://jobr.pro/job/32611425/senior-frontend-developer-branza-techai?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Wrocław, Poland | On Site | Nov 16 |
+| **[ALDIA](https://www.aldiagrp.com/)** | **[Frontend developer (REACT)](https://jobr.pro/job/32608506/frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Barcelona, CT, Spain | On Site | Nov 16 |
+| **[ALDIA](https://www.aldiagrp.com/)** | **[Frontend Developer](https://jobr.pro/job/32608505/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Madrid, MD, Spain | On Site | Nov 16 |
 | **[Strix](https://strix.net/)** | **[Frontend Developer (m/w/d)](https://jobr.pro/job/32595561/frontend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Praca zdalna | Remote | Nov 16 |
 | **[Coveo](https://www.coveo.com/)** | **[Senior Frontend Developer - DX](https://jobr.pro/job/32515857/senior-frontend-developer-dx?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Montreal (Province of Quebec, Canada) | On Site | Nov 14 |
 | **[CI&T](https://ciandt.com/)** | **[\[Job 26050\] Master Frontend Developer (Javascript)](https://jobr.pro/job/32514745/job-26050-master-frontend-developer-javascript?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Brazil | On Site | Nov 14 |
@@ -52,7 +59,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 36 jobs | 17% remote | 36 companies | Avg salary: 181k  
+**Current Stats:** 43 jobs | 14% remote | 40 companies | Avg salary: 181k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
