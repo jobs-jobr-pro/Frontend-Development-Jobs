@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Nov 17, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Nov 17, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -47,8 +47,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Signaturit Group](https://www.signaturit.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/32275097/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Paterna, Spain | On Site | Nov 12 |
 | **[Tezza Business Solutions](https://tezzasolutions.com/)** | **[Frontend Developer (Angular / React)](https://jobr.pro/job/32302191/frontend-developer-angular-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lagos, Lagos | On Site | Nov 12 |
 | **[Flagship Pioneering, Inc.](https://www.flagshippioneering.com)** | **[Senior Frontend Developer](https://jobr.pro/job/32241898/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Cambridge, MA USA | On Site | Nov 12 |
-| **[TAWANTECH](https://www.tawantech.sa/)** | **[Frontend Developer](https://jobr.pro/job/32288139/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Riyadh, Riyadh Province, Saudi Arabia - Remote | Remote | Nov 12 |
 | **[Zühlke Group](https://www.zuehlke.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/32287585/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Porto, Portugal | On Site | Nov 12 |
+| **[TAWANTECH](https://www.tawantech.sa/)** | **[Frontend Developer](https://jobr.pro/job/32288139/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Riyadh, Riyadh Province, Saudi Arabia - Remote | Remote | Nov 12 |
 | **[Wix](https://www.wix.com/)** | **[Frontend Developer - Editor Platform](https://jobr.pro/job/32250945/frontend-developer-editor-platform?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Nov 11 |
 | **[Version 1](https://www.version1.com)** | **[Angular Frontend Developer](https://jobr.pro/job/32248098/angular-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Dublin, Cork, Limerick, Galway, Shannon, Ireland | On Site | Nov 11 |
 | **[Sedin Technologies](https://sedintechnologies.com/)** | **[Frontend Developer](https://jobr.pro/job/32195841/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tamil Nadu, Chennai, India | On Site | Nov 11 |
