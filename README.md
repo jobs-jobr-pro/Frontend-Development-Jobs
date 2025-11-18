@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Nov 17, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 18, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -18,6 +18,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[EveryMatrix](https://everymatrix.com/)** | **[Middle Frontend Developer](https://jobr.pro/job/32612314/middle-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Amphoe Mueang Chiang Mai, Thailand | On Site | Nov 17 |
 | **[adjoe](https://adjoe.io/)** | **[Senior Frontend Developer (f/m/d)](https://jobr.pro/job/32606834/senior-frontend-developer-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Hamburg, Germany | On Site | Nov 17 |
 | **[Galaxy](https://galaxy.com/)** | **[Vice President, Senior Frontend Developer (Remote, Mumbai)](https://jobr.pro/job/32596339/vice-president-senior-frontend-developer-remote-mumbai?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India | Remote | Nov 17 |
+| **[HARMAN International](https://www.harman.com/)** | **[Frontend Developer - Angular](https://jobr.pro/job/32645775/frontend-developer-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | IN Pune Embassy Tech Zone Rajiv Gandhi Infotec Park HCS, India | On Site | Nov 17 |
 | **[INHAUS](https://inhausrh.com/)** | **[Senior Frontend Developer \| Leading Company in the Tech & AI sector](https://jobr.pro/job/32611427/senior-frontend-developer-leading-company-in-the-tech-ai-sector?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Wrocław, Poland | On Site | Nov 16 |
 | **[INHAUS](https://inhausrh.com/)** | **[Senior Frontend Developer \| Branża Tech/AI](https://jobr.pro/job/32611425/senior-frontend-developer-branza-techai?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Wrocław, Poland | On Site | Nov 16 |
 | **[ALDIA](https://www.aldiagrp.com/)** | **[Frontend developer (REACT)](https://jobr.pro/job/32608506/frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Barcelona, CT, Spain | On Site | Nov 16 |
@@ -54,13 +55,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Sedin Technologies](https://sedintechnologies.com/)** | **[Frontend Developer](https://jobr.pro/job/32195841/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tamil Nadu, Chennai, India | On Site | Nov 11 |
 | **[askblue](https://askblue.com)** | **[Frontend Developer](https://jobr.pro/job/32212240/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lisboa, Lisboa | On Site | Nov 11 |
 | **[Roanuz](https://roanuz.com/)** | **[Frontend Developer](https://jobr.pro/job/32198377/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tamil Nadu, Chennai, India | On Site | Nov 11 |
-| **[DrinkPrime](https://drinkprime.in/)** | **[Junior Frontend Developer - SDE I](https://jobr.pro/job/32075028/junior-frontend-developer-sde-i?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Karnataka, Bengaluru, India | On Site | Nov 10 |
-| **[Aceve](https://www.aceve.com/)** | **[Frontend Developer](https://jobr.pro/job/32070495/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lisboa, Portugal | On Site | Nov 10 |
-| **[Deutsche Bank](https://www.db.com/)** | **[Frontend Developer, AS](https://jobr.pro/job/32112725/frontend-developer-as?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Pune - Margarpatta, India | On Site | Nov 10 |
 
 ---
 
-**Current Stats:** 44 jobs | 14% remote | 41 companies | Avg salary: 181k  
+**Current Stats:** 42 jobs | 14% remote | 39 companies | Avg salary: 181k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
