@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Nov 18, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Nov 18, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Photon](https://www.photon.com/)** | **[UI/UX Frontend Developer \| Onsite](https://jobr.pro/job/32705757/uiux-frontend-developer-onsite?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | United States | On Site | Nov 18 |
 | **[Thoughtworks](https://www.thoughtworks.com/)** | **[Lead Frontend Developer (React/Javascript)](https://jobr.pro/job/32665317/lead-frontend-developer-reactjavascript?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Brasil | On Site | Nov 18 |
 | **[NTT DATA](https://nttdata.com)** | **[Senior Engineer Frontend Developer](https://jobr.pro/job/32679265/senior-engineer-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bangalore, KA, IN | On Site | Nov 18 |
 | **[Unison Consulting Pte Ltd](https://www.unisonconsulting.com.sg)** | **[.NET (Frontend) Developer](https://jobr.pro/job/32685517/net-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Singapore, Singapore, Singapore | On Site | Nov 18 |
@@ -64,7 +65,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 48 jobs | 17% remote | 45 companies | Avg salary: 181k  
+**Current Stats:** 49 jobs | 16% remote | 46 companies | Avg salary: 180k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
