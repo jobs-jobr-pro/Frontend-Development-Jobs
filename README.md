@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Nov 18, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Nov 18, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Thoughtworks](https://www.thoughtworks.com/)** | **[Lead Frontend Developer (React/Javascript)](https://jobr.pro/job/32665317/lead-frontend-developer-reactjavascript?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Brasil | On Site | Nov 18 |
+| **[Obilet](https://www.obilet.com/)** | **[Frontend Developer](https://jobr.pro/job/32655502/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote job | Remote | Nov 17 |
+| **[Alter Solutions](https://www.alter-solutions.com/)** | **[Senior Frontend Developer - React & Typescript - ASAP Start - Freelance / CDI](https://jobr.pro/job/32663456/senior-frontend-developer-react-typescript-asap-start-freelance-cdi?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Brussels, Brussels, Belgium | On Site | Nov 17 |
 | **[ScaleOps](https://scaleops.com/)** | **[Frontend Developer](https://jobr.pro/job/32625095/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Jaffa, Tel Aviv District, IL | On Site | Nov 17 |
 | **[EveryMatrix](https://everymatrix.com/)** | **[Junior Frontend Developer](https://jobr.pro/job/32612312/junior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Amphoe Mueang Chiang Mai, Thailand | On Site | Nov 17 |
 | **[EveryMatrix](https://everymatrix.com/)** | **[Middle Frontend Developer](https://jobr.pro/job/32612314/middle-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Amphoe Mueang Chiang Mai, Thailand | On Site | Nov 17 |
@@ -58,7 +61,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 42 jobs | 14% remote | 39 companies | Avg salary: 181k  
+**Current Stats:** 45 jobs | 16% remote | 42 companies | Avg salary: 181k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
