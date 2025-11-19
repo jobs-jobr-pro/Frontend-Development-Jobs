@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Nov 19, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Nov 19, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,7 +13,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Fiverr](https://www.fiverr.com)** | **[Frontend Developer](https://jobr.pro/job/32805277/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Nov 19 |
+| **[Stream Security](https://www.stream.security/)** | **[Frontend developer](https://jobr.pro/job/32804261/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Ramat Gan, Tel Aviv District, IL | On Site | Nov 19 |
+| **[Rohde & Schwarz](https://www.rohde-schwarz.com/)** | **[Senior Frontend Developer (m/w/d) für Web](https://jobr.pro/job/32787731/senior-frontend-developer-mwd-fur-web?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Teisnach | On Site | Nov 19 |
+| **[Rohde & Schwarz](https://www.rohde-schwarz.com/)** | **[Frontend Developer](https://jobr.pro/job/32786305/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bangalore, Hyderabad, New Delhi | On Site | Nov 19 |
 | **[Perform](https://www.totalperform.com)** | **[Frontend Developer (React/Redux)](https://jobr.pro/job/32778843/frontend-developer-reactredux?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Montevideo Department, Uruguay | On Site | Nov 18 |
+| **[Oracle](https://www.oracle.com/)** | **[Remote Senior/Principal Frontend Developer \| New Gen AI Product Development Oracle Health](https://jobr.pro/job/32803357/remote-seniorprincipal-frontend-developer-new-gen-ai-product-development-oracle-health?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | United States | Remote | Nov 18 |
 | **[EXL](https://www.exlservice.com/)** | **[Senior Frontend Developer-Application Development-Backend Development](https://jobr.pro/job/32779033/senior-frontend-developer-application-development-backend-development?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India | On Site | Nov 18 |
 | **[Devoteam](https://www.devoteam.com/)** | **[Creative Tech \| Frontend Developer](https://jobr.pro/job/32755002/creative-tech-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lisboa, Lisboa, Portugal | On Site | Nov 18 |
 | **[Delasport](https://www.delasport.com/)** | **[Junior Frontend Developer (React, Kyiv office)](https://jobr.pro/job/32751941/junior-frontend-developer-react-kyiv-office?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Kyiv, Kyiv, Ukraine | On Site | Nov 18 |
@@ -58,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Zafran](https://www.zafran.io/)** | **[Senior Frontend Developer- Analytics Team](https://jobr.pro/job/32294075/senior-frontend-developer-analytics-team?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Nov 12 |
 | **[Signaturit Group](https://www.signaturit.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/32275097/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Paterna, Spain | On Site | Nov 12 |
 | **[Tezza Business Solutions](https://tezzasolutions.com/)** | **[Frontend Developer (Angular / React)](https://jobr.pro/job/32302191/frontend-developer-angular-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lagos, Lagos | On Site | Nov 12 |
-| **[Flagship Pioneering, Inc.](https://www.flagshippioneering.com)** | **[Senior Frontend Developer](https://jobr.pro/job/32241898/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Cambridge, MA USA | On Site | Nov 12 |
-| **[Zühlke Group](https://www.zuehlke.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/32287585/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Porto, Portugal | On Site | Nov 12 |
-| **[TAWANTECH](https://www.tawantech.sa/)** | **[Frontend Developer](https://jobr.pro/job/32288139/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Riyadh, Riyadh Province, Saudi Arabia - Remote | Remote | Nov 12 |
 
 ---
 
-**Current Stats:** 48 jobs | 17% remote | 44 companies | Avg salary: 180k  
+**Current Stats:** 50 jobs | 16% remote | 45 companies | Avg salary: 192k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
