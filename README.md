@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Nov 19, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Nov 19, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Devoteam](https://www.devoteam.com/)** | **[Creative Tech \| Frontend Developer](https://jobr.pro/job/32755002/creative-tech-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lisboa, Lisboa, Portugal | On Site | Nov 18 |
+| **[Delasport](https://www.delasport.com/)** | **[Junior Frontend Developer (React, Kyiv office)](https://jobr.pro/job/32751941/junior-frontend-developer-react-kyiv-office?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Kyiv, Kyiv, Ukraine | On Site | Nov 18 |
 | **[Photon](https://www.photon.com/)** | **[UI/UX Frontend Developer \| Onsite](https://jobr.pro/job/32705757/uiux-frontend-developer-onsite?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | United States | On Site | Nov 18 |
 | **[Thoughtworks](https://www.thoughtworks.com/)** | **[Lead Frontend Developer (React/Javascript)](https://jobr.pro/job/32665317/lead-frontend-developer-reactjavascript?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Brasil | On Site | Nov 18 |
 | **[Unison Consulting Pte Ltd](https://www.unisonconsulting.com.sg)** | **[.NET (Frontend) Developer](https://jobr.pro/job/32685517/net-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Singapore, Singapore, Singapore | On Site | Nov 18 |
@@ -60,7 +62,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 44 jobs | 18% remote | 41 companies | Avg salary: 180k  
+**Current Stats:** 46 jobs | 17% remote | 42 companies | Avg salary: 180k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
