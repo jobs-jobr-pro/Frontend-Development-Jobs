@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Nov 20, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Nov 20, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[EasySend](https://www.easysend.io/)** | **[Senior Frontend Developer](https://jobr.pro/job/32894264/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Nov 20 |
+| **[askblue](https://askblue.com)** | **[Frontend Developer - Angular](https://jobr.pro/job/32899572/frontend-developer-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lisboa, Lisboa | On Site | Nov 20 |
 | **[Thoughtworks](https://www.thoughtworks.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/32840080/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Ho Chi Minh City | On Site | Nov 19 |
 | **[Mono Software](https://mono.software)** | **[Frontend Developer](https://jobr.pro/job/32853500/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Osijek, Osječko-baranjska županija, Croatia | On Site | Nov 19 |
 | **[Oowlish Technology](https://www.oowlish.com/)** | **[Frontend Developer (React + Next.js)](https://jobr.pro/job/32837555/frontend-developer-react-nextjs?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | São Paulo | Remote | Nov 19 |
@@ -60,7 +62,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 44 jobs | 18% remote | 38 companies | Avg salary: 189k  
+**Current Stats:** 46 jobs | 17% remote | 40 companies | Avg salary: 189k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
