@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Nov 21, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Nov 21, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -15,6 +15,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | ------- | -------- | -------- | ---- | ------ |
 | **[Eureka Labs](https://eurekalabs.io/)** | **[Senior FrontEnd Developer ReactJS (25R01SU)](https://jobr.pro/job/32980302/senior-frontend-developer-reactjs-25r01su?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote | Remote | Nov 21 |
 | **[Eureka Labs](https://eurekalabs.io/)** | **[FrontEnd Developer ReactJS (25R01SF)](https://jobr.pro/job/32980297/frontend-developer-reactjs-25r01sf?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote | Remote | Nov 21 |
+| **[Aristocrat](https://www.aristocrat.com/)** | **[Sr Engineer I - Frontend Developer (Typescript, Javascript)](https://jobr.pro/job/32983470/sr-engineer-i-frontend-developer-typescript-javascript?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Noida Office, India | On Site | Nov 21 |
 | **[Oowlish Technology](https://www.oowlish.com/)** | **[Frontend Developer (ReactJS / NextJS)](https://jobr.pro/job/32929084/frontend-developer-reactjs-nextjs?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | São Paulo | Remote | Nov 20 |
 | **[Coinbase](https://www.coinbase.com/)** | **[Software Engineer, Frontend (Developer - Foundations)](https://jobr.pro/job/32929371/software-engineer-frontend-developer-foundations?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote - USA | Remote | Nov 20 |
 | **[EasySend](https://www.easysend.io/)** | **[Senior Frontend Developer](https://jobr.pro/job/32894264/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Nov 20 |
@@ -59,7 +60,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 43 jobs | 26% remote | 36 companies | Avg salary: 186k  
+**Current Stats:** 44 jobs | 25% remote | 37 companies | Avg salary: 186k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
