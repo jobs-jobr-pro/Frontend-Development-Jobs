@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Nov 22, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Nov 22, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,7 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Axians Portugal](https://www.axians.pt/)** | **[SAP Frontend Developer](https://jobr.pro/job/33050189/sap-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lisboa, Lisbon | On Site | Nov 21 |
 | **[Thoughtworks](https://www.thoughtworks.com/)** | **[Frontend Developer (JavaScript/React)](https://jobr.pro/job/33011741/frontend-developer-javascriptreact?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Santiago | On Site | Nov 21 |
+| **[Axians Portugal](https://www.axians.pt/)** | **[Frontend Developer (React)](https://jobr.pro/job/33050204/frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lisboa, Lisbon | On Site | Nov 21 |
 | **[Eureka Labs](https://eurekalabs.io/)** | **[Senior FrontEnd Developer ReactJS (25R01SU)](https://jobr.pro/job/32980302/senior-frontend-developer-reactjs-25r01su?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote | Remote | Nov 21 |
 | **[Eureka Labs](https://eurekalabs.io/)** | **[FrontEnd Developer ReactJS (25R01SF)](https://jobr.pro/job/32980297/frontend-developer-reactjs-25r01sf?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote | Remote | Nov 21 |
 | **[RoofStacks](https://roofstacks.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/33011055/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | İstanbul | On Site | Nov 21 |
@@ -55,7 +57,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 39 jobs | 26% remote | 31 companies | Avg salary: 193k  
+**Current Stats:** 41 jobs | 24% remote | 32 companies | Avg salary: 193k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
