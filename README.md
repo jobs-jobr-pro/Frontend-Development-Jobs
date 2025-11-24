@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Nov 24, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Nov 24, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Photon](https://www.photon.com/)** | **[Frontend Developer (ReactJS) \| Bangalore](https://jobr.pro/job/33079394/frontend-developer-reactjs-bangalore?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India | On Site | Nov 24 |
+| **[Weekday](https://www.weekday.works)** | **[Frontend Developer](https://jobr.pro/job/33081951/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bengaluru, Karnataka, India | On Site | Nov 24 |
 | **[Envidual](https://envidual.com)** | **[Frontend Developer](https://jobr.pro/job/33075051/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | München, Germany | On Site | Nov 23 |
 | **[Unison Consulting Pte Ltd](https://www.unisonconsulting.com.sg)** | **[Frontend Developer (Angular, Javascript, HTML, CSS)](https://jobr.pro/job/33069534/frontend-developer-angular-javascript-html-css?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia | On Site | Nov 23 |
 | **[applike group](https://applike-group.com/)** | **[Senior Frontend Developer (f/m/d)](https://jobr.pro/job/33062740/senior-frontend-developer-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Hamburg | On Site | Nov 23 |
@@ -56,7 +58,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 40 jobs | 23% remote | 32 companies | Avg salary: 166k  
+**Current Stats:** 42 jobs | 21% remote | 33 companies | Avg salary: 166k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
