@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Nov 23, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 24, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -49,15 +49,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[adjoe](https://adjoe.io/)** | **[Senior Frontend Developer (f/m/d)](https://jobr.pro/job/32606834/senior-frontend-developer-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Hamburg, Germany | On Site | Nov 17 |
 | **[Galaxy](https://galaxy.com/)** | **[Vice President, Senior Frontend Developer (Remote, Mumbai)](https://jobr.pro/job/32596339/vice-president-senior-frontend-developer-remote-mumbai?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India | Remote | Nov 17 |
 | **[HARMAN International](https://www.harman.com/)** | **[Frontend Developer - Angular](https://jobr.pro/job/32645775/frontend-developer-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | IN Pune Embassy Tech Zone Rajiv Gandhi Infotec Park HCS, India | On Site | Nov 17 |
-| **[INHAUS](https://inhausrh.com/)** | **[Senior Frontend Developer \| Leading Company in the Tech & AI sector](https://jobr.pro/job/32611427/senior-frontend-developer-leading-company-in-the-tech-ai-sector?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Wrocław, Poland | On Site | Nov 16 |
-| **[INHAUS](https://inhausrh.com/)** | **[Senior Frontend Developer \| Branża Tech/AI](https://jobr.pro/job/32611425/senior-frontend-developer-branza-techai?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Wrocław, Poland | On Site | Nov 16 |
-| **[ALDIA](https://www.aldiagrp.com/)** | **[Frontend developer (REACT)](https://jobr.pro/job/32608506/frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Barcelona, CT, Spain | On Site | Nov 16 |
-| **[ALDIA](https://www.aldiagrp.com/)** | **[Frontend Developer](https://jobr.pro/job/32608505/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Madrid, MD, Spain | On Site | Nov 16 |
-| **[Strix](https://strix.net/)** | **[Frontend Developer (m/w/d)](https://jobr.pro/job/32595561/frontend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Praca zdalna | Remote | Nov 16 |
 
 ---
 
-**Current Stats:** 41 jobs | 24% remote | 32 companies | Avg salary: 193k  
+**Current Stats:** 36 jobs | 25% remote | 29 companies | Avg salary: 193k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
