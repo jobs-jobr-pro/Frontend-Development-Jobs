@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Nov 24, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Nov 24, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[applike group](https://applike-group.com/)** | **[Senior Frontend Developer (f/m/d)](https://jobr.pro/job/33062740/senior-frontend-developer-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Hamburg | On Site | Nov 23 |
 | **[Axians Portugal](https://www.axians.pt/)** | **[SAP Frontend Developer](https://jobr.pro/job/33050189/sap-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lisboa, Lisbon | On Site | Nov 21 |
 | **[Thoughtworks](https://www.thoughtworks.com/)** | **[Frontend Developer (JavaScript/React)](https://jobr.pro/job/33011741/frontend-developer-javascriptreact?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Santiago | On Site | Nov 21 |
 | **[Axians Portugal](https://www.axians.pt/)** | **[Frontend Developer (React)](https://jobr.pro/job/33050204/frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lisboa, Lisbon | On Site | Nov 21 |
@@ -52,7 +53,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 36 jobs | 25% remote | 29 companies | Avg salary: 193k  
+**Current Stats:** 37 jobs | 24% remote | 30 companies | Avg salary: 193k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
