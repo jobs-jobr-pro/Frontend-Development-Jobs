@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Nov 24, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Nov 24, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,7 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Envidual](https://envidual.com)** | **[Frontend Developer](https://jobr.pro/job/33075051/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | München, Germany | On Site | Nov 23 |
+| **[Unison Consulting Pte Ltd](https://www.unisonconsulting.com.sg)** | **[Frontend Developer (Angular, Javascript, HTML, CSS)](https://jobr.pro/job/33069534/frontend-developer-angular-javascript-html-css?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia | On Site | Nov 23 |
 | **[applike group](https://applike-group.com/)** | **[Senior Frontend Developer (f/m/d)](https://jobr.pro/job/33062740/senior-frontend-developer-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Hamburg | On Site | Nov 23 |
+| **[DeepSource](https://www.deepsource.ai)** | **[Senior Frontend Developer/Angular - KSA](https://jobr.pro/job/33072064/senior-frontend-developerangular-ksa?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Riyadh, Riyadh Province, Saudi Arabia | On Site | Nov 23 |
 | **[Axians Portugal](https://www.axians.pt/)** | **[SAP Frontend Developer](https://jobr.pro/job/33050189/sap-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lisboa, Lisbon | On Site | Nov 21 |
 | **[Thoughtworks](https://www.thoughtworks.com/)** | **[Frontend Developer (JavaScript/React)](https://jobr.pro/job/33011741/frontend-developer-javascriptreact?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Santiago | On Site | Nov 21 |
 | **[Axians Portugal](https://www.axians.pt/)** | **[Frontend Developer (React)](https://jobr.pro/job/33050204/frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lisboa, Lisbon | On Site | Nov 21 |
@@ -53,7 +56,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 37 jobs | 24% remote | 30 companies | Avg salary: 193k  
+**Current Stats:** 40 jobs | 23% remote | 32 companies | Avg salary: 166k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
