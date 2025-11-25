@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Nov 25, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Nov 25, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[PlainID](https://www.plainid.com/)** | **[Frontend Developer](https://jobr.pro/job/33174830/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Nov 25 |
 | **[Behavox](https://www.behavox.com/)** | **[Frontend Developer 3 - Angular](https://jobr.pro/job/33121168/frontend-developer-3-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Canada | On Site | Nov 25 |
 | **[Fundraise Up](https://fundraiseup.com/)** | **[Frontend Developer (UI Team)](https://jobr.pro/job/33134813/frontend-developer-ui-team?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Portugal - Remote | Remote | Nov 24 |
 | **[Nagarro](https://www.nagarro.com)** | **[Senior Frontend Developer (React)](https://jobr.pro/job/33135580/senior-frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Budapest, Hungary | On Site | Nov 24 |
@@ -52,7 +53,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 36 jobs | 19% remote | 28 companies | Avg salary: 166k  
+**Current Stats:** 37 jobs | 19% remote | 29 companies | Avg salary: 166k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
