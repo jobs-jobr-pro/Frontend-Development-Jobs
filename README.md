@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Nov 26, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 27, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -42,17 +42,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Coinbase](https://www.coinbase.com/)** | **[Software Engineer, Frontend (Developer - Foundations)](https://jobr.pro/job/32929371/software-engineer-frontend-developer-foundations?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote - USA | Remote | Nov 20 |
 | **[EasySend](https://www.easysend.io/)** | **[Senior Frontend Developer](https://jobr.pro/job/32894264/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Nov 20 |
 | **[askblue](https://askblue.com)** | **[Frontend Developer - Angular](https://jobr.pro/job/32899572/frontend-developer-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lisboa, Lisboa | On Site | Nov 20 |
-| **[Thoughtworks](https://www.thoughtworks.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/32840080/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Ho Chi Minh City | On Site | Nov 19 |
-| **[Mono Software](https://mono.software)** | **[Frontend Developer](https://jobr.pro/job/32853500/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Osijek, Osječko-baranjska županija, Croatia | On Site | Nov 19 |
-| **[Oowlish Technology](https://www.oowlish.com/)** | **[Frontend Developer (React + Next.js)](https://jobr.pro/job/32837555/frontend-developer-react-nextjs?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | São Paulo | Remote | Nov 19 |
-| **[Fiverr](https://www.fiverr.com)** | **[Frontend Developer](https://jobr.pro/job/32805277/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Nov 19 |
-| **[Stream Security](https://www.stream.security/)** | **[Frontend developer](https://jobr.pro/job/32804261/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Ramat Gan, Tel Aviv District, IL | On Site | Nov 19 |
-| **[Rohde & Schwarz](https://www.rohde-schwarz.com/)** | **[Senior Frontend Developer (m/w/d) für Web](https://jobr.pro/job/32787731/senior-frontend-developer-mwd-fur-web?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Teisnach | On Site | Nov 19 |
-| **[Rohde & Schwarz](https://www.rohde-schwarz.com/)** | **[Frontend Developer](https://jobr.pro/job/32786305/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bangalore, Hyderabad, New Delhi | On Site | Nov 19 |
 
 ---
 
-**Current Stats:** 36 jobs | 19% remote | 30 companies | Avg salary: 134k  
+**Current Stats:** 29 jobs | 21% remote | 26 companies | Avg salary: 134k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
