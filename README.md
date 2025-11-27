@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Nov 27, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Nov 27, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -16,6 +16,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Ditto Insurance](https://joinditto.in/)** | **[Frontend Developer](https://jobr.pro/job/33334364/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Karnataka, Bengaluru, India | On Site | Nov 27 |
 | **[Appnovation Technologies](https://www.appnovation.com/)** | **[Frontend Developer](https://jobr.pro/job/33303354/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Kuala Lumpur | On Site | Nov 27 |
 | **[Nexus Studios](https://nexusstudios.com)** | **[Frontend Developer](https://jobr.pro/job/33322829/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote, Oregon, United States - Remote | Remote | Nov 27 |
+| **[Amgen](https://www.amgen.com/)** | **[Specialist Frontend Developer, AI & Data Innovation Lab](https://jobr.pro/job/33353683/specialist-frontend-developer-ai-data-innovation-lab?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India - Hyderabad | On Site | Nov 27 |
 | **[Encora](https://www.encora.com/)** | **[Javascript Frontend Developer](https://jobr.pro/job/33298152/javascript-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Brazil | On Site | Nov 26 |
 | **[ILIAS Solutions](https://www.ilias-solutions.com/)** | **[Senior Frontend Developer (React) - Freelance](https://jobr.pro/job/33312619/senior-frontend-developer-react-freelance?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Diegem | On Site | Nov 26 |
 | **[Netcompany](https://www.netcompany.com)** | **[Frontend Developer (Angular, Spring Boot)](https://jobr.pro/job/33298932/frontend-developer-angular-spring-boot?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Brussels, Brussels, Belgium | On Site | Nov 26 |
@@ -53,7 +54,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 37 jobs | 22% remote | 34 companies | Avg salary: 134k  
+**Current Stats:** 38 jobs | 21% remote | 35 companies | Avg salary: 134k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
