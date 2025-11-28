@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Nov 28, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Nov 28, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -16,6 +16,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Comparis](https://www.comparis.ch/)** | **[Frontend Developer 80-100% (f/m/x)](https://jobr.pro/job/33375645/frontend-developer-80-100-fmx?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Zürich (Birmensdorferstrasse) | Remote | Nov 28 |
 | **[Betsson Group](https://www.betssongroup.com/)** | **[Frontend Developer](https://jobr.pro/job/33364053/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tbilisi | On Site | Nov 28 |
 | **[KNAPP](https://www.knapp.com)** | **[Senior Frontend Developer - UI für autonome Robotik-Shuttle-Transportsysteme (m/w/d)](https://jobr.pro/job/33372634/senior-frontend-developer-ui-fur-autonome-robotik-shuttle-transportsysteme-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Dobl-Zwaring, Steiermark, AT, 8143 | On Site | Nov 28 |
+| **[Care ADHD](https://www.careadhd.co.uk/)** | **[Senior React/Frontend Developer](https://jobr.pro/job/33394150/senior-reactfrontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Canary Wharf, SouthEast E14, United Kingdom | On Site | Nov 27 |
 | **[ITB GmbH](https://www.itb-pim.de/home)** | **[Frontend Developer (m/w/d)](https://jobr.pro/job/33379116/frontend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Kamp-Lintfort, Germany | On Site | Nov 27 |
 | **[Sopra Steria](https://www.soprasteria.com)** | **[Senior Frontend Developer](https://jobr.pro/job/33370569/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Getafe, MD, Spain | On Site | Nov 27 |
 | **[Gaming Innovation Group](https://gig.com)** | **[Senior Frontend Developer](https://jobr.pro/job/33371860/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Toulouse | On Site | Nov 27 |
@@ -61,7 +62,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 45 jobs | 22% remote | 39 companies | Avg salary: 88k  
+**Current Stats:** 46 jobs | 22% remote | 40 companies | Avg salary: 79k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
