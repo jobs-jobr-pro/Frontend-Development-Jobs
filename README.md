@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Nov 28, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 29, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -52,17 +52,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Unison Consulting Pte Ltd](https://www.unisonconsulting.com.sg)** | **[Frontend Developer (Angular, Javascript, HTML, CSS)](https://jobr.pro/job/33069534/frontend-developer-angular-javascript-html-css?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia | On Site | Nov 23 |
 | **[applike group](https://applike-group.com/)** | **[Senior Frontend Developer (f/m/d)](https://jobr.pro/job/33062740/senior-frontend-developer-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Hamburg | On Site | Nov 23 |
 | **[DeepSource](https://www.deepsource.ai)** | **[Senior Frontend Developer/Angular - KSA](https://jobr.pro/job/33072064/senior-frontend-developerangular-ksa?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Riyadh, Riyadh Province, Saudi Arabia | On Site | Nov 23 |
-| **[Axians Portugal](https://www.axians.pt/)** | **[SAP Frontend Developer](https://jobr.pro/job/33050189/sap-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lisboa, Lisbon | On Site | Nov 21 |
-| **[Thoughtworks](https://www.thoughtworks.com/)** | **[Frontend Developer (JavaScript/React)](https://jobr.pro/job/33011741/frontend-developer-javascriptreact?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Santiago | On Site | Nov 21 |
-| **[Axians Portugal](https://www.axians.pt/)** | **[Frontend Developer (React)](https://jobr.pro/job/33050204/frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lisboa, Lisbon | On Site | Nov 21 |
-| **[Eureka Labs](https://eurekalabs.io/)** | **[Senior FrontEnd Developer ReactJS (25R01SU)](https://jobr.pro/job/32980302/senior-frontend-developer-reactjs-25r01su?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote | Remote | Nov 21 |
-| **[Eureka Labs](https://eurekalabs.io/)** | **[FrontEnd Developer ReactJS (25R01SF)](https://jobr.pro/job/32980297/frontend-developer-reactjs-25r01sf?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote | Remote | Nov 21 |
-| **[RoofStacks](https://roofstacks.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/33011055/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | İstanbul | On Site | Nov 21 |
-| **[Aristocrat](https://www.aristocrat.com/)** | **[Sr Engineer I - Frontend Developer (Typescript, Javascript)](https://jobr.pro/job/32983470/sr-engineer-i-frontend-developer-typescript-javascript?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Noida Office, India | On Site | Nov 21 |
 
 ---
 
-**Current Stats:** 46 jobs | 22% remote | 40 companies | Avg salary: 79k  
+**Current Stats:** 39 jobs | 21% remote | 36 companies | Avg salary: 79k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
