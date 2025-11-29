@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Nov 29, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Nov 29, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -16,6 +16,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Behavox](https://www.behavox.com/)** | **[Frontend Developer 3 - Angular](https://jobr.pro/job/33415301/frontend-developer-3-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Canada | On Site | Nov 28 |
 | **[DAMEDIC](https://www.damedic.ai/)** | **[Frontend Developer / Designer (m/w/d)](https://jobr.pro/job/33415852/frontend-developer-designer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote, Köln | Remote | Nov 28 |
 | **[T-Systems International](https://www.t-systems.com)** | **[Senior Frontend Developer](https://jobr.pro/job/33414995/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Reus, CT, Spain | On Site | Nov 28 |
+| **[Freelancerprox](https://www.freelancerprox.com/)** | **[Frontend Developer - Intern](https://jobr.pro/job/33422127/frontend-developer-intern?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Kuwait City, Kuwait | On Site | Nov 28 |
 | **[Xsolla](https://xsolla.com)** | **[Frontend Developer](https://jobr.pro/job/33408336/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Baku | On Site | Nov 28 |
 | **[Comparis](https://www.comparis.ch/)** | **[Frontend Developer 80-100% (f/m/x)](https://jobr.pro/job/33375645/frontend-developer-80-100-fmx?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Zürich (Birmensdorferstrasse) | Remote | Nov 28 |
 | **[Betsson Group](https://www.betssongroup.com/)** | **[Frontend Developer](https://jobr.pro/job/33364053/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tbilisi | On Site | Nov 28 |
@@ -58,7 +59,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 42 jobs | 21% remote | 39 companies | Avg salary: 79k  
+**Current Stats:** 43 jobs | 21% remote | 40 companies | Avg salary: 79k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
