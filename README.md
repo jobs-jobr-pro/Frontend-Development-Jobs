@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Nov 29, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Nov 29, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Behavox](https://www.behavox.com/)** | **[Frontend Developer 3 - Angular](https://jobr.pro/job/33415301/frontend-developer-3-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Canada | On Site | Nov 28 |
+| **[DAMEDIC](https://www.damedic.ai/)** | **[Frontend Developer / Designer (m/w/d)](https://jobr.pro/job/33415852/frontend-developer-designer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote, Köln | Remote | Nov 28 |
+| **[T-Systems International](https://www.t-systems.com)** | **[Senior Frontend Developer](https://jobr.pro/job/33414995/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Reus, CT, Spain | On Site | Nov 28 |
+| **[Xsolla](https://xsolla.com)** | **[Frontend Developer](https://jobr.pro/job/33408336/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Baku | On Site | Nov 28 |
 | **[Comparis](https://www.comparis.ch/)** | **[Frontend Developer 80-100% (f/m/x)](https://jobr.pro/job/33375645/frontend-developer-80-100-fmx?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Zürich (Birmensdorferstrasse) | Remote | Nov 28 |
 | **[Betsson Group](https://www.betssongroup.com/)** | **[Frontend Developer](https://jobr.pro/job/33364053/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tbilisi | On Site | Nov 28 |
 | **[KNAPP](https://www.knapp.com)** | **[Senior Frontend Developer - UI für autonome Robotik-Shuttle-Transportsysteme (m/w/d)](https://jobr.pro/job/33372634/senior-frontend-developer-ui-fur-autonome-robotik-shuttle-transportsysteme-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Dobl-Zwaring, Steiermark, AT, 8143 | On Site | Nov 28 |
@@ -43,7 +47,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[G2i Inc.](https://www.g2i.co/)** | **[Senior Frontend Developer for Data Training (Angular)](https://jobr.pro/job/33212612/senior-frontend-developer-for-data-training-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote | Remote | Nov 25 |
 | **[Infakt Sp. z o.o.](https://www.infakt.pl)** | **[Frontend Developer (J)](https://jobr.pro/job/33212919/frontend-developer-j?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Kraków, Województwo małopolskie, Poland | On Site | Nov 25 |
 | **[PlainID](https://www.plainid.com/)** | **[Frontend Developer](https://jobr.pro/job/33174830/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Nov 25 |
-| **[Behavox](https://www.behavox.com/)** | **[Frontend Developer 3 - Angular](https://jobr.pro/job/33121168/frontend-developer-3-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Canada | On Site | Nov 25 |
 | **[Fundraise Up](https://fundraiseup.com/)** | **[Frontend Developer (UI Team)](https://jobr.pro/job/33134813/frontend-developer-ui-team?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Portugal - Remote | Remote | Nov 24 |
 | **[Nagarro](https://www.nagarro.com)** | **[Senior Frontend Developer (React)](https://jobr.pro/job/33135580/senior-frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Budapest, Hungary | On Site | Nov 24 |
 | **[Photon](https://www.photon.com/)** | **[Frontend Developer (ReactJS) \| Bangalore](https://jobr.pro/job/33079394/frontend-developer-reactjs-bangalore?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India | On Site | Nov 24 |
@@ -55,7 +58,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 39 jobs | 21% remote | 36 companies | Avg salary: 79k  
+**Current Stats:** 42 jobs | 21% remote | 39 companies | Avg salary: 79k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
