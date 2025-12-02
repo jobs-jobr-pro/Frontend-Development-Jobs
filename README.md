@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Dec 01, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 02, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -54,14 +54,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[G2i Inc.](https://www.g2i.co/)** | **[Senior Frontend Developer for Data Training (Angular)](https://jobr.pro/job/33212612/senior-frontend-developer-for-data-training-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote | Remote | Nov 25 |
 | **[Infakt Sp. z o.o.](https://www.infakt.pl)** | **[Frontend Developer (J)](https://jobr.pro/job/33212919/frontend-developer-j?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Kraków, Województwo małopolskie, Poland | On Site | Nov 25 |
 | **[PlainID](https://www.plainid.com/)** | **[Frontend Developer](https://jobr.pro/job/33174830/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Nov 25 |
-| **[Fundraise Up](https://fundraiseup.com/)** | **[Frontend Developer (UI Team)](https://jobr.pro/job/33134813/frontend-developer-ui-team?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Portugal - Remote | Remote | Nov 24 |
-| **[Nagarro](https://www.nagarro.com)** | **[Senior Frontend Developer (React)](https://jobr.pro/job/33135580/senior-frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Budapest, Hungary | On Site | Nov 24 |
-| **[Photon](https://www.photon.com/)** | **[Frontend Developer (ReactJS) \| Bangalore](https://jobr.pro/job/33079394/frontend-developer-reactjs-bangalore?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India | On Site | Nov 24 |
-| **[Weekday](https://www.weekday.works)** | **[Frontend Developer](https://jobr.pro/job/33081951/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bengaluru, Karnataka, India | On Site | Nov 24 |
 
 ---
 
-**Current Stats:** 45 jobs | 24% remote | 42 companies | Avg salary: 70k  
+**Current Stats:** 41 jobs | 24% remote | 39 companies | Avg salary: 70k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
