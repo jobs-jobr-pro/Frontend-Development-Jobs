@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Dec 03, 2025 at 08:31 UTC</small></sub>
+<sub><small>Last updated: Dec 03, 2025 at 12:31 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Ohpen](https://ohpen.com/)** | **[Junior Frontend Developer](https://jobr.pro/job/33623273/junior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bratislava - Tomášikova 64 Nové Mesto, 831 04, Slovakia, Zilina - Veľká Okružná 26, 010 01 | On Site | Dec 02 |
 | **[Universe Group](https://uni.tech/)** | **[Middle Frontend Developer (Guru Apps)](https://jobr.pro/job/33597566/middle-frontend-developer-guru-apps?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Kyiv, Kyiv, Ukraine | On Site | Dec 02 |
 | **[Manychat](https://manychat.com/)** | **[Senior Frontend Developer (Product Team)](https://jobr.pro/job/33612994/senior-frontend-developer-product-team?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Amsterdam, Netherlands | On Site | Dec 02 |
 | **[Nagarro](https://www.nagarro.com)** | **[Senior Frontend Developer (React)](https://jobr.pro/job/33613733/senior-frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Budapest, Hungary | On Site | Dec 02 |
@@ -60,7 +61,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 44 jobs | 20% remote | 42 companies | Avg salary: 96k  
+**Current Stats:** 45 jobs | 20% remote | 43 companies | Avg salary: 96k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
