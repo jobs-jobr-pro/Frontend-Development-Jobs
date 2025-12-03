@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Dec 02, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 03, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -54,15 +54,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Morgan Stanley](https://www.morganstanley.com/)** | **[Frontend Developer(Angular)_Director_Software Engineering](https://jobr.pro/job/33240930/frontend-developerangulardirectorsoftware-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | COMMERZ III, OBEROI GARDEN CITY, India | On Site | Nov 26 |
 | **[NN Group](https://www.nn-group.com/)** | **[Medior Frontend Developer](https://jobr.pro/job/33278783/medior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Budapest Head Office, Hungary | On Site | Nov 26 |
 | **[Weekday](https://www.weekday.works)** | **[Senior Frontend Developer](https://jobr.pro/job/33232745/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Gurugram, Haryana, India | On Site | Nov 26 |
-| **[Deighton Associates](https://www.deighton.com/)** | **[UI UX Frontend Developer: 12-Month Contract](https://jobr.pro/job/33214361/ui-ux-frontend-developer-12-month-contract?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Whitby, Ontario, Canada | On Site | Nov 25 |
-| **[Insense](https://insense.pro/)** | **[Frontend Developer (Russian speaker)](https://jobr.pro/job/33248815/frontend-developer-russian-speaker?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Valencia, Spain | On Site | Nov 25 |
-| **[G2i Inc.](https://www.g2i.co/)** | **[Senior Frontend Developer for Data Training (Angular)](https://jobr.pro/job/33212612/senior-frontend-developer-for-data-training-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote | Remote | Nov 25 |
-| **[Infakt Sp. z o.o.](https://www.infakt.pl)** | **[Frontend Developer (J)](https://jobr.pro/job/33212919/frontend-developer-j?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Kraków, Województwo małopolskie, Poland | On Site | Nov 25 |
-| **[PlainID](https://www.plainid.com/)** | **[Frontend Developer](https://jobr.pro/job/33174830/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Nov 25 |
 
 ---
 
-**Current Stats:** 46 jobs | 22% remote | 43 companies | Avg salary: 96k  
+**Current Stats:** 41 jobs | 22% remote | 39 companies | Avg salary: 96k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
