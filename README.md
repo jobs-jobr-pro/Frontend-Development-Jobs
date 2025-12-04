@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Dec 03, 2025 at 20:31 UTC</small></sub>
+<sub><small>Last updated: Dec 04, 2025 at 00:31 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -51,19 +51,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Appnovation Technologies](https://www.appnovation.com/)** | **[Frontend Developer](https://jobr.pro/job/33303354/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Kuala Lumpur | On Site | Nov 27 |
 | **[Nexus Studios](https://nexusstudios.com)** | **[Frontend Developer](https://jobr.pro/job/33322829/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote, Oregon, United States - Remote | Remote | Nov 27 |
 | **[Amgen](https://www.amgen.com/)** | **[Specialist Frontend Developer, AI & Data Innovation Lab](https://jobr.pro/job/33353683/specialist-frontend-developer-ai-data-innovation-lab?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India - Hyderabad | On Site | Nov 27 |
-| **[Encora](https://www.encora.com/)** | **[Javascript Frontend Developer](https://jobr.pro/job/33298152/javascript-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Brazil | On Site | Nov 26 |
-| **[ILIAS Solutions](https://www.ilias-solutions.com/)** | **[Senior Frontend Developer (React) - Freelance](https://jobr.pro/job/33312619/senior-frontend-developer-react-freelance?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Diegem | On Site | Nov 26 |
-| **[Netcompany](https://www.netcompany.com)** | **[Frontend Developer (Angular, Spring Boot)](https://jobr.pro/job/33298932/frontend-developer-angular-spring-boot?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Brussels, Brussels, Belgium | On Site | Nov 26 |
-| **[Xebia](https://xebia.com/)** | **[Senior/ Principal Frontend Developer (React)](https://jobr.pro/job/33291861/senior-principal-frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote job | Remote | Nov 26 |
-| **[Metyis](https://metyis.com/)** | **[Frontend Developer](https://jobr.pro/job/33291187/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Gurgaon, Haryāna, India | On Site | Nov 26 |
-| **[Globaldev Group](https://globaldev.tech/)** | **[Frontend Developer](https://jobr.pro/job/33256606/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Yerevan, Yerevan, Armenia | On Site | Nov 26 |
-| **[Morgan Stanley](https://www.morganstanley.com/)** | **[Frontend Developer(Angular)_Director_Software Engineering](https://jobr.pro/job/33240930/frontend-developerangulardirectorsoftware-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | COMMERZ III, OBEROI GARDEN CITY, India | On Site | Nov 26 |
-| **[NN Group](https://www.nn-group.com/)** | **[Medior Frontend Developer](https://jobr.pro/job/33278783/medior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Budapest Head Office, Hungary | On Site | Nov 26 |
-| **[Weekday](https://www.weekday.works)** | **[Senior Frontend Developer](https://jobr.pro/job/33232745/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Gurugram, Haryana, India | On Site | Nov 26 |
 
 ---
 
-**Current Stats:** 47 jobs | 19% remote | 45 companies | Avg salary: 96k  
+**Current Stats:** 38 jobs | 21% remote | 38 companies | Avg salary: 96k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
