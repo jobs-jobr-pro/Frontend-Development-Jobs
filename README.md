@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Dec 04, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Dec 04, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,7 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Oracle](https://www.oracle.com/)** | **[Principal Frontend Developer - OCI Mediaservices](https://jobr.pro/job/33676569/principal-frontend-developer-oci-mediaservices?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Czech Republic | On Site | Dec 04 |
+| **[Finubit](https://finubit.com/)** | **[Frontend Developer](https://jobr.pro/job/33684313/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 04 |
 | **[Softgic](https://softgic.co/)** | **[SOL-1452 – Frontend Developer](https://jobr.pro/job/33646185/sol-1452-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Medellin, Colombia | On Site | Dec 03 |
+| **[Eeze](https://eeze.com/)** | **[Frontend Developer](https://jobr.pro/job/33670541/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | London, United Kingdom | On Site | Dec 03 |
 | **[Evolution](https://www.evolution.com)** | **[Senior Frontend Developer](https://jobr.pro/job/33642147/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Warsaw, Masovian Voivodeship, Poland | On Site | Dec 03 |
 | **[Ohpen](https://ohpen.com/)** | **[Junior Frontend Developer](https://jobr.pro/job/33623273/junior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bratislava - Tomášikova 64 Nové Mesto, 831 04, Slovakia, Zilina - Veľká Okružná 26, 010 01 | On Site | Dec 02 |
 | **[Universe Group](https://uni.tech/)** | **[Middle Frontend Developer (Guru Apps)](https://jobr.pro/job/33597566/middle-frontend-developer-guru-apps?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Kyiv, Kyiv, Ukraine | On Site | Dec 02 |
@@ -54,7 +57,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 38 jobs | 21% remote | 38 companies | Avg salary: 96k  
+**Current Stats:** 41 jobs | 20% remote | 41 companies | Avg salary: 96k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
