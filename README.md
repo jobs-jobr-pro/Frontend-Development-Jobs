@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Dec 05, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Dec 05, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Nebius](https://nebius.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/33745360/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Amsterdam, Netherlands | On Site | Dec 04 |
 | **[Oracle](https://www.oracle.com/)** | **[Principal Frontend Developer - OCI Mediaservices](https://jobr.pro/job/33676569/principal-frontend-developer-oci-mediaservices?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Czech Republic | On Site | Dec 04 |
 | **[Finubit](https://finubit.com/)** | **[Frontend Developer](https://jobr.pro/job/33684313/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 04 |
 | **[Softgic](https://softgic.co/)** | **[SOL-1452 – Frontend Developer](https://jobr.pro/job/33646185/sol-1452-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Medellin, Colombia | On Site | Dec 03 |
@@ -44,7 +45,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 28 jobs | 14% remote | 28 companies | Avg salary: 109k  
+**Current Stats:** 29 jobs | 14% remote | 29 companies | Avg salary: 109k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
