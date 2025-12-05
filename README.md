@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Dec 04, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 05, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -41,23 +41,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Comparis](https://www.comparis.ch/)** | **[Frontend Developer 80-100% (f/m/x)](https://jobr.pro/job/33375645/frontend-developer-80-100-fmx?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Zürich (Birmensdorferstrasse) | Remote | Nov 28 |
 | **[Betsson Group](https://www.betssongroup.com/)** | **[Frontend Developer](https://jobr.pro/job/33364053/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tbilisi | On Site | Nov 28 |
 | **[KNAPP](https://www.knapp.com)** | **[Senior Frontend Developer - UI für autonome Robotik-Shuttle-Transportsysteme (m/w/d)](https://jobr.pro/job/33372634/senior-frontend-developer-ui-fur-autonome-robotik-shuttle-transportsysteme-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Dobl-Zwaring, Steiermark, AT, 8143 | On Site | Nov 28 |
-| **[Care ADHD](https://www.careadhd.co.uk/)** | **[Senior React/Frontend Developer](https://jobr.pro/job/33394150/senior-reactfrontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Canary Wharf, SouthEast E14, United Kingdom | On Site | Nov 27 |
-| **[ITB GmbH](https://www.itb-pim.de/home)** | **[Frontend Developer (m/w/d)](https://jobr.pro/job/33379116/frontend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Kamp-Lintfort, Germany | On Site | Nov 27 |
-| **[Sopra Steria](https://www.soprasteria.com)** | **[Senior Frontend Developer](https://jobr.pro/job/33370569/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Getafe, MD, Spain | On Site | Nov 27 |
-| **[Gaming Innovation Group](https://gig.com)** | **[Senior Frontend Developer](https://jobr.pro/job/33371860/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Toulouse | On Site | Nov 27 |
-| **[G2i Inc.](https://www.g2i.co/)** | **[Frontend Developer for AI Training](https://jobr.pro/job/33365649/frontend-developer-for-ai-training?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote | Remote | Nov 27 |
-| **[Ditto Insurance](https://joinditto.in/)** | **[Frontend Developer](https://jobr.pro/job/33334364/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Karnataka, Bengaluru, India | On Site | Nov 27 |
-| **[Xebia](https://xebia.com/)** | **[Senior/ Lead Frontend Developer (React + Next.js)](https://jobr.pro/job/33362752/senior-lead-frontend-developer-react-nextjs?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote job | Remote | Nov 27 |
-| **[DIB Travel](https://dibtravel.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/33377310/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Stockholm, Sweden | On Site | Nov 27 |
-| **[Superduper](https://www.superduper.xyz/)** | **[Senior Frontend Developer](https://jobr.pro/job/33365415/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | USA | Remote | Nov 27 |
-| **[Thoughtworks](https://www.thoughtworks.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/33362118/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Ho Chi Minh City | On Site | Nov 27 |
-| **[Appnovation Technologies](https://www.appnovation.com/)** | **[Frontend Developer](https://jobr.pro/job/33303354/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Kuala Lumpur | On Site | Nov 27 |
-| **[Nexus Studios](https://nexusstudios.com)** | **[Frontend Developer](https://jobr.pro/job/33322829/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote, Oregon, United States - Remote | Remote | Nov 27 |
-| **[Amgen](https://www.amgen.com/)** | **[Specialist Frontend Developer, AI & Data Innovation Lab](https://jobr.pro/job/33353683/specialist-frontend-developer-ai-data-innovation-lab?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India - Hyderabad | On Site | Nov 27 |
 
 ---
 
-**Current Stats:** 41 jobs | 20% remote | 41 companies | Avg salary: 96k  
+**Current Stats:** 28 jobs | 14% remote | 28 companies | Avg salary: 109k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
