@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Dec 06, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Dec 06, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -14,6 +14,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Ireckonu](https://ireckonu.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/33853636/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Amsterdam | On Site | Dec 05 |
+| **[BlackStone eIT](https://www.blackstoneeit.com/)** | **[Senior Frontend Developer ( Angular )](https://jobr.pro/job/33865558/senior-frontend-developer-angular-?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | City Center, Nasr City, Egypt | On Site | Dec 05 |
+| **[Legartis Technology AG](https://legartis.ai/)** | **[Frontend Developer (Leipzig)](https://jobr.pro/job/33860408/frontend-developer-leipzig?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Leipzig | On Site | Dec 05 |
 | **[Delasport](https://www.delasport.com/)** | **[Middle Frontend Developer (React)](https://jobr.pro/job/33837346/middle-frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Kyiv, Kyiv, Ukraine | On Site | Dec 05 |
 | **[beyonnex](https://beyonnex.io/)** | **[Frontend Developer - Heat Sense (m/f/d)](https://jobr.pro/job/33775646/frontend-developer-heat-sense-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote | Remote | Dec 05 |
 | **[Santander](https://www.santander.com/)** | **[Chapter Leader - Frontend Developer](https://jobr.pro/job/33830842/chapter-leader-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Warszawa, Poland | On Site | Dec 05 |
@@ -41,7 +43,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 25 jobs | 12% remote | 25 companies | Avg salary: 109k  
+**Current Stats:** 27 jobs | 11% remote | 27 companies | Avg salary: 109k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
