@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Dec 08, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Dec 08, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[The Flex](https://theflex.global/)** | **[Backend & Frontend Developer](https://jobr.pro/job/33906710/backend-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Paris | Remote | Dec 07 |
+| **[Payoneer](https://www.payoneer.com)** | **[Frontend Developer](https://jobr.pro/job/33906207/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Petach Tiqva, Israel | On Site | Dec 07 |
+| **[gravity9](https://www.gravity9.com/)** | **[Senior Frontend Developer (React)](https://jobr.pro/job/33904425/senior-frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote job | Remote | Dec 07 |
+| **[gravity9](https://www.gravity9.com/)** | **[Senior Frontend Developer (Angular)](https://jobr.pro/job/33904424/senior-frontend-developer-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote job | Remote | Dec 07 |
 | **[Ireckonu](https://ireckonu.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/33853636/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Amsterdam | On Site | Dec 05 |
 | **[BlackStone eIT](https://www.blackstoneeit.com/)** | **[Senior Frontend Developer ( Angular )](https://jobr.pro/job/33865558/senior-frontend-developer-angular-?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | City Center, Nasr City, Egypt | On Site | Dec 05 |
 | **[Legartis Technology AG](https://legartis.ai/)** | **[Frontend Developer (Leipzig)](https://jobr.pro/job/33860408/frontend-developer-leipzig?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Leipzig | On Site | Dec 05 |
@@ -43,7 +47,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 27 jobs | 11% remote | 27 companies | Avg salary: 109k  
+**Current Stats:** 31 jobs | 19% remote | 30 companies | Avg salary: 109k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
