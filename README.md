@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Dec 09, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Dec 09, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,7 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[EXL](https://www.exlservice.com/)** | **[Frontend Developer](https://jobr.pro/job/34005637/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Noida, Uttar Pradesh, India | On Site | Dec 09 |
+| **[Virtusa](https://www.virtusa.com/)** | **[AEM Frontend Developer](https://jobr.pro/job/34001896/aem-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | IN-AP-Hyderabad | On Site | Dec 09 |
 | **[Eeze](https://eeze.com/)** | **[Senior Frontend Developer (Video Solution)](https://jobr.pro/job/33995288/senior-frontend-developer-video-solution?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | London, United Kingdom | On Site | Dec 09 |
+| **[Weekday](https://www.weekday.works)** | **[Frontend Developer](https://jobr.pro/job/33999728/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Mumbai, Maharashtra, India | On Site | Dec 09 |
 | **[Behavox](https://www.behavox.com/)** | **[Frontend Developer 3 - Angular](https://jobr.pro/job/33956839/frontend-developer-3-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Canada | On Site | Dec 08 |
 | **[Ströer](https://www.stroeer.de/)** | **[Senior Frontend Developer (m/w/d)](https://jobr.pro/job/33965521/senior-frontend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Köln, NRW, Germany | On Site | Dec 08 |
 | **[keylight](https://www.keylight.com/)** | **[Senior Frontend Developer (all genders)](https://jobr.pro/job/33973612/senior-frontend-developer-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Berlin, BE, Germany | On Site | Dec 08 |
@@ -44,7 +47,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 28 jobs | 21% remote | 25 companies | Avg salary: Not specified  
+**Current Stats:** 31 jobs | 19% remote | 27 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
