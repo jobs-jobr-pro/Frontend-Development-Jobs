@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Dec 09, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Dec 09, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Behavox](https://www.behavox.com/)** | **[Frontend Developer 3 - Angular](https://jobr.pro/job/33956839/frontend-developer-3-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Canada | On Site | Dec 08 |
+| **[Ströer](https://www.stroeer.de/)** | **[Senior Frontend Developer (m/w/d)](https://jobr.pro/job/33965521/senior-frontend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Köln, NRW, Germany | On Site | Dec 08 |
+| **[keylight](https://www.keylight.com/)** | **[Senior Frontend Developer (all genders)](https://jobr.pro/job/33973612/senior-frontend-developer-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Berlin, BE, Germany | On Site | Dec 08 |
+| **[Strix](https://strix.net/)** | **[Headless Frontend Developer (m/w/d)](https://jobr.pro/job/33957894/headless-frontend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Praca zdalna | Remote | Dec 08 |
+| **[Strix](https://strix.net/)** | **[Senior Headless Frontend Developer (m/w/d)](https://jobr.pro/job/33957893/senior-headless-frontend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Praca zdalna | Remote | Dec 08 |
 | **[The Flex](https://theflex.global/)** | **[Backend & Frontend Developer](https://jobr.pro/job/33906710/backend-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Paris | Remote | Dec 07 |
 | **[Payoneer](https://www.payoneer.com)** | **[Frontend Developer](https://jobr.pro/job/33906207/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Petach Tiqva, Israel | On Site | Dec 07 |
 | **[abra](https://www.abra-it.com/)** | **[Frontend Developer](https://jobr.pro/job/33931878/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Jerusalem, Jerusalem District, IL | On Site | Dec 07 |
@@ -38,7 +43,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 22 jobs | 18% remote | 21 companies | Avg salary: Not specified  
+**Current Stats:** 27 jobs | 22% remote | 25 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
