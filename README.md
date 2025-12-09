@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Dec 08, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 09, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -35,20 +35,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Manychat](https://manychat.com/)** | **[Senior Frontend Developer (Product Team)](https://jobr.pro/job/33612994/senior-frontend-developer-product-team?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Amsterdam, Netherlands | On Site | Dec 02 |
 | **[Nagarro](https://www.nagarro.com)** | **[Senior Frontend Developer (React)](https://jobr.pro/job/33613733/senior-frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Budapest, Hungary | On Site | Dec 02 |
 | **[Weekday](https://www.weekday.works)** | **[Frontend Developer Intern](https://jobr.pro/job/33531964/frontend-developer-intern?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Nagpur, Maharashtra, India | On Site | Dec 02 |
-| **[Coursera](https://www.coursera.org/)** | **[Senior Frontend Developer](https://jobr.pro/job/33517530/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Canada | On Site | Dec 01 |
-| **[Loop](https://www.bankonloop.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/33531542/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Toronto, Canada | On Site | Dec 01 |
-| **[Bosch Group](https://www.bosch.com)** | **[SENIOR FRONTEND DEVELOPER - 9582219](https://jobr.pro/job/33515988/senior-frontend-developer-9582219?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Campinas, SP, Brazil | On Site | Dec 01 |
-| **[Njuškalo](https://www.njuskalo.hr/)** | **[Senior Frontend Developer (m/f)](https://jobr.pro/job/33481318/senior-frontend-developer-mf?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Zagreb, Croatia (Hybrid) | On Site | Dec 01 |
-| **[Madiff](https://madiff.eu/)** | **[Frontend Developer React and Angular](https://jobr.pro/job/33471019/frontend-developer-react-and-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote | Remote | Dec 01 |
-| **[Tawzef](https://www.tawzef.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/33470859/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote | Remote | Dec 01 |
-| **[KnowledgeNet](https://kn-it.com)** | **[Junior Frontend Developer](https://jobr.pro/job/33468518/junior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Cairo, Egypt | On Site | Dec 01 |
-| **[Pricefox](https://www.pricefox.gr/)** | **[Senior Frontend Developer](https://jobr.pro/job/33502560/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Athens, Greece | On Site | Dec 01 |
-| **[MigrationIT](https://www.migrationit.com/)** | **[Frontend Developer](https://jobr.pro/job/33465452/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | New Cairo, Egypt | On Site | Dec 01 |
-| **[Maker](https://www.maker.co/)** | **[Frontend Developer](https://jobr.pro/job/33467583/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Burlingame, United States of America | On Site | Dec 01 |
 
 ---
 
-**Current Stats:** 32 jobs | 19% remote | 31 companies | Avg salary: 109k  
+**Current Stats:** 22 jobs | 18% remote | 21 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
