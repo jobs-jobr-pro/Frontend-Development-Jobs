@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Dec 10, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Dec 10, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,9 +13,15 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Accenture Federal Services](https://www.accenture.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/34046095/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Arlington, VA | On Site | Dec 09 |
+| **[redbee](https://redbee.io/)** | **[Frontend Developer Ssr](https://jobr.pro/job/34049901/frontend-developer-ssr?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Buenos Aires | On Site | Dec 09 |
 | **[EXL](https://www.exlservice.com/)** | **[Frontend Developer](https://jobr.pro/job/34005637/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Noida, Uttar Pradesh, India | On Site | Dec 09 |
 | **[Virtusa](https://www.virtusa.com/)** | **[AEM Frontend Developer](https://jobr.pro/job/34001896/aem-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | IN-AP-Hyderabad | On Site | Dec 09 |
 | **[Eeze](https://eeze.com/)** | **[Senior Frontend Developer (Video Solution)](https://jobr.pro/job/33995288/senior-frontend-developer-video-solution?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | London, United Kingdom | On Site | Dec 09 |
+| **[Huawei Telekomünikasyon Dış Ticaret Ltd](https://www.huawei.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/34067374/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | İstanbul, İstanbul, Turkey | On Site | Dec 09 |
+| **[Huawei Telekomünikasyon Dış Ticaret Ltd](https://www.huawei.com/)** | **[Mid/Senior Frontend Developer (Istanbul-Izmir-Ankara)](https://jobr.pro/job/34067318/midsenior-frontend-developer-istanbul-izmir-ankara?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | İstanbul, İstanbul, Turkey | On Site | Dec 09 |
+| **[Huawei Telekomünikasyon Dış Ticaret Ltd](https://www.huawei.com/)** | **[Frontend Developer](https://jobr.pro/job/34067267/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | İstanbul, İstanbul, Turkey | On Site | Dec 09 |
+| **[Huawei Telekomünikasyon Dış Ticaret Ltd](https://www.huawei.com/)** | **[Frontend Developer (Petal Search & Map)](https://jobr.pro/job/34067268/frontend-developer-petal-search-map?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Turkey - Remote | Remote | Dec 09 |
 | **[Weekday](https://www.weekday.works)** | **[Frontend Developer](https://jobr.pro/job/33999728/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Mumbai, Maharashtra, India | On Site | Dec 09 |
 | **[Analog Devices](https://www.analog.com/)** | **[Frontend Developer Power Studio](https://jobr.pro/job/34030362/frontend-developer-power-studio?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Ireland, Limerick | On Site | Dec 09 |
 | **[Dedalus](https://www.dedalus.com/)** | **[Junior Frontend Developer](https://jobr.pro/job/34037846/junior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | GBR - Leeds, United Kingdom | On Site | Dec 09 |
@@ -45,7 +51,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 29 jobs | 21% remote | 26 companies | Avg salary: Not specified  
+**Current Stats:** 35 jobs | 20% remote | 29 companies | Avg salary: 160k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
