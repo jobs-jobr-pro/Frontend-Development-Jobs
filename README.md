@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Dec 10, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Dec 10, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -15,6 +15,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | ------- | -------- | -------- | ---- | ------ |
 | **[Accenture Federal Services](https://www.accenture.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/34046095/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Arlington, VA | On Site | Dec 09 |
 | **[redbee](https://redbee.io/)** | **[Frontend Developer Ssr](https://jobr.pro/job/34049901/frontend-developer-ssr?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Buenos Aires | On Site | Dec 09 |
+| **[ITONICS](https://www.itonics-innovation.com/)** | **[Internship / Apprenticeship – Frontend Developer (Angular / React)](https://jobr.pro/job/34071974/internship-apprenticeship-frontend-developer-angular-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Paris, Berlin, Nürnberg | On Site | Dec 09 |
+| **[Gamdom](https://gamdom.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/34083843/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Valletta, Malta | On Site | Dec 09 |
 | **[EXL](https://www.exlservice.com/)** | **[Frontend Developer](https://jobr.pro/job/34005637/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Noida, Uttar Pradesh, India | On Site | Dec 09 |
 | **[Virtusa](https://www.virtusa.com/)** | **[AEM Frontend Developer](https://jobr.pro/job/34001896/aem-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | IN-AP-Hyderabad | On Site | Dec 09 |
 | **[Eeze](https://eeze.com/)** | **[Senior Frontend Developer (Video Solution)](https://jobr.pro/job/33995288/senior-frontend-developer-video-solution?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | London, United Kingdom | On Site | Dec 09 |
@@ -51,7 +53,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 35 jobs | 20% remote | 29 companies | Avg salary: 160k  
+**Current Stats:** 37 jobs | 19% remote | 31 companies | Avg salary: 160k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
