@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Dec 10, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 11, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -49,13 +49,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Nebius](https://nebius.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/33745360/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Amsterdam, Netherlands | On Site | Dec 04 |
 | **[Oracle](https://www.oracle.com/)** | **[Principal Frontend Developer - OCI Mediaservices](https://jobr.pro/job/33676569/principal-frontend-developer-oci-mediaservices?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Czech Republic | On Site | Dec 04 |
 | **[Finubit](https://finubit.com/)** | **[Frontend Developer](https://jobr.pro/job/33684313/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 04 |
-| **[Softgic](https://softgic.co/)** | **[SOL-1452 – Frontend Developer](https://jobr.pro/job/33646185/sol-1452-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Medellin, Colombia | On Site | Dec 03 |
-| **[Eeze](https://eeze.com/)** | **[Frontend Developer](https://jobr.pro/job/33670541/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | London, United Kingdom | On Site | Dec 03 |
-| **[Evolution](https://www.evolution.com)** | **[Senior Frontend Developer](https://jobr.pro/job/33642147/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Warsaw, Masovian Voivodeship, Poland | On Site | Dec 03 |
 
 ---
 
-**Current Stats:** 39 jobs | 18% remote | 32 companies | Avg salary: 160k  
+**Current Stats:** 36 jobs | 19% remote | 31 companies | Avg salary: 160k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
