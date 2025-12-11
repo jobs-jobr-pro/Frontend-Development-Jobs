@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Dec 11, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Dec 11, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Copado](https://www.copado.com/)** | **[Sr Frontend Developer - Omni](https://jobr.pro/job/34196483/sr-frontend-developer-omni?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | 70130, New Orleans , LA, United States | On Site | Dec 11 |
+| **[Shiji Group](https://www.shijigroup.com/)** | **[Frontend Developer I Daylight](https://jobr.pro/job/34182279/frontend-developer-i-daylight?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Katowice, Silesian Voivodeship, Poland | Remote | Dec 11 |
 | **[papernest](https://www.papernest.com/)** | **[Frontend Developer - Permanent - Barcelona](https://jobr.pro/job/34179268/frontend-developer-permanent-barcelona?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Barcelona, Spain | On Site | Dec 11 |
 | **[Encora](https://www.encora.com/)** | **[Sr Frontend Developer](https://jobr.pro/job/34144699/sr-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Mexico | On Site | Dec 11 |
 | **[EY](https://www.ey.com)** | **[EY - GDS Consulting - Frontend Developer/Python- Senior](https://jobr.pro/job/34164191/ey-gds-consulting-frontend-developerpython-senior?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Trivandrum, KL, IN, 695581 | On Site | Dec 11 |
@@ -62,7 +64,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 46 jobs | 20% remote | 41 companies | Avg salary: 178k  
+**Current Stats:** 48 jobs | 21% remote | 43 companies | Avg salary: 178k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
