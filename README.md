@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Dec 11, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Dec 11, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,9 +13,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[papernest](https://www.papernest.com/)** | **[Frontend Developer - Permanent - Barcelona](https://jobr.pro/job/34179268/frontend-developer-permanent-barcelona?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Barcelona, Spain | On Site | Dec 11 |
 | **[Encora](https://www.encora.com/)** | **[Sr Frontend Developer](https://jobr.pro/job/34144699/sr-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Mexico | On Site | Dec 11 |
+| **[EY](https://www.ey.com)** | **[EY - GDS Consulting - Frontend Developer/Python- Senior](https://jobr.pro/job/34164191/ey-gds-consulting-frontend-developerpython-senior?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Trivandrum, KL, IN, 695581 | On Site | Dec 11 |
+| **[FIS](https://www.fisglobal.com/)** | **[Senior Frontend Developer (Angular and Typescript)](https://jobr.pro/job/34170166/senior-frontend-developer-angular-and-typescript?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | IND PUNE FL7, India | On Site | Dec 11 |
 | **[Veeam Software](https://www.veeam.com/)** | **[Frontend Developer](https://jobr.pro/job/34145458/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote, United States | Remote | Dec 10 |
 | **[T-Systems International](https://www.t-systems.com)** | **[Frontend Developer (with React, Redux)](https://jobr.pro/job/34156778/frontend-developer-with-react-redux?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Pune, MH, India | On Site | Dec 10 |
+| **[Zensar](https://www.zensar.com/)** | **[SENIOR FRONTEND DEVELOPER](https://jobr.pro/job/34177429/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India | On Site | Dec 10 |
 | **[Softgic](https://softgic.co/)** | **[Frontend Developer](https://jobr.pro/job/34097436/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | BOGOTA, Colombia | On Site | Dec 10 |
 | **[Nebius](https://nebius.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/34143379/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Amsterdam, Netherlands | On Site | Dec 10 |
 | **[MYTY](https://www.myty.com/)** | **[Senior React / Frontend Developer](https://jobr.pro/job/34155588/senior-react-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | NOR München | On Site | Dec 10 |
@@ -58,7 +62,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 42 jobs | 21% remote | 37 companies | Avg salary: 178k  
+**Current Stats:** 46 jobs | 20% remote | 41 companies | Avg salary: 178k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
