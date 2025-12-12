@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Dec 12, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Dec 12, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,9 +13,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[SAP](https://www.sap.com/)** | **[Senior Frontend Developer - Business Network Global Track and Trace](https://jobr.pro/job/34226539/senior-frontend-developer-business-network-global-track-and-trace?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Ho Chi Minh, VN, 700000 | On Site | Dec 12 |
+| **[SAP](https://www.sap.com/)** | **[Frontend Developer Associate - Business Network - Global Track and Trace](https://jobr.pro/job/34226543/frontend-developer-associate-business-network-global-track-and-trace?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Ho Chi Minh, VN, 700000 | On Site | Dec 12 |
 | **[Copado](https://www.copado.com/)** | **[Sr Frontend Developer - Omni](https://jobr.pro/job/34196483/sr-frontend-developer-omni?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | 70130, New Orleans , LA, United States | On Site | Dec 11 |
 | **[Shiji Group](https://www.shijigroup.com/)** | **[Frontend Developer I Daylight](https://jobr.pro/job/34182279/frontend-developer-i-daylight?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Katowice, Silesian Voivodeship, Poland | Remote | Dec 11 |
 | **[papernest](https://www.papernest.com/)** | **[Frontend Developer - Permanent - Barcelona](https://jobr.pro/job/34179268/frontend-developer-permanent-barcelona?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Barcelona, Spain | On Site | Dec 11 |
+| **[Delasport](https://www.delasport.com/)** | **[Senior Frontend Developer (Infra)](https://jobr.pro/job/34222154/senior-frontend-developer-infra?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Sofia or Plovdiv, Bulgaria | On Site | Dec 11 |
 | **[Encora](https://www.encora.com/)** | **[Sr Frontend Developer](https://jobr.pro/job/34144699/sr-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Mexico | On Site | Dec 11 |
 | **[EY](https://www.ey.com)** | **[EY - GDS Consulting - Frontend Developer/Python- Senior](https://jobr.pro/job/34164191/ey-gds-consulting-frontend-developerpython-senior?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Trivandrum, KL, IN, 695581 | On Site | Dec 11 |
 | **[FIS](https://www.fisglobal.com/)** | **[Senior Frontend Developer (Angular and Typescript)](https://jobr.pro/job/34170166/senior-frontend-developer-angular-and-typescript?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | IND PUNE FL7, India | On Site | Dec 11 |
@@ -62,7 +65,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 46 jobs | 22% remote | 41 companies | Avg salary: 178k  
+**Current Stats:** 49 jobs | 20% remote | 42 companies | Avg salary: 178k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
