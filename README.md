@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Dec 12, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Dec 12, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Rohde & Schwarz](https://www.rohde-schwarz.com/)** | **[Frontend Developer Naval Communications Software (m/w/d)](https://jobr.pro/job/34254869/frontend-developer-naval-communications-software-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Kiel | On Site | Dec 12 |
 | **[SAP](https://www.sap.com/)** | **[Senior Frontend Developer - Business Network Global Track and Trace](https://jobr.pro/job/34226539/senior-frontend-developer-business-network-global-track-and-trace?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Ho Chi Minh, VN, 700000 | On Site | Dec 12 |
 | **[SAP](https://www.sap.com/)** | **[Frontend Developer Associate - Business Network - Global Track and Trace](https://jobr.pro/job/34226543/frontend-developer-associate-business-network-global-track-and-trace?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Ho Chi Minh, VN, 700000 | On Site | Dec 12 |
 | **[ProArch](https://www.proarch.com/)** | **[Senior Frontend Developer (Ionic/Angular)](https://jobr.pro/job/34251133/senior-frontend-developer-ionicangular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Hyderabad, Telangana, India | On Site | Dec 12 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[BlackStone eIT](https://www.blackstoneeit.com/)** | **[Senior Frontend Developer ( Angular )](https://jobr.pro/job/33865558/senior-frontend-developer-angular-?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | City Center, Nasr City, Egypt | On Site | Dec 05 |
 | **[Legartis Technology AG](https://legartis.ai/)** | **[Frontend Developer (Leipzig)](https://jobr.pro/job/33860408/frontend-developer-leipzig?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Leipzig | On Site | Dec 05 |
 | **[Delasport](https://www.delasport.com/)** | **[Middle Frontend Developer (React)](https://jobr.pro/job/33837346/middle-frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Kyiv, Kyiv, Ukraine | On Site | Dec 05 |
-| **[beyonnex](https://beyonnex.io/)** | **[Frontend Developer - Heat Sense (m/f/d)](https://jobr.pro/job/33775646/frontend-developer-heat-sense-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote | Remote | Dec 05 |
 
 ---
 
-**Current Stats:** 50 jobs | 20% remote | 43 companies | Avg salary: 178k  
+**Current Stats:** 50 jobs | 18% remote | 43 companies | Avg salary: 178k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
