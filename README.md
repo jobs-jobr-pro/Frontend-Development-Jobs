@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Dec 13, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Dec 13, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Genpact](https://www.genpact.com/)** | **[Manager - Marketing AEM Frontend Developer](https://jobr.pro/job/34328749/manager-marketing-aem-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India-Bangalore | On Site | Dec 13 |
 | **[TBAuctions](https://tbauctions.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/34322488/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lund, Sweden | On Site | Dec 12 |
 | **[Rohde & Schwarz](https://www.rohde-schwarz.com/)** | **[Frontend Developer Naval Communications Software (m/w/d)](https://jobr.pro/job/34254869/frontend-developer-naval-communications-software-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Kiel | On Site | Dec 12 |
 | **[CI&T](https://ciandt.com/)** | **[\[Job- 26439\] Senior Frontend Developer (React), Brasil](https://jobr.pro/job/34298204/job-26439-senior-frontend-developer-react-brasil?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Brazil | On Site | Dec 12 |
@@ -65,7 +66,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 49 jobs | 18% remote | 43 companies | Avg salary: 178k  
+**Current Stats:** 50 jobs | 18% remote | 44 companies | Avg salary: 178k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
