@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Dec 14, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 15, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -58,15 +58,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[keylight](https://www.keylight.com/)** | **[Senior Frontend Developer (all genders)](https://jobr.pro/job/33973612/senior-frontend-developer-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Berlin, BE, Germany | On Site | Dec 08 |
 | **[Strix](https://strix.net/)** | **[Headless Frontend Developer (m/w/d)](https://jobr.pro/job/33957894/headless-frontend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Praca zdalna | Remote | Dec 08 |
 | **[Strix](https://strix.net/)** | **[Senior Headless Frontend Developer (m/w/d)](https://jobr.pro/job/33957893/senior-headless-frontend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Praca zdalna | Remote | Dec 08 |
-| **[The Flex](https://theflex.global/)** | **[Backend & Frontend Developer](https://jobr.pro/job/33906710/backend-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Paris | Remote | Dec 07 |
-| **[Payoneer](https://www.payoneer.com)** | **[Frontend Developer](https://jobr.pro/job/33906207/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Petach Tiqva, Israel | On Site | Dec 07 |
-| **[abra](https://www.abra-it.com/)** | **[Frontend Developer](https://jobr.pro/job/33931878/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Jerusalem, Jerusalem District, IL | On Site | Dec 07 |
-| **[gravity9](https://www.gravity9.com/)** | **[Senior Frontend Developer (React)](https://jobr.pro/job/33904425/senior-frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote job | Remote | Dec 07 |
-| **[gravity9](https://www.gravity9.com/)** | **[Senior Frontend Developer (Angular)](https://jobr.pro/job/33904424/senior-frontend-developer-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote job | Remote | Dec 07 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 44 companies | Avg salary: 178k  
+**Current Stats:** 45 jobs | 13% remote | 40 companies | Avg salary: 178k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
