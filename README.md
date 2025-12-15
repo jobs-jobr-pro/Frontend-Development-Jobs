@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Dec 15, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Dec 15, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[valantic DXA](https://www.dxa.valantic.com/)** | **[Senior Frontend Developer (all genders)](https://jobr.pro/job/34363166/senior-frontend-developer-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote DE (Bayern) | Remote | Dec 15 |
+| **[b-next](https://www.b-next.com/)** | **[Frontend Developer (Angular)](https://jobr.pro/job/34360966/frontend-developer-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Herford | On Site | Dec 15 |
+| **[FxPro](https://www.fxpro.com/)** | **[Senior Frontend Developer (React)](https://jobr.pro/job/34361256/senior-frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Cyprus, Ypsonas, Greece | On Site | Dec 14 |
 | **[Capgemini](https://www.capgemini.com)** | **[Senior Frontend Developer Customer Experience (w/m/d)](https://jobr.pro/job/34354338/senior-frontend-developer-customer-experience-wmd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Berlin, DE | On Site | Dec 14 |
 | **[Genpact](https://www.genpact.com/)** | **[Manager - Marketing AEM Frontend Developer](https://jobr.pro/job/34328749/manager-marketing-aem-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India-Bangalore | On Site | Dec 13 |
 | **[Workstate](https://www.workstate.com)** | **[Senior Frontend Developer - US Remote](https://jobr.pro/job/34357836/senior-frontend-developer-us-remote?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | United States - Remote | Remote | Dec 13 |
@@ -60,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Ströer](https://www.stroeer.de/)** | **[Senior Frontend Developer (m/w/d)](https://jobr.pro/job/33965521/senior-frontend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Köln, NRW, Germany | On Site | Dec 08 |
 | **[keylight](https://www.keylight.com/)** | **[Senior Frontend Developer (all genders)](https://jobr.pro/job/33973612/senior-frontend-developer-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Berlin, BE, Germany | On Site | Dec 08 |
 | **[Strix](https://strix.net/)** | **[Headless Frontend Developer (m/w/d)](https://jobr.pro/job/33957894/headless-frontend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Praca zdalna | Remote | Dec 08 |
-| **[Strix](https://strix.net/)** | **[Senior Headless Frontend Developer (m/w/d)](https://jobr.pro/job/33957893/senior-headless-frontend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Praca zdalna | Remote | Dec 08 |
 
 ---
 
-**Current Stats:** 48 jobs | 17% remote | 42 companies | Avg salary: 178k  
+**Current Stats:** 50 jobs | 16% remote | 45 companies | Avg salary: 178k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
