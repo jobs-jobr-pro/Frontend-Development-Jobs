@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Dec 15, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Dec 15, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,7 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Capgemini](https://www.capgemini.com)** | **[Senior Frontend Developer Customer Experience (w/m/d)](https://jobr.pro/job/34354338/senior-frontend-developer-customer-experience-wmd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Berlin, DE | On Site | Dec 14 |
 | **[Genpact](https://www.genpact.com/)** | **[Manager - Marketing AEM Frontend Developer](https://jobr.pro/job/34328749/manager-marketing-aem-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India-Bangalore | On Site | Dec 13 |
+| **[Workstate](https://www.workstate.com)** | **[Senior Frontend Developer - US Remote](https://jobr.pro/job/34357836/senior-frontend-developer-us-remote?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | United States - Remote | Remote | Dec 13 |
+| **[Workstate](https://www.workstate.com)** | **[Mid-level Frontend Developer - CO Remote](https://jobr.pro/job/34357833/mid-level-frontend-developer-co-remote?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Colombia - Remote | Remote | Dec 13 |
 | **[TBAuctions](https://tbauctions.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/34322488/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lund, Sweden | On Site | Dec 12 |
 | **[Rohde & Schwarz](https://www.rohde-schwarz.com/)** | **[Frontend Developer Naval Communications Software (m/w/d)](https://jobr.pro/job/34254869/frontend-developer-naval-communications-software-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Kiel | On Site | Dec 12 |
 | **[CI&T](https://ciandt.com/)** | **[\[Job- 26439\] Senior Frontend Developer (React), Brasil](https://jobr.pro/job/34298204/job-26439-senior-frontend-developer-react-brasil?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Brazil | On Site | Dec 12 |
@@ -61,7 +64,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 45 jobs | 13% remote | 40 companies | Avg salary: 178k  
+**Current Stats:** 48 jobs | 17% remote | 42 companies | Avg salary: 178k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
