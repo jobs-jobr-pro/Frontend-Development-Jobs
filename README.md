@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Dec 16, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Dec 16, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Sedin Technologies](https://sedintechnologies.com/)** | **[Vue.JS Frontend Developer](https://jobr.pro/job/34455459/vuejs-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tamil Nadu, Chennai, India | On Site | Dec 16 |
 | **[Lightspeed Commerce](https://www.lightspeedhq.com/)** | **[Senior Frontend Developer - react.js (all genders)](https://jobr.pro/job/34406944/senior-frontend-developer-reactjs-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Berlin, Berlin, Germany | On Site | Dec 16 |
 | **[Weekday](https://www.weekday.works)** | **[Frontend Developer - SA](https://jobr.pro/job/34427698/frontend-developer-sa?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Mumbai, Maharashtra, India | On Site | Dec 16 |
 | **[Encora](https://www.encora.com/)** | **[Senior Frontend Developer (UX experience)](https://jobr.pro/job/34418249/senior-frontend-developer-ux-experience?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Mexico | On Site | Dec 15 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Huawei Telekomünikasyon Dış Ticaret Ltd](https://www.huawei.com/)** | **[Frontend Developer](https://jobr.pro/job/34067267/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | İstanbul, İstanbul, Turkey | On Site | Dec 09 |
 | **[Huawei Telekomünikasyon Dış Ticaret Ltd](https://www.huawei.com/)** | **[Frontend Developer (Petal Search & Map)](https://jobr.pro/job/34067268/frontend-developer-petal-search-map?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Turkey - Remote | Remote | Dec 09 |
 | **[Weekday](https://www.weekday.works)** | **[Frontend Developer](https://jobr.pro/job/33999728/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Mumbai, Maharashtra, India | On Site | Dec 09 |
-| **[Analog Devices](https://www.analog.com/)** | **[Frontend Developer Power Studio](https://jobr.pro/job/34030362/frontend-developer-power-studio?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Ireland, Limerick | On Site | Dec 09 |
 
 ---
 
