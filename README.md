@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Dec 16, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Dec 16, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Lightspeed Commerce](https://www.lightspeedhq.com/)** | **[Senior Frontend Developer - react.js (all genders)](https://jobr.pro/job/34406944/senior-frontend-developer-reactjs-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Berlin, Berlin, Germany | On Site | Dec 16 |
+| **[Encora](https://www.encora.com/)** | **[Senior Frontend Developer (UX experience)](https://jobr.pro/job/34418249/senior-frontend-developer-ux-experience?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Mexico | On Site | Dec 15 |
+| **[Evolution](https://www.evolution.com)** | **[Senior Frontend Developer](https://jobr.pro/job/34411815/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Warsaw, Masovian Voivodeship, Poland | On Site | Dec 15 |
 | **[valantic DXA](https://www.dxa.valantic.com/)** | **[Senior Frontend Developer (all genders)](https://jobr.pro/job/34363164/senior-frontend-developer-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Barcelona | On Site | Dec 15 |
 | **[b-next](https://www.b-next.com/)** | **[Frontend Developer (Angular)](https://jobr.pro/job/34360966/frontend-developer-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Herford | On Site | Dec 15 |
 | **[Photon](https://www.photon.com/)** | **[Frontend Developer - React & Typescript - Chennai/Bangalore,IN](https://jobr.pro/job/34369885/frontend-developer-react-typescript-chennaibangalorein?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India | On Site | Dec 15 |
@@ -60,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Weekday](https://www.weekday.works)** | **[Frontend Developer](https://jobr.pro/job/33999728/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Mumbai, Maharashtra, India | On Site | Dec 09 |
 | **[Analog Devices](https://www.analog.com/)** | **[Frontend Developer Power Studio](https://jobr.pro/job/34030362/frontend-developer-power-studio?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Ireland, Limerick | On Site | Dec 09 |
 | **[Dedalus](https://www.dedalus.com/)** | **[Junior Frontend Developer](https://jobr.pro/job/34037846/junior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | GBR - Leeds, United Kingdom | On Site | Dec 09 |
-| **[Applied Materials](https://www.appliedmaterials.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/34037449/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Rehovot,ISR, Israel | On Site | Dec 09 |
 
 ---
 
-**Current Stats:** 48 jobs | 13% remote | 43 companies | Avg salary: 178k  
+**Current Stats:** 50 jobs | 12% remote | 44 companies | Avg salary: 178k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
