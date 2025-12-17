@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Dec 16, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 17, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -51,22 +51,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Sporty Group](https://www.sportygroup.com/)** | **[CS Saas Frontend Developer](https://jobr.pro/job/34145791/cs-saas-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | GLOBAL REMOTE | Remote | Dec 10 |
 | **[Aritzia](https://www.aritzia.com/)** | **[Digital Technology - Senior Frontend Developer, Website](https://jobr.pro/job/34130847/digital-technology-senior-frontend-developer-website?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Support Office (Vancouver), Canada | On Site | Dec 10 |
 | **[Arthur Lawrence](https://arthurlawrence.net)** | **[Junior Frontend Developer](https://jobr.pro/job/34122697/junior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Riyadh | On Site | Dec 10 |
-| **[Accenture Federal Services](https://www.accenture.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/34046095/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Arlington, VA | On Site | Dec 09 |
-| **[redbee](https://redbee.io/)** | **[Frontend Developer Ssr](https://jobr.pro/job/34049901/frontend-developer-ssr?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Buenos Aires | On Site | Dec 09 |
-| **[ITONICS](https://www.itonics-innovation.com/)** | **[Internship / Apprenticeship – Frontend Developer (Angular / React)](https://jobr.pro/job/34071974/internship-apprenticeship-frontend-developer-angular-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Paris, Berlin, Nürnberg | On Site | Dec 09 |
-| **[Gamdom](https://gamdom.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/34083843/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Valletta, Malta | On Site | Dec 09 |
-| **[EXL](https://www.exlservice.com/)** | **[Frontend Developer](https://jobr.pro/job/34005637/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Noida, Uttar Pradesh, India | On Site | Dec 09 |
-| **[Virtusa](https://www.virtusa.com/)** | **[AEM Frontend Developer](https://jobr.pro/job/34001896/aem-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | IN-AP-Hyderabad | On Site | Dec 09 |
-| **[Eeze](https://eeze.com/)** | **[Senior Frontend Developer (Video Solution)](https://jobr.pro/job/33995288/senior-frontend-developer-video-solution?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | London, United Kingdom | On Site | Dec 09 |
-| **[Huawei Telekomünikasyon Dış Ticaret Ltd](https://www.huawei.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/34067374/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | İstanbul, İstanbul, Turkey | On Site | Dec 09 |
-| **[Huawei Telekomünikasyon Dış Ticaret Ltd](https://www.huawei.com/)** | **[Mid/Senior Frontend Developer (Istanbul-Izmir-Ankara)](https://jobr.pro/job/34067318/midsenior-frontend-developer-istanbul-izmir-ankara?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | İstanbul, İstanbul, Turkey | On Site | Dec 09 |
-| **[Huawei Telekomünikasyon Dış Ticaret Ltd](https://www.huawei.com/)** | **[Frontend Developer](https://jobr.pro/job/34067267/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | İstanbul, İstanbul, Turkey | On Site | Dec 09 |
-| **[Huawei Telekomünikasyon Dış Ticaret Ltd](https://www.huawei.com/)** | **[Frontend Developer (Petal Search & Map)](https://jobr.pro/job/34067268/frontend-developer-petal-search-map?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Turkey - Remote | Remote | Dec 09 |
-| **[Weekday](https://www.weekday.works)** | **[Frontend Developer](https://jobr.pro/job/33999728/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Mumbai, Maharashtra, India | On Site | Dec 09 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 43 companies | Avg salary: 178k  
+**Current Stats:** 38 jobs | 16% remote | 35 companies | Avg salary: 195k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
