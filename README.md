@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Dec 17, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Dec 17, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,7 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[CrossWorkers](https://www.crossworkers-egypt.com/)** | **[Mid-Level Frontend Developer (React.js, Next.js, TypeScript)](https://jobr.pro/job/34531687/mid-level-frontend-developer-reactjs-nextjs-typescript?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | اول القاهرة الجديدة, Egypt | On Site | Dec 17 |
 | **[Yuno](https://www.y.uno/)** | **[AI Frontend Developer](https://jobr.pro/job/34498789/ai-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bogota | Remote | Dec 17 |
+| **[Advansys ESC](https://www.advansys-esc.com/)** | **[Junior Frontend Developer (Angular)](https://jobr.pro/job/34522080/junior-frontend-developer-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Cairo, Al Jīzah, Egypt | On Site | Dec 17 |
 | **[CowManager](https://www.cowmanager.nl/)** | **[Medior/Senior Frontend Developer](https://jobr.pro/job/34493762/mediorsenior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Harmelen, Utrecht, Nederland | On Site | Dec 16 |
 | **[Bosch Group](https://www.bosch.com)** | **[Frontend Developer (Angular)](https://jobr.pro/job/34508823/frontend-developer-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Aveiro, Portugal | On Site | Dec 16 |
 | **[Sedin Technologies](https://sedintechnologies.com/)** | **[Vue.JS Frontend Developer](https://jobr.pro/job/34455459/vuejs-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tamil Nadu, Chennai, India | On Site | Dec 16 |
@@ -57,7 +59,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 41 jobs | 17% remote | 38 companies | Avg salary: 128k  
+**Current Stats:** 43 jobs | 16% remote | 40 companies | Avg salary: 128k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
