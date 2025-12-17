@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Dec 17, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Dec 17, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Yuno](https://www.y.uno/)** | **[AI Frontend Developer](https://jobr.pro/job/34498789/ai-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bogota | Remote | Dec 17 |
+| **[CowManager](https://www.cowmanager.nl/)** | **[Medior/Senior Frontend Developer](https://jobr.pro/job/34493762/mediorsenior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Harmelen, Utrecht, Nederland | On Site | Dec 16 |
+| **[Bosch Group](https://www.bosch.com)** | **[Frontend Developer (Angular)](https://jobr.pro/job/34508823/frontend-developer-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Aveiro, Portugal | On Site | Dec 16 |
 | **[Sedin Technologies](https://sedintechnologies.com/)** | **[Vue.JS Frontend Developer](https://jobr.pro/job/34455459/vuejs-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tamil Nadu, Chennai, India | On Site | Dec 16 |
 | **[Lightspeed Commerce](https://www.lightspeedhq.com/)** | **[Senior Frontend Developer - react.js (all genders)](https://jobr.pro/job/34406944/senior-frontend-developer-reactjs-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Berlin, Berlin, Germany | On Site | Dec 16 |
 | **[Weekday](https://www.weekday.works)** | **[Frontend Developer - SA](https://jobr.pro/job/34427698/frontend-developer-sa?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Mumbai, Maharashtra, India | On Site | Dec 16 |
@@ -54,7 +57,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 38 jobs | 16% remote | 35 companies | Avg salary: 195k  
+**Current Stats:** 41 jobs | 17% remote | 38 companies | Avg salary: 128k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
