@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Dec 18, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Dec 18, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -40,10 +40,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Rohde & Schwarz](https://www.rohde-schwarz.com/)** | **[Frontend Developer Naval Communications Software (m/w/d)](https://jobr.pro/job/34254869/frontend-developer-naval-communications-software-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Kiel | On Site | Dec 12 |
 | **[CI&T](https://ciandt.com/)** | **[\[Job- 26439\] Senior Frontend Developer (React), Brasil](https://jobr.pro/job/34298204/job-26439-senior-frontend-developer-react-brasil?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Brazil | On Site | Dec 12 |
 | **[Xsolla](https://xsolla.com)** | **[Frontend developer - React](https://jobr.pro/job/34301716/frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Baku | On Site | Dec 12 |
-| **[SAP](https://www.sap.com/)** | **[Senior Frontend Developer - Business Network Global Track and Trace](https://jobr.pro/job/34226539/senior-frontend-developer-business-network-global-track-and-trace?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Ho Chi Minh, VN, 700000 | On Site | Dec 12 |
-| **[SAP](https://www.sap.com/)** | **[Frontend Developer Associate - Business Network - Global Track and Trace](https://jobr.pro/job/34226543/frontend-developer-associate-business-network-global-track-and-trace?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Ho Chi Minh, VN, 700000 | On Site | Dec 12 |
 | **[ProArch](https://www.proarch.com/)** | **[Senior Frontend Developer (Ionic/Angular)](https://jobr.pro/job/34251133/senior-frontend-developer-ionicangular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Hyderabad, Telangana, India | On Site | Dec 12 |
 | **[Novibet](https://www.novibet.com)** | **[Frontend Developer](https://jobr.pro/job/34249721/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Athens, Attica, Greece | On Site | Dec 12 |
+| **[SAP](https://www.sap.com/)** | **[Senior Frontend Developer - Business Network Global Track and Trace](https://jobr.pro/job/34226539/senior-frontend-developer-business-network-global-track-and-trace?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Ho Chi Minh, VN, 700000 | On Site | Dec 12 |
+| **[SAP](https://www.sap.com/)** | **[Frontend Developer Associate - Business Network - Global Track and Trace](https://jobr.pro/job/34226543/frontend-developer-associate-business-network-global-track-and-trace?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Ho Chi Minh, VN, 700000 | On Site | Dec 12 |
 | **[Copado](https://www.copado.com/)** | **[Sr Frontend Developer - Omni](https://jobr.pro/job/34196483/sr-frontend-developer-omni?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | 70130, New Orleans , LA, United States | On Site | Dec 11 |
 | **[Shiji Group](https://www.shijigroup.com/)** | **[Frontend Developer I Daylight](https://jobr.pro/job/34182279/frontend-developer-i-daylight?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Katowice, Silesian Voivodeship, Poland | Remote | Dec 11 |
 | **[papernest](https://www.papernest.com/)** | **[Frontend Developer - Permanent - Barcelona](https://jobr.pro/job/34179268/frontend-developer-permanent-barcelona?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Barcelona, Spain | On Site | Dec 11 |
