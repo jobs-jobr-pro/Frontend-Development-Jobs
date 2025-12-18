@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Dec 18, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Dec 18, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Tacton](https://www.tacton.com/)** | **[Senior Frontend Developer (React)](https://jobr.pro/job/34604729/senior-frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Stockholm, Sweden | On Site | Dec 18 |
 | **[BEUMER Group](https://www.beumergroup.com)** | **[Praktikant/Werkstudent (m/w/d) Frontend Developer/UI Design](https://jobr.pro/job/34588135/praktikantwerkstudent-mwd-frontend-developerui-design?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Beckum, NRW, Germany | On Site | Dec 17 |
 | **[CrossWorkers](https://www.crossworkers-egypt.com/)** | **[Mid-Level Frontend Developer (React.js, Next.js, TypeScript)](https://jobr.pro/job/34531687/mid-level-frontend-developer-reactjs-nextjs-typescript?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | اول القاهرة الجديدة, Egypt | On Site | Dec 17 |
 | **[Yuno](https://www.y.uno/)** | **[AI Frontend Developer](https://jobr.pro/job/34498789/ai-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bogota | Remote | Dec 17 |
@@ -53,7 +54,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 37 jobs | 16% remote | 34 companies | Avg salary: 90k  
+**Current Stats:** 38 jobs | 16% remote | 35 companies | Avg salary: 90k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
