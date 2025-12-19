@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Dec 19, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Dec 19, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Bankdata](https://www.bankdata.dk/)** | **[Senior Frontend Developer](https://jobr.pro/job/34687753/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Aarhus, Denmark | On Site | Dec 19 |
 | **[Shiji Group](https://www.shijigroup.com/)** | **[Junior Frontend Developer I Daylight](https://jobr.pro/job/34676491/junior-frontend-developer-i-daylight?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Katowice, Silesian Voivodeship, Poland | On Site | Dec 19 |
 | **[Veeam Software](https://www.veeam.com/)** | **[Experienced Frontend Developer](https://jobr.pro/job/34667225/experienced-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Pune, India | On Site | Dec 19 |
 | **[2Brains](https://2brains.lat/)** | **[Frontend Developer Vue 3 (Modyo) (reemplazo por vacaciones)](https://jobr.pro/job/34656836/frontend-developer-vue-3-modyo-reemplazo-por-vacaciones?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Santiago | On Site | Dec 18 |
@@ -54,7 +55,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 38 jobs | 13% remote | 35 companies | Avg salary: 90k  
+**Current Stats:** 39 jobs | 13% remote | 36 companies | Avg salary: 90k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
