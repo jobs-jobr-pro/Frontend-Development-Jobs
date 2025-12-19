@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Dec 19, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Dec 19, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Shiji Group](https://www.shijigroup.com/)** | **[Junior Frontend Developer I Daylight](https://jobr.pro/job/34676491/junior-frontend-developer-i-daylight?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Katowice, Silesian Voivodeship, Poland | On Site | Dec 19 |
+| **[Veeam Software](https://www.veeam.com/)** | **[Experienced Frontend Developer](https://jobr.pro/job/34667225/experienced-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Pune, India | On Site | Dec 19 |
+| **[2Brains](https://2brains.lat/)** | **[Frontend Developer Vue 3 (Modyo) (reemplazo por vacaciones)](https://jobr.pro/job/34656836/frontend-developer-vue-3-modyo-reemplazo-por-vacaciones?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Santiago | On Site | Dec 18 |
+| **[2Brains](https://2brains.lat/)** | **[Frontend Developer – React / Next.js (reemplazo de vacaciones)](https://jobr.pro/job/34656835/frontend-developer-react-nextjs-reemplazo-de-vacaciones?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Chile | On Site | Dec 18 |
+| **[Thoughtworks](https://www.thoughtworks.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/34661367/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Ho Chi Minh City | On Site | Dec 18 |
+| **[Pricefox](https://www.pricefox.gr/)** | **[Senior Frontend Developer](https://jobr.pro/job/34653527/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Athens, Greece | On Site | Dec 18 |
 | **[Tacton](https://www.tacton.com/)** | **[Senior Frontend Developer (React)](https://jobr.pro/job/34604729/senior-frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Stockholm, Sweden | On Site | Dec 18 |
 | **[Autodesk](https://www.autodesk.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/34640714/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | EMEA - Poland - Kraków - Lubomirskiego | On Site | Dec 18 |
 | **[BEUMER Group](https://www.beumergroup.com)** | **[Praktikant/Werkstudent (m/w/d) Frontend Developer/UI Design](https://jobr.pro/job/34588135/praktikantwerkstudent-mwd-frontend-developerui-design?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Beckum, NRW, Germany | On Site | Dec 17 |
@@ -48,7 +54,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 32 jobs | 16% remote | 30 companies | Avg salary: 90k  
+**Current Stats:** 38 jobs | 13% remote | 35 companies | Avg salary: 90k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
