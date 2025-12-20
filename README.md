@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Dec 20, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Dec 20, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[OMNI.PRO](https://omni.pro/)** | **[Bilingual Frontend Developer – UI Layout](https://jobr.pro/job/34779733/bilingual-frontend-developer-ui-layout?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Teletrabajo | Remote | Dec 20 |
 | **[ONIQ GmbH](https://oniq.com/)** | **[Lead Frontend Developer (f/m/d)](https://jobr.pro/job/34757485/lead-frontend-developer-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Cologne/Berlin/Hybrid | Remote | Dec 20 |
 | **[OMNI.PRO](https://omni.pro/)** | **[Frontend Developer – UI Layout](https://jobr.pro/job/34710754/frontend-developer-ui-layout?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Teletrabajo | Remote | Dec 19 |
 | **[Lylli](https://www.lylli.se/)** | **[Frontend Developer - 1 year parental leave cover](https://jobr.pro/job/34718480/frontend-developer-1-year-parental-leave-cover?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Stockholm | On Site | Dec 19 |
@@ -55,7 +56,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 39 jobs | 21% remote | 37 companies | Avg salary: 90k  
+**Current Stats:** 40 jobs | 23% remote | 37 companies | Avg salary: 90k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
