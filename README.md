@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Dec 22, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Dec 22, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Crypto.com](https://crypto.com/)** | **[Mid/Sr Frontend Developer/Fullstack Developer - MainApp Web](https://jobr.pro/job/34802229/midsr-frontend-developerfullstack-developer-mainapp-web?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Shenzhen, China | On Site | Dec 21 |
 | **[OMNI.PRO](https://omni.pro/)** | **[Bilingual Frontend Developer – UI Layout](https://jobr.pro/job/34779733/bilingual-frontend-developer-ui-layout?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Teletrabajo | Remote | Dec 20 |
 | **[ONIQ GmbH](https://oniq.com/)** | **[Lead Frontend Developer (f/m/d)](https://jobr.pro/job/34757485/lead-frontend-developer-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Cologne/Berlin/Hybrid | Remote | Dec 20 |
 | **[OMNI.PRO](https://omni.pro/)** | **[Frontend Developer – UI Layout](https://jobr.pro/job/34710754/frontend-developer-ui-layout?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Teletrabajo | Remote | Dec 19 |
@@ -34,8 +35,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[BEUMER Group](https://www.beumergroup.com)** | **[Praktikant/Werkstudent (m/w/d) Frontend Developer/UI Design](https://jobr.pro/job/34588135/praktikantwerkstudent-mwd-frontend-developerui-design?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Beckum, NRW, Germany | On Site | Dec 17 |
 | **[CrossWorkers](https://www.crossworkers-egypt.com/)** | **[Mid-Level Frontend Developer (React.js, Next.js, TypeScript)](https://jobr.pro/job/34531687/mid-level-frontend-developer-reactjs-nextjs-typescript?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | اول القاهرة الجديدة, Egypt | On Site | Dec 17 |
 | **[Yuno](https://www.y.uno/)** | **[AI Frontend Developer](https://jobr.pro/job/34498789/ai-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bogota | Remote | Dec 17 |
-| **[Advansys ESC](https://www.advansys-esc.com/)** | **[Junior Frontend Developer (Angular)](https://jobr.pro/job/34522080/junior-frontend-developer-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Cairo, Al Jīzah, Egypt | On Site | Dec 17 |
 | **[Motorola Solutions](https://www.motorolasolutions.com/)** | **[Frontend Developer](https://jobr.pro/job/34547308/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Krakow, Poland | On Site | Dec 17 |
+| **[Advansys ESC](https://www.advansys-esc.com/)** | **[Junior Frontend Developer (Angular)](https://jobr.pro/job/34522080/junior-frontend-developer-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Cairo, Al Jīzah, Egypt | On Site | Dec 17 |
 | **[CMHWorks](https://cmhworks.com/)** | **[Senior Angular Frontend Developer (7–10+ Years Experience)](https://jobr.pro/job/34536218/senior-angular-frontend-developer-710-years-experience?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Purcellville, VA, US | Remote | Dec 16 |
 | **[CowManager](https://www.cowmanager.nl/)** | **[Medior/Senior Frontend Developer](https://jobr.pro/job/34493762/mediorsenior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Harmelen, Utrecht, Nederland | On Site | Dec 16 |
 | **[Bosch Group](https://www.bosch.com)** | **[Frontend Developer (Angular)](https://jobr.pro/job/34508823/frontend-developer-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Aveiro, Portugal | On Site | Dec 16 |
@@ -51,7 +52,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 35 jobs | 20% remote | 33 companies | Avg salary: 90k  
+**Current Stats:** 36 jobs | 19% remote | 34 companies | Avg salary: 90k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
