@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Dec 21, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 22, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -48,12 +48,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[b-next](https://www.b-next.com/)** | **[Frontend Developer (Angular)](https://jobr.pro/job/34360966/frontend-developer-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Herford | On Site | Dec 15 |
 | **[Photon](https://www.photon.com/)** | **[Frontend Developer - React & Typescript - Chennai/Bangalore,IN](https://jobr.pro/job/34369885/frontend-developer-react-typescript-chennaibangalorein?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India | On Site | Dec 15 |
 | **[Fincons Group](https://www.finconsgroup.com)** | **[Frontend Developer Angular](https://jobr.pro/job/34396266/frontend-developer-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bari | On Site | Dec 15 |
-| **[FxPro](https://www.fxpro.com/)** | **[Senior Frontend Developer (React)](https://jobr.pro/job/34361256/senior-frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Cyprus, Ypsonas, Greece | On Site | Dec 14 |
-| **[Capgemini](https://www.capgemini.com)** | **[Senior Frontend Developer Customer Experience (w/m/d)](https://jobr.pro/job/34354338/senior-frontend-developer-customer-experience-wmd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Berlin, DE | On Site | Dec 14 |
 
 ---
 
-**Current Stats:** 37 jobs | 19% remote | 35 companies | Avg salary: 90k  
+**Current Stats:** 35 jobs | 20% remote | 33 companies | Avg salary: 90k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
