@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Dec 22, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Dec 22, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Artlist](https://artlist.io/)** | **[Senior Frontend Developer](https://jobr.pro/job/34822200/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 22 |
 | **[Emerson](https://www.emerson.com/)** | **[Frontend Developer](https://jobr.pro/job/34812834/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | PUNE, MAHARASHTRA, India | On Site | Dec 22 |
 | **[Legartis Technology AG](https://legartis.ai/)** | **[Senior Frontend Developer (Leipzig)](https://jobr.pro/job/34808486/senior-frontend-developer-leipzig?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Leipzig | On Site | Dec 22 |
 | **[Critical Techworks](https://www.criticaltechworks.com)** | **[Trailblazing Frontend Developer](https://jobr.pro/job/34813609/trailblazing-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Porto, Portugal | On Site | Dec 21 |
@@ -55,7 +56,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 39 jobs | 18% remote | 37 companies | Avg salary: 90k  
+**Current Stats:** 40 jobs | 18% remote | 38 companies | Avg salary: 90k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
