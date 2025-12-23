@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Dec 22, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 23, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -47,16 +47,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Sedin Technologies](https://sedintechnologies.com/)** | **[Vue.JS Frontend Developer](https://jobr.pro/job/34455459/vuejs-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tamil Nadu, Chennai, India | On Site | Dec 16 |
 | **[Lightspeed Commerce](https://www.lightspeedhq.com/)** | **[Senior Frontend Developer - react.js (all genders)](https://jobr.pro/job/34406944/senior-frontend-developer-reactjs-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Berlin, Berlin, Germany | On Site | Dec 16 |
 | **[Weekday](https://www.weekday.works)** | **[Frontend Developer - SA](https://jobr.pro/job/34427698/frontend-developer-sa?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Mumbai, Maharashtra, India | On Site | Dec 16 |
-| **[Encora](https://www.encora.com/)** | **[Senior Frontend Developer (UX experience)](https://jobr.pro/job/34418249/senior-frontend-developer-ux-experience?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Mexico | On Site | Dec 15 |
-| **[Evolution](https://www.evolution.com)** | **[Senior Frontend Developer](https://jobr.pro/job/34411815/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Warsaw, Masovian Voivodeship, Poland | On Site | Dec 15 |
-| **[valantic DXA](https://www.dxa.valantic.com/)** | **[Senior Frontend Developer (all genders)](https://jobr.pro/job/34363166/senior-frontend-developer-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote DE (Bayern) | Remote | Dec 15 |
-| **[b-next](https://www.b-next.com/)** | **[Frontend Developer (Angular)](https://jobr.pro/job/34360966/frontend-developer-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Herford | On Site | Dec 15 |
-| **[Photon](https://www.photon.com/)** | **[Frontend Developer - React & Typescript - Chennai/Bangalore,IN](https://jobr.pro/job/34369885/frontend-developer-react-typescript-chennaibangalorein?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India | On Site | Dec 15 |
-| **[Fincons Group](https://www.finconsgroup.com)** | **[Frontend Developer Angular](https://jobr.pro/job/34396266/frontend-developer-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bari | On Site | Dec 15 |
 
 ---
 
-**Current Stats:** 40 jobs | 18% remote | 38 companies | Avg salary: 90k  
+**Current Stats:** 34 jobs | 18% remote | 32 companies | Avg salary: 90k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
