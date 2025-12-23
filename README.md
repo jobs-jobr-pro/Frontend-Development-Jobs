@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Dec 23, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Dec 23, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Endava](https://www.endava.com)** | **[Senior Frontend Developer (VueJS)](https://jobr.pro/job/34885193/senior-frontend-developer-vuejs?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Krakow, Lesser Poland, Poland | On Site | Dec 23 |
+| **[Globaldev Group](https://globaldev.tech/)** | **[Frontend Developer](https://jobr.pro/job/34885867/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Yerevan, Yerevan, Armenia | On Site | Dec 23 |
 | **[Artlist](https://artlist.io/)** | **[Senior Frontend Developer](https://jobr.pro/job/34822200/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 22 |
 | **[Emerson](https://www.emerson.com/)** | **[Frontend Developer](https://jobr.pro/job/34812834/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | PUNE, MAHARASHTRA, India | On Site | Dec 22 |
 | **[Xebia](https://xebia.com/)** | **[Senior Frontend Developer (Angular)](https://jobr.pro/job/34847840/senior-frontend-developer-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote job | Remote | Dec 22 |
@@ -53,7 +55,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 37 jobs | 19% remote | 35 companies | Avg salary: 90k  
+**Current Stats:** 39 jobs | 18% remote | 37 companies | Avg salary: 137k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
