@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Dec 24, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Dec 24, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[DNV Imatis](https://dnvimatis.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/34957137/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Sandefjord, Norway | On Site | Dec 24 |
 | **[Atomicwork](https://atomicwork.com/)** | **[Frontend Developer](https://jobr.pro/job/34931972/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bengaluru, Karnataka | On Site | Dec 23 |
 | **[Radius Limited](https://www.radius.com/)** | **[Frontend Developer - Telematics](https://jobr.pro/job/34938359/frontend-developer-telematics?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Crewe, England, United Kingdom | On Site | Dec 23 |
 | **[Endava](https://www.endava.com)** | **[Senior Frontend Developer (VueJS)](https://jobr.pro/job/34932926/senior-frontend-developer-vuejs?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Gdansk, Pomerania, Poland | On Site | Dec 23 |
@@ -51,7 +52,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 35 jobs | 17% remote | 33 companies | Avg salary: 231k  
+**Current Stats:** 36 jobs | 17% remote | 34 companies | Avg salary: 231k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
