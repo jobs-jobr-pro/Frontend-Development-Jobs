@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Dec 25, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Dec 25, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,7 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Devoteam](https://www.devoteam.com/)** | **[Retail & E-Commerce \|Senior Frontend Developer](https://jobr.pro/job/34992463/retail-e-commerce-senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Porto, Porto, Portugal | On Site | Dec 24 |
+| **[CI&T](https://ciandt.com/)** | **[\[Job-00024\] Senior Frontend Developer, Brazil](https://jobr.pro/job/34988750/job-00024-senior-frontend-developer-brazil?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Brazil | On Site | Dec 24 |
 | **[DNV Imatis](https://dnvimatis.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/34957137/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Sandefjord, Norway | On Site | Dec 24 |
+| **[Sporty Group](https://www.sportygroup.com/)** | **[CS Saas Frontend Developer](https://jobr.pro/job/34988933/cs-saas-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | GLOBAL REMOTE | Remote | Dec 24 |
 | **[Atomicwork](https://atomicwork.com/)** | **[Frontend Developer](https://jobr.pro/job/34931972/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bengaluru, Karnataka | On Site | Dec 23 |
 | **[Radius Limited](https://www.radius.com/)** | **[Frontend Developer - Telematics](https://jobr.pro/job/34938359/frontend-developer-telematics?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Crewe, England, United Kingdom | On Site | Dec 23 |
 | **[Endava](https://www.endava.com)** | **[Senior Frontend Developer (VueJS)](https://jobr.pro/job/34932926/senior-frontend-developer-vuejs?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Gdansk, Pomerania, Poland | On Site | Dec 23 |
@@ -23,7 +26,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Xebia](https://xebia.com/)** | **[Senior Frontend Developer (Angular)](https://jobr.pro/job/34847840/senior-frontend-developer-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote job | Remote | Dec 22 |
 | **[Vivify Healthcare](https://vivifyhealthcare.com/)** | **[Frontend Developer (React & Angular)](https://jobr.pro/job/34863751/frontend-developer-react-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | VISAKHAPATNAM, ANDHRA PRADESH, India | On Site | Dec 22 |
 | **[Legartis Technology AG](https://legartis.ai/)** | **[Senior Frontend Developer (Leipzig)](https://jobr.pro/job/34808486/senior-frontend-developer-leipzig?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Leipzig | On Site | Dec 22 |
-| **[Sporty Group](https://www.sportygroup.com/)** | **[CS Saas Frontend Developer](https://jobr.pro/job/34844192/cs-saas-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | GLOBAL REMOTE | Remote | Dec 22 |
 | **[Xsolla](https://xsolla.com)** | **[Middle/ Senior Frontend developer - React](https://jobr.pro/job/34850814/middle-senior-frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Shanghai | On Site | Dec 22 |
 | **[Critical Techworks](https://www.criticaltechworks.com)** | **[Trailblazing Frontend Developer](https://jobr.pro/job/34813609/trailblazing-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Porto, Portugal | On Site | Dec 21 |
 | **[Crypto.com](https://crypto.com/)** | **[Mid/Sr Frontend Developer/Fullstack Developer - MainApp Web](https://jobr.pro/job/34802229/midsr-frontend-developerfullstack-developer-mainapp-web?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Shenzhen, China | On Site | Dec 21 |
@@ -47,7 +49,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 31 jobs | 16% remote | 29 companies | Avg salary: 231k  
+**Current Stats:** 33 jobs | 15% remote | 31 companies | Avg salary: 231k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
