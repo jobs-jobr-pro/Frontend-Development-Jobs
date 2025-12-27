@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Dec 26, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 27, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -34,19 +34,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Crypto.com](https://crypto.com/)** | **[Mid/Sr Frontend Developer/Fullstack Developer - MainApp Web](https://jobr.pro/job/34802229/midsr-frontend-developerfullstack-developer-mainapp-web?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Shenzhen, China | On Site | Dec 21 |
 | **[OMNI.PRO](https://omni.pro/)** | **[Bilingual Frontend Developer – UI Layout](https://jobr.pro/job/34779733/bilingual-frontend-developer-ui-layout?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Teletrabajo | Remote | Dec 20 |
 | **[ONIQ GmbH](https://oniq.com/)** | **[Lead Frontend Developer (f/m/d)](https://jobr.pro/job/34757485/lead-frontend-developer-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Cologne/Berlin/Hybrid | Remote | Dec 20 |
-| **[OMNI.PRO](https://omni.pro/)** | **[Frontend Developer – UI Layout](https://jobr.pro/job/34710754/frontend-developer-ui-layout?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Teletrabajo | Remote | Dec 19 |
-| **[Lylli](https://www.lylli.se/)** | **[Frontend Developer - 1 year parental leave cover](https://jobr.pro/job/34718480/frontend-developer-1-year-parental-leave-cover?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Stockholm | On Site | Dec 19 |
-| **[Caliberly](https://Caliberly.com)** | **[Senior Frontend Developer](https://jobr.pro/job/34762065/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Dubai, United Arab Emirates | On Site | Dec 19 |
-| **[Wandelbots GmbH](https://www.wandelbots.com)** | **[Frontend Developer (gn) Robotics](https://jobr.pro/job/34759499/frontend-developer-gn-robotics?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Dresden | On Site | Dec 19 |
-| **[Bankdata](https://www.bankdata.dk/)** | **[Senior Frontend Developer](https://jobr.pro/job/34687753/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Aarhus, Denmark | On Site | Dec 19 |
-| **[Shiji Group](https://www.shijigroup.com/)** | **[Junior Frontend Developer I Daylight](https://jobr.pro/job/34676491/junior-frontend-developer-i-daylight?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Katowice, Silesian Voivodeship, Poland | On Site | Dec 19 |
-| **[Veeam Software](https://www.veeam.com/)** | **[Experienced Frontend Developer](https://jobr.pro/job/34667225/experienced-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Pune, India | On Site | Dec 19 |
-| **[Global Blue](https://www.globalblue.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/34706154/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Hungary - Budapest | On Site | Dec 19 |
-| **[TeamSystem](https://www.teamsystem.com/)** | **[Junior Frontend Developer - React & Typescript](https://jobr.pro/job/34727889/junior-frontend-developer-react-typescript?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | MILANO VIALE A. DORIA, Italy | On Site | Dec 19 |
 
 ---
 
-**Current Stats:** 30 jobs | 17% remote | 29 companies | Avg salary: 231k  
+**Current Stats:** 21 jobs | 19% remote | 21 companies | Avg salary: 231k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
