@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Dec 27, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 28, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -33,12 +33,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Xsolla](https://xsolla.com)** | **[Middle/ Senior Frontend developer - React](https://jobr.pro/job/34850814/middle-senior-frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Shanghai | On Site | Dec 22 |
 | **[Critical Techworks](https://www.criticaltechworks.com)** | **[Trailblazing Frontend Developer](https://jobr.pro/job/34813609/trailblazing-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Porto, Portugal | On Site | Dec 21 |
 | **[Crypto.com](https://crypto.com/)** | **[Mid/Sr Frontend Developer/Fullstack Developer - MainApp Web](https://jobr.pro/job/34802229/midsr-frontend-developerfullstack-developer-mainapp-web?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Shenzhen, China | On Site | Dec 21 |
-| **[OMNI.PRO](https://omni.pro/)** | **[Bilingual Frontend Developer – UI Layout](https://jobr.pro/job/34779733/bilingual-frontend-developer-ui-layout?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Teletrabajo | Remote | Dec 20 |
-| **[ONIQ GmbH](https://oniq.com/)** | **[Lead Frontend Developer (f/m/d)](https://jobr.pro/job/34757485/lead-frontend-developer-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Cologne/Berlin/Hybrid | Remote | Dec 20 |
 
 ---
 
-**Current Stats:** 22 jobs | 18% remote | 22 companies | Avg salary: 231k  
+**Current Stats:** 20 jobs | 10% remote | 20 companies | Avg salary: 231k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
