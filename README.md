@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Dec 29, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Dec 29, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,7 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Lytegen](https://lytegen.com)** | **[Senior Backend & Frontend Developer (Node/React js)](https://jobr.pro/job/35067779/senior-backend-frontend-developer-nodereact-js?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Sahibzada Ajit Singh Nagar, Punjab, India | On Site | Dec 29 |
+| **[INNOCV Solutions](https://www.innocv.com)** | **[Frontend Developer (React, Angular, Vue)](https://jobr.pro/job/35074209/frontend-developer-react-angular-vue?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Roma, Italy | On Site | Dec 28 |
+| **[Caliberly](https://Caliberly.com)** | **[Frontend Developer](https://jobr.pro/job/35072911/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Dubai, United Arab Emirates | On Site | Dec 28 |
 | **[Unframe AI](https://www.unframe.ai/)** | **[Senior Frontend Developer](https://jobr.pro/job/35062041/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Dec 28 |
+| **[Brixio](https://brixio.io)** | **[Mid-Senior Frontend Developer - Hybrid](https://jobr.pro/job/35068331/mid-senior-frontend-developer-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Dubai, Dubai, United Arab Emirates - Remote | Remote | Dec 28 |
 | **[BlackStone eIT](https://www.blackstoneeit.com/)** | **[Senior Frontend Developer (Angluar)](https://jobr.pro/job/35066661/senior-frontend-developer-angluar?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India - Remote | Remote | Dec 28 |
 | **[Sporty Group](https://www.sportygroup.com/)** | **[CS Saas Frontend Developer](https://jobr.pro/job/35061284/cs-saas-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | GLOBAL REMOTE | Remote | Dec 28 |
 | **[Encora](https://www.encora.com/)** | **[Senior Frontend Developer (UX experience)](https://jobr.pro/job/35034100/senior-frontend-developer-ux-experience?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Brazil | On Site | Dec 26 |
@@ -36,7 +40,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 20 jobs | 15% remote | 20 companies | Avg salary: 231k  
+**Current Stats:** 24 jobs | 17% remote | 24 companies | Avg salary: 231k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
