@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Dec 29, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Dec 29, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,8 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
-| **[Lytegen](https://lytegen.com)** | **[Senior Backend & Frontend Developer (Node/React js)](https://jobr.pro/job/35067779/senior-backend-frontend-developer-nodereact-js?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Sahibzada Ajit Singh Nagar, Punjab, India | On Site | Dec 29 |
 | **[Broadridge](https://www.broadridge.com/)** | **[Frontend Developer](https://jobr.pro/job/35086479/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Hyderabad-Hi-Tec City, India | On Site | Dec 29 |
+| **[Lytegen](https://lytegen.com)** | **[Senior Backend & Frontend Developer (Node/React js)](https://jobr.pro/job/35067779/senior-backend-frontend-developer-nodereact-js?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Sahibzada Ajit Singh Nagar, Punjab, India | On Site | Dec 29 |
 | **[INNOCV Solutions](https://www.innocv.com)** | **[Frontend Developer (React, Angular, Vue)](https://jobr.pro/job/35074209/frontend-developer-react-angular-vue?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Roma, Italy | On Site | Dec 28 |
 | **[Caliberly](https://Caliberly.com)** | **[Frontend Developer](https://jobr.pro/job/35072911/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Dubai, United Arab Emirates | On Site | Dec 28 |
 | **[Unframe AI](https://www.unframe.ai/)** | **[Senior Frontend Developer](https://jobr.pro/job/35062041/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Dec 28 |
