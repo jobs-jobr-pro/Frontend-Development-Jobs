@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Dec 30, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Dec 30, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Gini Apps](https://www.gini-apps.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/35143323/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel-Aviv, Israel, IL | On Site | Dec 30 |
+| **[Bizagi](https://www.bizagi.com)** | **[Frontend Developer ANGULAR](https://jobr.pro/job/35141301/frontend-developer-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bogota, Colombia | Remote | Dec 30 |
+| **[Mindera](https://mindera.com/)** | **[Senior Frontend Developer - React.JS](https://jobr.pro/job/35132980/senior-frontend-developer-reactjs?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Chennai, Tamil Nadu, India | On Site | Dec 30 |
 | **[Bosch Group](https://www.bosch.com)** | **[Frontend Developer - Angular (f/m/div.)](https://jobr.pro/job/35115902/frontend-developer-angular-fmdiv?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Aveiro, Portugal | On Site | Dec 29 |
 | **[Broadridge](https://www.broadridge.com/)** | **[Frontend Developer](https://jobr.pro/job/35086479/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Hyderabad-Hi-Tec City, India | On Site | Dec 29 |
 | **[Lytegen](https://lytegen.com)** | **[Senior Backend & Frontend Developer (Node/React js)](https://jobr.pro/job/35067779/senior-backend-frontend-developer-nodereact-js?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Sahibzada Ajit Singh Nagar, Punjab, India | On Site | Dec 29 |
@@ -36,7 +39,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 20 jobs | 15% remote | 20 companies | Avg salary: 231k  
+**Current Stats:** 23 jobs | 17% remote | 23 companies | Avg salary: 231k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
