@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2025
 
-<sub><small>Last updated: Dec 31, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Dec 31, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Artlist](https://artlist.io/)** | **[Frontend Developer](https://jobr.pro/job/35201152/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 31 |
+| **[WSC Sports](https://wsc-sports.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/35201093/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Ramat-Gan, Tel Aviv District, IL | On Site | Dec 31 |
 | **[CI&T](https://ciandt.com/)** | **[\[Job-00025\] Senior Frontend Developer, Portugal](https://jobr.pro/job/35164649/job-00025-senior-frontend-developer-portugal?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Portugal | On Site | Dec 30 |
 | **[Gini Apps](https://www.gini-apps.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/35143323/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel-Aviv, Israel, IL | On Site | Dec 30 |
 | **[Kyivstar](https://kyivstar.ua/)** | **[Frontend Developer (React)](https://jobr.pro/job/35167818/frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | All | Remote | Dec 30 |
@@ -38,7 +40,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 22 jobs | 27% remote | 21 companies | Avg salary: Not specified  
+**Current Stats:** 24 jobs | 25% remote | 23 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
