@@ -1,9 +1,9 @@
 <!-- prettier-ignore-start -->
-# Frontend developer Jobs 2025
+# Frontend developer Jobs 2026
 
-<sub><small>Last updated: Dec 31, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 01, 2026 at 00:30 UTC</small></sub>
 
-This repository collects curated **Frontend developer opportunities in 2025**.  
+This repository collects curated **Frontend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
 
 Visit [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs) — **you choose the job, we handle the paperwork**.  
@@ -33,14 +33,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Encora](https://www.encora.com/)** | **[Senior Frontend Developer (UX experience)](https://jobr.pro/job/35034100/senior-frontend-developer-ux-experience?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Brazil | On Site | Dec 26 |
 | **[Baker Hughes](https://www.bakerhughes.com/)** | **[SAP Frontend Developer (SAP FIORI/UI5)](https://jobr.pro/job/35022528/sap-frontend-developer-sap-fioriui5?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | IN-MH-MUMBAI-HIRANANDANI BUSINESS PARK POWAI, India | On Site | Dec 26 |
 | **[Wix](https://www.wix.com/)** | **[Frontend Developer - Editor Platform](https://jobr.pro/job/35002056/frontend-developer-editor-platform?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Dec 25 |
-| **[Devoteam](https://www.devoteam.com/)** | **[Retail & E-Commerce \|Senior Frontend Developer](https://jobr.pro/job/34992463/retail-e-commerce-senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Porto, Porto, Portugal | On Site | Dec 24 |
-| **[CI&T](https://ciandt.com/)** | **[\[Job-00024\] Senior Frontend Developer, Brazil](https://jobr.pro/job/34988750/job-00024-senior-frontend-developer-brazil?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Brazil | On Site | Dec 24 |
-| **[DNV Imatis](https://dnvimatis.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/34957137/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Sandefjord, Norway | On Site | Dec 24 |
-| **[Chapa](https://chapa.co/)** | **[Frontend Developer (React)](https://jobr.pro/job/34996103/frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Addis Ababa, Addis Ababa, Ethiopia | On Site | Dec 24 |
 
 ---
 
-**Current Stats:** 24 jobs | 25% remote | 23 companies | Avg salary: Not specified  
+**Current Stats:** 20 jobs | 30% remote | 20 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
