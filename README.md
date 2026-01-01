@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2026
 
-<sub><small>Last updated: Jan 01, 2026 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Jan 01, 2026 at 12:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -15,6 +15,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | ------- | -------- | -------- | ---- | ------ |
 | **[Artlist](https://artlist.io/)** | **[Frontend Developer](https://jobr.pro/job/35201152/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 31 |
 | **[WSC Sports](https://wsc-sports.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/35201093/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Ramat-Gan, Tel Aviv District, IL | On Site | Dec 31 |
+| **[Huawei Telekomünikasyon Dış Ticaret Ltd](https://www.huawei.com/)** | **[Frontend Developer](https://jobr.pro/job/35232369/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | İstanbul, İstanbul, Turkey | On Site | Dec 31 |
 | **[Sporty Group](https://www.sportygroup.com/)** | **[CS Saas Frontend Developer](https://jobr.pro/job/35217824/cs-saas-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | GLOBAL REMOTE | Remote | Dec 31 |
 | **[CI&T](https://ciandt.com/)** | **[\[Job-00025\] Senior Frontend Developer, Portugal](https://jobr.pro/job/35164649/job-00025-senior-frontend-developer-portugal?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Portugal | On Site | Dec 30 |
 | **[Gini Apps](https://www.gini-apps.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/35143323/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel-Aviv, Israel, IL | On Site | Dec 30 |
@@ -36,7 +37,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 20 jobs | 30% remote | 20 companies | Avg salary: Not specified  
+**Current Stats:** 21 jobs | 29% remote | 21 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
