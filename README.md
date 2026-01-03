@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2026
 
-<sub><small>Last updated: Jan 02, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 03, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -31,12 +31,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Unframe AI](https://www.unframe.ai/)** | **[Senior Frontend Developer](https://jobr.pro/job/35062041/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Dec 28 |
 | **[Brixio](https://brixio.io)** | **[Mid-Senior Frontend Developer - Hybrid](https://jobr.pro/job/35068331/mid-senior-frontend-developer-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Dubai, Dubai, United Arab Emirates - Remote | Remote | Dec 28 |
 | **[BlackStone eIT](https://www.blackstoneeit.com/)** | **[Senior Frontend Developer (Angluar)](https://jobr.pro/job/35066661/senior-frontend-developer-angluar?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India - Remote | Remote | Dec 28 |
-| **[Encora](https://www.encora.com/)** | **[Senior Frontend Developer (UX experience)](https://jobr.pro/job/35034100/senior-frontend-developer-ux-experience?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Brazil | On Site | Dec 26 |
-| **[Baker Hughes](https://www.bakerhughes.com/)** | **[SAP Frontend Developer (SAP FIORI/UI5)](https://jobr.pro/job/35022528/sap-frontend-developer-sap-fioriui5?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | IN-MH-MUMBAI-HIRANANDANI BUSINESS PARK POWAI, India | On Site | Dec 26 |
 
 ---
 
-**Current Stats:** 20 jobs | 30% remote | 20 companies | Avg salary: Not specified  
+**Current Stats:** 18 jobs | 33% remote | 18 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
