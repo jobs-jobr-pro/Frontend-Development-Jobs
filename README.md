@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2026
 
-<sub><small>Last updated: Jan 04, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 05, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -34,15 +34,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Bosch Group](https://www.bosch.com)** | **[Frontend Developer - Angular (f/m/div.)](https://jobr.pro/job/35115902/frontend-developer-angular-fmdiv?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Aveiro, Portugal | On Site | Dec 29 |
 | **[Broadridge](https://www.broadridge.com/)** | **[Frontend Developer](https://jobr.pro/job/35086479/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Hyderabad-Hi-Tec City, India | On Site | Dec 29 |
 | **[Lytegen](https://lytegen.com)** | **[Senior Backend & Frontend Developer (Node/React js)](https://jobr.pro/job/35067779/senior-backend-frontend-developer-nodereact-js?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Sahibzada Ajit Singh Nagar, Punjab, India | On Site | Dec 29 |
-| **[INNOCV Solutions](https://www.innocv.com)** | **[Frontend Developer (React, Angular, Vue)](https://jobr.pro/job/35074209/frontend-developer-react-angular-vue?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Roma, Italy | On Site | Dec 28 |
-| **[Caliberly](https://Caliberly.com)** | **[Frontend Developer](https://jobr.pro/job/35072911/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Dubai, United Arab Emirates | On Site | Dec 28 |
-| **[Unframe AI](https://www.unframe.ai/)** | **[Senior Frontend Developer](https://jobr.pro/job/35062041/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Dec 28 |
-| **[Brixio](https://brixio.io)** | **[Mid-Senior Frontend Developer - Hybrid](https://jobr.pro/job/35068331/mid-senior-frontend-developer-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Dubai, Dubai, United Arab Emirates - Remote | Remote | Dec 28 |
-| **[BlackStone eIT](https://www.blackstoneeit.com/)** | **[Senior Frontend Developer (Angluar)](https://jobr.pro/job/35066661/senior-frontend-developer-angluar?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India - Remote | Remote | Dec 28 |
 
 ---
 
-**Current Stats:** 26 jobs | 35% remote | 25 companies | Avg salary: 60k  
+**Current Stats:** 21 jobs | 33% remote | 20 companies | Avg salary: 60k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
