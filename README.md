@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2026
 
-<sub><small>Last updated: Jan 06, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 07, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Axians Portugal](https://www.axians.pt/)** | **[SAP Frontend Developer](https://jobr.pro/job/35437160/sap-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lisboa, Lisbon | On Site | Jan 06 |
+| **[Weekday](https://www.weekday.works)** | **[Frontend Developer (React.js)](https://jobr.pro/job/35420282/frontend-developer-reactjs?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Gurugram, Haryana, India | On Site | Jan 06 |
 | **[Sky](https://jobs.sky.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/35351855/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | LISBON, Portugal | On Site | Jan 05 |
 | **[Weekday](https://www.weekday.works)** | **[Frontend Developer (Nuxt3 and Vue3)](https://jobr.pro/job/35340478/frontend-developer-nuxt3-and-vue3?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Gurugram, Haryana, India | On Site | Jan 05 |
 | **[Lytegen](https://lytegen.com)** | **[Senior Backend & Frontend Developer (Node/React js)](https://jobr.pro/job/35328531/senior-backend-frontend-developer-nodereact-js?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Chandigarh, Chandigarh, India | On Site | Jan 05 |
@@ -28,16 +30,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[WSC Sports](https://wsc-sports.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/35201093/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Ramat-Gan, Tel Aviv District, IL | On Site | Dec 31 |
 | **[Huawei Telekomünikasyon Dış Ticaret Ltd](https://www.huawei.com/)** | **[Frontend Developer](https://jobr.pro/job/35232369/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | İstanbul, İstanbul, Turkey | On Site | Dec 31 |
 | **[Sporty Group](https://www.sportygroup.com/)** | **[CS Saas Frontend Developer](https://jobr.pro/job/35217824/cs-saas-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | GLOBAL REMOTE | Remote | Dec 31 |
-| **[CI&T](https://ciandt.com/)** | **[\[Job-00025\] Senior Frontend Developer, Portugal](https://jobr.pro/job/35164649/job-00025-senior-frontend-developer-portugal?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Portugal | On Site | Dec 30 |
-| **[Gini Apps](https://www.gini-apps.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/35143323/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel-Aviv, Israel, IL | On Site | Dec 30 |
-| **[Kyivstar](https://kyivstar.ua/)** | **[Frontend Developer (React)](https://jobr.pro/job/35167818/frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | All | Remote | Dec 30 |
-| **[Commutatus](https://commutatus.com)** | **[Frontend Developer](https://jobr.pro/job/35164698/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bangalore, IN | Remote | Dec 30 |
-| **[Bizagi](https://www.bizagi.com)** | **[Frontend Developer ANGULAR](https://jobr.pro/job/35141301/frontend-developer-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bogota, Colombia | Remote | Dec 30 |
-| **[Mindera](https://mindera.com/)** | **[Senior Frontend Developer - React.JS](https://jobr.pro/job/35132980/senior-frontend-developer-reactjs?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Chennai, Tamil Nadu, India | On Site | Dec 30 |
 
 ---
 
-**Current Stats:** 21 jobs | 33% remote | 20 companies | Avg salary: 60k  
+**Current Stats:** 17 jobs | 24% remote | 15 companies | Avg salary: 60k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
