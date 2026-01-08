@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2026
 
-<sub><small>Last updated: Jan 07, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 08, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -26,14 +26,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[PradeepIT](https://pradeepit.com/)** | **[Frontend Developer](https://jobr.pro/job/35292311/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bengaluru, KA, India | Remote | Jan 02 |
 | **[BillingPlatform](https://billingplatform.com/)** | **[Frontend Developer](https://jobr.pro/job/35292276/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Serbia - Remote | Remote | Jan 02 |
 | **[Emergn](https://www.emergn.com/)** | **[Frontend Developer - Typescript](https://jobr.pro/job/35284813/frontend-developer-typescript?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Latvia - Riga | Remote | Jan 02 |
-| **[Artlist](https://artlist.io/)** | **[Frontend Developer](https://jobr.pro/job/35201152/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 31 |
-| **[WSC Sports](https://wsc-sports.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/35201093/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Ramat-Gan, Tel Aviv District, IL | On Site | Dec 31 |
-| **[Huawei Telekomünikasyon Dış Ticaret Ltd](https://www.huawei.com/)** | **[Frontend Developer](https://jobr.pro/job/35232369/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | İstanbul, İstanbul, Turkey | On Site | Dec 31 |
-| **[Sporty Group](https://www.sportygroup.com/)** | **[CS Saas Frontend Developer](https://jobr.pro/job/35217824/cs-saas-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | GLOBAL REMOTE | Remote | Dec 31 |
 
 ---
 
-**Current Stats:** 17 jobs | 24% remote | 15 companies | Avg salary: 60k  
+**Current Stats:** 13 jobs | 23% remote | 11 companies | Avg salary: 60k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
