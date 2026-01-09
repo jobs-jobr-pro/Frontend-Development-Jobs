@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2026
 
-<sub><small>Last updated: Jan 09, 2026 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Jan 09, 2026 at 12:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Photon](https://www.photon.com/)** | **[Frontend Developer (Vue.js) \| Offshore](https://jobr.pro/job/35698142/frontend-developer-vuejs-offshore?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India | On Site | Jan 09 |
+| **[Novicell](https://www.novicell.com/)** | **[Frontend Developer - Copenhagen](https://jobr.pro/job/35699989/frontend-developer-copenhagen?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | København, Denmark | On Site | Jan 09 |
+| **[Bertelsmann](https://www.bertelsmann.com/)** | **[React Frontend Developer](https://jobr.pro/job/35667810/react-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Kuala Lumpur, 01, MY, 50400 | On Site | Jan 09 |
+| **[MealSuite](https://www.mealsuite.com/)** | **[Frontend developer](https://jobr.pro/job/35686249/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Ho Chi Minh City, Ho Chi Minh City, Vietnam | On Site | Jan 09 |
 | **[Axians Portugal](https://www.axians.pt/)** | **[SAP Frontend Developer](https://jobr.pro/job/35437160/sap-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lisboa, Lisbon | On Site | Jan 06 |
 | **[Weekday](https://www.weekday.works)** | **[Frontend Developer (React.js)](https://jobr.pro/job/35420282/frontend-developer-reactjs?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Gurugram, Haryana, India | On Site | Jan 06 |
 | **[Sky](https://jobs.sky.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/35351855/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | LISBON, Portugal | On Site | Jan 05 |
@@ -29,7 +33,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 13 jobs | 23% remote | 11 companies | Avg salary: 60k  
+**Current Stats:** 17 jobs | 18% remote | 15 companies | Avg salary: 60k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
