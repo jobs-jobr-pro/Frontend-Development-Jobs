@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2026
 
-<sub><small>Last updated: Jan 09, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 10, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -22,18 +22,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Sky](https://jobs.sky.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/35351855/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | LISBON, Portugal | On Site | Jan 05 |
 | **[Weekday](https://www.weekday.works)** | **[Frontend Developer (Nuxt3 and Vue3)](https://jobr.pro/job/35340478/frontend-developer-nuxt3-and-vue3?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Gurugram, Haryana, India | On Site | Jan 05 |
 | **[Lytegen](https://lytegen.com)** | **[Senior Backend & Frontend Developer (Node/React js)](https://jobr.pro/job/35328531/senior-backend-frontend-developer-nodereact-js?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Chandigarh, Chandigarh, India | On Site | Jan 05 |
-| **[Encora](https://www.encora.com/)** | **[Frontend Developer Mid](https://jobr.pro/job/35281242/frontend-developer-mid?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Peru | On Site | Jan 02 |
-| **[DDB España](https://www.ddb.es/)** | **[React Frontend Developer (UI & Maquetación)](https://jobr.pro/job/35273785/react-frontend-developer-ui-maquetacion?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Barcelona | On Site | Jan 02 |
-| **[Encora](https://www.encora.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/35281264/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Peru | On Site | Jan 02 |
-| **[Cognyte](https://www.cognyte.com/)** | **[Frontend Developer](https://jobr.pro/job/35300123/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Florianopolis, SC, BR | On Site | Jan 02 |
-| **[Virtusa](https://www.virtusa.com/)** | **[Frontend Developer](https://jobr.pro/job/35259440/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | IN-KA-Bangalore | On Site | Jan 02 |
-| **[PradeepIT](https://pradeepit.com/)** | **[Frontend Developer](https://jobr.pro/job/35292311/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bengaluru, KA, India | Remote | Jan 02 |
-| **[BillingPlatform](https://billingplatform.com/)** | **[Frontend Developer](https://jobr.pro/job/35292276/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Serbia - Remote | Remote | Jan 02 |
-| **[Emergn](https://www.emergn.com/)** | **[Frontend Developer - Typescript](https://jobr.pro/job/35284813/frontend-developer-typescript?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Latvia - Riga | Remote | Jan 02 |
 
 ---
 
-**Current Stats:** 17 jobs | 18% remote | 15 companies | Avg salary: 60k  
+**Current Stats:** 9 jobs | 0% remote | 8 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
