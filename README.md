@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2026
 
-<sub><small>Last updated: Jan 12, 2026 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Jan 12, 2026 at 12:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Sporty Group](https://www.sportygroup.com/)** | **[CS Saas Frontend Developer](https://jobr.pro/job/35816846/cs-saas-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | GLOBAL REMOTE | Remote | Jan 11 |
+| **[Veeam Software](https://www.veeam.com/)** | **[Experienced Frontend Developer](https://jobr.pro/job/35818305/experienced-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bangalore, India | On Site | Jan 10 |
 | **[Photon](https://www.photon.com/)** | **[Frontend Developer (Vue.js) \| Offshore](https://jobr.pro/job/35698142/frontend-developer-vuejs-offshore?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India | On Site | Jan 09 |
 | **[Novicell](https://www.novicell.com/)** | **[Frontend Developer - Copenhagen](https://jobr.pro/job/35699989/frontend-developer-copenhagen?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | København, Denmark | On Site | Jan 09 |
 | **[Bertelsmann](https://www.bertelsmann.com/)** | **[React Frontend Developer](https://jobr.pro/job/35667810/react-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Kuala Lumpur, 01, MY, 50400 | On Site | Jan 09 |
@@ -25,7 +27,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 9 jobs | 0% remote | 8 companies | Avg salary: Not specified  
+**Current Stats:** 11 jobs | 9% remote | 10 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
