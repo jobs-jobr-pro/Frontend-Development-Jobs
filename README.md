@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2026
 
-<sub><small>Last updated: Jan 17, 2026 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Jan 17, 2026 at 12:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Radius Limited](https://www.radius.com/)** | **[Frontend Developer - Angular](https://jobr.pro/job/36249870/frontend-developer-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Crewe, England, United Kingdom | On Site | Jan 16 |
 | **[Ipsos](https://www.ipsos.com/)** | **[IT Senior Frontend Developer](https://jobr.pro/job/36186300/it-senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | BRASOV, Romania | On Site | Jan 16 |
 | **[Next Level Coffee GmbH](https://nunc.coffee/)** | **[Frontend Developer - Flutter (m/f/d)](https://jobr.pro/job/36176554/frontend-developer-flutter-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote, Konstanz | Remote | Jan 16 |
 | **[Birlasoft](https://www.birlasoft.com)** | **[Frontend Developer - Technical Specialist-App Development](https://jobr.pro/job/36159526/frontend-developer-technical-specialist-app-development?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | INDIA - BENGALURU - AUTOMOTIVE, IN | On Site | Jan 16 |
@@ -37,7 +38,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 21 jobs | 24% remote | 19 companies | Avg salary: Not specified  
+**Current Stats:** 22 jobs | 23% remote | 20 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
