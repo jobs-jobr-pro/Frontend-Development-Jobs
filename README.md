@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2026
 
-<sub><small>Last updated: Jan 19, 2026 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Jan 19, 2026 at 12:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Wix](https://www.wix.com/)** | **[Frontend Developer - Editor Platform](https://jobr.pro/job/36301399/frontend-developer-editor-platform?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Jan 18 |
+| **[Wix](https://www.wix.com/)** | **[Frontend Developer - Components](https://jobr.pro/job/36301400/frontend-developer-components?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Jan 18 |
 | **[Xapads Media](https://www.xapads.com/)** | **[Frontend Developer - React Js.](https://jobr.pro/job/36271459/frontend-developer-react-js?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Noida, India | On Site | Jan 17 |
 | **[Radius Limited](https://www.radius.com/)** | **[Frontend Developer - Angular](https://jobr.pro/job/36249870/frontend-developer-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Crewe, England, United Kingdom | On Site | Jan 16 |
 | **[Ipsos](https://www.ipsos.com/)** | **[IT Senior Frontend Developer](https://jobr.pro/job/36186300/it-senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | BRASOV, Romania | On Site | Jan 16 |
@@ -35,7 +37,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 19 jobs | 21% remote | 18 companies | Avg salary: Not specified  
+**Current Stats:** 21 jobs | 19% remote | 19 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
