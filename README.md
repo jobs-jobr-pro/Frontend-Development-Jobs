@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2026
 
-<sub><small>Last updated: Jan 18, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 19, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -32,13 +32,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[The Software Practice Pte Ltd](https://thesoftwarepractice.com/)** | **[Frontend Developer](https://jobr.pro/job/35845822/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | West Java, Bandung, Indonesia | On Site | Jan 12 |
 | **[Palta](https://palta.com/)** | **[Frontend Developer](https://jobr.pro/job/35836067/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote, Poland | Remote | Jan 12 |
 | **[SmarTek21](https://smartek21.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/35862405/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Gauteng | On Site | Jan 12 |
-| **[DriveNets](https://www.drivenets.com/)** | **[Senior Frontend Developer, Cybersecurity](https://jobr.pro/job/35847470/senior-frontend-developer-cybersecurity?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv, Israel, IL | On Site | Jan 11 |
-| **[Evolution](https://www.evolution.com)** | **[Frontend Developer with focus on UX/UI -Nolimit City](https://jobr.pro/job/35838151/frontend-developer-with-focus-on-uxui-nolimit-city?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Stockholm, Stockholm County, Sweden | On Site | Jan 11 |
-| **[Sporty Group](https://www.sportygroup.com/)** | **[CS Saas Frontend Developer](https://jobr.pro/job/35816846/cs-saas-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | GLOBAL REMOTE | Remote | Jan 11 |
 
 ---
 
-**Current Stats:** 22 jobs | 23% remote | 21 companies | Avg salary: Not specified  
+**Current Stats:** 19 jobs | 21% remote | 18 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
