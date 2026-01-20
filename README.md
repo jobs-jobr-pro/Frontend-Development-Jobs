@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2026
 
-<sub><small>Last updated: Jan 20, 2026 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Jan 20, 2026 at 08:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Stutzen](https://www.stutzen.co/)** | **[Frontend Developer](https://jobr.pro/job/36319262/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Sivakasi, India | On Site | Jan 19 |
+| **[EXL](https://www.exlservice.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/36316929/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India | On Site | Jan 19 |
+| **[Bosch Group](https://www.bosch.com)** | **[Angular Frontend Developer - Industrial Automation focus (f/m/div.)](https://jobr.pro/job/36317152/angular-frontend-developer-industrial-automation-focus-fmdiv?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Ovar, Portugal | On Site | Jan 19 |
+| **[SOFTSWISS](https://www.softswiss.com/)** | **[Frontend Developer (React) - Senior](https://jobr.pro/job/36310726/frontend-developer-react-senior?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Warszawa, Poland | On Site | Jan 19 |
+| **[Hitachi Digital Services](https://hitachids.com)** | **[Mid/ Senior Frontend Developer (Angular JS)](https://jobr.pro/job/36350998/mid-senior-frontend-developer-angular-js?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Ho Chi Minh, Viet Nam | On Site | Jan 19 |
+| **[Prenomics](https://prenomics.com)** | **[Junior Frontend Developer](https://jobr.pro/job/36310162/junior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Barcelona, Spain | On Site | Jan 19 |
+| **[Seven Peaks](https://sevenpeakssoftware.com/)** | **[Senior Frontend Developer - Angular (Contractor)](https://jobr.pro/job/36321591/senior-frontend-developer-angular-contractor?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bangkok, Thailand | On Site | Jan 19 |
+| **[MealSuite](https://www.mealsuite.com/)** | **[Frontend developer](https://jobr.pro/job/36313774/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Ho Chi Minh City, Ho Chi Minh City, Vietnam | On Site | Jan 19 |
 | **[Wix](https://www.wix.com/)** | **[Frontend Developer - Editor Platform](https://jobr.pro/job/36301399/frontend-developer-editor-platform?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Jan 18 |
 | **[Wix](https://www.wix.com/)** | **[Frontend Developer - Components](https://jobr.pro/job/36301400/frontend-developer-components?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Jan 18 |
 | **[Xapads Media](https://www.xapads.com/)** | **[Frontend Developer - React Js.](https://jobr.pro/job/36271459/frontend-developer-react-js?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Noida, India | On Site | Jan 17 |
@@ -34,7 +42,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 18 jobs | 17% remote | 16 companies | Avg salary: Not specified  
+**Current Stats:** 26 jobs | 12% remote | 24 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
