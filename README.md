@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2026
 
-<sub><small>Last updated: Jan 21, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 22, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -35,12 +35,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Veeam Software](https://www.veeam.com/)** | **[Frontend Developer](https://jobr.pro/job/36149411/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote, Poland | Remote | Jan 15 |
 | **[Eeze](https://eeze.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/36184231/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | London, United Kingdom | On Site | Jan 15 |
 | **[Insider One](https://insiderone.com)** | **[Frontend Developer - Vue.js (Mid - Senior)](https://jobr.pro/job/36153374/frontend-developer-vuejs-mid-senior?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Istanbul, Turkiye | Remote | Jan 15 |
-| **[Empower](https://www.empower.com/)** | **[Senior Frontend Developer - ReactJS](https://jobr.pro/job/36007980/senior-frontend-developer-reactjs?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | KA Bangalore, India | On Site | Jan 14 |
-| **[Wolters Kluwer](https://www.wolterskluwer.com/)** | **[Senior Frontend Developer (Angular)](https://jobr.pro/job/36035559/senior-frontend-developer-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | PRT - Porto, Portugal | On Site | Jan 14 |
 
 ---
 
-**Current Stats:** 24 jobs | 13% remote | 23 companies | Avg salary: Not specified  
+**Current Stats:** 22 jobs | 14% remote | 21 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
