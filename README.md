@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2026
 
-<sub><small>Last updated: Jan 22, 2026 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Jan 22, 2026 at 20:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Grundfos](https://www.grundfos.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/36534120/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bjerringbro, 82, DK, 8850 | On Site | Jan 22 |
+| **[Coursera](https://www.coursera.org/)** | **[Senior Frontend Developer](https://jobr.pro/job/36519981/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Canada | On Site | Jan 22 |
+| **[Mindera](https://mindera.com/)** | **[Senior React Frontend Developer](https://jobr.pro/job/36544512/senior-react-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Casablanca, Casablanca-Settat, Morocco - Remote | Remote | Jan 22 |
 | **[SGS](https://sgs.com)** | **[Frontend Developer](https://jobr.pro/job/36422790/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Muntinlupa, NCR, Philippines | On Site | Jan 20 |
 | **[Finubit](https://finubit.com/)** | **[Frontend Developer](https://jobr.pro/job/36389579/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Jan 20 |
 | **[Stutzen](https://www.stutzen.co/)** | **[Frontend Developer](https://jobr.pro/job/36319262/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Sivakasi, India | On Site | Jan 19 |
@@ -38,7 +41,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 22 jobs | 14% remote | 21 companies | Avg salary: Not specified  
+**Current Stats:** 25 jobs | 16% remote | 24 companies | Avg salary: 168k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
