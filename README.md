@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2026
 
-<sub><small>Last updated: Jan 23, 2026 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Jan 23, 2026 at 16:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Virtusa](https://www.virtusa.com/)** | **[Frontend Developer](https://jobr.pro/job/36639738/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | QA-DA-Doha | On Site | Jan 23 |
+| **[Tezza Business Solutions](https://tezzasolutions.com/)** | **[Frontend Developer (React)](https://jobr.pro/job/36655443/frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Nairobi, Nairobi | On Site | Jan 23 |
+| **[AND Digital](https://and.digital/)** | **[Frontend Developer (React) 6 Month Contract - Amsterdam](https://jobr.pro/job/36635316/frontend-developer-react-6-month-contract-amsterdam?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Amsterdam, North Holland, Netherlands | On Site | Jan 23 |
+| **[Coinbase](https://www.coinbase.com/)** | **[Senior Software Engineer, Frontend - Developer Experience](https://jobr.pro/job/36599897/senior-software-engineer-frontend-developer-experience?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote - USA | Remote | Jan 22 |
+| **[Perion](https://www.perion.com/)** | **[Frontend Developer](https://jobr.pro/job/36607944/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | CAN-Montreal; Canada | On Site | Jan 22 |
 | **[Grundfos](https://www.grundfos.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/36534120/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bjerringbro, 82, DK, 8850 | On Site | Jan 22 |
 | **[Coursera](https://www.coursera.org/)** | **[Senior Frontend Developer](https://jobr.pro/job/36519981/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Canada | On Site | Jan 22 |
 | **[Mindera](https://mindera.com/)** | **[Senior React Frontend Developer](https://jobr.pro/job/36544512/senior-react-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Casablanca, Casablanca-Settat, Morocco - Remote | Remote | Jan 22 |
@@ -38,7 +43,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 22 jobs | 9% remote | 21 companies | Avg salary: 168k  
+**Current Stats:** 27 jobs | 11% remote | 26 companies | Avg salary: 190k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
