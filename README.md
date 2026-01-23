@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2026
 
-<sub><small>Last updated: Jan 22, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 23, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -35,13 +35,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Ipsos](https://www.ipsos.com/)** | **[IT Senior Frontend Developer](https://jobr.pro/job/36186300/it-senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | BRASOV, Romania | On Site | Jan 16 |
 | **[Next Level Coffee GmbH](https://nunc.coffee/)** | **[Frontend Developer - Flutter (m/f/d)](https://jobr.pro/job/36176554/frontend-developer-flutter-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote, Konstanz | Remote | Jan 16 |
 | **[Birlasoft](https://www.birlasoft.com)** | **[Frontend Developer - Technical Specialist-App Development](https://jobr.pro/job/36159525/frontend-developer-technical-specialist-app-development?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | INDIA - BENGALURU - AUTOMOTIVE, IN | On Site | Jan 16 |
-| **[Veeam Software](https://www.veeam.com/)** | **[Frontend Developer](https://jobr.pro/job/36149411/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote, Poland | Remote | Jan 15 |
-| **[Eeze](https://eeze.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/36184231/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | London, United Kingdom | On Site | Jan 15 |
-| **[Insider One](https://insiderone.com)** | **[Frontend Developer - Vue.js (Mid - Senior)](https://jobr.pro/job/36153374/frontend-developer-vuejs-mid-senior?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Istanbul, Turkiye | Remote | Jan 15 |
 
 ---
 
-**Current Stats:** 25 jobs | 16% remote | 24 companies | Avg salary: 168k  
+**Current Stats:** 22 jobs | 9% remote | 21 companies | Avg salary: 168k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
