@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2026
 
-<sub><small>Last updated: Jan 26, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 27, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -27,20 +27,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Mindera](https://mindera.com/)** | **[Senior React Frontend Developer](https://jobr.pro/job/36544512/senior-react-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Casablanca, Casablanca-Settat, Morocco - Remote | Remote | Jan 22 |
 | **[SGS](https://sgs.com)** | **[Frontend Developer](https://jobr.pro/job/36422790/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Muntinlupa, NCR, Philippines | On Site | Jan 20 |
 | **[Finubit](https://finubit.com/)** | **[Frontend Developer](https://jobr.pro/job/36389579/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Jan 20 |
-| **[Stutzen](https://www.stutzen.co/)** | **[Frontend Developer](https://jobr.pro/job/36319262/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Sivakasi, India | On Site | Jan 19 |
-| **[EXL](https://www.exlservice.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/36316929/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India | On Site | Jan 19 |
-| **[Incluso](https://www.incluso.se)** | **[Frontend Developer](https://jobr.pro/job/36374959/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Stockholm, Sweden | On Site | Jan 19 |
-| **[Bosch Group](https://www.bosch.com)** | **[Angular Frontend Developer - Industrial Automation focus (f/m/div.)](https://jobr.pro/job/36317152/angular-frontend-developer-industrial-automation-focus-fmdiv?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Ovar, Portugal | On Site | Jan 19 |
-| **[Wipfli](https://www.wipfli.com)** | **[Engineer II - Frontend Developer](https://jobr.pro/job/36370227/engineer-ii-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bengaluru, India | On Site | Jan 19 |
-| **[SOFTSWISS](https://www.softswiss.com/)** | **[Frontend Developer (React) - Senior](https://jobr.pro/job/36310726/frontend-developer-react-senior?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Warszawa, Poland | On Site | Jan 19 |
-| **[Hitachi Digital Services](https://hitachids.com)** | **[Mid/ Senior Frontend Developer (Angular JS)](https://jobr.pro/job/36350998/mid-senior-frontend-developer-angular-js?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Ho Chi Minh, Viet Nam | On Site | Jan 19 |
-| **[Prenomics](https://prenomics.com)** | **[Junior Frontend Developer](https://jobr.pro/job/36310162/junior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Barcelona, Spain | On Site | Jan 19 |
-| **[Seven Peaks](https://sevenpeakssoftware.com/)** | **[Senior Frontend Developer - Angular (Contractor)](https://jobr.pro/job/36321591/senior-frontend-developer-angular-contractor?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bangkok, Thailand | On Site | Jan 19 |
-| **[MealSuite](https://www.mealsuite.com/)** | **[Frontend developer](https://jobr.pro/job/36313774/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Ho Chi Minh City, Ho Chi Minh City, Vietnam | On Site | Jan 19 |
 
 ---
 
-**Current Stats:** 24 jobs | 8% remote | 24 companies | Avg salary: 190k  
+**Current Stats:** 14 jobs | 14% remote | 14 companies | Avg salary: 190k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
