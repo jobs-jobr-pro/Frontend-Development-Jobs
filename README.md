@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2026
 
-<sub><small>Last updated: Jan 28, 2026 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Jan 28, 2026 at 20:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -14,8 +14,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[KBC Global Services](https://www.kbc.com/)** | **[Frontend Developer (АЕМ) Junior & Senior](https://jobr.pro/job/36784921/frontend-developer-junior-senior?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Varna, BG | On Site | Jan 27 |
-| **[Axis Communications](https://www.axis.com/)** | **[Senior Frontend Developer, Lund](https://jobr.pro/job/36770919/senior-frontend-developer-lund?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Sweden - Lund | On Site | Jan 26 |
 | **[AIA](https://www.aia.com/)** | **[Manager, Frontend Developer](https://jobr.pro/job/36767562/manager-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | AIA ED (Shanghai) Hongkou, China | On Site | Jan 26 |
+| **[Axis Communications](https://www.axis.com/)** | **[Senior Frontend Developer, Lund](https://jobr.pro/job/36770919/senior-frontend-developer-lund?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Sweden - Lund | On Site | Jan 26 |
 | **[Clustox](https://clustox.com/)** | **[Frontend Developer- Angular](https://jobr.pro/job/36755523/frontend-developer-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lahore, Pakistan | On Site | Jan 25 |
 | **[Optimiza](https://optimiza.me/)** | **[Senior Frontend Developer](https://jobr.pro/job/36751981/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Amman, Amman Governorate, Jordan | On Site | Jan 25 |
 | **[Virtusa](https://www.virtusa.com/)** | **[Frontend Developer](https://jobr.pro/job/36639738/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | QA-DA-Doha | On Site | Jan 23 |
