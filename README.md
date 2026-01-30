@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2026
 
-<sub><small>Last updated: Jan 30, 2026 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Jan 30, 2026 at 12:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[DataCrunch](https://datacrunch.io/)** | **[Senior Frontend Developer (Marketing Website)](https://jobr.pro/job/37068303/senior-frontend-developer-marketing-website?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Maria01 (Helsinki) | On Site | Jan 30 |
+| **[Expleo](https://expleo.com/)** | **[Stellenausschreibung – Frontend Developer / BizDevOps Engineer](https://jobr.pro/job/37074228/stellenausschreibung-frontend-developer-bizdevops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bern, BE, Switzerland | On Site | Jan 30 |
+| **[Babel](https://babelgroup.com/)** | **[Frontend Developer](https://jobr.pro/job/37082266/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | LISBOA, Portugal | On Site | Jan 30 |
 | **[Coinbase](https://www.coinbase.com/)** | **[Senior Software Engineer, Frontend - Developer Experience](https://jobr.pro/job/37047793/senior-software-engineer-frontend-developer-experience?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote - USA | Remote | Jan 29 |
 | **[Coinbase](https://www.coinbase.com/)** | **[Senior Software Engineer, Frontend - Developer Experience (Mobile)](https://jobr.pro/job/37047794/senior-software-engineer-frontend-developer-experience-mobile?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote - USA | Remote | Jan 29 |
 | **[HUB Security](https://hubsecurity.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/37016246/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Jan 29 |
@@ -32,7 +35,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 16 jobs | 19% remote | 15 companies | Avg salary: 219k  
+**Current Stats:** 19 jobs | 16% remote | 18 companies | Avg salary: 219k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
