@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2026
 
-<sub><small>Last updated: Jan 30, 2026 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Jan 30, 2026 at 08:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Coinbase](https://www.coinbase.com/)** | **[Senior Software Engineer, Frontend - Developer Experience](https://jobr.pro/job/37047793/senior-software-engineer-frontend-developer-experience?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote - USA | Remote | Jan 29 |
+| **[Coinbase](https://www.coinbase.com/)** | **[Senior Software Engineer, Frontend - Developer Experience (Mobile)](https://jobr.pro/job/37047794/senior-software-engineer-frontend-developer-experience-mobile?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote - USA | Remote | Jan 29 |
 | **[HUB Security](https://hubsecurity.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/37016246/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Jan 29 |
 | **[VAST Data](https://www.vastdata.com/)** | **[Frontend Developer (UI/UX)](https://jobr.pro/job/37015203/frontend-developer-uiux?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Reykjavík, Reykjavíkurborg, IS | On Site | Jan 29 |
 | **[Accso](https://accso.de)** | **[Senior Frontend Developer Angular, Vue.js, React*](https://jobr.pro/job/37009730/senior-frontend-developer-angular-vuejs-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Frankfurt, Germany | On Site | Jan 29 |
@@ -30,7 +32,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 14 jobs | 7% remote | 14 companies | Avg salary: Not specified  
+**Current Stats:** 16 jobs | 19% remote | 15 companies | Avg salary: 219k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
