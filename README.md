@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2026
 
-<sub><small>Last updated: Jan 30, 2026 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Jan 30, 2026 at 16:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[ServiceNow](https://www.servicenow.com)** | **[Staff Software Engineer - Frontend Developer](https://jobr.pro/job/37086483/staff-software-engineer-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bangalore, Karnataka, India | On Site | Jan 30 |
+| **[ServiceNow](https://www.servicenow.com)** | **[Senior Software Engineer - Frontend Developer](https://jobr.pro/job/37086485/senior-software-engineer-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bangalore, Karnataka, India | On Site | Jan 30 |
+| **[Kitron](https://www.kitron.com/)** | **[Trainee - Frontend Developer](https://jobr.pro/job/37083526/trainee-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Chennai, India | On Site | Jan 30 |
 | **[DataCrunch](https://datacrunch.io/)** | **[Senior Frontend Developer (Marketing Website)](https://jobr.pro/job/37068303/senior-frontend-developer-marketing-website?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Maria01 (Helsinki) | On Site | Jan 30 |
 | **[Expleo](https://expleo.com/)** | **[Stellenausschreibung – Frontend Developer / BizDevOps Engineer](https://jobr.pro/job/37074228/stellenausschreibung-frontend-developer-bizdevops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bern, BE, Switzerland | On Site | Jan 30 |
 | **[Babel](https://babelgroup.com/)** | **[Frontend Developer](https://jobr.pro/job/37082266/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | LISBOA, Portugal | On Site | Jan 30 |
@@ -35,7 +38,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 19 jobs | 16% remote | 18 companies | Avg salary: 219k  
+**Current Stats:** 22 jobs | 14% remote | 20 companies | Avg salary: 219k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
