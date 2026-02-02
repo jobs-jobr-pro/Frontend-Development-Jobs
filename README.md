@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2026
 
-<sub><small>Last updated: Feb 02, 2026 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Feb 02, 2026 at 08:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Sporty Group](https://www.sportygroup.com/)** | **[CS Saas Frontend Developer](https://jobr.pro/job/37194136/cs-saas-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | GLOBAL REMOTE | Remote | Feb 01 |
 | **[ServiceNow](https://www.servicenow.com)** | **[Staff Software Engineer - Frontend Developer](https://jobr.pro/job/37086483/staff-software-engineer-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bangalore, Karnataka, India | On Site | Jan 30 |
 | **[ServiceNow](https://www.servicenow.com)** | **[Senior Software Engineer - Frontend Developer](https://jobr.pro/job/37086485/senior-software-engineer-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bangalore, Karnataka, India | On Site | Jan 30 |
 | **[Kitron](https://www.kitron.com/)** | **[Trainee - Frontend Developer](https://jobr.pro/job/37083526/trainee-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Chennai, India | On Site | Jan 30 |
@@ -36,7 +37,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 20 jobs | 15% remote | 18 companies | Avg salary: 219k  
+**Current Stats:** 21 jobs | 19% remote | 19 companies | Avg salary: 219k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
