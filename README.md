@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2026
 
-<sub><small>Last updated: Feb 02, 2026 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Feb 02, 2026 at 16:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Science in Sport Group](https://www.scienceinsport.com/)** | **[Frontend Developer (12-month Fixed-term contract)](https://jobr.pro/job/37213676/frontend-developer-12-month-fixed-term-contract?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Blackburn, United Kingdom | On Site | Feb 02 |
+| **[Eeze](https://eeze.com/)** | **[Frontend Developer](https://jobr.pro/job/37213698/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | București, Romania | On Site | Feb 01 |
 | **[Sporty Group](https://www.sportygroup.com/)** | **[CS Saas Frontend Developer](https://jobr.pro/job/37194136/cs-saas-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | GLOBAL REMOTE | Remote | Feb 01 |
 | **[ServiceNow](https://www.servicenow.com)** | **[Staff Software Engineer - Frontend Developer](https://jobr.pro/job/37086483/staff-software-engineer-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bangalore, Karnataka, India | On Site | Jan 30 |
 | **[ServiceNow](https://www.servicenow.com)** | **[Senior Software Engineer - Frontend Developer](https://jobr.pro/job/37086485/senior-software-engineer-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bangalore, Karnataka, India | On Site | Jan 30 |
@@ -37,7 +39,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 21 jobs | 19% remote | 19 companies | Avg salary: 219k  
+**Current Stats:** 23 jobs | 17% remote | 21 companies | Avg salary: 163k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
