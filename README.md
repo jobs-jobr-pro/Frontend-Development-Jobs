@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2026
 
-<sub><small>Last updated: Feb 02, 2026 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Feb 02, 2026 at 04:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -26,9 +26,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Coinbase](https://www.coinbase.com/)** | **[Senior Software Engineer, Frontend - Developer Experience (Mobile)](https://jobr.pro/job/37047794/senior-software-engineer-frontend-developer-experience-mobile?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote - USA | Remote | Jan 29 |
 | **[HUB Security](https://hubsecurity.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/37016246/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Jan 29 |
 | **[VAST Data](https://www.vastdata.com/)** | **[Frontend Developer (UI/UX)](https://jobr.pro/job/37015203/frontend-developer-uiux?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Reykjavík, Reykjavíkurborg, IS | On Site | Jan 29 |
+| **[Rakuten](https://corp.rakuten.co.jp/)** | **[Frontend Developer, Rakuten Ichiba - Mall Section No.1, EC Marketplace Development Department (ECMPD)](https://jobr.pro/job/37032363/frontend-developer-rakuten-ichiba-mall-section-no1-ec-marketplace-development-department-ecmpd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Rakuten Crimson House, Japan | On Site | Jan 29 |
 | **[Accso](https://accso.de)** | **[Senior Frontend Developer Angular, Vue.js, React*](https://jobr.pro/job/37009730/senior-frontend-developer-angular-vuejs-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Frankfurt, Germany | On Site | Jan 29 |
 | **[HICX](https://www.hicx.com/)** | **[Frontend Developer](https://jobr.pro/job/36999248/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bucharest, Bucharest, Romania - Remote | Remote | Jan 29 |
-| **[Rakuten](https://corp.rakuten.co.jp/)** | **[Frontend Developer, Rakuten Ichiba - Mall Section No.1, EC Marketplace Development Department (ECMPD)](https://jobr.pro/job/37032363/frontend-developer-rakuten-ichiba-mall-section-no1-ec-marketplace-development-department-ecmpd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Rakuten Crimson House, Japan | On Site | Jan 29 |
 | **[Kivra AB](https://kivra.se)** | **[Frontend Developer](https://jobr.pro/job/36998813/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Stockholm, Sweden | On Site | Jan 28 |
 | **[KBC Global Services](https://www.kbc.com/)** | **[Frontend Developer (АЕМ) Junior & Senior](https://jobr.pro/job/36784921/frontend-developer-junior-senior?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Varna, BG | On Site | Jan 27 |
 | **[AIA](https://www.aia.com/)** | **[Manager, Frontend Developer](https://jobr.pro/job/36767562/manager-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | AIA ED (Shanghai) Hongkou, China | On Site | Jan 26 |
