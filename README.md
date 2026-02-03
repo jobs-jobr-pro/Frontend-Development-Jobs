@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2026
 
-<sub><small>Last updated: Feb 03, 2026 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Feb 03, 2026 at 12:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[CrossWorkers](https://www.crossworkers-egypt.com/)** | **[Senior Frontend Developer (Core Web Applications)](https://jobr.pro/job/37286242/senior-frontend-developer-core-web-applications?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | اول القاهرة الجديدة, Egypt | On Site | Feb 03 |
+| **[Gebrüder Weiss](https://www.gw-world.com)** | **[Senior Frontend Developer (m/w/d)*](https://jobr.pro/job/37271185/senior-frontend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Kennelbach, AT, 6921 | On Site | Feb 03 |
 | **[BuzzClan](https://www.buzzclan.com)** | **[Sr React Frontend Developer](https://jobr.pro/job/37261808/sr-react-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Roswell, GA, United States | On Site | Feb 02 |
 | **[Axi](https://www.axi.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/37261098/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India | On Site | Feb 02 |
 | **[Capco](https://www.capco.com/)** | **[Senior Frontend Developer - React](https://jobr.pro/job/37245525/senior-frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | UK - London | On Site | Feb 02 |
@@ -41,7 +43,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 25 jobs | 16% remote | 23 companies | Avg salary: 163k  
+**Current Stats:** 27 jobs | 15% remote | 25 companies | Avg salary: 163k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
