@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2026
 
-<sub><small>Last updated: Feb 02, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Feb 03, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -34,12 +34,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[HICX](https://www.hicx.com/)** | **[Frontend Developer](https://jobr.pro/job/36999248/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bucharest, Bucharest, Romania - Remote | Remote | Jan 29 |
 | **[Kivra AB](https://kivra.se)** | **[Frontend Developer](https://jobr.pro/job/36998813/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Stockholm, Sweden | On Site | Jan 28 |
 | **[KBC Global Services](https://www.kbc.com/)** | **[Frontend Developer (АЕМ) Junior & Senior](https://jobr.pro/job/36784921/frontend-developer-junior-senior?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Varna, BG | On Site | Jan 27 |
-| **[AIA](https://www.aia.com/)** | **[Manager, Frontend Developer](https://jobr.pro/job/36767562/manager-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | AIA ED (Shanghai) Hongkou, China | On Site | Jan 26 |
-| **[Axis Communications](https://www.axis.com/)** | **[Senior Frontend Developer, Lund](https://jobr.pro/job/36770919/senior-frontend-developer-lund?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Sweden - Lund | On Site | Jan 26 |
 
 ---
 
-**Current Stats:** 23 jobs | 17% remote | 21 companies | Avg salary: 163k  
+**Current Stats:** 21 jobs | 19% remote | 19 companies | Avg salary: 163k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
