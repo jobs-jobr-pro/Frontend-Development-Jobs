@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2026
 
-<sub><small>Last updated: Feb 03, 2026 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Feb 03, 2026 at 08:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[BuzzClan](https://www.buzzclan.com)** | **[Sr React Frontend Developer](https://jobr.pro/job/37261808/sr-react-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Roswell, GA, United States | On Site | Feb 02 |
+| **[Axi](https://www.axi.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/37261098/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India | On Site | Feb 02 |
+| **[Capco](https://www.capco.com/)** | **[Senior Frontend Developer - React](https://jobr.pro/job/37245525/senior-frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | UK - London | On Site | Feb 02 |
+| **[Infakt Sp. z o.o.](https://www.infakt.pl)** | **[Frontend Developer](https://jobr.pro/job/37252030/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Kraków, Województwo małopolskie, Poland | On Site | Feb 02 |
 | **[Science in Sport Group](https://www.scienceinsport.com/)** | **[Frontend Developer (12-month Fixed-term contract)](https://jobr.pro/job/37213676/frontend-developer-12-month-fixed-term-contract?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Blackburn, United Kingdom | On Site | Feb 02 |
 | **[Eeze](https://eeze.com/)** | **[Frontend Developer](https://jobr.pro/job/37213698/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | București, Romania | On Site | Feb 01 |
 | **[Sporty Group](https://www.sportygroup.com/)** | **[CS Saas Frontend Developer](https://jobr.pro/job/37194136/cs-saas-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | GLOBAL REMOTE | Remote | Feb 01 |
@@ -37,7 +41,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 21 jobs | 19% remote | 19 companies | Avg salary: 163k  
+**Current Stats:** 25 jobs | 16% remote | 23 companies | Avg salary: 163k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
