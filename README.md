@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend developer Jobs 2026
 
-<sub><small>Last updated: Feb 06, 2026 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Feb 06, 2026 at 04:30 UTC</small></sub>
 
 This repository collects curated **Frontend developer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Boost inc](https://www.boostinc.com/)** | **[Senior Backend Developer (Python / Django)](https://jobr.pro/job/37514829/senior-backend-developer-python-django?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote, Portugal (Remote) | Remote | Feb 06 |
+| **[Applaudo Studios](https://applaudostudios.com)** | **[Rust Developer](https://jobr.pro/job/37514604/rust-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Brasília, DF, Brazil | On Site | Feb 05 |
+| **[Applaudo Studios](https://applaudostudios.com)** | **[Fullstack Developer (Node.js + React + AWS)](https://jobr.pro/job/37514135/fullstack-developer-nodejs-react-aws?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lima, Callao Region, Peru | Remote | Feb 05 |
+| **[Bosch Group](https://www.bosch.com)** | **[Azure Power BI Developer](https://jobr.pro/job/37514142/azure-power-bi-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | telengana, India | On Site | Feb 05 |
 | **[TechMagic](https://www.techmagic.co)** | **[Senior Full-stack (Next.js) developer](https://jobr.pro/job/37500664/senior-full-stack-nextjs-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | remote, Ukraine (Remote) | Remote | Feb 05 |
 | **[BasharSoft](https://basharsoft.com/)** | **[Senior GIS Developer \| Saudi Arabia](https://jobr.pro/job/37500465/senior-gis-developer-saudi-arabia?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Riyadh, Saudi Arabia | On Site | Feb 05 |
 | **[World Wide Technology](https://www.wwt.com/)** | **[Sr. Full Stack Developer](https://jobr.pro/job/37500139/sr-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote - Nationwide, United States | Remote | Feb 05 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Nokia](https://www.nokia.com/)** | **[Fiber Growth: Intent developer](https://jobr.pro/job/37475332/fiber-growth-intent-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Belgium | On Site | Feb 05 |
 | **[Nokia](https://www.nokia.com/)** | **[Fiber Growth: Host developer](https://jobr.pro/job/37475333/fiber-growth-host-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Belgium | On Site | Feb 05 |
 | **[Resideo](https://www.resideo.com/)** | **[Senior Flutter Mobile Application Developer](https://jobr.pro/job/37488535/senior-flutter-mobile-application-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | BANGALORE METROPOLITAN AREA, KARNATAKA, India | On Site | Feb 05 |
-| **[Finanztip Verbraucherinformation GmbH](https://www.finanztip.de/)** | **[PHP/Symfony Developer (all genders)](https://jobr.pro/job/37465044/phpsymfony-developer-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | München | On Site | Feb 05 |
-| **[CrowdFarming](https://www.crowdfarming.com/)** | **[PHP Developer](https://jobr.pro/job/37472055/php-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Madrid, Spain | On Site | Feb 05 |
-| **[Interactivated Solutions](https://interactivated.me)** | **[Senior Full-Stack Developer (AngularJS / Angular / Node.js)](https://jobr.pro/job/37464050/senior-full-stack-developer-angularjs-angular-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Netherlands - Remote | Remote | Feb 05 |
-| **[Tezza Business Solutions](https://tezzasolutions.com/)** | **[Mid-Level Full Stack Developer (React + Node.js)](https://jobr.pro/job/37495151/mid-level-full-stack-developer-react-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Nigeria, Remote | Remote | Feb 05 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 39 companies | Avg salary: 146k  
+**Current Stats:** 50 jobs | 16% remote | 38 companies | Avg salary: 146k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, html, typescript  
