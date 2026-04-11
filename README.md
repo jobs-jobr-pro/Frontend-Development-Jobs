@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend Developer Jobs — 2026
 
-<sub><small>Last updated: Apr 10, 2026 at 13:01 UTC</small></sub>
+<sub><small>Last updated: Apr 11, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Frontend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,15 +13,25 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Clara](https://www.clara.com/)** | **[Senior Frontend Developer - Transaction Management Platform - Latin America (Remote)](https://jobr.pro/job/40280761/senior-frontend-developer-transaction-management-platform-latin-america-remote?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Mexico City, Mexico City, Mexico | Remote | Apr 10 |
+| **[DDB España](https://www.ddb.es/)** | **[Frontend Developer](https://jobr.pro/job/40281937/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Barcelona | On Site | Apr 10 |
+| **[Mimo](https://getmimo.com/)** | **[Frontend Developer](https://jobr.pro/job/40280438/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote job | Remote | Apr 10 |
+| **[Vend](https://vend.com)** | **[Frontend Developer - Team Communication](https://jobr.pro/job/40276186/frontend-developer-team-communication?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Oslo; Stockholm | On Site | Apr 10 |
+| **[PwC](https://www.pwc.com/)** | **[Senior UI/UX Frontend Developer](https://jobr.pro/job/40279862/senior-uiux-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Amsterdam - Thomas R. Malthusstraat 5, Netherlands | On Site | Apr 10 |
+| **[PwC](https://www.pwc.com/)** | **[UI/UX Frontend Developer](https://jobr.pro/job/40279861/uiux-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Amsterdam - Thomas R. Malthusstraat 5, Netherlands | On Site | Apr 10 |
+| **[Erste Group](https://www.erstegroup.com/)** | **[ITRP - Frontend developer/ka](https://jobr.pro/job/40281968/itrp-frontend-developerka?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Hlavní město Praha, Czech Republic | On Site | Apr 10 |
 | **[Orion Innovation](https://www.orioninc.com/)** | **[React frontend developer](https://jobr.pro/job/40269848/react-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Chennai, Tamil Nadu; Coimbatore, Tamil Nadu, India; Noida, Uttar Pradesh, India | On Site | Apr 09 |
 | **[The Software Practice Pte Ltd](https://thesoftwarepractice.com/)** | **[Frontend Developer](https://jobr.pro/job/40263464/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Singapore, Singapore | On Site | Apr 09 |
 | **[Initium Software](https://www.initiumsoft.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/40262677/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Valencia, España | On Site | Apr 09 |
+| **[Periferia IT Group](https://periferiaitgroup.com/)** | **[Frontend Developer](https://jobr.pro/job/40273151/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lima, Peru | On Site | Apr 09 |
+| **[Vitrue Health](https://www.vitruehealth.com/)** | **[Frontend Developer](https://jobr.pro/job/40273160/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | London, United Kingdom | On Site | Apr 09 |
 | **[Çiçeksepeti](https://www.ciceksepeti.com/)** | **[Sr. Frontend Developer](https://jobr.pro/job/40269930/sr-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Zincirlikuyu, Istanbul | On Site | Apr 09 |
 | **[Sky](https://jobs.sky.com/)** | **[Frontend Developer CMS](https://jobr.pro/job/40271953/frontend-developer-cms?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Prague, Czechia | On Site | Apr 09 |
 | **[SAMY](https://samy.com/)** | **[Frontend Developer (React)](https://jobr.pro/job/40257972/frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote job | Remote | Apr 08 |
 | **[OMNI.PRO](https://omni.pro/)** | **[Frontend Developer-Adobe Commerce](https://jobr.pro/job/40252628/frontend-developer-adobe-commerce?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remoto | Remote | Apr 08 |
 | **[Grebban](https://www.grebban.com/)** | **[E-commerce Frontend Developer](https://jobr.pro/job/40263522/e-commerce-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Stockholm, Sweden | On Site | Apr 08 |
 | **[Prefixbox](https://www.prefixbox.com/)** | **[Junior Frontend Developer (integration with native CSS and JS technology)](https://jobr.pro/job/40258000/junior-frontend-developer-integration-with-native-css-and-js-technology?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Budapest | On Site | Apr 08 |
+| **[CLO Virtual Fashion](https://www.clovirtualfashion.com/)** | **[Frontend Developer](https://jobr.pro/job/40280813/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Seoul | On Site | Apr 08 |
 | **[JobCloud](https://www.jobcloud.ch/)** | **[Senior Frontend Developer @JobCloud](https://jobr.pro/job/40249754/senior-frontend-developer-jobcloud?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Vila Nova de Gaia, Portugal | On Site | Apr 08 |
 | **[Cofinpro AG](https://cofinpro.de/)** | **[Frontend Developer Angular / React / Vue.js (w/m/d)](https://jobr.pro/job/40249755/frontend-developer-angular-react-vuejs-wmd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Frankfurt am Main, München, Berlin, Karlsruhe, Hannover, Köln, Stuttgart | On Site | Apr 08 |
 | **[XTEL](https://www.xtel-group.com)** | **[Senior Frontend Developer - categorie protette ex L 99/68](https://jobr.pro/job/40250683/senior-frontend-developer-categorie-protette-ex-l-9968?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Casalecchio di Reno, Italy | On Site | Apr 08 |
@@ -42,12 +52,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Gong](https://www.gong.io/)** | **[Senior Frontend Developer](https://jobr.pro/job/40234236/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv | On Site | Apr 06 |
 | **[marcus evans](https://www.marcusevans.com/)** | **[Frontend Developer Intern](https://jobr.pro/job/38181808/frontend-developer-intern?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Mumbai, Mahārāshtra, India | On Site | Apr 06 |
 | **[EY](https://www.ey.com)** | **[GIG - Adobe - Experience Manager Frontend Developer](https://jobr.pro/job/40247637/gig-adobe-experience-manager-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Chennai, TN, IN, 600032 | On Site | Apr 06 |
-| **[CLO Virtual Fashion](https://www.clovirtualfashion.com/)** | **[前端开发工程师 (Frontend Developer)](https://jobr.pro/job/40227917/-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Shanghai | On Site | Apr 05 |
 | **[Anlatan](https://anlatan.ai)** | **[Frontend Developer \[AetherRoom\]](https://jobr.pro/job/40227715/frontend-developer-aetherroom?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | ONLINE | On Site | Apr 05 |
 
 ---
 
-**Current Stats:** 31 jobs | 19% remote | 27 companies | Avg salary: 151k  
+**Current Stats:** 40 jobs | 20% remote | 35 companies | Avg salary: 136k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, typescript, vue  
