@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend Developer Jobs — 2026
 
-<sub><small>Last updated: Apr 12, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: Apr 13, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Frontend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Autodesk](https://www.autodesk.com/)** | **[Senior Frontend Developer (3D)](https://jobr.pro/job/40292573/senior-frontend-developer-3d?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | EMEA - United Kingdom - London - Agar St | On Site | Apr 13 |
+| **[Skello](https://www.skello.io/)** | **[Senior Frontend Developer](https://jobr.pro/job/40291980/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Paris | Remote | Apr 12 |
+| **[Aion Bank](https://aion.eu/)** | **[Frontend Developer](https://jobr.pro/job/40292004/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Poland - Warsaw - HQ | On Site | Apr 12 |
+| **[Anlatan](https://anlatan.ai)** | **[Frontend Developer \[NovelAI\]](https://jobr.pro/job/40291478/frontend-developer-novelai?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | ONLINE | On Site | Apr 12 |
+| **[Tylko](https://tylko.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/40291288/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Warszawa, Mazowieckie, Poland | On Site | Apr 12 |
 | **[Clara](https://www.clara.com/)** | **[Senior Frontend Developer - Transaction Management Platform - Latin America (Remote)](https://jobr.pro/job/40280761/senior-frontend-developer-transaction-management-platform-latin-america-remote?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Mexico City, Mexico City, Mexico | Remote | Apr 10 |
 | **[DDB España](https://www.ddb.es/)** | **[Frontend Developer](https://jobr.pro/job/40281937/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Barcelona | On Site | Apr 10 |
 | **[Mimo](https://getmimo.com/)** | **[Frontend Developer](https://jobr.pro/job/40280438/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote job | Remote | Apr 10 |
@@ -51,13 +56,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[SAMY](https://samy.com/)** | **[Frontend Developer (Vibe Coding)](https://jobr.pro/job/40234790/frontend-developer-vibe-coding?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote job | Remote | Apr 06 |
 | **[Photon](https://www.photon.com/)** | **[Sr. Frontend Developer - Angular\| Cleveland, OH](https://jobr.pro/job/40239289/sr-frontend-developer-angular-cleveland-oh?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | OH, United States | On Site | Apr 06 |
 | **[Abesse Informatikai Tanácsadó Zrt.](https://www.abesse.hu/)** | **[Frontend Developer (VLx)](https://jobr.pro/job/40245453/frontend-developer-vlx?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Budapest | On Site | Apr 06 |
-| **[Gong](https://www.gong.io/)** | **[Senior Frontend Developer](https://jobr.pro/job/40234236/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv | On Site | Apr 06 |
-| **[marcus evans](https://www.marcusevans.com/)** | **[Frontend Developer Intern](https://jobr.pro/job/38181808/frontend-developer-intern?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Mumbai, Mahārāshtra, India | On Site | Apr 06 |
-| **[EY](https://www.ey.com)** | **[GIG - Adobe - Experience Manager Frontend Developer](https://jobr.pro/job/40247637/gig-adobe-experience-manager-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Chennai, TN, IN, 600032 | On Site | Apr 06 |
 
 ---
 
-**Current Stats:** 41 jobs | 20% remote | 36 companies | Avg salary: 136k  
+**Current Stats:** 43 jobs | 21% remote | 38 companies | Avg salary: 114k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, javascript, css, typescript, vue  
