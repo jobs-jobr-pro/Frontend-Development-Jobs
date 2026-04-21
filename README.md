@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend Developer Jobs — 2026
 
-<sub><small>Last updated: Apr 20, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: Apr 21, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Frontend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Indium Software](https://www.indiumsoftware.com/)** | **[Backend developer/Frontend developer/Fullstack developer/Cloud & Devops Engineer](https://jobr.pro/job/40440720/backend-developerfrontend-developerfullstack-developercloud-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Chennai City Corporation, India | On Site | Apr 20 |
+| **[Ruby Labs](https://rubylabs.com/)** | **[UX/UI Frontend Developer](https://jobr.pro/job/40455007/uxui-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Serbia | Remote | Apr 20 |
+| **[Oxylabs](https://oxylabs.io/)** | **[Mid Frontend Developer](https://jobr.pro/job/40455012/mid-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Vilnius | On Site | Apr 20 |
+| **[Hitachi](https://www.hitachi.com/)** | **[Frontend Developer - 58421](https://jobr.pro/job/40448294/frontend-developer-58421?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | (DEAI DS) TH Bangkok, Thailand | On Site | Apr 20 |
 | **[Praktis](https://www.praktis.co/)** | **[Frontend Developer](https://jobr.pro/job/40439419/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Jakarta, Jakarta, Indonesia | On Site | Apr 19 |
 | **[Encora](https://www.encora.com/)** | **[Frontend Developer Mid](https://jobr.pro/job/40421758/frontend-developer-mid?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Peru | On Site | Apr 17 |
 | **[Encora](https://www.encora.com/)** | **[Mid Frontend Developer - React, TypeScript](https://jobr.pro/job/40421759/mid-frontend-developer-react-typescript?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bolivia | On Site | Apr 17 |
@@ -21,8 +25,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Franka Robotics](https://franka.de/)** | **[Frontend Developer in Robotics (m/f/d)](https://jobr.pro/job/40423072/frontend-developer-in-robotics-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | München | On Site | Apr 17 |
 | **[CI&T](https://ciandt.com/)** | **[\[Job - 28872\] Senior Frontend Developer (Angular),Brazil](https://jobr.pro/job/40423077/job-28872-senior-frontend-developer-angularbrazil?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Brazil | On Site | Apr 17 |
 | **[Delta Capita](https://www.deltacapita.com/)** | **[Frontend Developer - Angular](https://jobr.pro/job/40420261/frontend-developer-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Pune, Mahārāshtra, India | On Site | Apr 17 |
-| **[Generac](https://www.generac.com/)** | **[Frontend Developer (m/f/d) Energy Management System (Edge/Cloud)](https://jobr.pro/job/40406893/frontend-developer-mfd-energy-management-system-edgecloud?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Murcia, Spain | On Site | Apr 17 |
 | **[FIS](https://www.fisglobal.com/)** | **[Senior Frontend Developer (Angular and Typescript)](https://jobr.pro/job/40403744/senior-frontend-developer-angular-and-typescript?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | IND PUNE FL7, India | On Site | Apr 17 |
+| **[Generac](https://www.generac.com/)** | **[Frontend Developer (m/f/d) Energy Management System (Edge/Cloud)](https://jobr.pro/job/40406893/frontend-developer-mfd-energy-management-system-edgecloud?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Murcia, Spain | On Site | Apr 17 |
 | **[Appnovation Technologies](https://www.appnovation.com/)** | **[Frontend Developer - Next.js](https://jobr.pro/job/40403751/frontend-developer-nextjs?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Vancouver | On Site | Apr 16 |
 | **[Artlist](https://artlist.io/)** | **[Frontend Developer](https://jobr.pro/job/40389966/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Apr 16 |
 | **[Insider One](https://insiderone.com)** | **[Frontend Developer - Vue.js (Mid)](https://jobr.pro/job/40403786/frontend-developer-vuejs-mid?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Istanbul, Turkiye | Remote | Apr 16 |
@@ -47,23 +51,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Tezza Business Solutions](https://tezzasolutions.com/)** | **[Frontend Developer (AngularJS)](https://jobr.pro/job/40377357/frontend-developer-angularjs?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lagos, Lagos | On Site | Apr 14 |
 | **[Avvoka](https://avvoka.com/)** | **[Junior Frontend Developer (Vue.js)](https://jobr.pro/job/40328559/junior-frontend-developer-vuejs?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Hybrid (162 00, Prague, Prague, Czechia) | Remote | Apr 14 |
 | **[Devoteam](https://www.devoteam.com/)** | **[Investment Sector \| Frontend Developer (Angular)](https://jobr.pro/job/40355794/investment-sector-frontend-developer-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Porto, Porto, Portugal | On Site | Apr 14 |
-| **[Postcode Lottery Group](https://www.postcodelotterygroup.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/40328924/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Amsterdam | On Site | Apr 14 |
-| **[journaway GmbH](https://corporate.journaway.com/)** | **[Senior Frontend Developer (m/w/d)](https://jobr.pro/job/40358044/senior-frontend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote, Hybrid | Remote | Apr 14 |
-| **[Columbus](https://www.columbusglobal.com/)** | **[Junior Frontend Developer](https://jobr.pro/job/40432951/junior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Kraków, Poland | On Site | Apr 14 |
-| **[CLO Virtual Fashion](https://www.clovirtualfashion.com/)** | **[前端开发工程师 (Frontend Developer)](https://jobr.pro/job/40227917/-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Shanghai | On Site | Apr 14 |
-| **[LeadInTop](https://www.leadintop.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/40316047/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Cairo, Egypt | On Site | Apr 14 |
-| **[Contour Software](https://contour-software.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/40343264/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | PER - Islamabad, PK, Pakistan | On Site | Apr 14 |
-| **[Mindera](https://mindera.com/)** | **[Frontend Developer Next.js & React](https://jobr.pro/job/38863588/frontend-developer-nextjs-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Cluj-Napoca, Cluj County, Romania | On Site | Apr 14 |
-| **[Marsh McLennan](https://www.marshmclennan.com/)** | **[Frontend Developer( React) @MarshTech](https://jobr.pro/job/40328573/frontend-developer-react-marshtech?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Cluj-Napoca - Decembrie, Romania | Remote | Apr 14 |
-| **[Lean Tech](https://www.leangroup.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/40432956/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Colombia | On Site | Apr 14 |
-| **[Marsh McLennan](https://www.marshmclennan.com/)** | **[Junior Frontend Developer @MarshTech](https://jobr.pro/job/40328572/junior-frontend-developer-marshtech?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Cluj-Napoca - Decembrie, Romania | Remote | Apr 14 |
-| **[redbee](https://redbee.io/)** | **[Frontend Developer Ssr](https://jobr.pro/job/40316085/frontend-developer-ssr?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Argentina | On Site | Apr 13 |
-| **[Caylent](https://caylent.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/40313998/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | ARGENTINA | Remote | Apr 13 |
-| **[Coveo](https://www.coveo.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/40313981/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Montreal (Province of Quebec, Canada) | On Site | Apr 13 |
 
 ---
 
-**Current Stats:** 47 jobs | 26% remote | 42 companies | Avg salary: 97k  
+**Current Stats:** 38 jobs | 24% remote | 34 companies | Avg salary: 67k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, typescript, vue, angular  
