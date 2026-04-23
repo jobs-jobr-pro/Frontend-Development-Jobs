@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend Developer Jobs — 2026
 
-<sub><small>Last updated: Apr 22, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: Apr 23, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Frontend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,9 +13,16 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[EY](https://www.ey.com)** | **[GIG - Adobe - Experience Manager Frontend Developer](https://jobr.pro/job/40465669/gig-adobe-experience-manager-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Chennai, TN, IN, 600032 | On Site | Apr 23 |
+| **[ALTEN](https://www.alten.com/)** | **[Frontend Developer (C#/.NET) (all gender)](https://jobr.pro/job/40465148/frontend-developer-cnet-all-gender?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Vienna, Vienna, Austria | On Site | Apr 22 |
+| **[synava GmbH](https://www.synava.com/)** | **[Senior Frontend Developer (m/w/d)](https://jobr.pro/job/40465722/senior-frontend-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Hagen am Teutoburger Wald, NDS, Germany | On Site | Apr 22 |
+| **[TransPerfect](https://www.transperfect.com/)** | **[Frontend Developer](https://jobr.pro/job/40464968/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | London, Greater London, United Kingdom | On Site | Apr 22 |
+| **[Genesys](https://www.genesys.com/)** | **[Frontend Developer, Web](https://jobr.pro/job/40461619/frontend-developer-web?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Manila (Flexible), Philippines | On Site | Apr 22 |
+| **[Workstate](https://www.workstate.com)** | **[Lead Frontend Developer - LATAM Remote](https://jobr.pro/job/40465747/lead-frontend-developer-latam-remote?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Colombia - Remote | Remote | Apr 22 |
 | **[Indium Software](https://www.indiumsoftware.com/)** | **[Backend developer/Frontend developer/Fullstack developer/Cloud & Devops Engineer](https://jobr.pro/job/40457328/backend-developerfrontend-developerfullstack-developercloud-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote | Remote | Apr 21 |
-| **[Allstate](https://www.allstate.com/)** | **[React JS Developer/ Frontend Developer](https://jobr.pro/job/40458455/react-js-developer-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Ind – Blr Sez 1 (3Rd, 6Th & 7Th Floor), India | On Site | Apr 21 |
+| **[EX Squared LATAM](https://latam.exsquared.com/)** | **[Frontend Developer (ReactJS) - Temporal](https://jobr.pro/job/40465033/frontend-developer-reactjs-temporal?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | San José, CR - Remote/Hybrid | Remote | Apr 21 |
 | **[Advansys ESC](https://www.advansys-esc.com/)** | **[Senior Frontend Developer - Angular](https://jobr.pro/job/40457070/senior-frontend-developer-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | 6th of October City, Giza Governorate, Egypt | On Site | Apr 21 |
+| **[Allstate](https://www.allstate.com/)** | **[React JS Developer/ Frontend Developer](https://jobr.pro/job/40458455/react-js-developer-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Ind – Blr Sez 1 (3Rd, 6Th & 7Th Floor), India | On Site | Apr 21 |
 | **[AIA](https://www.aia.com/)** | **[Manager, Frontend Developer](https://jobr.pro/job/40458453/manager-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | AIA ED (Shanghai) Hongkou, China | On Site | Apr 21 |
 | **[TradingView](https://www.tradingview.com/)** | **[Frontend Developer Alerts Team](https://jobr.pro/job/40457106/frontend-developer-alerts-team?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tbilisi, Georgia | On Site | Apr 20 |
 | **[Ruby Labs](https://rubylabs.com/)** | **[UX/UI Frontend Developer](https://jobr.pro/job/40455007/uxui-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Serbia | Remote | Apr 20 |
@@ -23,9 +30,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Oxylabs](https://oxylabs.io/)** | **[Mid Frontend Developer](https://jobr.pro/job/40455012/mid-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Vilnius | On Site | Apr 20 |
 | **[REMIRA GmbH](https://www.remira.com/)** | **[Senior Frontend Developer (w/m/d)](https://jobr.pro/job/40458486/senior-frontend-developer-wmd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Dortmund, Hamburg, Ludwigsburg, Bad Hersfeld oder remote | Remote | Apr 20 |
 | **[FUTRUE GmbH](https://futrue.com/)** | **[Frontend Developer](https://jobr.pro/job/40458487/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Gräfelfing | On Site | Apr 20 |
-| **[Citi](https://www.citigroup.com/)** | **[Angular Frontend Developer - VP](https://jobr.pro/job/40458521/angular-frontend-developer-vp?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | 3800 CITIGROUP CENTER DRIVE BUILDING B TAMPA, United States | On Site | Apr 20 |
-| **[Hitachi](https://www.hitachi.com/)** | **[Frontend Developer - 58421](https://jobr.pro/job/40448294/frontend-developer-58421?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | (DEAI DS) TH Bangkok, Thailand | On Site | Apr 20 |
 | **[Deloitte](https://www.deloitte.com/)** | **[T&T Consultant - Deloitte Digital (Frontend Developer) - MY / TH](https://jobr.pro/job/40458522/tt-consultant-deloitte-digital-frontend-developer-my-th?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Kuala Lumpur, MY | On Site | Apr 20 |
+| **[Hitachi](https://www.hitachi.com/)** | **[Frontend Developer - 58421](https://jobr.pro/job/40448294/frontend-developer-58421?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | (DEAI DS) TH Bangkok, Thailand | On Site | Apr 20 |
+| **[Citi](https://www.citigroup.com/)** | **[Angular Frontend Developer - VP](https://jobr.pro/job/40458521/angular-frontend-developer-vp?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | 3800 CITIGROUP CENTER DRIVE BUILDING B TAMPA, United States | On Site | Apr 20 |
 | **[Ventrata](https://ventrata.com)** | **[Senior Frontend Developer (Svelte Specialist)](https://jobr.pro/job/40458508/senior-frontend-developer-svelte-specialist?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Brno, South Moravian Region, Czechia | Remote | Apr 20 |
 | **[Legartis Technology AG](https://legartis.ai/)** | **[Senior Frontend Developer (Zurich)](https://jobr.pro/job/40458524/senior-frontend-developer-zurich?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Zurich | On Site | Apr 19 |
 | **[Legartis Technology AG](https://legartis.ai/)** | **[Lead Frontend Developer (Zurich)](https://jobr.pro/job/40458525/lead-frontend-developer-zurich?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Zurich | On Site | Apr 19 |
@@ -42,24 +49,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[FIS](https://www.fisglobal.com/)** | **[Senior Frontend Developer (Angular and Typescript)](https://jobr.pro/job/40403744/senior-frontend-developer-angular-and-typescript?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | IND PUNE FL7, India | On Site | Apr 17 |
 | **[Appnovation Technologies](https://www.appnovation.com/)** | **[Frontend Developer - Next.js](https://jobr.pro/job/40403751/frontend-developer-nextjs?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Vancouver | On Site | Apr 16 |
 | **[Artlist](https://artlist.io/)** | **[Frontend Developer](https://jobr.pro/job/40389966/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Apr 16 |
-| **[Insider One](https://insiderone.com)** | **[Frontend Developer - Vue.js (Mid)](https://jobr.pro/job/40403786/frontend-developer-vuejs-mid?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Istanbul, Turkiye | Remote | Apr 16 |
-| **[Virtusa](https://www.virtusa.com/)** | **[Sr. Frontend Developer (React + Power BI)](https://jobr.pro/job/40388141/sr-frontend-developer-react-power-bi?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | IN-TN-Chennai | On Site | Apr 16 |
-| **[Insider One](https://insiderone.com)** | **[Senior Frontend Developer - Vue.js](https://jobr.pro/job/40403790/senior-frontend-developer-vuejs?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Istanbul, Turkiye | Remote | Apr 16 |
-| **[Expleo](https://expleo.com/)** | **[Web Frontend Developer](https://jobr.pro/job/40403990/web-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Pune, MH, India | On Site | Apr 16 |
-| **[LōD Technologies Inc.](https://lod.io/)** | **[Frontend Developer (Typescript / React)](https://jobr.pro/job/40416050/frontend-developer-typescript-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Vancouver, British Columbia, Canada | On Site | Apr 16 |
-| **[ING](https://www.ing.com/)** | **[Frontend Developer @ING Hubs Romania](https://jobr.pro/job/40416060/frontend-developer-ing-hubs-romania?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bucharest - Dacia One, Romania | On Site | Apr 16 |
-| **[Bosch Group](https://www.bosch.com)** | **[Senior Frontend Developer - Angular (f/m/div.)](https://jobr.pro/job/40382702/senior-frontend-developer-angular-fmdiv?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Ovar, Portugal | On Site | Apr 15 |
-| **[Antithesis](http://antithesis.com)** | **[UI Engineer \| Frontend Developer](https://jobr.pro/job/40369737/ui-engineer-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Vienna, VA, USA | On Site | Apr 15 |
-| **[Evergrid](https://evergrid.ai)** | **[Sr. Frontend Developer](https://jobr.pro/job/40369695/sr-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | United States | Remote | Apr 15 |
-| **[Ignition](https://www.ignitionapp.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/40369683/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Ontario | Remote | Apr 15 |
-| **[TradingView](https://www.tradingview.com/)** | **[Senior Frontend Developer](https://jobr.pro/job/40388806/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Limassol, Cyprus | On Site | Apr 15 |
 
 ---
 
-**Current Stats:** 40 jobs | 20% remote | 34 companies | Avg salary: 114k  
+**Current Stats:** 36 jobs | 17% remote | 32 companies | Avg salary: 114k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** react, typescript, vue, angular  
+**Trending Skills:** react, typescript, angular  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
