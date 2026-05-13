@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend Developer Jobs — 2026
 
-<sub><small>Last updated: May 12, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 13, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Frontend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Lamdax](https://lamdax.com)** | **[Senior Frontend Developer](https://jobr.pro/job/40758653/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Egypt | Remote | May 13 |
+| **[Poland and Eastern Europe]()** | **[Frontend Developer](https://jobr.pro/job/40744038/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bulgaria | On Site | May 12 |
 | **[Hire Hangar](https://hirehangar.com)** | **[Frontend-Focused Full Stack Developer](https://jobr.pro/job/40730868/frontend-focused-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Mexico - Mexico City | Remote | May 11 |
 | **[Lightspeed](https://www.lightspeedhq.com/)** | **[Senior Frontend Developer - React+ AI experience (all genders)](https://jobr.pro/job/40724606/senior-frontend-developer-react-ai-experience-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Berlin | Remote | May 11 |
 | **[Khibraty](https://www.khibraty.com)** | **[Frontend Developer - Short Term](https://jobr.pro/job/40713215/frontend-developer-short-term?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Riyadh, Riyadh Province, Saudi Arabia | Remote | May 11 |
@@ -20,18 +22,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[VML MAP](https://mapquest.com)** | **[Student Assistant - AI Frontend Developer](https://jobr.pro/job/40678284/student-assistant-ai-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Copenhagen, Capital Region, Denmark | On Site | May 08 |
 | **[CI&T - Technology Transformation Specialists](https://ciandt.com)** | **[\[Job- 29182\] Senior Frontend Developer React, Brasil (copy)](https://jobr.pro/job/40659532/job-29182-senior-frontend-developer-react-brasil-copy?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Brazil | On Site | May 07 |
 | **[CI&T - Technology Transformation Specialists](https://ciandt.com)** | **[\[Job- 29178\] Senior Frontend Developer React, Brasil](https://jobr.pro/job/40659531/job-29178-senior-frontend-developer-react-brasil?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Brazil | On Site | May 07 |
-| **[Poland and Eastern Europe]()** | **[Frontend Developer](https://jobr.pro/job/40657961/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bulgaria | On Site | May 07 |
-| **[DKB Code Factory](https://dkbcodefactory.com)** | **[Senior Frontend Developer - Vue.js](https://jobr.pro/job/40650487/senior-frontend-developer-vuejs?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Valencia, Spain | On Site | May 06 |
-| **[Thoughtworks](https://thoughtworks.com)** | **[Senior Consultant: Frontend Developer \[React Native\]](https://jobr.pro/job/40639129/senior-consultant-frontend-developer-react-native?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Chennai, India | On Site | May 06 |
-| **[Talent-360.me]()** | **[Junior Frontend Developer (Angular)](https://jobr.pro/job/40709090/junior-frontend-developer-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | maadi, Cairo Governorate, Egypt | On Site | May 06 |
-| **[Unframe](https://un-framed.co.za)** | **[Senior Frontend Developer](https://jobr.pro/job/40626864/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | May 05 |
 
 ---
 
-**Current Stats:** 12 jobs | 25% remote | 11 companies | Avg salary: 36k  
+**Current Stats:** 9 jobs | 44% remote | 8 companies | Avg salary: 36k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** react, typescript, vue, angular  
+**Trending Skills:** react, typescript, vue  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
