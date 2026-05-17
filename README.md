@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend Developer Jobs — 2026
 
-<sub><small>Last updated: May 16, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 17, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Frontend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Unframe]()** | **[Senior Frontend Developer](https://jobr.pro/job/40824556/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | May 17 |
 | **[Agile Defense]()** | **[Full Stack Developer (Frontend Emphasis)](https://jobr.pro/job/40806828/full-stack-developer-frontend-emphasis?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote | Remote | May 15 |
 | **[Teamified]()** | **[Senior Frontend Developer](https://jobr.pro/job/40799884/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India | Remote | May 15 |
 | **[Encora]()** | **[Mid-Level Frontend Developer](https://jobr.pro/job/40788060/mid-level-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Brazil | On Site | May 14 |
@@ -29,7 +30,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 13 jobs | 77% remote | 12 companies | Avg salary: 5000004166679k  
+**Current Stats:** 14 jobs | 71% remote | 13 companies | Avg salary: 5000004166679k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react  
