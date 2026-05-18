@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend Developer Jobs — 2026
 
-<sub><small>Last updated: May 17, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 18, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Frontend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -23,17 +23,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Lamdax]()** | **[Senior Frontend Developer](https://jobr.pro/job/40758653/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Egypt | Remote | May 13 |
 | **[Poland and Eastern Europe]()** | **[Frontend Developer](https://jobr.pro/job/40744038/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bulgaria | On Site | May 12 |
 | **[Inspired Thinking Group (ITG)]()** | **[Lead Frontend Developer](https://jobr.pro/job/40782931/lead-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Birmingham, England, United Kingdom | Remote | May 12 |
-| **[Hire Hangar]()** | **[Frontend-Focused Full Stack Developer](https://jobr.pro/job/40730868/frontend-focused-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Mexico - Mexico City | Remote | May 11 |
-| **[Lightspeed]()** | **[Senior Frontend Developer - React+ AI experience (all genders)](https://jobr.pro/job/40724606/senior-frontend-developer-react-ai-experience-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Berlin | Remote | May 11 |
-| **[Clay]()** | **[Frontend Developer](https://jobr.pro/job/40766414/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Belgrade, Vojvodina, Serbia | Remote | May 11 |
-| **[Khibraty]()** | **[Frontend Developer - Short Term](https://jobr.pro/job/40713215/frontend-developer-short-term?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Riyadh, Riyadh Province, Saudi Arabia | Remote | May 11 |
 
 ---
 
-**Current Stats:** 14 jobs | 71% remote | 13 companies | Avg salary: 5000004166679k  
+**Current Stats:** 10 jobs | 60% remote | 9 companies | Avg salary: 75000063k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** react  
+**Trending Skills:** Various technologies  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
