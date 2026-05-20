@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend Developer Jobs — 2026
 
-<sub><small>Last updated: May 19, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 20, 2026 at 15:43 UTC</small></sub>
 
 This repository collects curated **Frontend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,22 +13,21 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
-| **[HighLevel]()** | **[Software Development Engineer III - Calendars (Frontend)](https://jobr.pro/job/40847322/software-development-engineer-iii-calendars-frontend?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India | Remote | May 19 |
-| **[Hire Hangar]()** | **[Frontend-Focused Full Stack Developer](https://jobr.pro/job/40840950/frontend-focused-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Mexico - Mexico City | Remote | May 18 |
-| **[CareerSwift]()** | **[Frontend Developer (React)](https://jobr.pro/job/40842075/frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | San Francisco Office | Remote | May 18 |
-| **[Unframe]()** | **[Senior Frontend Developer](https://jobr.pro/job/40824556/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | May 17 |
-| **[Agile Defense]()** | **[Full Stack Developer (Frontend Emphasis)](https://jobr.pro/job/40806828/full-stack-developer-frontend-emphasis?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote | Remote | May 15 |
-| **[Teamified]()** | **[Senior Frontend Developer](https://jobr.pro/job/40799884/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India | Remote | May 15 |
-| **[Encora]()** | **[Mid-Level Frontend Developer](https://jobr.pro/job/40788060/mid-level-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Brazil | On Site | May 14 |
-| **[DEPT®]()** | **[Senior Frontend Developer - 12 month FTC](https://jobr.pro/job/40783775/senior-frontend-developer-12-month-ftc?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Toronto, Ontario, Canada | On Site | May 14 |
-| **[robusta]()** | **[Senior Frontend Developer (AEM / CMS Experience) - 6 Months - Octopus by RTG](https://jobr.pro/job/40781908/senior-frontend-developer-aem-cms-experience-6-months-octopus-by-rtg?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Jordan | Remote | May 14 |
-| **[robusta]()** | **[Mid-level Frontend Developer (AEM / CMS Experience) - 6 Months - Octopus by RTG](https://jobr.pro/job/40781904/mid-level-frontend-developer-aem-cms-experience-6-months-octopus-by-rtg?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Jordan | Remote | May 14 |
-| **[Lamdax]()** | **[Senior Frontend Developer](https://jobr.pro/job/40758653/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Egypt | Remote | May 13 |
-| **[Poland and Eastern Europe]()** | **[Frontend Developer](https://jobr.pro/job/40744038/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bulgaria | On Site | May 12 |
+| **[GoCardless](https://gocardless.com)** | **[Software Development Engineer II - Frontend](https://jobr.pro/job/40852862/software-development-engineer-ii-frontend?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | London, UK | On Site | May 19 |
+| **[HighLevel](https://gohighlevel.com)** | **[Software Development Engineer III - Calendars (Frontend)](https://jobr.pro/job/40847322/software-development-engineer-iii-calendars-frontend?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India | Remote | May 19 |
+| **[Hire Hangar](https://hirehangar.com)** | **[Frontend-Focused Full Stack Developer](https://jobr.pro/job/40840950/frontend-focused-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Mexico - Mexico City | Remote | May 18 |
+| **[CareerSwift](https://careerswift.ai/)** | **[Frontend Developer (React)](https://jobr.pro/job/40842075/frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | San Francisco Office | Remote | May 18 |
+| **[Unframe](https://unframeddigital.com)** | **[Senior Frontend Developer](https://jobr.pro/job/40824556/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | May 17 |
+| **[Agile Defense](https://agiledefense.com)** | **[Full Stack Developer (Frontend Emphasis)](https://jobr.pro/job/40806828/full-stack-developer-frontend-emphasis?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote | Remote | May 15 |
+| **[Teamified](https://teamified.io)** | **[Senior Frontend Developer](https://jobr.pro/job/40799884/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India | Remote | May 15 |
+| **[Encora](https://encora.es/)** | **[Mid-Level Frontend Developer](https://jobr.pro/job/40788060/mid-level-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Brazil | On Site | May 14 |
+| **[DEPT®](https://fincen.gov)** | **[Senior Frontend Developer - 12 month FTC](https://jobr.pro/job/40783775/senior-frontend-developer-12-month-ftc?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Toronto, Ontario, Canada | On Site | May 14 |
+| **[robusta](https://robusta-gaukel.com)** | **[Senior Frontend Developer (AEM / CMS Experience) - 6 Months - Octopus by RTG](https://jobr.pro/job/40781908/senior-frontend-developer-aem-cms-experience-6-months-octopus-by-rtg?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Jordan | Remote | May 14 |
+| **[robusta](https://robusta-gaukel.com)** | **[Mid-level Frontend Developer (AEM / CMS Experience) - 6 Months - Octopus by RTG](https://jobr.pro/job/40781904/mid-level-frontend-developer-aem-cms-experience-6-months-octopus-by-rtg?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Jordan | Remote | May 14 |
 
 ---
 
-**Current Stats:** 12 jobs | 67% remote | 11 companies | Avg salary: 12000050000042k  
+**Current Stats:** 11 jobs | 64% remote | 10 companies | Avg salary: 2460009000037500000k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react  
