@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend Developer Jobs — 2026
 
-<sub><small>Last updated: May 21, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: May 21, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Frontend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Encora](https://encora.com)** | **[Mid Frontend Developer (Angular/React)](https://jobr.pro/job/40875100/mid-frontend-developer-angularreact?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Mexico | On Site | May 20 |
+| **[Encora](https://encora.com)** | **[Junior Frontend Developer (Angular/React)](https://jobr.pro/job/40875099/junior-frontend-developer-angularreact?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Mexico | On Site | May 20 |
 | **[Encora](https://encora.es/)** | **[Mid Frontend Developer](https://jobr.pro/job/40872040/mid-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Costa Rica | On Site | May 20 |
 | **[GoCardless](https://gocardless.com)** | **[Software Development Engineer II - Frontend](https://jobr.pro/job/40852862/software-development-engineer-ii-frontend?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | London, UK | On Site | May 19 |
 | **[HighLevel](https://gohighlevel.com)** | **[Software Development Engineer III - Calendars (Frontend)](https://jobr.pro/job/40847322/software-development-engineer-iii-calendars-frontend?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India | Remote | May 19 |
@@ -26,10 +28,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 10 jobs | 50% remote | 9 companies | Avg salary: 2460009000037500000k  
+**Current Stats:** 12 jobs | 42% remote | 9 companies | Avg salary: 2460009000037500000k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** react  
+**Trending Skills:** react, angular  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
