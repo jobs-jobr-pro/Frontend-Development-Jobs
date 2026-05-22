@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend Developer Jobs — 2026
 
-<sub><small>Last updated: May 21, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 22, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Frontend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Kaseya Careers](https://kaseya.com)** | **[Senior Frontend Developer](https://jobr.pro/job/40897326/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Dublin, Ireland | On Site | May 22 |
+| **[Appnovation Technologies](https://bit.ly/3eBiF3c)** | **[Senior Frontend Developer (Contractor - 6 Months)](https://jobr.pro/job/40888159/senior-frontend-developer-contractor-6-months?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Toronto | On Site | May 21 |
+| **[Unframe](https://unframe.pl)** | **[Senior Frontend Developer](https://jobr.pro/job/40884517/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | May 21 |
 | **[Encora](https://encora.com)** | **[Mid Frontend Developer (Angular/React)](https://jobr.pro/job/40875100/mid-frontend-developer-angularreact?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Mexico | On Site | May 20 |
 | **[Encora](https://encora.com)** | **[Junior Frontend Developer (Angular/React)](https://jobr.pro/job/40875099/junior-frontend-developer-angularreact?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Mexico | On Site | May 20 |
 | **[Encora](https://encora.es/)** | **[Mid Frontend Developer](https://jobr.pro/job/40872040/mid-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Costa Rica | On Site | May 20 |
@@ -20,15 +23,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[HighLevel](https://gohighlevel.com)** | **[Software Development Engineer III - Calendars (Frontend)](https://jobr.pro/job/40847322/software-development-engineer-iii-calendars-frontend?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India | Remote | May 19 |
 | **[Hire Hangar](https://hirehangar.com)** | **[Frontend-Focused Full Stack Developer](https://jobr.pro/job/40840950/frontend-focused-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Mexico - Mexico City | Remote | May 18 |
 | **[CareerSwift](https://careerswift.ai/)** | **[Frontend Developer (React)](https://jobr.pro/job/40842075/frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | San Francisco Office | Remote | May 18 |
-| **[Unframe](https://unframeddigital.com)** | **[Senior Frontend Developer](https://jobr.pro/job/40824556/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | May 17 |
 | **[Agile Defense](https://agiledefense.com)** | **[Full Stack Developer (Frontend Emphasis)](https://jobr.pro/job/40806828/full-stack-developer-frontend-emphasis?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote | Remote | May 15 |
-| **[Teamified](https://teamified.io)** | **[Senior Frontend Developer](https://jobr.pro/job/40799884/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India | Remote | May 15 |
-| **[Encora](https://encora.es/)** | **[Mid-Level Frontend Developer](https://jobr.pro/job/40788060/mid-level-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Brazil | On Site | May 14 |
-| **[DEPT®](https://fincen.gov)** | **[Senior Frontend Developer - 12 month FTC](https://jobr.pro/job/40783775/senior-frontend-developer-12-month-ftc?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Toronto, Ontario, Canada | On Site | May 14 |
 
 ---
 
-**Current Stats:** 12 jobs | 42% remote | 9 companies | Avg salary: 2460009000037500000k  
+**Current Stats:** 11 jobs | 36% remote | 9 companies | Avg salary: 3280012000050k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, angular  
