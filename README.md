@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend Developer Jobs — 2026
 
-<sub><small>Last updated: May 24, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 25, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Frontend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -21,12 +21,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Encora](https://encora.es/)** | **[Mid Frontend Developer](https://jobr.pro/job/40872040/mid-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Costa Rica | On Site | May 20 |
 | **[GoCardless](https://gocardless.com)** | **[Software Development Engineer II - Frontend](https://jobr.pro/job/40852862/software-development-engineer-ii-frontend?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | London, UK | On Site | May 19 |
 | **[HighLevel](https://gohighlevel.com)** | **[Software Development Engineer III - Calendars (Frontend)](https://jobr.pro/job/40847322/software-development-engineer-iii-calendars-frontend?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India | Remote | May 19 |
-| **[Hire Hangar](https://hirehangar.com)** | **[Frontend-Focused Full Stack Developer](https://jobr.pro/job/40840950/frontend-focused-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Mexico - Mexico City | Remote | May 18 |
-| **[CareerSwift](https://careerswift.ai/)** | **[Frontend Developer (React)](https://jobr.pro/job/40842075/frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | San Francisco Office | Remote | May 18 |
 
 ---
 
-**Current Stats:** 10 jobs | 30% remote | 8 companies | Avg salary: 4920018k  
+**Current Stats:** 8 jobs | 13% remote | 6 companies | Avg salary: 98k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, angular  
