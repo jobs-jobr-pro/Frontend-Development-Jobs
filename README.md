@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend Developer Jobs — 2026
 
-<sub><small>Last updated: May 27, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 28, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Frontend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,21 +13,19 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Bee Talents](https://beetalents.com)** | **[Senior Frontend Developer \[k/m\] \| RestaurantWeek \[19-24K PLN/mies. B2B\]](https://jobr.pro/job/40962464/senior-frontend-developer-km-restaurantweek-19-24k-plnmies-b2b?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Warszawa | Remote | May 28 |
+| **[iKnowHow S.A.](https://ikh.io)** | **[Frontend Developer (Angular)](https://jobr.pro/job/40953842/frontend-developer-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Neo Psychiko, Attica, Greece | On Site | May 27 |
+| **[Mindrift](https://mindrift.ai)** | **[Freelance Frontend Developer (Landing Pages & Websites)](https://jobr.pro/job/40952472/freelance-frontend-developer-landing-pages-websites?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Portugal | Remote | May 27 |
 | **[Inspired Thinking Group (ITG)](https://inspiredthinking.group)** | **[Contract Lead Frontend Developer](https://jobr.pro/job/40943854/contract-lead-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Birmingham, England, United Kingdom | Remote | May 26 |
 | **[Egon Zehnder](https://www.egonzehnder.com)** | **[Senior Frontend Developer (Angular)](https://jobr.pro/job/40933702/senior-frontend-developer-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Gurugram, Haryana, India | On Site | May 26 |
 | **[Hostinger](https://www.hostinger.com)** | **[Senior Frontend Developer \| Websites Team \| Based in Lithuania](https://jobr.pro/job/40926967/senior-frontend-developer-websites-team-based-in-lithuania?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Vilnius | Remote | May 25 |
 | **[Weekday AI](https://www.weekday.works)** | **[Senior Frontend Developer (React.js)](https://jobr.pro/job/40929162/senior-frontend-developer-reactjs?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Mumbai, Maharashtra, India | On Site | May 25 |
 | **[CI&T](https://ciandt.com)** | **[\[Job-29502\] Frontend Developer (React Native)](https://jobr.pro/job/40927342/job-29502-frontend-developer-react-native?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Brazil | Remote | May 22 |
 | **[Kaseya Careers](https://kaseya.com)** | **[Senior Frontend Developer](https://jobr.pro/job/40897326/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Dublin, Ireland | On Site | May 22 |
-| **[Appnovation Technologies](https://bit.ly/3eBiF3c)** | **[Senior Frontend Developer (Contractor - 6 Months)](https://jobr.pro/job/40888159/senior-frontend-developer-contractor-6-months?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Toronto | On Site | May 21 |
-| **[Unframe](https://unframe.pl)** | **[Senior Frontend Developer](https://jobr.pro/job/40884517/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | May 21 |
-| **[Encora](https://encora.com)** | **[Mid Frontend Developer (Angular/React)](https://jobr.pro/job/40875100/mid-frontend-developer-angularreact?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Mexico | On Site | May 20 |
-| **[Encora](https://encora.com)** | **[Junior Frontend Developer (Angular/React)](https://jobr.pro/job/40875099/junior-frontend-developer-angularreact?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Mexico | On Site | May 20 |
-| **[Encora](https://encora.es/)** | **[Mid Frontend Developer](https://jobr.pro/job/40872040/mid-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Costa Rica | On Site | May 20 |
 
 ---
 
-**Current Stats:** 11 jobs | 27% remote | 9 companies | Avg salary: 91k  
+**Current Stats:** 9 jobs | 56% remote | 9 companies | Avg salary: 91k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, angular  
