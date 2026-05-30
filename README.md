@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend Developer Jobs — 2026
 
-<sub><small>Last updated: May 29, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 30, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Frontend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[CI&T](https://ciandt.com)** | **[\[Job-29645\] Sr Frontend Developer (Angular)](https://jobr.pro/job/40985653/job-29645-sr-frontend-developer-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Brazil | Remote | May 28 |
 | **[Hostinger](https://www.hostinger.com)** | **[Senior Frontend Developer \| Reach \| Based in Lithuania](https://jobr.pro/job/40965131/senior-frontend-developer-reach-based-in-lithuania?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Vilnius | Remote | May 28 |
 | **[Bee Talents](https://beetalents.com)** | **[Senior Frontend Developer \[k/m\] \| RestaurantWeek \[19-24K PLN/mies. B2B\]](https://jobr.pro/job/40962464/senior-frontend-developer-km-restaurantweek-19-24k-plnmies-b2b?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Warszawa | Remote | May 28 |
 | **[iKnowHow S.A.](https://ikh.io)** | **[Frontend Developer (Angular)](https://jobr.pro/job/40953842/frontend-developer-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Neo Psychiko, Attica, Greece | On Site | May 27 |
@@ -21,7 +22,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Egon Zehnder](https://www.egonzehnder.com)** | **[Senior Frontend Developer (Angular)](https://jobr.pro/job/40933702/senior-frontend-developer-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Gurugram, Haryana, India | On Site | May 26 |
 | **[Hostinger](https://www.hostinger.com)** | **[Senior Frontend Developer \| Websites Team \| Based in Lithuania](https://jobr.pro/job/40926967/senior-frontend-developer-websites-team-based-in-lithuania?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Vilnius | Remote | May 25 |
 | **[Weekday AI](https://www.weekday.works)** | **[Senior Frontend Developer (React.js)](https://jobr.pro/job/40929162/senior-frontend-developer-reactjs?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Mumbai, Maharashtra, India | On Site | May 25 |
-| **[CI&T](https://ciandt.com)** | **[\[Job-29502\] Frontend Developer (React Native)](https://jobr.pro/job/40927342/job-29502-frontend-developer-react-native?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Brazil | Remote | May 22 |
 
 ---
 
