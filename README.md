@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend Developer Jobs — 2026
 
-<sub><small>Last updated: May 31, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: Jun 01, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Frontend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -20,15 +20,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Mindrift](https://mindrift.ai)** | **[Freelance Frontend Developer (Landing Pages & Websites)](https://jobr.pro/job/40952472/freelance-frontend-developer-landing-pages-websites?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Portugal | Remote | May 27 |
 | **[Inspired Thinking Group (ITG)](https://inspiredthinking.group)** | **[Contract Lead Frontend Developer](https://jobr.pro/job/40943854/contract-lead-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Birmingham, England, United Kingdom | Remote | May 26 |
 | **[Egon Zehnder](https://www.egonzehnder.com)** | **[Senior Frontend Developer (Angular)](https://jobr.pro/job/40933702/senior-frontend-developer-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Gurugram, Haryana, India | On Site | May 26 |
-| **[Hostinger](https://www.hostinger.com)** | **[Senior Frontend Developer \| Websites Team \| Based in Lithuania](https://jobr.pro/job/40926967/senior-frontend-developer-websites-team-based-in-lithuania?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Vilnius | Remote | May 25 |
-| **[Weekday AI](https://www.weekday.works)** | **[Senior Frontend Developer (React.js)](https://jobr.pro/job/40929162/senior-frontend-developer-reactjs?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Mumbai, Maharashtra, India | On Site | May 25 |
 
 ---
 
-**Current Stats:** 9 jobs | 67% remote | 8 companies | Avg salary: 4560046k  
+**Current Stats:** 7 jobs | 71% remote | 7 companies | Avg salary: 91k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** react, angular  
+**Trending Skills:** angular  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
