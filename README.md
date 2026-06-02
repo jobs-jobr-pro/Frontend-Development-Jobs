@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 01, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: Jun 02, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Frontend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,17 +13,17 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[AppDirect](https://appdirect.com)** | **[Software Developer - Frontend](https://jobr.pro/job/41001493/software-developer-frontend?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Montreal | On Site | Jun 01 |
+| **[_nology](https://nologytv.com/)** | **[Frontend Developer](https://jobr.pro/job/41010595/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | London, England, United Kingdom | On Site | Jun 01 |
 | **[CI&T](https://ciandt.com)** | **[\[Job-29645\] Sr Frontend Developer (Angular)](https://jobr.pro/job/40985653/job-29645-sr-frontend-developer-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Brazil | Remote | May 28 |
 | **[Hostinger](https://www.hostinger.com)** | **[Senior Frontend Developer \| Reach \| Based in Lithuania](https://jobr.pro/job/40965131/senior-frontend-developer-reach-based-in-lithuania?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Vilnius | Remote | May 28 |
 | **[Bee Talents](https://beetalents.com)** | **[Senior Frontend Developer \[k/m\] \| RestaurantWeek \[19-24K PLN/mies. B2B\]](https://jobr.pro/job/40962464/senior-frontend-developer-km-restaurantweek-19-24k-plnmies-b2b?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Warszawa | Remote | May 28 |
 | **[iKnowHow S.A.](https://ikh.io)** | **[Frontend Developer (Angular)](https://jobr.pro/job/40953842/frontend-developer-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Neo Psychiko, Attica, Greece | On Site | May 27 |
 | **[Mindrift](https://mindrift.ai)** | **[Freelance Frontend Developer (Landing Pages & Websites)](https://jobr.pro/job/40952472/freelance-frontend-developer-landing-pages-websites?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Portugal | Remote | May 27 |
-| **[Inspired Thinking Group (ITG)](https://inspiredthinking.group)** | **[Contract Lead Frontend Developer](https://jobr.pro/job/40943854/contract-lead-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Birmingham, England, United Kingdom | Remote | May 26 |
-| **[Egon Zehnder](https://www.egonzehnder.com)** | **[Senior Frontend Developer (Angular)](https://jobr.pro/job/40933702/senior-frontend-developer-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Gurugram, Haryana, India | On Site | May 26 |
 
 ---
 
-**Current Stats:** 7 jobs | 71% remote | 7 companies | Avg salary: 91k  
+**Current Stats:** 7 jobs | 57% remote | 7 companies | Avg salary: 91k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** angular  
