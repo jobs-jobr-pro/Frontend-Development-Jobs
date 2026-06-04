@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 03, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: Jun 04, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Frontend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[GT. Boutique tech partner.](https://www.gt-hq.com/career)** | **[Frontend Developer (Vue.js) \| Special Project Music (YBHQ)](https://jobr.pro/job/41038222/frontend-developer-vuejs-special-project-music-ybhq?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote (Europe-based candidates only) | Remote | Jun 04 |
+| **[Fuku](https://eatfuku.com)** | **[前端开发工程师 / Frontend Developer](https://jobr.pro/job/41036308/-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Shanghai, Shanghai, China | On Site | Jun 04 |
+| **[NEORIS](https://www.neoris.com)** | **[Frontend Developer - Sector financiero](https://jobr.pro/job/41029753/frontend-developer-sector-financiero?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Colombia; Peru | On Site | Jun 03 |
+| **[Capco](https://capco.com)** | **[Frontend Developer - Vue.js (Sun-Thu work schedule) (She/He/They)](https://jobr.pro/job/41025474/frontend-developer-vuejs-sun-thu-work-schedule-shehethey?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Poland | On Site | Jun 03 |
 | **[Xsolla](https://xsolla.com)** | **[Senior Frontend Software Developer](https://jobr.pro/job/41020878/senior-frontend-software-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Canada | Remote | Jun 02 |
 | **[Capco](https://capcom.com)** | **[Frontend Developer (React & Angular) - Contract role](https://jobr.pro/job/41016475/frontend-developer-react-angular-contract-role?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Canada - Toronto | On Site | Jun 02 |
 | **[Globaldev Group](https://globaldev.tech/)** | **[Senior Full Stack Developer (React/FastAPI/Django) - Frontend-Focused](https://jobr.pro/job/41019616/senior-full-stack-developer-reactfastapidjango-frontend-focused?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Armenia | Remote | Jun 02 |
@@ -20,15 +24,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[_nology](https://nologytv.com/)** | **[Frontend Developer](https://jobr.pro/job/41010595/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | London, England, United Kingdom | On Site | Jun 01 |
 | **[adjoe](https://adjoe.io)** | **[Senior Frontend Developer (f/m/d)](https://jobr.pro/job/41013714/senior-frontend-developer-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Hamburg | Remote | May 29 |
 | **[CI&T](https://ciandt.com)** | **[\[Job-29645\] Sr Frontend Developer (Angular)](https://jobr.pro/job/40985653/job-29645-sr-frontend-developer-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Brazil | Remote | May 28 |
-| **[Hostinger](https://www.hostinger.com)** | **[Senior Frontend Developer \| Reach \| Based in Lithuania](https://jobr.pro/job/40965131/senior-frontend-developer-reach-based-in-lithuania?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Vilnius | Remote | May 28 |
-| **[Bee Talents](https://beetalents.com)** | **[Senior Frontend Developer \[k/m\] \| RestaurantWeek \[19-24K PLN/mies. B2B\]](https://jobr.pro/job/40962464/senior-frontend-developer-km-restaurantweek-19-24k-plnmies-b2b?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Warszawa | Remote | May 28 |
 
 ---
 
-**Current Stats:** 9 jobs | 67% remote | 9 companies | Avg salary: 4333338400030k  
+**Current Stats:** 11 jobs | 45% remote | 10 companies | Avg salary: 65000076k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** react, angular  
+**Trending Skills:** react, vue, angular  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
