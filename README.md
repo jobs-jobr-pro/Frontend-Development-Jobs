@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 05, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: Jun 06, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Frontend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[iKnowHow S.A.](https://ikh.io)** | **[Frontend Developer (Angular)](https://jobr.pro/job/41058145/frontend-developer-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Neo Psychiko, Attica, Greece | On Site | Jun 05 |
 | **[GT. Boutique tech partner.](https://www.gt-hq.com/career)** | **[Frontend Developer (Vue.js) \| Special Project Music (YBHQ)](https://jobr.pro/job/41038222/frontend-developer-vuejs-special-project-music-ybhq?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote (Europe-based candidates only) | Remote | Jun 04 |
 | **[Fuku](https://eatfuku.com)** | **[前端开发工程师 / Frontend Developer](https://jobr.pro/job/41036308/-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Shanghai, Shanghai, China | On Site | Jun 04 |
 | **[NEORIS](https://www.neoris.com)** | **[Frontend Developer - Sector financiero](https://jobr.pro/job/41029753/frontend-developer-sector-financiero?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Colombia; Peru | On Site | Jun 03 |
@@ -23,11 +24,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Globaldev Group](https://globaldev.tech/)** | **[Senior Full Stack Developer (React/FastAPI/Django) - Frontend-Focused](https://jobr.pro/job/41019616/senior-full-stack-developer-reactfastapidjango-frontend-focused?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Armenia | Remote | Jun 02 |
 | **[AppDirect](https://appdirect.com)** | **[Software Developer - Frontend](https://jobr.pro/job/41001493/software-developer-frontend?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Montreal | On Site | Jun 01 |
 | **[_nology](https://nologytv.com/)** | **[Frontend Developer](https://jobr.pro/job/41010595/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | London, England, United Kingdom | On Site | Jun 01 |
-| **[adjoe](https://adjoe.io)** | **[Senior Frontend Developer (f/m/d)](https://jobr.pro/job/41013714/senior-frontend-developer-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Hamburg | Remote | May 29 |
 
 ---
 
-**Current Stats:** 11 jobs | 45% remote | 10 companies | Avg salary: 65000076k  
+**Current Stats:** 11 jobs | 36% remote | 10 companies | Avg salary: 65000076k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, vue, angular  
