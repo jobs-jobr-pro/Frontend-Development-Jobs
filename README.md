@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 07, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 08, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Frontend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -23,11 +23,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Optiplay](http://vionica.io)** | **[Senior Frontend Developer / Pixi.js](https://jobr.pro/job/41042571/senior-frontend-developer-pixijs?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Cyprus | Remote | Jun 02 |
 | **[Globaldev Group](https://globaldev.tech/)** | **[Senior Full Stack Developer (React/FastAPI/Django) - Frontend-Focused](https://jobr.pro/job/41019616/senior-full-stack-developer-reactfastapidjango-frontend-focused?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Armenia | Remote | Jun 02 |
 | **[AppDirect](https://appdirect.com)** | **[Software Developer - Frontend](https://jobr.pro/job/41001493/software-developer-frontend?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Montreal | On Site | Jun 01 |
-| **[_nology](https://nologytv.com/)** | **[Frontend Developer](https://jobr.pro/job/41010595/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | London, England, United Kingdom | On Site | Jun 01 |
 
 ---
 
-**Current Stats:** 11 jobs | 36% remote | 10 companies | Avg salary: 65000076k  
+**Current Stats:** 10 jobs | 40% remote | 9 companies | Avg salary: 65000076k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, vue, angular  
