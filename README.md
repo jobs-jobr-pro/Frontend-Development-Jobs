@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 08, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 09, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Frontend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Unity Technologies](https://unitytec.com)** | **[Développeuse ou développeur d’applications frontales (frontend) sénior, Asset Manager / Senior Frontend Developer, Asset Manager](https://jobr.pro/job/41074201/developpeuse-ou-developpeur-dapplications-frontales-frontend-senior-asset-manager-senior-frontend-developer-asset-manager?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Montreal, Canada | On Site | Jun 08 |
+| **[Netguru](http://netguru.com/career)** | **[(Senior) Frontend Developer - Angular - Freelance](https://jobr.pro/job/41074102/senior-frontend-developer-angular-freelance?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Poland | Remote | Jun 08 |
+| **[Innovaccer Analytics](https://innovaccer.com)** | **[4192-Software Development Engineer-II (AI Frontend)](https://jobr.pro/job/41073393/4192-software-development-engineer-ii-ai-frontend?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Noida, Uttar Pradesh, India | On Site | Jun 08 |
 | **[Mindrift](https://mindrift.ai)** | **[Freelance Frontend Developer (Landing Pages & Websites)](https://jobr.pro/job/41073004/freelance-frontend-developer-landing-pages-websites?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Hyderabad, Telangana, India | Remote | Jun 08 |
 | **[FP Markets](http://fpmarkets.com.au)** | **[Senior Frontend Developer](https://jobr.pro/job/41071407/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Limassol, Limassol, Cyprus | On Site | Jun 08 |
 | **[iKnowHow S.A.](https://ikh.io)** | **[Frontend Developer (Angular)](https://jobr.pro/job/41058145/frontend-developer-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Neo Psychiko, Attica, Greece | On Site | Jun 05 |
@@ -22,12 +25,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Capco](https://capco.com)** | **[Frontend Developer - Vue.js (Sun-Thu work schedule) (She/He/They)](https://jobr.pro/job/41025474/frontend-developer-vuejs-sun-thu-work-schedule-shehethey?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Poland | On Site | Jun 03 |
 | **[Xsolla](https://xsolla.com)** | **[Senior Frontend Software Developer](https://jobr.pro/job/41020878/senior-frontend-software-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Canada | Remote | Jun 02 |
 | **[Capco](https://capcom.com)** | **[Frontend Developer (React & Angular) - Contract role](https://jobr.pro/job/41016475/frontend-developer-react-angular-contract-role?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Canada - Toronto | On Site | Jun 02 |
-| **[Optiplay](http://vionica.io)** | **[Senior Frontend Developer / Pixi.js](https://jobr.pro/job/41042571/senior-frontend-developer-pixijs?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Cyprus | Remote | Jun 02 |
-| **[Globaldev Group](https://globaldev.tech/)** | **[Senior Full Stack Developer (React/FastAPI/Django) - Frontend-Focused](https://jobr.pro/job/41019616/senior-full-stack-developer-reactfastapidjango-frontend-focused?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Armenia | Remote | Jun 02 |
 
 ---
 
-**Current Stats:** 11 jobs | 45% remote | 10 companies | Avg salary: 65000076k  
+**Current Stats:** 12 jobs | 33% remote | 11 companies | Avg salary: 65000076k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, vue, angular  
