@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 09, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 09, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **Frontend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -24,15 +24,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Fuku](https://eatfuku.com)** | **[前端开发工程师 / Frontend Developer](https://jobr.pro/job/41036308/-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Shanghai, Shanghai, China | On Site | Jun 04 |
 | **[NEORIS](https://www.neoris.com)** | **[Frontend Developer - Sector financiero](https://jobr.pro/job/41029753/frontend-developer-sector-financiero?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Colombia; Peru | On Site | Jun 03 |
 | **[Capco](https://capco.com)** | **[Frontend Developer - Vue.js (Sun-Thu work schedule) (She/He/They)](https://jobr.pro/job/41025474/frontend-developer-vuejs-sun-thu-work-schedule-shehethey?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Poland | On Site | Jun 03 |
-| **[Xsolla](https://xsolla.com)** | **[Senior Frontend Software Developer](https://jobr.pro/job/41020878/senior-frontend-software-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Canada | Remote | Jun 02 |
-| **[Capco](https://capcom.com)** | **[Frontend Developer (React & Angular) - Contract role](https://jobr.pro/job/41016475/frontend-developer-react-angular-contract-role?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Canada - Toronto | On Site | Jun 02 |
 
 ---
 
-**Current Stats:** 13 jobs | 31% remote | 12 companies | Avg salary: 65000076k  
+**Current Stats:** 11 jobs | 27% remote | 11 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** react, vue, angular  
+**Trending Skills:** vue, angular  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
