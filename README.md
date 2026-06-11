@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 11, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 11, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **Frontend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Scalian](https://www.scalian.com)** | **[Frontend developer](https://jobr.pro/job/41154542/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Madrid, , Spain | Remote | Jun 11 |
+| **[Sensor Tower](https://sensortower.com)** | **[Mid/Senior Frontend Developer](https://jobr.pro/job/41155001/midsenior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Warsaw, Poland | Remote | Jun 11 |
+| **[DEPT®](https://fincen.gov)** | **[Frontend Developer](https://jobr.pro/job/41149150/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Amsterdam, Roterdam | On Site | Jun 11 |
+| **[Up Hellas](http://uphellas.gr)** | **[Frontend Developer](https://jobr.pro/job/41152728/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Athens, Attica, Greece | On Site | Jun 11 |
 | **[Haufe Group](https://haufegroup.com)** | **[Senior Frontend Developer mit UX-Mindset (d/m/w)](https://jobr.pro/job/41137821/senior-frontend-developer-mit-ux-mindset-dmw?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Freiburg im Breisgau, Baden-Württemberg, Germany | Remote | Jun 10 |
 | **[Toss](https://www.tossandspin.com/)** | **[Frontend Developer (당근)](https://jobr.pro/job/41119721/frontend-developer-?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Seoul | On Site | Jun 10 |
 | **[Flipper](https://flipper.net)** | **[Middle Frontend Developer](https://jobr.pro/job/41118150/middle-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Global Remote | Remote | Jun 09 |
@@ -29,7 +33,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 13 jobs | 31% remote | 12 companies | Avg salary: Not specified  
+**Current Stats:** 17 jobs | 35% remote | 16 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, typescript, angular  
