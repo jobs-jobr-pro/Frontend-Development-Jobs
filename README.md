@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 11, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 11, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Frontend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -26,14 +26,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Mindrift](https://mindrift.ai)** | **[Freelance Frontend Developer (Landing Pages & Websites)](https://jobr.pro/job/41073004/freelance-frontend-developer-landing-pages-websites?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Hyderabad, Telangana, India | Remote | Jun 08 |
 | **[FP Markets](http://fpmarkets.com.au)** | **[Senior Frontend Developer](https://jobr.pro/job/41071407/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Limassol, Limassol, Cyprus | On Site | Jun 08 |
 | **[iKnowHow S.A.](https://ikh.io)** | **[Frontend Developer (Angular)](https://jobr.pro/job/41058145/frontend-developer-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Neo Psychiko, Attica, Greece | On Site | Jun 05 |
-| **[GT. Boutique tech partner.](https://www.gt-hq.com/career)** | **[Frontend Developer (Vue.js) \| Special Project Music (YBHQ)](https://jobr.pro/job/41038222/frontend-developer-vuejs-special-project-music-ybhq?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote (Europe-based candidates only) | Remote | Jun 04 |
 
 ---
 
-**Current Stats:** 14 jobs | 36% remote | 13 companies | Avg salary: Not specified  
+**Current Stats:** 13 jobs | 31% remote | 12 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** react, typescript, vue, angular  
+**Trending Skills:** react, typescript, angular  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
