@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 11, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 12, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Frontend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -29,11 +29,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Innovaccer Analytics](https://innovaccer.com)** | **[4192-Software Development Engineer-II (AI Frontend)](https://jobr.pro/job/41073393/4192-software-development-engineer-ii-ai-frontend?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Noida, Uttar Pradesh, India | On Site | Jun 08 |
 | **[Mindrift](https://mindrift.ai)** | **[Freelance Frontend Developer (Landing Pages & Websites)](https://jobr.pro/job/41073004/freelance-frontend-developer-landing-pages-websites?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Hyderabad, Telangana, India | Remote | Jun 08 |
 | **[FP Markets](http://fpmarkets.com.au)** | **[Senior Frontend Developer](https://jobr.pro/job/41071407/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Limassol, Limassol, Cyprus | On Site | Jun 08 |
-| **[iKnowHow S.A.](https://ikh.io)** | **[Frontend Developer (Angular)](https://jobr.pro/job/41058145/frontend-developer-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Neo Psychiko, Attica, Greece | On Site | Jun 05 |
 
 ---
 
-**Current Stats:** 17 jobs | 35% remote | 16 companies | Avg salary: Not specified  
+**Current Stats:** 16 jobs | 38% remote | 15 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, typescript, angular  
