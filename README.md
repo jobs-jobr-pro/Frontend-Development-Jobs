@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 12, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 13, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Frontend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[DEPT®](https://fincen.gov)** | **[Senior Frontend Developer - Design/Motion](https://jobr.pro/job/41177759/senior-frontend-developer-designmotion?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Toronto, Ontario, Canada | On Site | Jun 12 |
 | **[Stay22](https://stay22.com)** | **[Senior Frontend Developer - Phantom](https://jobr.pro/job/41171373/senior-frontend-developer-phantom?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Montreal HQ | Remote | Jun 11 |
 | **[Scalian](https://www.scalian.com)** | **[Frontend developer](https://jobr.pro/job/41154542/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Madrid, , Spain | Remote | Jun 11 |
 | **[Sensor Tower](https://sensortower.com)** | **[Mid/Senior Frontend Developer](https://jobr.pro/job/41155001/midsenior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Warsaw, Poland | Remote | Jun 11 |
@@ -33,7 +34,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 17 jobs | 41% remote | 16 companies | Avg salary: Not specified  
+**Current Stats:** 18 jobs | 39% remote | 16 companies | Avg salary: 125k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, typescript, angular  
