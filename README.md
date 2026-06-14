@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 14, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 14, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Frontend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Hyphen Connect Limited](https://hyphenconnect.ai)** | **[Web3 Frontend Developer (UX)](https://jobr.pro/job/41189443/web3-frontend-developer-ux?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | APAC | On Site | Jun 14 |
 | **[DEPT®](https://fincen.gov)** | **[Senior Frontend Developer - Design/Motion](https://jobr.pro/job/41177759/senior-frontend-developer-designmotion?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Toronto, Ontario, Canada | On Site | Jun 12 |
 | **[CareerSwift](https://careerswift.ai)** | **[Frontend Developer (React)](https://jobr.pro/job/41183959/frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | San Francisco Office | Remote | Jun 12 |
 | **[Stay22](https://stay22.com)** | **[Senior Frontend Developer - Phantom](https://jobr.pro/job/41171373/senior-frontend-developer-phantom?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Montreal HQ | Remote | Jun 11 |
@@ -35,7 +36,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 19 jobs | 42% remote | 17 companies | Avg salary: 125k  
+**Current Stats:** 20 jobs | 40% remote | 18 companies | Avg salary: 125k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, typescript, angular  
