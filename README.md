@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 15, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 15, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **Frontend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -23,17 +23,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[DEPT®](https://fincen.gov)** | **[Frontend Developer](https://jobr.pro/job/41149150/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Amsterdam, Roterdam | On Site | Jun 11 |
 | **[Up Hellas](http://uphellas.gr)** | **[Frontend Developer](https://jobr.pro/job/41152728/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Athens, Attica, Greece | On Site | Jun 11 |
 | **[Haufe Group](https://haufegroup.com)** | **[Senior Frontend Developer mit UX-Mindset (d/m/w)](https://jobr.pro/job/41137821/senior-frontend-developer-mit-ux-mindset-dmw?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Freiburg im Breisgau, Baden-Württemberg, Germany | Remote | Jun 10 |
-| **[Toss](https://www.tossandspin.com/)** | **[Frontend Developer (당근)](https://jobr.pro/job/41119721/frontend-developer-?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Seoul | On Site | Jun 10 |
 | **[Flipper](https://flipper.net)** | **[Middle Frontend Developer](https://jobr.pro/job/41118150/middle-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Global Remote | Remote | Jun 09 |
-| **[Referrals Only]()** | **[Senior Consultant: Frontend Developer](https://jobr.pro/job/41080660/senior-consultant-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bangalore | On Site | Jun 09 |
 | **[Freedx](https://freedx.com)** | **[Senior Frontend Developer (React, TypeScript)](https://jobr.pro/job/41116349/senior-frontend-developer-react-typescript?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Yerevan, Yerevan, Armenia | On Site | Jun 09 |
 | **[SSC HR Solutions](https://ssc-hr.com/)** | **[Senior Frontend Developer - Banking Sector](https://jobr.pro/job/41115616/senior-frontend-developer-banking-sector?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Cairo, Cairo Governorate, Egypt | On Site | Jun 09 |
 | **[SSC HR Solutions](https://ssc-hr.com/)** | **[Intermediate Frontend Developer - Banking Sector](https://jobr.pro/job/41115612/intermediate-frontend-developer-banking-sector?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Cairo, Cairo Governorate, Egypt | On Site | Jun 09 |
-| **[Unity Technologies](https://unitytec.com)** | **[Développeuse ou développeur d’applications frontales (frontend) sénior, Asset Manager / Senior Frontend Developer, Asset Manager](https://jobr.pro/job/41074201/developpeuse-ou-developpeur-dapplications-frontales-frontend-senior-asset-manager-senior-frontend-developer-asset-manager?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Montreal, Canada | On Site | Jun 08 |
 
 ---
 
-**Current Stats:** 17 jobs | 35% remote | 15 companies | Avg salary: 125k  
+**Current Stats:** 14 jobs | 43% remote | 12 companies | Avg salary: 125k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, typescript  
