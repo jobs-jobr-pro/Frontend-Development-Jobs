@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 15, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 16, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Frontend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[CareerSwift](https://careerswift.ai)** | **[Frontend Developer (React) Junior/Mid](https://jobr.pro/job/41202154/frontend-developer-react-juniormid?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | San Francisco Office | Remote | Jun 15 |
 | **[Weekday AI](https://www.weekday.works)** | **[Frontend Developer](https://jobr.pro/job/41195842/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Mumbai, Maharashtra, India | On Site | Jun 15 |
 | **[Hyphen Connect Limited](https://hyphenconnect.ai)** | **[Web3 Frontend Developer (UX)](https://jobr.pro/job/41189443/web3-frontend-developer-ux?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | APAC | On Site | Jun 14 |
 | **[DEPT®](https://fincen.gov)** | **[Senior Frontend Developer - Design/Motion](https://jobr.pro/job/41177759/senior-frontend-developer-designmotion?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Toronto, Ontario, Canada | On Site | Jun 12 |
@@ -24,16 +25,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Up Hellas](http://uphellas.gr)** | **[Frontend Developer](https://jobr.pro/job/41152728/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Athens, Attica, Greece | On Site | Jun 11 |
 | **[Haufe Group](https://haufegroup.com)** | **[Senior Frontend Developer mit UX-Mindset (d/m/w)](https://jobr.pro/job/41137821/senior-frontend-developer-mit-ux-mindset-dmw?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Freiburg im Breisgau, Baden-Württemberg, Germany | Remote | Jun 10 |
 | **[Flipper](https://flipper.net)** | **[Middle Frontend Developer](https://jobr.pro/job/41118150/middle-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Global Remote | Remote | Jun 09 |
-| **[Freedx](https://freedx.com)** | **[Senior Frontend Developer (React, TypeScript)](https://jobr.pro/job/41116349/senior-frontend-developer-react-typescript?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Yerevan, Yerevan, Armenia | On Site | Jun 09 |
-| **[SSC HR Solutions](https://ssc-hr.com/)** | **[Senior Frontend Developer - Banking Sector](https://jobr.pro/job/41115616/senior-frontend-developer-banking-sector?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Cairo, Cairo Governorate, Egypt | On Site | Jun 09 |
-| **[SSC HR Solutions](https://ssc-hr.com/)** | **[Intermediate Frontend Developer - Banking Sector](https://jobr.pro/job/41115612/intermediate-frontend-developer-banking-sector?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Cairo, Cairo Governorate, Egypt | On Site | Jun 09 |
 
 ---
 
-**Current Stats:** 14 jobs | 43% remote | 12 companies | Avg salary: 125k  
+**Current Stats:** 12 jobs | 58% remote | 10 companies | Avg salary: 125k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** react, typescript  
+**Trending Skills:** react  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
