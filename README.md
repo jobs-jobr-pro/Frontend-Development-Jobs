@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 16, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 17, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Frontend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -14,6 +14,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Jobs for Humanity](https://www.jobsforhumanity.com)** | **[Frontend Web Developer (Riyadh)](https://jobr.pro/job/41219208/frontend-web-developer-riyadh?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Riyadh, , Saudi Arabia | On Site | Jun 16 |
+| **[NEORIS](https://www.emis.com)** | **[Frontend Developer JS Junior](https://jobr.pro/job/41221399/frontend-developer-js-junior?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lima, Peru | On Site | Jun 16 |
 | **[Sopra Steria](https://www.soprasteria.com)** | **[Software Developer for Test Frameworks Frontend Services \[26097\]](https://jobr.pro/job/41215638/software-developer-for-test-frameworks-frontend-services-26097?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Manching, BY, Germany | On Site | Jun 16 |
 | **[Global Career Website](https://astoundcommerce.com)** | **[Frontend Developer (React.js)](https://jobr.pro/job/41215208/frontend-developer-reactjs?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Ukraine, Remote | Remote | Jun 15 |
 | **[CareerSwift](https://careerswift.ai)** | **[Frontend Developer (React) Junior/Mid](https://jobr.pro/job/41202154/frontend-developer-react-juniormid?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | San Francisco Office | Remote | Jun 15 |
@@ -30,7 +31,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 14 jobs | 50% remote | 12 companies | Avg salary: 125k  
+**Current Stats:** 15 jobs | 47% remote | 13 companies | Avg salary: 125k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react  
