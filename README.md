@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 17, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 17, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Frontend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[HighLevel](https://gohighlevel.com)** | **[Software Development Engineer II - Calendars (Frontend)](https://jobr.pro/job/41234331/software-development-engineer-ii-calendars-frontend?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India | Remote | Jun 17 |
+| **[Talan](https://www.talan.com)** | **[Frontend Senior Developer (AI‑Native)](https://jobr.pro/job/41232094/frontend-senior-developer-ainative?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Córdoba, Córdoba Province, Argentina | Remote | Jun 17 |
+| **[Flyte Solutions Ltd](https://www.flytesolutions.com)** | **[UI/UX Designer & React Frontend Developer](https://jobr.pro/job/41229871/uiux-designer-react-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Dhaka, , Bangladesh | On Site | Jun 17 |
+| **[SkyCell AG](http://www.skycell.ch)** | **[Senior Frontend Developer (m/f/d)](https://jobr.pro/job/41231139/senior-frontend-developer-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Poland | Remote | Jun 17 |
+| **[Vista Group](https://vistagroup.co.nz)** | **[Intermediate Frontend Developer](https://jobr.pro/job/41229766/intermediate-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Cape Town, Western Cape, South Africa | On Site | Jun 17 |
 | **[Jobs for Humanity](https://www.jobsforhumanity.com)** | **[Frontend Web Developer (Riyadh)](https://jobr.pro/job/41219208/frontend-web-developer-riyadh?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Riyadh, , Saudi Arabia | On Site | Jun 16 |
 | **[NEORIS](https://www.emis.com)** | **[Frontend Developer JS Junior](https://jobr.pro/job/41221399/frontend-developer-js-junior?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lima, Peru | On Site | Jun 16 |
 | **[Sopra Steria](https://www.soprasteria.com)** | **[Software Developer for Test Frameworks Frontend Services \[26097\]](https://jobr.pro/job/41215638/software-developer-for-test-frameworks-frontend-services-26097?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Manching, BY, Germany | On Site | Jun 16 |
@@ -30,7 +35,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 14 jobs | 43% remote | 12 companies | Avg salary: 125k  
+**Current Stats:** 19 jobs | 47% remote | 17 companies | Avg salary: 125k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react  
