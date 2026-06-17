@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 17, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 17, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **Frontend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,9 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Endava](https://www.endava.com)** | **[Senior Frontend Vue.js Developer](https://jobr.pro/job/41240176/senior-frontend-vuejs-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bogotá, BOGOTA D.C., Colombia | Remote | Jun 17 |
 | **[HighLevel](https://gohighlevel.com)** | **[Software Development Engineer II - Calendars (Frontend)](https://jobr.pro/job/41234331/software-development-engineer-ii-calendars-frontend?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India | Remote | Jun 17 |
 | **[Talan](https://www.talan.com)** | **[Frontend Senior Developer (AI‑Native)](https://jobr.pro/job/41232094/frontend-senior-developer-ainative?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Córdoba, Córdoba Province, Argentina | Remote | Jun 17 |
 | **[Flyte Solutions Ltd](https://www.flytesolutions.com)** | **[UI/UX Designer & React Frontend Developer](https://jobr.pro/job/41229871/uiux-designer-react-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Dhaka, , Bangladesh | On Site | Jun 17 |
+| **[AI2CYBER](https://ai2cyber.com)** | **[Frontend Developer](https://jobr.pro/job/41238008/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Greece | Remote | Jun 17 |
 | **[SkyCell AG](http://www.skycell.ch)** | **[Senior Frontend Developer (m/f/d)](https://jobr.pro/job/41231139/senior-frontend-developer-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Poland | Remote | Jun 17 |
 | **[Vista Group](https://vistagroup.co.nz)** | **[Intermediate Frontend Developer](https://jobr.pro/job/41229766/intermediate-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Cape Town, Western Cape, South Africa | On Site | Jun 17 |
 | **[Jobs for Humanity](https://www.jobsforhumanity.com)** | **[Frontend Web Developer (Riyadh)](https://jobr.pro/job/41219208/frontend-web-developer-riyadh?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Riyadh, , Saudi Arabia | On Site | Jun 16 |
@@ -31,14 +33,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Sensor Tower](https://sensortower.com)** | **[Mid/Senior Frontend Developer](https://jobr.pro/job/41155001/midsenior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Warsaw, Poland | Remote | Jun 11 |
 | **[DEPT®](https://fincen.gov)** | **[Frontend Developer](https://jobr.pro/job/41149150/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Amsterdam, Roterdam | On Site | Jun 11 |
 | **[Up Hellas](http://uphellas.gr)** | **[Frontend Developer](https://jobr.pro/job/41152728/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Athens, Attica, Greece | On Site | Jun 11 |
-| **[Haufe Group](https://haufegroup.com)** | **[Senior Frontend Developer mit UX-Mindset (d/m/w)](https://jobr.pro/job/41137821/senior-frontend-developer-mit-ux-mindset-dmw?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Freiburg im Breisgau, Baden-Württemberg, Germany | Remote | Jun 10 |
 
 ---
 
-**Current Stats:** 19 jobs | 47% remote | 17 companies | Avg salary: 125k  
+**Current Stats:** 20 jobs | 50% remote | 18 companies | Avg salary: 125k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** react  
+**Trending Skills:** react, vue  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
