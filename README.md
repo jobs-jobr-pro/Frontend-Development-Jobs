@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 18, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 18, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **Frontend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Netcompany](https://netcompany.com)** | **[Senior Frontend Developer](https://jobr.pro/job/41259765/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Copenhagen or Aarhus, , Denmark | On Site | Jun 18 |
+| **[Atabix](https://atabix.com)** | **[Stage/Internship FrontEnd Developer](https://jobr.pro/job/41260376/stageinternship-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Amsterdam Office | Remote | Jun 18 |
 | **[Inetum](https://www.inetum.com)** | **[Frontend Developer (Aveiro)](https://jobr.pro/job/41257614/frontend-developer-aveiro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Aveiro, Aveiro District, Portugal | Remote | Jun 18 |
 | **[Endava](https://www.endava.com)** | **[Senior Frontend Vue.js Developer](https://jobr.pro/job/41245048/senior-frontend-vuejs-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Medellín, Antioquia, Colombia | Remote | Jun 17 |
 | **[OnHires](https://onhires.com)** | **[Senior Frontend Developer (React & React Native)](https://jobr.pro/job/41242994/senior-frontend-developer-react-react-native?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Ukraine | Remote | Jun 17 |
@@ -23,19 +25,15 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Vista Group](https://vistagroup.co.nz)** | **[Intermediate Frontend Developer](https://jobr.pro/job/41229766/intermediate-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Cape Town, Western Cape, South Africa | On Site | Jun 17 |
 | **[Jobs for Humanity](https://www.jobsforhumanity.com)** | **[Frontend Web Developer (Riyadh)](https://jobr.pro/job/41219208/frontend-web-developer-riyadh?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Riyadh, , Saudi Arabia | On Site | Jun 16 |
 | **[NEORIS](https://www.emis.com)** | **[Frontend Developer JS Junior](https://jobr.pro/job/41221399/frontend-developer-js-junior?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lima, Peru | On Site | Jun 16 |
-| **[Sopra Steria](https://www.soprasteria.com)** | **[Software Developer for Test Frameworks Frontend Services \[26097\]](https://jobr.pro/job/41215638/software-developer-for-test-frameworks-frontend-services-26097?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Manching, BY, Germany | On Site | Jun 16 |
 | **[CareerSwift](https://careerswift.ai)** | **[Frontend Developer (React) Junior/Mid](https://jobr.pro/job/41202154/frontend-developer-react-juniormid?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | San Francisco Office | Remote | Jun 15 |
 | **[Weekday AI](https://www.weekday.works)** | **[Frontend Developer](https://jobr.pro/job/41195842/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Mumbai, Maharashtra, India | On Site | Jun 15 |
 | **[Hyphen Connect Limited](https://hyphenconnect.ai)** | **[Web3 Frontend Developer (UX)](https://jobr.pro/job/41189443/web3-frontend-developer-ux?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | APAC | On Site | Jun 14 |
 | **[DEPT®](https://fincen.gov)** | **[Senior Frontend Developer - Design/Motion](https://jobr.pro/job/41177759/senior-frontend-developer-designmotion?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Toronto, Ontario, Canada | On Site | Jun 12 |
 | **[CareerSwift](https://careerswift.ai)** | **[Frontend Developer (React)](https://jobr.pro/job/41183959/frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | San Francisco Office | Remote | Jun 12 |
-| **[Stay22](https://stay22.com)** | **[Senior Frontend Developer - Phantom](https://jobr.pro/job/41171373/senior-frontend-developer-phantom?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Montreal HQ | Remote | Jun 11 |
-| **[Scalian](https://www.scalian.com)** | **[Frontend developer](https://jobr.pro/job/41154542/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Madrid, , Spain | Remote | Jun 11 |
-| **[Sensor Tower](https://sensortower.com)** | **[Mid/Senior Frontend Developer](https://jobr.pro/job/41155001/midsenior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Warsaw, Poland | Remote | Jun 11 |
 
 ---
 
-**Current Stats:** 19 jobs | 58% remote | 18 companies | Avg salary: 125k  
+**Current Stats:** 17 jobs | 53% remote | 16 companies | Avg salary: 125k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, vue  
