@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 17, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 18, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Frontend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,7 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
-| **[Endava](https://www.endava.com)** | **[Senior Frontend Vue.js Developer](https://jobr.pro/job/41240176/senior-frontend-vuejs-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Bogotá, BOGOTA D.C., Colombia | Remote | Jun 17 |
+| **[Endava](https://www.endava.com)** | **[Senior Frontend Vue.js Developer](https://jobr.pro/job/41245048/senior-frontend-vuejs-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Medellín, Antioquia, Colombia | Remote | Jun 17 |
+| **[OnHires](https://onhires.com)** | **[Senior Frontend Developer (React & React Native)](https://jobr.pro/job/41242994/senior-frontend-developer-react-react-native?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Ukraine | Remote | Jun 17 |
 | **[HighLevel](https://gohighlevel.com)** | **[Software Development Engineer II - Calendars (Frontend)](https://jobr.pro/job/41234331/software-development-engineer-ii-calendars-frontend?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India | Remote | Jun 17 |
 | **[Talan](https://www.talan.com)** | **[Frontend Senior Developer (AI‑Native)](https://jobr.pro/job/41232094/frontend-senior-developer-ainative?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Córdoba, Córdoba Province, Argentina | Remote | Jun 17 |
 | **[Flyte Solutions Ltd](https://www.flytesolutions.com)** | **[UI/UX Designer & React Frontend Developer](https://jobr.pro/job/41229871/uiux-designer-react-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Dhaka, , Bangladesh | On Site | Jun 17 |
@@ -32,11 +33,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Scalian](https://www.scalian.com)** | **[Frontend developer](https://jobr.pro/job/41154542/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Madrid, , Spain | Remote | Jun 11 |
 | **[Sensor Tower](https://sensortower.com)** | **[Mid/Senior Frontend Developer](https://jobr.pro/job/41155001/midsenior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Warsaw, Poland | Remote | Jun 11 |
 | **[DEPT®](https://fincen.gov)** | **[Frontend Developer](https://jobr.pro/job/41149150/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Amsterdam, Roterdam | On Site | Jun 11 |
-| **[Up Hellas](http://uphellas.gr)** | **[Frontend Developer](https://jobr.pro/job/41152728/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Athens, Attica, Greece | On Site | Jun 11 |
 
 ---
 
-**Current Stats:** 20 jobs | 50% remote | 18 companies | Avg salary: 125k  
+**Current Stats:** 20 jobs | 55% remote | 18 companies | Avg salary: 125k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, vue  
