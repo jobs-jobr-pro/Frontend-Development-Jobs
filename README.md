@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 19, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 19, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Frontend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[BEES](https://www.beeslighting.com)** | **[Senior Frontend Developer (React/Typescript)](https://jobr.pro/job/41275399/senior-frontend-developer-reacttypescript?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Campinas, São Paulo, Brazil | On Site | Jun 18 |
+| **[AB InBev \| Growth Group](https://www.abinbev.com)** | **[Senior Frontend Developer (React/Typescript)](https://jobr.pro/job/41274754/senior-frontend-developer-reacttypescript?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Campinas, Brazil | On Site | Jun 18 |
 | **[Netcompany](https://netcompany.com)** | **[Senior Frontend Developer](https://jobr.pro/job/41259765/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Copenhagen or Aarhus, , Denmark | On Site | Jun 18 |
 | **[Atabix](https://atabix.com)** | **[Stage/Internship FrontEnd Developer](https://jobr.pro/job/41260376/stageinternship-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Amsterdam Office | Remote | Jun 18 |
 | **[Inetum](https://www.inetum.com)** | **[Frontend Developer (Aveiro)](https://jobr.pro/job/41257614/frontend-developer-aveiro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Aveiro, Aveiro District, Portugal | Remote | Jun 18 |
@@ -34,10 +36,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 18 jobs | 50% remote | 17 companies | Avg salary: 125k  
+**Current Stats:** 20 jobs | 45% remote | 19 companies | Avg salary: 125k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** react, vue  
+**Trending Skills:** react, typescript, vue  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
