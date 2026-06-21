@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 21, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 21, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Frontend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -31,11 +31,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[NEORIS](https://www.emis.com)** | **[Frontend Developer JS Junior](https://jobr.pro/job/41221399/frontend-developer-js-junior?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lima, Peru | On Site | Jun 16 |
 | **[CareerSwift](https://careerswift.ai)** | **[Frontend Developer (React) Junior/Mid](https://jobr.pro/job/41202154/frontend-developer-react-juniormid?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | San Francisco Office | Remote | Jun 15 |
 | **[Weekday AI](https://www.weekday.works)** | **[Frontend Developer](https://jobr.pro/job/41195842/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Mumbai, Maharashtra, India | On Site | Jun 15 |
-| **[Hyphen Connect Limited](https://hyphenconnect.ai)** | **[Web3 Frontend Developer (UX)](https://jobr.pro/job/41189443/web3-frontend-developer-ux?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | APAC | On Site | Jun 14 |
 
 ---
 
-**Current Stats:** 19 jobs | 42% remote | 19 companies | Avg salary: Not specified  
+**Current Stats:** 18 jobs | 44% remote | 18 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, typescript, vue  
