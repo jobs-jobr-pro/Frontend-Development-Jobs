@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 22, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 22, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **Frontend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,7 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
-| **[SearchApi](https://searchapi.io)** | **[Frontend Engineer & UI Designer (Developer Tooling)](https://jobr.pro/job/41312612/frontend-engineer-ui-designer-developer-tooling?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote - Lithuania | Remote | Jun 22 |
+| **[Plusgrade](https://plusgrade.com)** | **[Développeur·euse logiciel front-end senior // Senior frontend software developer](https://jobr.pro/job/41319289/developpeureuse-logiciel-front-end-senior-senior-frontend-software-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Montreal, Quebec | On Site | Jun 22 |
+| **[SearchApi](https://www.searchapi.io)** | **[Frontend Engineer & UI Designer (Developer Tooling)](https://jobr.pro/job/41321075/frontend-engineer-ui-designer-developer-tooling?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote - Lithuania | Remote | Jun 22 |
+| **[AND Digital](https://and.digital)** | **[Frontend Vue.js Developer (Amsterdam)](https://jobr.pro/job/41317766/frontend-vuejs-developer-amsterdam?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Amsterdam, North Holland, Netherlands | On Site | Jun 22 |
 | **[Mindrift](https://mindrift.io)** | **[Freelance Frontend Developer (Landing Pages & Websites)](https://jobr.pro/job/41301871/freelance-frontend-developer-landing-pages-websites?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Portugal | Remote | Jun 20 |
 | **[JazzWorld](https://jazz.com.pk)** | **[Frontend Development Engineer - Teknosys](https://jobr.pro/job/41284324/frontend-development-engineer-teknosys?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Islamabad, Islamabad Capital Territory, Pakistan | On Site | Jun 19 |
 | **[BEES](https://www.beeslighting.com)** | **[Senior Frontend Developer (React/Typescript)](https://jobr.pro/job/41275399/senior-frontend-developer-reacttypescript?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Campinas, São Paulo, Brazil | On Site | Jun 18 |
@@ -30,11 +32,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Vista Group](https://vistagroup.co.nz)** | **[Intermediate Frontend Developer](https://jobr.pro/job/41229766/intermediate-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Cape Town, Western Cape, South Africa | On Site | Jun 17 |
 | **[Jobs for Humanity](https://www.jobsforhumanity.com)** | **[Frontend Web Developer (Riyadh)](https://jobr.pro/job/41219208/frontend-web-developer-riyadh?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Riyadh, , Saudi Arabia | On Site | Jun 16 |
 | **[NEORIS](https://www.emis.com)** | **[Frontend Developer JS Junior](https://jobr.pro/job/41221399/frontend-developer-js-junior?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lima, Peru | On Site | Jun 16 |
-| **[CareerSwift](https://careerswift.ai)** | **[Frontend Developer (React) Junior/Mid](https://jobr.pro/job/41202154/frontend-developer-react-juniormid?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | San Francisco Office | Remote | Jun 15 |
 
 ---
 
-**Current Stats:** 18 jobs | 50% remote | 18 companies | Avg salary: Not specified  
+**Current Stats:** 19 jobs | 42% remote | 19 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, typescript, vue  
