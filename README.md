@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 24, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 24, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Frontend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -17,6 +17,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Inizio Evoke](https://www.inizioevoke.com)** | **[Frontend Developer](https://jobr.pro/job/41338815/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Gurugram, India | On Site | Jun 23 |
 | **[Encora](https://encora.com)** | **[Frontend Developer](https://jobr.pro/job/41334220/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Singapore | On Site | Jun 23 |
 | **[AppZen](https://www.appzen.com)** | **[Sr. Frontend Developer](https://jobr.pro/job/41346977/sr-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Pune | On Site | Jun 23 |
+| **[Emerging Travel Group](https://emergingtravel.com)** | **[Frontend Developer (Chrome Extension)](https://jobr.pro/job/41351522/frontend-developer-chrome-extension?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Argentina | Remote | Jun 23 |
 | **[WorldQuant](https://worldquant.com)** | **[Frontend Developer](https://jobr.pro/job/41336369/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Hanoi OR Ho Chi Minh City | On Site | Jun 22 |
 | **[Plusgrade](https://plusgrade.com)** | **[Développeur·euse logiciel front-end senior // Senior frontend software developer](https://jobr.pro/job/41319289/developpeureuse-logiciel-front-end-senior-senior-frontend-software-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Montreal, Quebec | On Site | Jun 22 |
 | **[SearchApi](https://www.searchapi.io)** | **[Frontend Engineer & UI Designer (Developer Tooling)](https://jobr.pro/job/41321075/frontend-engineer-ui-designer-developer-tooling?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote - Lithuania | Remote | Jun 22 |
@@ -32,11 +33,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Endava](https://www.endava.com)** | **[Senior Frontend Vue.js Developer](https://jobr.pro/job/41245048/senior-frontend-vuejs-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Medellín, Antioquia, Colombia | Remote | Jun 17 |
 | **[OnHires](https://onhires.com)** | **[Senior Frontend Developer (React & React Native)](https://jobr.pro/job/41242994/senior-frontend-developer-react-react-native?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Ukraine | Remote | Jun 17 |
 | **[Talan](https://www.talan.com)** | **[Frontend Senior Developer (AI‑Native)](https://jobr.pro/job/41232094/frontend-senior-developer-ainative?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Córdoba, Córdoba Province, Argentina | Remote | Jun 17 |
-| **[Flyte Solutions Ltd](https://www.flytesolutions.com)** | **[UI/UX Designer & React Frontend Developer](https://jobr.pro/job/41229871/uiux-designer-react-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Dhaka, , Bangladesh | On Site | Jun 17 |
 
 ---
 
-**Current Stats:** 20 jobs | 35% remote | 20 companies | Avg salary: Not specified  
+**Current Stats:** 20 jobs | 40% remote | 20 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, typescript, vue  
