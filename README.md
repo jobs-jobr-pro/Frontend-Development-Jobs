@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 24, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 24, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Frontend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Inetum](https://www.inetum.com)** | **[Senior Frontend Angular Developer](https://jobr.pro/job/41361249/senior-frontend-angular-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lisbon, Lisbon, Portugal | Remote | Jun 24 |
 | **[Kyivstar](https://kyivstar.ua)** | **[Frontend Developer (React)](https://jobr.pro/job/41343957/frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | All | Remote | Jun 23 |
 | **[Inizio Evoke](https://www.inizioevoke.com)** | **[Frontend Developer](https://jobr.pro/job/41338815/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Gurugram, India | On Site | Jun 23 |
 | **[Encora](https://encora.com)** | **[Frontend Developer](https://jobr.pro/job/41334220/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Singapore | On Site | Jun 23 |
@@ -32,14 +33,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[ComeOn Group](https://www.comeon-group.com)** | **[Frontend Developer](https://jobr.pro/job/41271137/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Katowice, Silesian Voivodeship, Poland | On Site | Jun 18 |
 | **[Endava](https://www.endava.com)** | **[Senior Frontend Vue.js Developer](https://jobr.pro/job/41245048/senior-frontend-vuejs-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Medellín, Antioquia, Colombia | Remote | Jun 17 |
 | **[OnHires](https://onhires.com)** | **[Senior Frontend Developer (React & React Native)](https://jobr.pro/job/41242994/senior-frontend-developer-react-react-native?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Ukraine | Remote | Jun 17 |
-| **[Talan](https://www.talan.com)** | **[Frontend Senior Developer (AI‑Native)](https://jobr.pro/job/41232094/frontend-senior-developer-ainative?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Córdoba, Córdoba Province, Argentina | Remote | Jun 17 |
 
 ---
 
 **Current Stats:** 20 jobs | 40% remote | 20 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** react, typescript, vue  
+**Trending Skills:** react, typescript, vue, angular  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
