@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 24, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 25, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Frontend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -30,12 +30,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[AB InBev \| Growth Group](https://www.abinbev.com)** | **[Senior Frontend Developer (React/Typescript)](https://jobr.pro/job/41274754/senior-frontend-developer-reacttypescript?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Campinas, Brazil | On Site | Jun 18 |
 | **[Netcompany](https://netcompany.com)** | **[Senior Frontend Developer](https://jobr.pro/job/41259765/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Copenhagen or Aarhus, , Denmark | On Site | Jun 18 |
 | **[Atabix](https://atabix.com)** | **[Stage/Internship FrontEnd Developer](https://jobr.pro/job/41260376/stageinternship-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Amsterdam Office | Remote | Jun 18 |
-| **[ComeOn Group](https://www.comeon-group.com)** | **[Frontend Developer](https://jobr.pro/job/41271137/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Katowice, Silesian Voivodeship, Poland | On Site | Jun 18 |
-| **[Endava](https://www.endava.com)** | **[Senior Frontend Vue.js Developer](https://jobr.pro/job/41245048/senior-frontend-vuejs-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Medellín, Antioquia, Colombia | Remote | Jun 17 |
 
 ---
 
-**Current Stats:** 19 jobs | 37% remote | 19 companies | Avg salary: Not specified  
+**Current Stats:** 17 jobs | 35% remote | 17 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, typescript, vue, angular  
