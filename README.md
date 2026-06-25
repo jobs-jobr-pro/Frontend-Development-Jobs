@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 25, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 25, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Frontend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -16,7 +16,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Inetum](https://www.inetum.com)** | **[Senior Frontend Angular Developer](https://jobr.pro/job/41361249/senior-frontend-angular-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lisbon, Lisbon, Portugal | Remote | Jun 24 |
 | **[Kyivstar](https://kyivstar.ua)** | **[Frontend Developer (React)](https://jobr.pro/job/41343957/frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | All | Remote | Jun 23 |
 | **[Inizio Evoke](https://www.inizioevoke.com)** | **[Frontend Developer](https://jobr.pro/job/41338815/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Gurugram, India | On Site | Jun 23 |
-| **[Encora](https://encora.com)** | **[Frontend Developer](https://jobr.pro/job/41334220/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Singapore | On Site | Jun 23 |
 | **[AppZen](https://www.appzen.com)** | **[Sr. Frontend Developer](https://jobr.pro/job/41346977/sr-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Pune | On Site | Jun 23 |
 | **[Emerging Travel Group](https://emergingtravel.com)** | **[Frontend Developer (Chrome Extension)](https://jobr.pro/job/41351522/frontend-developer-chrome-extension?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Argentina | Remote | Jun 23 |
 | **[WorldQuant](https://worldquant.com)** | **[Frontend Developer](https://jobr.pro/job/41336369/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Hanoi OR Ho Chi Minh City | On Site | Jun 22 |
@@ -33,7 +32,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 17 jobs | 35% remote | 17 companies | Avg salary: Not specified  
+**Current Stats:** 16 jobs | 38% remote | 16 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, typescript, vue, angular  
