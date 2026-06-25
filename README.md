@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 25, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 25, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **Frontend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Bosch Group](https://www.bosch.com)** | **[SW Developer - Frontend & Backend](https://jobr.pro/job/41394428/sw-developer-frontend-backend?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | hosur road bangalore, , India | On Site | Jun 25 |
+| **[HighLevel](https://gohighlevel.com)** | **[Software Development Engineer III - Opportunities Platform (Frontend)](https://jobr.pro/job/41396791/software-development-engineer-iii-opportunities-platform-frontend?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India | Remote | Jun 25 |
+| **[Capco](https://redcapacitacion.cl)** | **[React.js frontend developer](https://jobr.pro/job/41391961/reactjs-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India - Bengaluru; India - Gurugram; India - Pune | On Site | Jun 25 |
 | **[Inetum](https://www.inetum.com)** | **[Senior Frontend Angular Developer](https://jobr.pro/job/41361249/senior-frontend-angular-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lisbon, Lisbon, Portugal | Remote | Jun 24 |
 | **[Kyivstar](https://kyivstar.ua)** | **[Frontend Developer (React)](https://jobr.pro/job/41343957/frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | All | Remote | Jun 23 |
 | **[Inizio Evoke](https://www.inizioevoke.com)** | **[Frontend Developer](https://jobr.pro/job/41338815/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Gurugram, India | On Site | Jun 23 |
@@ -25,17 +28,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[AND Digital](https://and.digital)** | **[Frontend Vue.js Developer (Amsterdam)](https://jobr.pro/job/41317766/frontend-vuejs-developer-amsterdam?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Amsterdam, North Holland, Netherlands | On Site | Jun 22 |
 | **[Mindrift](https://mindrift.io)** | **[Freelance Frontend Developer (Landing Pages & Websites)](https://jobr.pro/job/41301871/freelance-frontend-developer-landing-pages-websites?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Portugal | Remote | Jun 20 |
 | **[JazzWorld](https://jazz.com.pk)** | **[Frontend Development Engineer - Teknosys](https://jobr.pro/job/41284324/frontend-development-engineer-teknosys?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Islamabad, Islamabad Capital Territory, Pakistan | On Site | Jun 19 |
-| **[BEES](https://www.beeslighting.com)** | **[Senior Frontend Developer (React/Typescript)](https://jobr.pro/job/41275399/senior-frontend-developer-reacttypescript?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Campinas, São Paulo, Brazil | On Site | Jun 18 |
-| **[AB InBev \| Growth Group](https://www.abinbev.com)** | **[Senior Frontend Developer (React/Typescript)](https://jobr.pro/job/41274754/senior-frontend-developer-reacttypescript?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Campinas, Brazil | On Site | Jun 18 |
-| **[Netcompany](https://netcompany.com)** | **[Senior Frontend Developer](https://jobr.pro/job/41259765/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Copenhagen or Aarhus, , Denmark | On Site | Jun 18 |
-| **[Atabix](https://atabix.com)** | **[Stage/Internship FrontEnd Developer](https://jobr.pro/job/41260376/stageinternship-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Amsterdam Office | Remote | Jun 18 |
 
 ---
 
-**Current Stats:** 16 jobs | 38% remote | 16 companies | Avg salary: Not specified  
+**Current Stats:** 15 jobs | 40% remote | 15 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** react, typescript, vue, angular  
+**Trending Skills:** react, vue, angular  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
