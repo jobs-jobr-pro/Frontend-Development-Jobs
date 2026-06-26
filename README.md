@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 25, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 26, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Frontend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -27,11 +27,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[SSC HR Solutions](https://ssc-hr.com)** | **[Intermediate Frontend Developer](https://jobr.pro/job/41322984/intermediate-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Cairo, Cairo Governorate, Egypt | On Site | Jun 22 |
 | **[AND Digital](https://and.digital)** | **[Frontend Vue.js Developer (Amsterdam)](https://jobr.pro/job/41317766/frontend-vuejs-developer-amsterdam?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Amsterdam, North Holland, Netherlands | On Site | Jun 22 |
 | **[Mindrift](https://mindrift.io)** | **[Freelance Frontend Developer (Landing Pages & Websites)](https://jobr.pro/job/41301871/freelance-frontend-developer-landing-pages-websites?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Portugal | Remote | Jun 20 |
-| **[JazzWorld](https://jazz.com.pk)** | **[Frontend Development Engineer - Teknosys](https://jobr.pro/job/41284324/frontend-development-engineer-teknosys?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Islamabad, Islamabad Capital Territory, Pakistan | On Site | Jun 19 |
 
 ---
 
-**Current Stats:** 15 jobs | 40% remote | 15 companies | Avg salary: Not specified  
+**Current Stats:** 14 jobs | 43% remote | 14 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, vue, angular  
