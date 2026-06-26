@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 26, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 26, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **Frontend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,7 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
-| **[Bosch Group](https://www.bosch.com)** | **[SW Developer - Frontend & Backend](https://jobr.pro/job/41394428/sw-developer-frontend-backend?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | hosur road bangalore, , India | On Site | Jun 25 |
+| **[Sopra Steria](https://www.soprasteria.com)** | **[Software Developer for Test Frameworks Frontend Services \[26097\]](https://jobr.pro/job/41427118/software-developer-for-test-frameworks-frontend-services-26097?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Manching, BY, Germany | On Site | Jun 26 |
 | **[HighLevel](https://gohighlevel.com)** | **[Software Development Engineer III - Opportunities Platform (Frontend)](https://jobr.pro/job/41396791/software-development-engineer-iii-opportunities-platform-frontend?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India | Remote | Jun 25 |
 | **[Capco](https://redcapacitacion.cl)** | **[React.js frontend developer](https://jobr.pro/job/41391961/reactjs-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India - Bengaluru; India - Gurugram; India - Pune | On Site | Jun 25 |
 | **[Inetum](https://www.inetum.com)** | **[Senior Frontend Angular Developer](https://jobr.pro/job/41361249/senior-frontend-angular-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lisbon, Lisbon, Portugal | Remote | Jun 24 |
