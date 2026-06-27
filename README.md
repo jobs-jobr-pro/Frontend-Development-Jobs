@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 27, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 27, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Frontend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Arteria AI](https://arteria.ai)** | **[Frontend Developer](https://jobr.pro/job/41438823/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Toronto, Ontario, Canada | On Site | Jun 26 |
 | **[Sopra Steria](https://www.soprasteria.com)** | **[Software Developer for Test Frameworks Frontend Services \[26097\]](https://jobr.pro/job/41427118/software-developer-for-test-frameworks-frontend-services-26097?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Manching, BY, Germany | On Site | Jun 26 |
 | **[HighLevel](https://gohighlevel.com)** | **[Software Development Engineer III - Opportunities Platform (Frontend)](https://jobr.pro/job/41396791/software-development-engineer-iii-opportunities-platform-frontend?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India | Remote | Jun 25 |
 | **[Capco](https://redcapacitacion.cl)** | **[React.js frontend developer](https://jobr.pro/job/41391961/reactjs-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India - Bengaluru; India - Gurugram; India - Pune | On Site | Jun 25 |
@@ -29,7 +30,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 13 jobs | 38% remote | 13 companies | Avg salary: Not specified  
+**Current Stats:** 14 jobs | 36% remote | 14 companies | Avg salary: 170k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, vue, angular  
