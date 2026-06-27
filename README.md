@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 27, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 27, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **Frontend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -20,7 +20,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Capco](https://redcapacitacion.cl)** | **[React.js frontend developer](https://jobr.pro/job/41391961/reactjs-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India - Bengaluru; India - Gurugram; India - Pune | On Site | Jun 25 |
 | **[Inetum](https://www.inetum.com)** | **[Senior Frontend Angular Developer](https://jobr.pro/job/41361249/senior-frontend-angular-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lisbon, Lisbon, Portugal | Remote | Jun 24 |
 | **[Kyivstar](https://kyivstar.ua)** | **[Frontend Developer (React)](https://jobr.pro/job/41343957/frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | All | Remote | Jun 23 |
-| **[Inizio Evoke](https://www.inizioevoke.com)** | **[Frontend Developer](https://jobr.pro/job/41338815/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Gurugram, India | On Site | Jun 23 |
 | **[AppZen](https://www.appzen.com)** | **[Sr. Frontend Developer](https://jobr.pro/job/41346977/sr-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Pune | On Site | Jun 23 |
 | **[Emerging Travel Group](https://emergingtravel.com)** | **[Frontend Developer (Chrome Extension)](https://jobr.pro/job/41351522/frontend-developer-chrome-extension?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Argentina | Remote | Jun 23 |
 | **[WorldQuant](https://worldquant.com)** | **[Frontend Developer](https://jobr.pro/job/41336369/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Hanoi OR Ho Chi Minh City | On Site | Jun 22 |
@@ -31,7 +30,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 15 jobs | 40% remote | 15 companies | Avg salary: 170k  
+**Current Stats:** 14 jobs | 43% remote | 14 companies | Avg salary: 170k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, vue, angular  
