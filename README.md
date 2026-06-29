@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 28, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 29, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Frontend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -25,15 +25,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[WorldQuant](https://worldquant.com)** | **[Frontend Developer](https://jobr.pro/job/41336369/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Hanoi OR Ho Chi Minh City | On Site | Jun 22 |
 | **[Plusgrade](https://plusgrade.com)** | **[Développeur·euse logiciel front-end senior // Senior frontend software developer](https://jobr.pro/job/41319289/developpeureuse-logiciel-front-end-senior-senior-frontend-software-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Montreal, Quebec | On Site | Jun 22 |
 | **[SearchApi](https://www.searchapi.io)** | **[Frontend Engineer & UI Designer (Developer Tooling)](https://jobr.pro/job/41321075/frontend-engineer-ui-designer-developer-tooling?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Remote - Lithuania | Remote | Jun 22 |
-| **[SSC HR Solutions](https://ssc-hr.com)** | **[Intermediate Frontend Developer](https://jobr.pro/job/41322984/intermediate-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Cairo, Cairo Governorate, Egypt | On Site | Jun 22 |
-| **[AND Digital](https://and.digital)** | **[Frontend Vue.js Developer (Amsterdam)](https://jobr.pro/job/41317766/frontend-vuejs-developer-amsterdam?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Amsterdam, North Holland, Netherlands | On Site | Jun 22 |
 
 ---
 
-**Current Stats:** 14 jobs | 43% remote | 14 companies | Avg salary: 170k  
+**Current Stats:** 12 jobs | 50% remote | 12 companies | Avg salary: 170k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** react, vue, angular  
+**Trending Skills:** react, angular  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
