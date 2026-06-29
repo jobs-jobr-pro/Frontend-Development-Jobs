@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 29, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 29, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Frontend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Mindrift](https://mindrift.ai)** | **[Freelance Frontend Developer (Landing Pages & Websites)](https://jobr.pro/job/41468177/freelance-frontend-developer-landing-pages-websites?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Hyderabad, Telangana, India | Remote | Jun 29 |
 | **[Arteria AI](https://arteria.ai)** | **[Frontend Developer](https://jobr.pro/job/41438823/frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Toronto, Ontario, Canada | On Site | Jun 26 |
 | **[Sopra Steria](https://www.soprasteria.com)** | **[Software Developer for Test Frameworks Frontend Services \[26097\]](https://jobr.pro/job/41427118/software-developer-for-test-frameworks-frontend-services-26097?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Manching, BY, Germany | On Site | Jun 26 |
 | **[Netguru](http://netguru.com)** | **[Frontend Developer with React - Freelance](https://jobr.pro/job/41444975/frontend-developer-with-react-freelance?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Poland | Remote | Jun 26 |
@@ -27,7 +28,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 11 jobs | 45% remote | 11 companies | Avg salary: 170k  
+**Current Stats:** 12 jobs | 50% remote | 12 companies | Avg salary: 170k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, angular  
