@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 30, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 30, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **Frontend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -13,8 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[SQLI](https://www.sqli.com)** | **[Senior Frontend Developer](https://jobr.pro/job/41500783/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Valencia, , Spain | Remote | Jun 30 |
+| **[Bosch Group](https://www.bosch.com)** | **[SW Developer - Frontend & Backend (Core Java & Angular)](https://jobr.pro/job/41499246/sw-developer-frontend-backend-core-java-angular?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | hosur road bangalore, , India | On Site | Jun 30 |
 | **[Continental](https://www.continental.com)** | **[Frontend Developer - Digital Solutions](https://jobr.pro/job/41473508/frontend-developer-digital-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lousado, Braga, Portugal | Remote | Jun 29 |
-| **[SQLI](https://www.sqli.com)** | **[Senior Frontend Developer](https://jobr.pro/job/41471409/senior-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Valencia, , Spain | Remote | Jun 29 |
 | **[Capco](https://redcapacitacion.cl)** | **[Senior Frontend Developer - React](https://jobr.pro/job/41471841/senior-frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | UK - Edinburgh | On Site | Jun 29 |
 | **[BTSE](https://btse.com)** | **[(Sr.) Frontend Developer (web3/blockchain experience preferred)- Mandarin Speaker](https://jobr.pro/job/41485479/sr-frontend-developer-web3blockchain-experience-preferred-mandarin-speaker?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | APAC | Remote | Jun 29 |
 | **[Mindrift](https://mindrift.ai)** | **[Freelance Frontend Developer (Landing Pages & Websites)](https://jobr.pro/job/41468177/freelance-frontend-developer-landing-pages-websites?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Hyderabad, Telangana, India | Remote | Jun 29 |
@@ -22,14 +23,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Sopra Steria](https://www.soprasteria.com)** | **[Software Developer for Test Frameworks Frontend Services \[26097\]](https://jobr.pro/job/41427118/software-developer-for-test-frameworks-frontend-services-26097?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Manching, BY, Germany | On Site | Jun 26 |
 | **[Netguru](http://netguru.com)** | **[Frontend Developer with React - Freelance](https://jobr.pro/job/41444975/frontend-developer-with-react-freelance?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Poland | Remote | Jun 26 |
 | **[HighLevel](https://gohighlevel.com)** | **[Software Development Engineer III - Opportunities Platform (Frontend)](https://jobr.pro/job/41396791/software-development-engineer-iii-opportunities-platform-frontend?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India | Remote | Jun 25 |
-| **[Drees & Sommer SE]()** | **[Frontend Web Developer TYPO3 Experience Required](https://jobr.pro/job/41470534/frontend-web-developer-typo3-experience-required?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Málaga, AN, Spain | On Site | Jun 25 |
 | **[Capco](https://redcapacitacion.cl)** | **[React.js frontend developer](https://jobr.pro/job/41391961/reactjs-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India - Bengaluru; India - Gurugram; India - Pune | On Site | Jun 25 |
 | **[Inetum](https://www.inetum.com)** | **[Senior Frontend Angular Developer](https://jobr.pro/job/41361249/senior-frontend-angular-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lisbon, Lisbon, Portugal | Remote | Jun 24 |
-| **[Kyivstar](https://kyivstar.ua)** | **[Frontend Developer (React)](https://jobr.pro/job/41343957/frontend-developer-react?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | All | Remote | Jun 23 |
 
 ---
 
-**Current Stats:** 13 jobs | 62% remote | 12 companies | Avg salary: 170k  
+**Current Stats:** 12 jobs | 58% remote | 11 companies | Avg salary: 170k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, angular  
