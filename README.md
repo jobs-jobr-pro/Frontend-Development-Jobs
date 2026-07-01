@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Frontend Developer Jobs — 2026
 
-<sub><small>Last updated: Jun 30, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jul 01, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Frontend Developer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs).
@@ -24,11 +24,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Netguru](http://netguru.com)** | **[Frontend Developer with React - Freelance](https://jobr.pro/job/41444975/frontend-developer-with-react-freelance?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Poland | Remote | Jun 26 |
 | **[HighLevel](https://gohighlevel.com)** | **[Software Development Engineer III - Opportunities Platform (Frontend)](https://jobr.pro/job/41396791/software-development-engineer-iii-opportunities-platform-frontend?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India | Remote | Jun 25 |
 | **[Capco](https://redcapacitacion.cl)** | **[React.js frontend developer](https://jobr.pro/job/41391961/reactjs-frontend-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | India - Bengaluru; India - Gurugram; India - Pune | On Site | Jun 25 |
-| **[Inetum](https://www.inetum.com)** | **[Senior Frontend Angular Developer](https://jobr.pro/job/41361249/senior-frontend-angular-developer?utm_source=github&utm_medium=repo&utm_campaign=github-frontend-jobs)** | Lisbon, Lisbon, Portugal | Remote | Jun 24 |
 
 ---
 
-**Current Stats:** 12 jobs | 58% remote | 11 companies | Avg salary: 170k  
+**Current Stats:** 11 jobs | 55% remote | 10 companies | Avg salary: 170k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, angular  
